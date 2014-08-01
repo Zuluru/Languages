@@ -1,0 +1,6854 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Zuluru\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Greg Schmidt <admin@zuluru.org>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_MX\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "You do not have permission to access that page."
+msgstr "No tienes los permisos necesarios para ver esta página."
+
+msgid "You must login to access full site functionality."
+msgstr ""
+"Debes entrar con tu usuario y contraseña, para poder utilizar todas las "
+"funciones del sitio."
+
+msgid ""
+"Last time we tried to contact you, your email bounced. We require a valid "
+"email address as part of your profile. You must update it before proceeding."
+msgstr ""
+"Tu correo electrónico fue rechazado. Requerimos un correo electrónico valido "
+"como parte de tu perfil y debes actualizarlo antes de poder continuar."
+
+msgid ""
+"Your player profile is incomplete. You must update it before proceeding."
+msgstr ""
+"Tu perfil de jugador/a esta incompleto y debes actualizarlo antes de poder "
+"continuar."
+
+msgid ""
+"You have been invited to join a team, and must either accept or decline this "
+"invitation before proceeding. Before deciding, you have the ability to look "
+"at this team's roster, schedule, etc."
+msgstr ""
+"Has sido invitado a unirte a un equipo, debes aceptar o declinar la "
+"invitación antes de proceder. Pero antes de decidir, puedes ver el roster "
+"del equipo, sus horarios, etc."
+
+msgid "Could not find validation handler %s for %s"
+msgstr "No se pudo localizar el control de validaciones %s para %s"
+
+msgid "Disabled"
+msgstr "Deshabilitado"
+
+msgid "Enabled"
+msgstr "Habilitado"
+
+msgid "User can update"
+msgstr "El usuario puede hacer actualizaciones"
+
+msgid "Admin can update"
+msgstr "El administrador puede hacer actualizaciones"
+
+msgid "Disabled entirely"
+msgstr "Totalmente deshabilitado"
+
+msgid ""
+"Head-to-head > Head-to-head plus-minus > Plus-minus > Goals for > Losses"
+msgstr ""
+"Enfrentamientos directos >Diferencia de goles en enfretamientos directos "
+">Diferencia de goles >Goles a favor >Derrotas"
+
+msgid "Plus-minus > Head-to-head > Goals for > Losses"
+msgstr ""
+"Diferencia de goles  > Enfrentamientos directos  > Goles a favor > Derrotas"
+
+msgid ""
+"Head-to-head > Head-to-head plus-minus > Plus-minus > Goals for > Losses > "
+"Spirit"
+msgstr ""
+"Enfrentamientos directos >Diferencia de goles en enfrentamientos directos "
+">Diferencia de goles >Goles a favor >Derrotas >Espíritu"
+
+msgid ""
+"Spirit > Head-to-head > Head-to-head plus-minus > Plus-minus > Goals for > "
+"Losses"
+msgstr ""
+"Espíritu > Enfrentamientos directos> Diferencia de goles en enfrentamientos "
+"directos> Diferencia de goles> Goles a favor> Derrotas"
+
+msgid "Plus-minus > Head-to-head > Goals for > Losses > Spirit"
+msgstr ""
+"Diferencia de goles > Enfrentamientos directos > Goles a favor > Derrotas > "
+"Espíritu"
+
+msgid "Spirit > Plus-minus > Head-to-head > Goals for > Losses"
+msgstr ""
+"Espíritu > Diferencia de goles > Enfrentamientos directos > Goles a favor > "
+"Derrotas"
+
+msgid "updated."
+msgstr "Actualizado"
+
+msgid "One of the slowest"
+msgstr "Uno de los más lentos"
+
+msgid "Slower than most"
+msgstr "Más lento que la mayoría"
+
+msgid "Average speed"
+msgstr "Velocidad promedio"
+
+msgid "Faster than most"
+msgstr "Más rápido que la mayoría"
+
+msgid "One of the fastest"
+msgstr "Uno de los más rápidos"
+
+msgid "just learning, only backhand throw, no forehand"
+msgstr "novato, solo tiro de back, no flick"
+
+msgid ""
+"can make basic throws, perhaps weaker forehand, some distance and accuracy, "
+"nervous when handling the disc"
+msgstr ""
+"puedo hacer tiros básicos, flicks débiles, algo de distancia y precisión, "
+"nervioso cuando maneja el disco"
+
+msgid ""
+"basic throws (backhand and forehand), some distance and accuracy, not very "
+"consistent, somewhat intimidated when handling the disc, can handle on most "
+"lower-tier teams"
+msgstr ""
+"tiros básicos (back y flick), algo de distancia y precisión, no muy "
+"consistente en la calidad de sus tiros, un poco intimidado cuando maneja el "
+"disco, puede ser handler contra equipos de bajo nivel"
+
+msgid ""
+"good basic throws (backhand and forehand), good distance and accuracy, "
+"fairly consistent, relatively comfortable when handling disc, can handle on "
+"most lower to mid-tier teams"
+msgstr ""
+"buenos tiros básicos (back y flick), buena distancia y precisión, "
+"suficiéntemente consistente en la calidad de sus tiros, relativamente cómodo "
+"cuando maneja el disco, puede ser handler contra equipos de nivel bajo a "
+"medio"
+
+msgid ""
+"very good basic throws, know some other kinds of throws, very good distance "
+"and accuracy, usually consistent quality throws, confident when handling the "
+"disc, can handle on most mid to upper-tier teams"
+msgstr ""
+"muy buenos tiros básicos (back y flick), sabe otra clase de tiros, muy buena "
+"distancia y precisión, usualmente consistente en la calidad de sus tiros, "
+"confiable cuando maneja el disco, puede ser handler contra equipos de nivel "
+"medio a alto"
+
+msgid ""
+"all kinds of throws, excellent distance and accuracy, not prone to errors of "
+"judgment, can handle on most top-tier and lower-competitive teams"
+msgstr ""
+"toda clase de tiros, excelente distancia y precisión, no suele tener errores "
+"de juicio, puede ser handler contra equipos de nivel alto y con equipos "
+"competitivos nivel bajo"
+
+msgid ""
+"all kinds of throws, very rarely make a bad throw, excellent distance, near "
+"perfect accuracy, epitome of reliability, can handle on an elite team (mid-"
+"highly competitive team)"
+msgstr ""
+"toda clase de tiros, muy extraño que tenga un mal tiro, excelente distancia, "
+"precisión casi perfecta, muy confiable, puede ser handler contra equipos "
+"competitivos nivel medio y alto"
+
+msgid ""
+"can make basic catches if they're straight to me, still learning to judge "
+"the flight path of the disc"
+msgstr ""
+"tiene agarres básicos si el disco viene directo a mi, aprendiendo a leer el "
+"disco"
+
+msgid ""
+"can make basic catches, sometimes have difficulty judging the flight path of "
+"the disc"
+msgstr "tiene agarres básicos, a veces tiene dificultad para leer el disco"
+
+msgid ""
+"can make most catches, good at judging the flight path of the disc, not "
+"likely to attempt a layout"
+msgstr ""
+"puede agarrar la mayoría de los tiros, bueno en leer el disco, no muy "
+"propenso a volar"
+
+msgid ""
+"can catch almost everything (high, low, to the side), rarely misread the "
+"disc, will layout if necessary"
+msgstr ""
+"puede agarrar casi cualquier tiro (altos, bajos, a los lados), rara vez lee "
+"mal el disco, volaría de ser necesario"
+
+msgid ""
+"catch absolutely everything thrown towards me, and most of the swill that "
+"isn't"
+msgstr ""
+"puedo agarrar absolutamente cualquier disco, sin importar que no esté bien "
+"dirigido"
+
+msgid ""
+"understand some basics, and are learning how to read the play, no/limited "
+"experience with defense strategies"
+msgstr ""
+"entiendo lo básico y estoy aprendiendo a leer las jugadas, sin experiencia "
+"en estrategias defensivas"
+
+msgid ""
+"know the basics, but you're sometimes behind the play, learned a bit about "
+"man defense strategies"
+msgstr ""
+"conozco lo básico, pero a veces no entiendo las jugadas, se algo de "
+"estrategias defensivas en personal"
+
+msgid ""
+"can stay with the play and sometimes make the D, understand the basics of "
+"man & zone style defense strategies "
+msgstr ""
+"puedo leer la jugada y hago algunas defensas, entiendo estrategias básicas "
+"de defensa personal y de zona"
+
+msgid ""
+"can read and anticipate the play and get in position to increase the chances "
+"of make the D, comfortable with both man/zone style defense strategies"
+msgstr ""
+"puedo leer y anticipar la jugada, colocándome en la pocisión adecuada para "
+"aumentar las posibilidades de hacer defensas, cómodo con estrategias de "
+"defensa personal y de zona"
+
+msgid ""
+"always think ahead of the play and can often make the D, proficient at both "
+"man/zone style defense strategies and maybe know a few more"
+msgstr ""
+"siempre estoy un paso adelante de la jugada y a menudo hago defensas, muy "
+"buen desempeño en estrategias defensivas, personal y zona"
+
+msgid ""
+"are still learning the basic strategy, not quite sure where to go or when to "
+"cut"
+msgstr "aprendiendo estrategia básica, no muy seguro cuando y a donde cortar"
+
+msgid ""
+"have the basic idea of where/when/how cuts should be made, starting to be "
+"able to do it, basic knowledge of a stack"
+msgstr ""
+"tengo la idea básica de cuando, donde y como cortar, conocimientos básicos "
+"de stack"
+
+msgid ""
+"can make decent cuts, understand the stack, can play at least one of handler/"
+"striker/popper/etc, understand the concept of the dump & swing"
+msgstr ""
+"puedo hacer cortes decentes, entiendo el stack, puedo jugar al menos en una "
+"de las posiciones, entiendo el concepto de dump y swing"
+
+msgid ""
+"can make good cuts, can play any of handler/striker/popper/etc, comfortable "
+"handling, rarely throw away the disc or get blocked"
+msgstr ""
+"puedo hacer buenos cortes, puedo jugar cualquier posición, cómodo manejando "
+"el disco, rara vez tiro un disco o soy bloqueado"
+
+msgid ""
+"proficient cutter, experienced handler, can play any position, understand "
+"many offensive strategies"
+msgstr ""
+"cortador eficiente, tengo experiencia como handler, puedo jugar cualquier "
+"posición, entiendo muchas estrategias ofensivas"
+
+msgid "0 years"
+msgstr "novato"
+
+msgid "1-2 years"
+msgstr "1-2 años"
+
+msgid "3-5 years"
+msgstr "3-5 años"
+
+msgid "6-8 years"
+msgstr "6-8 años"
+
+msgid "9+ years"
+msgstr "+9 años"
+
+msgid "Recreational League"
+msgstr "Liga recreativa"
+
+msgid "Intermediate League or Recreational Tournament"
+msgstr "Liga intermedia o torneo recreativo"
+
+msgid "Competitive League or Intermediate Tournament"
+msgstr "Liga competitiva o torneo intermedio"
+
+msgid ""
+"Competitive Tournament (top 8 at a high-caliber tournament or bottom half at "
+"Nationals"
+msgstr "Torneo competitivo"
+
+msgid "Elite Tournament (top half at Nationals)"
+msgstr "Torneo altamente competitivo"
+
+msgid "0 nights per week"
+msgstr "0 noches por semana"
+
+msgid "1 night per week"
+msgstr "1 noche por semana"
+
+msgid "2 nights per week"
+msgstr "2 noches por semana"
+
+msgid "3 nights per week"
+msgstr "3 noches por semana"
+
+msgid "more than 3 nights per week"
+msgstr "mas de 3 noches por semana"
+
+msgid "The occasional pick-up game"
+msgstr "Pick-up games ocasionales"
+
+msgid "The occasional tournament"
+msgstr "Torneos ocasionales"
+
+msgid "1 season (e.g. Summer, Fall or Winter)"
+msgstr "1 temporada"
+
+msgid "2 seasons"
+msgstr "2 temporadas"
+
+msgid "Year-round"
+msgstr "Ciclo completo"
+
+msgid "not do much because you don't know all the rules yet "
+msgstr "no hago mucho, por que no conozco las reglas"
+
+msgid ""
+"quote what you think is the rule, and agree with the other player/captain to "
+"go with that"
+msgstr "cito algunas reglas y puedo lograr que otros jugadores las sigan"
+
+msgid ""
+"use a copy of the rules to find the exact rule that addresses the problem"
+msgstr ""
+"uso una copia del reglamento para encontrar exactamente la regla adecuada y "
+"resolver el problema"
+
+msgid "quote the exact rule from memory that addresses the problem"
+msgstr "cito perfectamente de memoria las reglas y resuelvo el problema"
+
+msgid "Invalid %s"
+msgstr "%s invalido"
+
+msgid "affiliate"
+msgstr "afiliado"
+
+msgid "The %s has been saved"
+msgstr "El %s ha sido guardado"
+
+msgid ""
+"The %s could not be saved. Please correct the errors below and try again."
+msgstr ""
+"Este %s no pudo ser guardado. Por favor corrige los errores y vuelve a "
+"intentar."
+
+msgid ""
+"The following records reference this affiliate, so it cannot be deleted."
+msgstr ""
+"Los siguientes registros hacen referencia a estos afiliados, por lo que no "
+"pueden ser eliminados."
+
+msgid "%s deleted"
+msgstr "%s eliminado"
+
+msgid "Affiliate"
+msgstr "Afiliado"
+
+msgid "%s was not deleted"
+msgstr "%s no pudo ser eliminado"
+
+msgid "person"
+msgstr "persona"
+
+msgid "Successfully removed manager"
+msgstr "El administrador ha sido removido exitosamente"
+
+msgid "Failed to remove manager!"
+msgstr "¡No se pudo eliminar el administrador!"
+
+msgid "The cache has been cleared."
+msgstr "El caché ha sido limpiado."
+
+msgid "badge"
+msgstr "logro"
+
+msgid "This badge is %s, not calculated, so it cannot be initialized."
+msgstr "Este logro es %s, no esta calculado, no puede ser inicializado."
+
+msgid "This badge has no handler."
+msgstr "Este logro no tiene manejadores."
+
+msgid "Unrecognized badge category \"%s\"."
+msgstr "Categoría de logro, no reconocida \"%s\"."
+
+msgid "Badge has been initialized, and has been awarded %d times."
+msgstr "El logro ha sido inicializado y se ha entregado %d veces."
+
+msgid "The following records reference this badge, so it cannot be deleted."
+msgstr ""
+"Los siguientes registros hacen referencia a este logro, por lo que no puede "
+"ser eliminado."
+
+msgid "Badge"
+msgstr "Logro"
+
+msgid "category"
+msgstr "categoría"
+
+msgid "The following records reference this category, so it cannot be deleted."
+msgstr ""
+"Los siguientes registros hacen referencia a esta categoría, por lo que no "
+"puede ser eliminado."
+
+msgid "Category"
+msgstr "Categoría"
+
+msgid "Contact management is disabled on this site."
+msgstr "El administrador de contactos esta deshabilitado para este sitio."
+
+msgid "contact"
+msgstr "contacto"
+
+msgid "Contact"
+msgstr "Contacto"
+
+msgid "Your message has been sent."
+msgstr "Tu mensaje ha sido enviado."
+
+msgid "Error sending email."
+msgstr "Error al mandar el correo."
+
+msgid "No contacts have been set up yet on this site."
+msgstr "No se han dado de alta contactos en este sitio."
+
+msgid "division"
+msgstr "división"
+
+msgid "This league does not have stat tracking enabled."
+msgstr "Esta liga no tiene el seguimiento de estadísticas habilitado."
+
+msgid "league"
+msgstr "liga"
+
+msgid "Successfully removed coordinator"
+msgstr "Coordinador eliminado exitosamente"
+
+msgid "Failed to remove coordinator!"
+msgstr "¡No se pudo eliminar el coordinador!"
+
+msgid "The %s have been saved"
+msgstr "El %s ha sido guardado"
+
+msgid "teams"
+msgstr "equipos"
+
+msgid "Each team must have a unique initial seed."
+msgstr "Cada equipo debe tener una siembra inicial única."
+
+msgid "Initial seeds must start at 1 and not skip any."
+msgstr "Siembra incial debe empezar en 1 y no saltarse ninguno."
+
+msgid "The following records reference this division, so it cannot be deleted."
+msgstr ""
+"Los siguientes registros hacen referencia a esta división, por lo que no "
+"pueden ser eliminados."
+
+msgid "Division"
+msgstr "División"
+
+msgid "This division has no games scheduled yet."
+msgstr "La división no tiene juegos programados."
+
+msgid "Schedule changes saved!"
+msgstr "¡Los cambios al calendario ha sido almacenados!"
+
+msgid "Cannot generate standings for a division with no schedule."
+msgstr "No se pueden crear estadísticas para una división sin horarios"
+
+msgid "This division does not support this report."
+msgstr "Esta división no soporta este tipo de reportes."
+
+msgid "There are currently no games to approve in this division."
+msgstr "Actualmente no hay juegos que aprobar para esta división."
+
+msgid "Only playoff divisions can be initialized"
+msgstr ""
+"Solamente se pueden iniciar divisiones con juegos en etapa de definición"
+
+msgid "does not have a unique affiliated team in the correct division"
+msgstr "no se cuenta con un equipo afiliado único en la división correcta"
+
+msgid "Failed to update team rating"
+msgstr "No se ha podido actualizar el rating de este equipo"
+
+msgid "Team ratings have been initialized."
+msgstr "Los ratings de este equipo han sido incializados."
+
+msgid "There are already games finalized in this pool. Unable to proceed."
+msgstr "Ya existen juegos finalizados en este pool. No se puede proceder."
+
+msgid "There are currently no dependencies to initialize in this division."
+msgstr "No existen dependencias para inicializar en esta división."
+
+msgid "Not enough teams in the division to fulfill all scheduled seeds"
+msgstr "No hay suficientes equipos en la división para completar los horarios"
+
+msgid "Failed to %s game dependency"
+msgstr "Se ha producido un error tratando de %s el juego"
+
+msgid "locate"
+msgstr "localizar"
+
+msgid "Dependencies have been %s."
+msgstr "Las dependencias han sido %s."
+
+msgid "stage"
+msgstr "etapa"
+
+msgid "There are currently no pools to delete in this stage."
+msgstr "No existen pools que borrar en esta etapa."
+
+msgid "%s were not deleted"
+msgstr "No fue eliminado %s"
+
+msgid "Pools in this stage"
+msgstr "Pools en esta etapa"
+
+msgid "All pools in this stage"
+msgstr "Todos los pools en esta etapa"
+
+msgid ""
+"You are not allowed to register for events until your account has been "
+"approved."
+msgstr ""
+"No vas a poder registrarte para cualquier evento, hasta que tu cuenta haya "
+"sido aprobada."
+
+msgid "event"
+msgstr "evento"
+
+msgid "The following records reference this event, so it cannot be deleted."
+msgstr ""
+"Los siguientes registros hacen referencia a este evento, por lo tanto no "
+"pueden ser eliminados."
+
+msgid "Event"
+msgstr "Evento"
+
+msgid "connections"
+msgstr "conecciones"
+
+msgid "year"
+msgstr "año"
+
+msgid "first season"
+msgstr "primera temporada"
+
+msgid "Unable to extract payment information from the text provided."
+msgstr ""
+"Incapaz de extraer la información de pago, a partir del texto provisto."
+
+msgid "Unable to extract valid payment information from the text provided."
+msgstr ""
+"Incapaz de extraer información de pago válida, a partir del texto provisto."
+
+msgid ""
+"A registration in this email has already been marked as paid. All "
+"registrations must be unpaid before this can proceed."
+msgstr ""
+"Un registro en este correo, ha sido marcado como pagado. Todos los registros "
+"deben estar como no pagados antes de poder proceder."
+
+msgid ""
+"A registration in this email already has an audit record, so the payment "
+"process must already have been fully handled."
+msgstr ""
+"Un registro en este correo ya cuenta con revisión, por lo tanto el proceso "
+"de pago debe haber sido atendido."
+
+msgid "facility"
+msgstr "instalaciones"
+
+msgid ""
+"You must first create at least one region for facilities to be located in."
+msgstr ""
+"Debes al menos crear una instalación por región, para que puedan ser "
+"localizadas."
+
+msgid "The following records reference this facility, so it cannot be deleted."
+msgstr ""
+"Los siguientes registros hacen referencia a estas instalaciones, por lo "
+"tanto no pueden ser eliminadas."
+
+msgid "Facility"
+msgstr "Instalaciones"
+
+msgid "The following records reference this %s, so it cannot be deleted."
+msgstr ""
+"Los siguientes registros hacen referencia a este %s, por lo tanto no pueden "
+"ser eliminados."
+
+msgid "letter"
+msgstr "carta"
+
+msgid "franchise"
+msgstr "franquicia"
+
+msgid ""
+"The following records reference this franchise, so it cannot be deleted."
+msgstr ""
+"Los siguientes registros hacen referencia a esta franquicia, por lo tanto no "
+"pueden ser eliminados."
+
+msgid "Franchise"
+msgstr "Franquicia"
+
+msgid "That team is already part of this franchise"
+msgstr "Este equipo ya es parte de una franquicia"
+
+msgid "You are not a captain, assistant captain or coach of the selected team"
+msgstr ""
+"Tu ya has sido elegido como capitán, asistente del capitán o entrenador de "
+"un equipo"
+
+msgid "The selected team has been added to this franchise"
+msgstr "El equipo seleccionado, ha sido agregado a una franquicia"
+
+msgid "Failed to add the selected team to this franchise"
+msgstr "No se pudo agregar al equipo seleccionado a una franquicia"
+
+msgid "team"
+msgstr "equipo"
+
+msgid "That team is not part of this franchise"
+msgstr "Este equipo no es parte de esta franquicia"
+
+msgid ""
+"All teams must be members of at least one franchise. Before you can remove "
+"this team from this franchise, you must first add it to another one."
+msgstr ""
+"Todos los equipos deben ser parte, al menos, de una franquicia. antes de que "
+"retires a este equipo de la franquicia, primero debes agregarlo a otra."
+
+msgid "The selected team has been removed from this franchise."
+msgstr "El equipo seleccionado ha sido eliminado de esta franquicia."
+
+msgid ""
+"As there were no other teams in the franchise, it has been deleted as well."
+msgstr ""
+"Como no existían más equipos en la franquicia, esta ha sido eliminada "
+"también."
+
+msgid ""
+"There are no other teams in the franchise, but deletion of the franchise "
+"failed."
+msgstr ""
+"No existen más equipos en esta franquicia, pero la eliminación de la "
+"franquicia ha fallado."
+
+msgid "Failed to remove the selected team from this franchise."
+msgstr "No se ha podido eliminar al equipo seleccionado, de esta franquicia."
+
+msgid "game slot"
+msgstr "Espacio de partido"
+
+msgid "You must select at least one game slot!"
+msgstr "¡Debes seleccionar al menos una casilla de partido!"
+
+msgid "Game end time of %s is before game start time of %s!"
+msgstr "¡El final del juego de %s es anterior al inicio del juego de %s!"
+
+msgid ""
+"Detected a pre-existing conflict with the game slot to be created at %s on "
+"%s at %s. Unable to continue. (There may be more conflicts; this is only the "
+"first one detected.)"
+msgstr ""
+"Hemos detectado un conflicto previo para la creación de este espacio de "
+"partido en %s en %s en %s. (Tal vez haya más conflictos; este es el primero "
+"que detectamos.)"
+
+msgid "game slots"
+msgstr "espacios para juego"
+
+msgid "You must select at least one %s!"
+msgstr "¡Debes seleccionar al menos un %s!"
+
+msgid "You must select at least one division!"
+msgstr "¡Debes seleccionar al menos una división!"
+
+msgid "This game slot has a game assigned to it and cannot be deleted."
+msgstr "Este espacio para juego ha sido asignado y no puede ser borrado."
+
+msgid "Game slot"
+msgstr "Espacio para juego"
+
+msgid "This game slot has no games associated with it."
+msgstr "Este espacio para juego no tiene ningún juego asociado a el."
+
+msgid ""
+"You can only enter scores for multiple games in \"competition\" divisions."
+msgstr ""
+"Solamente puedes reportar resultados de múltiples juegos en \"competencia\" "
+"divisiones."
+
+msgid "Games in this slot have already been finalized."
+msgstr "Los juegos en este espacio ya han finalizado."
+
+msgid "That game has not yet occurred!"
+msgstr "¡Este juego no ha ocurrido!"
+
+msgid "incident data"
+msgstr "dato incidental"
+
+msgid "Scores have been saved and game results posted."
+msgstr "El resultado ha sido almacenado y el resultado del juego anunciado."
+
+msgid "Your incident report details have been sent for handling."
+msgstr "El reporte del incidente ha sido enviado."
+
+msgid ""
+"There was an error sending your incident report details. Please send them to "
+"%s to ensure proper handling."
+msgstr ""
+"Hubo un error tratando de enviar los detalles del reporte de incidente. Por "
+"favor envíalos a %s para asegurar que serán revisados."
+
+msgid "scores"
+msgstr "resultados"
+
+msgid "game"
+msgstr "juego"
+
+msgid "You do not have permission to edit that game."
+msgstr "No tienes permisos para editar ese juego."
+
+msgid "score details"
+msgstr "detalles de los resultados"
+
+msgid "Failed to save the score details!"
+msgstr "¡No se pudieron guardar los detalles de los resultados!"
+
+msgid "Invalid score detail id"
+msgstr "Identificación inválida de los detalles de los resultados"
+
+msgid "Failed to delete %s"
+msgstr "No se pudo borrar %s"
+
+msgid "score detail"
+msgstr "detalle del marcador"
+
+msgid "You are not on the roster of a team playing in this game."
+msgstr "No estás en el roster de un equipo que participa en este juego."
+
+msgid "You are not allowed to edit that %s."
+msgstr "No tienes permitido editar esa %s. "
+
+msgid "note"
+msgstr "nota"
+
+msgid "The %s has been deleted"
+msgstr "El %s ha sido borrado"
+
+msgid "Note"
+msgstr "Nota"
+
+msgid "You entered no text, so no note was added."
+msgstr "No has escrito nada, ninguna nota fue agregada."
+
+msgid "You can only delete notes that you created."
+msgstr "Solo puedes borrar notas que tú has creado."
+
+msgid ""
+"If you are absolutely sure that you want to delete it anyway, %s. <b>This "
+"cannot be undone!</b>"
+msgstr ""
+"Si estas absolutamente seguro de que deseas borrarlo de todas maneras, %s. "
+"<b>¡Esto no podrá ser revertido!</b>"
+
+msgid "click here"
+msgstr "selecciona aquí"
+
+msgid "Game"
+msgstr "Juego"
+
+msgid "Game was deleted, but ratings were not reset"
+msgstr "El juego ha sido borrado pero las calificaciones no se restablecieron"
+
+msgid "Game was deleted, but game slot was not cleared"
+msgstr "El juego ha sido borrado pero el espacio para juego no fue despejado"
+
+msgid "That team is not playing in this game."
+msgstr "Ese equipo no está jugando este juego."
+
+msgid "That team does not have attendance tracking enabled."
+msgstr "Ese equipo no tiene control de asistencia habilitado."
+
+msgid "player"
+msgstr "jugador/a"
+
+msgid "That person does not have an attendance record for this game."
+msgstr "Esa persona no tiene registro de asistencia para este juego."
+
+msgid "That person is not on this team."
+msgstr "Esa persona no está en este equipo."
+
+msgid "The authorization code is invalid."
+msgstr "El código de autorización es inválido."
+
+msgid "You are not allowed to change this attendance record."
+msgstr "No tienes permitido cambiar este registro de asistencia."
+
+msgid ""
+"That is not currently a valid attendance status for this player for this "
+"game."
+msgstr ""
+"Actualmente eso no es un estado de asistencia válido para este jugador en "
+"este juego."
+
+msgid "Failed to update the attendance status!"
+msgstr "¡No pudo ser actualizado el estado de asistencia!"
+
+msgid "Failed to update the attendance comment!"
+msgstr "¡No pudo ser actualizado el comentario de asistencia!"
+
+msgid "Attendance has been updated to %s."
+msgstr "La asistencia ha sido actualizada a %s ."
+
+msgid "A captain"
+msgstr "Un capitán"
+
+msgid "Dependencies for that game have not yet been resolved!"
+msgstr "¡Dependencias para ese partido aún no se han resuelto!"
+
+msgid "That team did not play in that game!"
+msgstr "¡Ese equipo no jugó ese juego!"
+
+msgid "The score for that game has already been finalized."
+msgstr "La puntuación de ese juego ya ha sido finalizada."
+
+msgid "That team has already submitted a score for that game."
+msgstr "Ese equipo ya ha presentado una puntuación para ese juego."
+
+msgid "submitter"
+msgstr "peticionario"
+
+msgid ""
+"Someone else is currently updating the score for this game!\\n\\nIt's "
+"probably your opponent, try again right away."
+msgstr ""
+"¡Alguien más está actualizando el resultado de este juego ahora!\\n\\nPuede "
+"ser tu oponente, intenta de nuevo de inmediato."
+
+msgid ""
+"The saved score does not match yours.\\nSomeone else may have updated the "
+"score in the meantime.\\n\\nPlease refresh the page and try again."
+msgstr ""
+"El resultado guardado no coincide con la suya.\\nAlguien más puedo haber "
+"actualizado la puntuación en el intermedio.\\n\\nPor favor, actualice la "
+"página y vuelva a intentarlo."
+
+msgid ""
+"You must indicate the scoring play so that the new score can be calculated."
+msgstr ""
+"Debes indicar el resultado del juego para que el nuevo resultado pueda ser "
+"calculado."
+
+msgid "Invalid scoring play!"
+msgstr "¡Resultado del juego inválido!"
+
+msgid "There was an error updating the score.\\nPlease try again."
+msgstr ""
+"Ocurrió un error al actualizar el resultado. \\nPor favor inténtelo "
+"nuevamente."
+
+msgid "You can't decrease the score below zero."
+msgstr "No se puede bajar el resultado por debajo de cero."
+
+msgid "You must indicate the play so that the box score will be accurate."
+msgstr ""
+"Debes indicar la jugada para que los datos del cuadro de puntuación sean "
+"exactos."
+
+msgid "Invalid play!"
+msgstr "¡Juego inválido!"
+
+msgid "Game timer initialized."
+msgstr "Cronómetro de juego iniciado."
+
+msgid "recorded"
+msgstr "grabado"
+
+msgid ""
+"You have not authorized this site to tweet on your behalf. Configure this in "
+"the Profile Preferences page."
+msgstr ""
+"No ha autorizado este sitio para hacer tweet en su nombre. Configura esto en "
+"la página de tu perfil de preferencias."
+
+msgid "Your message has been tweeted."
+msgstr "Tu mensaje se ha  enviado via twitter."
+
+msgid "Failed to send the tweet."
+msgstr "Error al mandar el tweet."
+
+msgid ""
+"The opponent for that game has not been determined, so a score cannot yet be "
+"submitted."
+msgstr ""
+"No ha sido determinado un oponente para ese juego por lo que no puede cargar "
+"un resultado aún."
+
+msgid ""
+"There is already a score submitted by your team for this game. To update "
+"this, use the \"edit\" link."
+msgstr ""
+"Ya se ha cargado un resultado para tu partido. Para actualizarlo use el "
+"vínculo \"editar\"."
+
+msgid "ID for posted score does not match the saved ID."
+msgstr "El ID para el marcador anunciado no coincide con el ID guardado."
+
+msgid ""
+"There is already a spirit score submitted by your team for this game. To "
+"update this, use the \"edit\" link."
+msgstr ""
+"Ya se ha cargado un resultado de espíritu para tu partido. Para actualizarlo "
+"use el vínculo \"editar\"."
+
+msgid "ID for posted spirit score does not match the saved ID."
+msgstr ""
+"El ID para el resultado de espíritu anunciado no coincide con el ID guardado."
+
+msgid "You have tried to perform an invalid all-star nomination."
+msgstr "Has intentado realizar una nominación inválida de estrellas."
+
+msgid "a win for your team"
+msgstr "una victoria para tu equipo"
+
+msgid "a default loss for your team"
+msgstr "una pérdida por inasistencia para tu equipo"
+
+msgid "a %s-%s loss for your team"
+msgstr "una pérdida por %s-%s para tu equipo."
+
+msgid "a loss for your team"
+msgstr "una pérdida para tu equipo"
+
+msgid "a default win for your team"
+msgstr "una victoria por inasistencia para tu equipo"
+
+msgid "a %s-%s win for your team"
+msgstr "una victoria por %s-%s para tu equipo"
+
+msgid "a tie"
+msgstr "empate"
+
+msgid "a %s-%s tie"
+msgstr "empate por %s-%s"
+
+msgid ""
+"This score has been saved. Once your opponent has entered their score, it "
+"will be officially posted.<br/><br/>The score you have submitted indicates "
+"that this game was %s. If this is incorrect, you can edit the score to "
+"correct it."
+msgstr ""
+"Este marcador se ha guardado. Una vez que tu oponente introduzca su "
+"marcador, será anunciado oficialmente.<br/><br/>El marcador que cargaste "
+"indica que este fue un juego %s. Si esto es incorrecto, puedes editar el "
+"marcador para corregirlo. "
+
+msgid ""
+"This score agrees with the score submitted by your opponent. It will now be "
+"posted as an official game result."
+msgstr ""
+"Este marcador coincide con el marcador cargado por tu oponente. Ahora será "
+"anunciado como resultado oficial del juego."
+
+msgid "game results"
+msgstr "resultados del juego"
+
+msgid "You must provide a team ID."
+msgstr "Debes proveer el ID de tu equipo."
+
+msgid "That league does not have stat tracking enabled!"
+msgstr "¡Esa liga no tiene seguimiento de estadísticas habilitado!"
+
+msgid "You must submit a score for this game before you can submit stats."
+msgstr "Debes cargar un marcador antes de que puedas cargar las estadísticas."
+
+msgid "Failed to delete previously saved %s"
+msgstr "No se pudo borrar el %s guardado anteriormente"
+
+msgid "stats"
+msgstr "estadísticas"
+
+msgid "The previously saved %s have been removed."
+msgstr "El %s guardado anteriormente ha sido borrado."
+
+msgid ""
+"You did not submit any stats. You can return to complete this at any time."
+msgstr ""
+"No cargaste las estadísticas. Puedes volver para completarlas en cualquier "
+"momento."
+
+msgid "Game has already been finalized."
+msgstr "El juego se ha finalizado."
+
+msgid ""
+"This score doesn't agree with the one your opponent submitted. Because of "
+"this, the score will not be posted until your coordinator approves it. "
+"Alternately, whichever captain made an error can edit their submission."
+msgstr ""
+"Este marcador no coincide con el de tu oponente. Por esto, no se anunciará "
+"el marcador hasta que el coordinador lo apruebe. De otra manera, cualquiera "
+"de los capitanes que haya cometido un error puede editarlo."
+
+msgid "No score entry found for either team; cannot finalize this game."
+msgstr ""
+"No se encontró ninguna entrada de marcador de ningún equipo; el juego no "
+"puede finalizarse."
+
+msgid "Could not successfully save game results."
+msgstr "No se pudieron guardar los resultados del juego con éxito."
+
+msgid "This game has not yet started."
+msgstr "Este juego no ha empezado todavía."
+
+msgid "No stats have been entered for this game."
+msgstr "No se han ingresado estadísticas para este juego."
+
+msgid "The holiday has been saved"
+msgstr "El festivo ha sido guardado"
+
+msgid "The holiday could not be saved. Please, try again."
+msgstr ""
+"La festividad no ha podido ser guardada. Por favor, inténtalo de nuevo."
+
+msgid "Invalid holiday"
+msgstr "Día festivo no valido"
+
+msgid "Invalid id for holiday"
+msgstr "Identificación invalida para festividad"
+
+msgid "Holiday deleted"
+msgstr "Festividad borrada"
+
+msgid "Holiday was not deleted"
+msgstr "La festividad no ha sido borrada"
+
+msgid "The following records reference this league, so it cannot be deleted."
+msgstr ""
+"El registro hace referencia a una liga, por lo tanto no puede ser borrado."
+
+msgid "League"
+msgstr "Liga"
+
+msgid "This league has no divisions yet."
+msgstr "Esta liga no tiene divisiones todavía."
+
+msgid "This league has no games scheduled yet."
+msgstr "Esta liga todavía no tiene juegos programados. "
+
+msgid "Cannot generate standings for a league with no schedule."
+msgstr "No puede generar una clasificación para una liga sin programación. "
+
+msgid "mailing list"
+msgstr "lista de envío"
+
+msgid "Failed to parse the rule"
+msgstr "No se pudo entender la regla"
+
+msgid ""
+"The syntax of the mailing list rule is valid, but it is not possible to "
+"build a query which will return the expected results. See the \"rules engine"
+"\" help for suggestions."
+msgstr ""
+"La sintaxis de la regla de la lista de envío es válida pero no es posible "
+"construir una consulta que devuelva los resultados esperados. Vea la Ayuda "
+"\"rules engine\" para obtener sugerencias."
+
+msgid ""
+"The following records reference this mailing list, so it cannot be deleted."
+msgstr ""
+"Los siguientes registros hacen referencia a esta lista de envío por lo que "
+"no pueden ser borrados. "
+
+msgid "Mailing list"
+msgstr "Lista de envío"
+
+msgid "You are not subscribed to this mailing list."
+msgstr "No estas suscrito a esta lista de envío."
+
+msgid ""
+"You have successfully unsubscribed from this mailing list. Note that you may "
+"still be on other mailing lists for this site, and some emails (e.g. roster, "
+"attendance and score reminders) cannot be opted out of."
+msgstr ""
+"Ha sido borrado de esta lista de envio. Nota que puedes seguir en otras "
+"listas de este sitio y algunos correos (ej. recordatorios de roster, "
+"asistencia y resultados) de los cuales no ha decidido salir."
+
+msgid ""
+"There was an error unsubscribing you from this mailing list. Please try "
+"again soon, or contact your system administrator."
+msgstr ""
+"Hubo un error al intentar sacarte de la lista de correos. Por favor trata de "
+"nuevo pronto o contacta al administrador del sistema."
+
+msgid "That %s has not yet been laid out."
+msgstr "Esos % s aún no se ha trazado."
+
+msgid "%s layout"
+msgstr "%s trazado"
+
+msgid ""
+"Before using the layout editor, you must set the default latitude and "
+"longitude for your organization."
+msgstr ""
+"Antes de usar el editor de trazos, debes definir la latitud y longitud para "
+"tu organización."
+
+msgid "newsletter"
+msgstr "boletín informativo"
+
+msgid ""
+"The following records reference this newsletter, so it cannot be deleted."
+msgstr ""
+"El siguiente registro hace referencia a este boletín informativo, por lo que "
+"no puede ser borrado."
+
+msgid "Newsletter"
+msgstr "Boletín Informativo"
+
+msgid "Finished sending newsletters"
+msgstr "Hemos terminado de mandar el boletín informativo"
+
+msgid "End date cannot precede start date"
+msgstr "La fecha de finalización no puede preceder a la fecha de inicio"
+
+msgid "You must select at least one affiliate that you are interested in."
+msgstr "Debes elegir al menos una afiliación en la cual estés interesado."
+
+msgid "You must select an affiliate that you are interested in."
+msgstr "Debes elegir una afiliación en la cual estés interesado."
+
+msgid "Your profile has been saved"
+msgstr "Tu perfil ha sido guardado"
+
+msgid "account"
+msgstr "cuenta"
+
+msgid ""
+"This person does not yet have a Drupal account, and so cannot be edited."
+msgstr ""
+"Esta persona no tiene aún una cuenta en Drupal por lo que no puede ser "
+"editado."
+
+msgid "You do not have a note on that %s."
+msgstr "No tienes una nota en esa %s."
+
+msgid "preferences"
+msgstr "preferencias"
+
+msgid "Failed to save your preferences"
+msgstr "No se pudieron guardar tus preferencias"
+
+msgid "You can't add yourself as a relative!"
+msgstr "¡No puedes agregarte a ti mismo como familiar!"
+
+msgid "Error sending email to %s."
+msgstr "Error al enviar el correo electrónico a %s."
+
+msgid "This person does not have an outstanding relative request for you."
+msgstr ""
+"Esta persona no tiene una solicitud sobresaliente de familiares para ti."
+
+msgid "You are not allowed to approve this relative request."
+msgstr "Tu no puedes permitido aprobar esta solicitud de familiares."
+
+msgid "Failed to approve the relative request!"
+msgstr "¡No has podido aprobar la solicitud de familiares!"
+
+msgid "Approved the relative request."
+msgstr "Solicitud de familiares ha sido aprobada."
+
+msgid "team captains."
+msgstr "capitanes del equipo."
+
+msgid "This person is already not related to you."
+msgstr "Esta persona no esta relacionada contigo."
+
+msgid "You are not allowed to remove this relation."
+msgstr "No estas autorizado para quitar esta relación."
+
+msgid "Failed to remove the relation!"
+msgstr "¡Error al quitar la relación!"
+
+msgid "Removed the relation."
+msgstr "Relación removida."
+
+msgid ""
+"The oauth token you started with doesn't match the one you've been "
+"redirected with. Do you have multiple tabs open?"
+msgstr ""
+"La ficha Oauth con la que comenzaste no concuerda con el que fue redirigido. "
+"¿Tiene más de una pestaña abierta?"
+
+msgid ""
+"The oauth verifier is missing so we cannot continue. Did you deny the "
+"application access?"
+msgstr ""
+"No podemos localizar el verificador Oauth, por lo tanto no podemos "
+"continuar. ¿Le negaste la autorización a la aplicación?"
+
+msgid ""
+"Your Twitter authorization has been completed. You can always revoke this at "
+"any time through the preferences page."
+msgstr ""
+"La autorización de tu Twitter ha sido completada. La puedes revocar en "
+"cualquier momento a través de la página de preferencias."
+
+msgid "Twitter authorization was received, but the database failed to update."
+msgstr ""
+"La autorización de Twitter se ha recibido, pero no hemos podido actualizar "
+"la base de datos."
+
+msgid "There was an error communicating with Twitter."
+msgstr "Hubo un error al comunicarnos con Twitter."
+
+msgid "The callback was not confirmed by Twitter so we cannot continue."
+msgstr ""
+"El llamado no fue confirmado por Twitter, por lo que no podemos continuar."
+
+msgid ""
+"Your Twitter authorization has been revoked. You can always re-authorize at "
+"any time through the preferences page."
+msgstr ""
+"Tu autorización de Twitter ha sido revocada. Puedes volver a autorizar en "
+"cualquier momento a través de la página de preferencias."
+
+msgid "Failed to revoke your Twitter authorization."
+msgstr "No hemos podido revocar tu autorización de Twitter."
+
+msgid "Uploading of photos is disabled on this site."
+msgstr "La opción para subir fotos a este sitio ha sido deshabilitada."
+
+msgid "Your temp folder %s does not exist or is not writable."
+msgstr "El folder temporal %s no existe o no es editable."
+
+msgid ""
+"This system does not appear to be properly configured for photo uploads. "
+"Please contact your administrator to have them correct this."
+msgstr ""
+"Este sistema no ha sido configurado correctamente para subir fotografías. "
+"Por favor contacta al administrador para corregir esto."
+
+msgid "Your uploads folder %s does not exist or is not writable."
+msgstr "Tu carpeta para cargar no existe o no es editable."
+
+msgid "There was an unexpected error uploading the file. Please try again."
+msgstr ""
+"Ha habido un error inesperado al cargar este archivo. Por favor intentelo "
+"otra vez."
+
+msgid "The selected photo is too large. Photos must be less than %s."
+msgstr ""
+"La  fotografía que ha seleccionado es muy pesada. La fotografía tiene que "
+"ser menor a %s."
+
+msgid "You must select a photo to upload"
+msgstr "Debes seleccionar una fotografía para cargar"
+
+msgid "Unexpected error uploading the file"
+msgstr "Error inesperado al cargar el archivo"
+
+msgid "The %s has been saved, but will not be visible until approved"
+msgstr "La %s ha sido guardado, pero no será visible hasta ser aprobada"
+
+msgid "photo"
+msgstr "fotografía"
+
+msgid "Approval of photos is not required on this site."
+msgstr "Para este sitio no se requiere la aprobación de las fotografías."
+
+msgid "There are no photos to approve."
+msgstr "No hay fotografías para aprobar."
+
+msgid "Error sending email to %s"
+msgstr "Error al mandar un correo electrónico a %s"
+
+msgid "Document management is disabled on this site."
+msgstr "El administrador de documentos no ha sido habilitado en este sitio."
+
+msgid "document"
+msgstr "documento"
+
+msgid "You do not have permission to access this document."
+msgstr "No tiene autorización para acceder a este documento."
+
+msgid ""
+"This system does not appear to be properly configured for document uploads. "
+"Please contact your administrator to have them correct this."
+msgstr ""
+"Aparentemente este sistema no está configurado para subir documentos. Por "
+"favor ponte en contacto con tu administrador para que pueda corregir esto. "
+
+msgid "The selected document is too large. Documents must be less than %s."
+msgstr ""
+"El archivo seleccionado es muy grande. Los archivos deben ser menores a %s."
+
+msgid "You must select a document to upload"
+msgstr "Debes seleccionar un documento para subir"
+
+msgid "Document saved, you will receive an email when it has been approved"
+msgstr ""
+"Archivo guardado. Recibirás una notificación cuando haya sido aprobado."
+
+msgid "Failed to save your document"
+msgstr "No se ha podido guardar tu archivo"
+
+msgid "There are no documents to approve."
+msgstr "No hay archivos para aprobar."
+
+msgid "Approved %s"
+msgstr "%s aprobado"
+
+msgid "Failed to approve the document"
+msgstr "No se ha podido aprobar tu archivo"
+
+msgid "Updated %s"
+msgstr "%s actualizado"
+
+msgid "Failed to update the document"
+msgstr "No hemos podido actualizar el archivo"
+
+msgid "You must select an badge!"
+msgstr "¡Debes seleccionar una insignia!"
+
+msgid "Inactive %s"
+msgstr "%s inactivo"
+
+msgid "This badge must be earned, not granted."
+msgstr "Esta insignia debe ser ganada y no concedido."
+
+msgid "This player already has this badge"
+msgstr "Este jugador/a ya tiene esta insignia"
+
+msgid "This player has already been nominated for this badge"
+msgstr "Este jugador/a ya fue nominado para esta insignia"
+
+msgid "The badge has been assigned"
+msgstr "La insignia fue asignada"
+
+msgid "Your nomination has been saved"
+msgstr "Tu nominación ha sido guardada"
+
+msgid "Your badge assignment could not be saved. Please, try again."
+msgstr ""
+"La insignia que asignaste no pudo ser guardada. Por favor inténtalo de nuevo."
+
+msgid "Your nomination could not be saved. Please, try again."
+msgstr "Tu nominación no pudo ser guardada. Por favor intentelo otra vez."
+
+msgid "That person is not a member of this affiliate."
+msgstr "Esta persona no es miembro de esta filial."
+
+msgid "Badges are not enabled on this site."
+msgstr "Las insignias no estan habilitadas en este sitio."
+
+msgid "There are no badges to approve."
+msgstr "No hay insignias para aprobar."
+
+msgid "This system uses "
+msgstr "Este sistema utiliza"
+
+msgid "The following records reference this person, so it cannot be deleted."
+msgstr ""
+"El siguiente registro hace referencia a esta persona, por lo que no puede "
+"ser borrado."
+
+msgid "Person"
+msgstr "Persona"
+
+msgid "You must select a disposition for this account"
+msgstr "Debes seleccionar un orden para esta cuenta"
+
+msgid "That account has already been approved"
+msgstr "Esta cuenta ya ha sido aprobada"
+
+msgid "Couldn't save new member activation"
+msgstr "No se pudo guardar la activación para el nuevo integrante"
+
+msgid "Couldn't save new member information"
+msgstr "No se pudo guardar la informacion para este nuevo integrante"
+
+msgid "This player already has a preregistration for this event"
+msgstr "Este jugador/a ya esta pre registrado para este evento"
+
+msgid "The preregistration has been saved"
+msgstr "El pre registro ha sido guardado"
+
+msgid "The preregistration could not be saved. Please, try again."
+msgstr "El pre registro no pudo ser guardado. Por favor, intentelo otra vez."
+
+msgid "You must select an event!"
+msgstr "¡Debes seleccionar un evento!"
+
+msgid "Invalid id for preregistration"
+msgstr "La identificación no es válida para el pre registro"
+
+msgid "Preregistration"
+msgstr "Pre registro"
+
+msgid "questionnaire"
+msgstr "cuestionario"
+
+msgid ""
+"The following records reference this questionnaire, so it cannot be deleted."
+msgstr ""
+"Los siguientes registros hacen referencia a este cuestionario, por lo que no "
+"se pueden eliminar."
+
+msgid "Questionnaire"
+msgstr "Cuestionario"
+
+msgid "question"
+msgstr "pregunta"
+
+msgid "The following records reference this question, so it cannot be deleted."
+msgstr ""
+"Los siguientes registros hacen referencia a esta pregunta, por lo que no "
+"pueden ser borrados."
+
+msgid "Question"
+msgstr "Pregunta"
+
+msgid "region"
+msgstr "región"
+
+msgid "The following records reference this region, so it cannot be deleted."
+msgstr ""
+"El siguiente registro hace referencia a esta región, por lo que no puede ser "
+"borrado."
+
+msgid "Region"
+msgstr "Región"
+
+msgid "Start date must be before end date!"
+msgstr "¡La fecha de inicio debe ser anterior a la fecha de conclusión!"
+
+msgid "registration"
+msgstr "registro"
+
+msgid "Your preferences have been saved and your registration confirmed."
+msgstr "Tus preferencias han sido guardadas y tu registro confirmado."
+
+msgid "Your preferences for this registration have been saved."
+msgstr "Tus preferencias para este registro han sido guardadas."
+
+msgid "You have been added to the waiting list for this event."
+msgstr "Has sido agregado a la lista de espera de este evento."
+
+msgid "Your registration for this event has been confirmed."
+msgstr "Tu registro para este evento ha sido confirmada."
+
+msgid "Failed to perform additional registration-related operations."
+msgstr ""
+"No sea han podido realizar operaciones relacionadas con el registro "
+"adicionales."
+
+msgid "You have already paid for this! Contact the office to arrange a refund."
+msgstr "¡Ya pagaste esto! Contacta a la oficina para acordar un reembolso."
+
+msgid ""
+"You have already received a refund for this. Refunded records are kept on "
+"file for accounting purposes."
+msgstr ""
+"Ya recibiste un reembolso por esto. Los registros sobre los reembolsos son "
+"archivados con fines contables."
+
+msgid "You may only unregister from events that you have registered for!"
+msgstr ""
+"¡Solo puedes anular tu registro de eventos para los que te has registrado!"
+
+msgid "Successfully unregistered from this event."
+msgstr "Has anulado exitosamente tu registro de este evento."
+
+msgid "Failed to unregister from this event!"
+msgstr "¡No hemos podido anular el registro para este evento!"
+
+msgid ""
+"Your payment was approved, but there was an error updating your payment "
+"status in the database. Contact the office to ensure that your information "
+"is updated, quoting order #<b>%s</b>, or you may not be allowed to be added "
+"to rosters, etc."
+msgstr ""
+"Tu pago ha sido aprobado, sin embargo hubo un error al actualizar el estado "
+"de tu pago en la base de datos. Ponte en contacto con la oficina para "
+"asegurarte que la información ha sido actualizada. Menciona la orden: #<b>"
+"%s</b>, de lo contrario puede que no se te permita añadirte al roster."
+
+msgid ""
+"There was an error updating the audit record in the database. Contact the "
+"office to ensure that your information is updated, quoting order #<b>%s</b>, "
+"or you may not be allowed to be added to rosters, etc."
+msgstr ""
+"Hubo un error al actualizar los registros en la base de datos de la "
+"auditoría. Contacta la oficina para asegurarte que tu información fue "
+"actualizada, menciona la orden #<b>%s</b> , de lo contrario puede ser que no "
+"se le permita ser añadido al roster."
+
+msgid ""
+"There was an error updating the payment record in the database. Contact the "
+"office to ensure that your information is updated, quoting order #<b>%s</b>, "
+"or you may not be allowed to be added to rosters, etc."
+msgstr ""
+"Hubo un error al actualizar el registro del pago en la base de datos. "
+"Contacta a la oficina para asegurarte que tu información ha sido "
+"actualizada, menciona la orden #<b>%s</b>, de lo contrario puede ser que no "
+"se le permita ser añadido al roster."
+
+msgid ""
+"There was an error updating the database. Contact the office to ensure that "
+"your information is updated, quoting order #<b>%s</b>, or you may not be "
+"allowed to be added to rosters, etc."
+msgstr ""
+"Hubo un error al actualizar la base de datos. Contacta a la oficina para "
+"asegurarte qeu tu información ha sido actualizada, menciona la orden #<b>%s</"
+"b>, de lo contrario puede ser que que no se permite ser añadido al roster."
+
+msgid "This registration is marked as %s."
+msgstr "Este registro esta marcado como %s. "
+
+msgid ""
+"This registration is already paid in full; you may need to edit it manually "
+"to mark it as paid."
+msgstr ""
+"Este registro ha sido pagado en su totalidad; es posible que necesite "
+"editarlo manualmente para marcarlo como pagado."
+
+msgid "refund"
+msgstr "reembolso"
+
+msgid "payment"
+msgstr "pago"
+
+msgid "transfer"
+msgstr "transferencia"
+
+msgid "This payment has already been fully refunded."
+msgstr "Este pago ya ha sido completamente reembolsado."
+
+msgid "Only payments can be refunded."
+msgstr "Solo los pagos pueden ser reembolsados."
+
+msgid ""
+"Failed to issue refund through online processor. Refund data was NOT saved. "
+"You can try again, or uncheck the \"Issue refund through online payment "
+"provider\" box and issue the refund manually."
+msgstr ""
+"Error al momento de hacer el reembolso via en linea. Los datos del reembolso "
+"NO fueron guardados. Puedes intentarlo de nuevo o desmarcar la casilla "
+"\"Hacer el reembolso a través del proveedor de pago vía en línea\" y "
+"tramitar el reembolso de forma manual."
+
+msgid "Only payments can be credited."
+msgstr "Solo los pagos pueden ser acreditados."
+
+msgid "credit"
+msgstr "credito"
+
+msgid "The %s could not be saved."
+msgstr "El %s no pudo ser guardado."
+
+msgid "Only payments can be transferred."
+msgstr "Solamente se pueden transferir pagos."
+
+msgid "This user has no unpaid registrations to transfer the payment to."
+msgstr ""
+"El usuario no tiene una registro sin pagar al que haya que hacerle una "
+"transferencia de pago."
+
+msgid "Transferred $%0.2f"
+msgstr "$%0.2f transferido"
+
+msgid "There are no unpaid registrations."
+msgstr "No hay registros sin pagar."
+
+msgid "There are no unused credits."
+msgstr "No hay créditos sin usar."
+
+msgid "There is nobody on the waiting list for this event."
+msgstr "No hay nadie en lista de espera para este evento."
+
+msgid "Cannot schedule games in a division with less than two teams."
+msgstr ""
+"No se pueden programar juegos en una división con menos de tres equipos."
+
+msgid "Must currently have an even number of teams in your division. "
+msgstr "Debes tener un número par de equipos en tu división."
+
+msgid "You marked %s teams to exclude, that leaves %s."
+msgstr "Has marcado que %s equipos sean excluido, esto te deja %s."
+
+msgid "Select the number of pools to add."
+msgstr "Selecciona la cantidad de  grupos a añadir."
+
+msgid "Number of teams must add up to %d."
+msgstr "El número de equipos debe sumar %d."
+
+msgid "Pool names cannot be empty."
+msgstr "Los grupos deben tener nombre."
+
+msgid "Pool names can only include letters."
+msgstr "Lo nombres de los grupos solo pueden incluir letras."
+
+msgid "Pool names can be no longer than two letters."
+msgstr "Los nombres de grupos no pueden tener más de dos letras."
+
+msgid "Pools cannot have less than 2 teams."
+msgstr "Los grupos no pueden tener menos de dos equipos."
+
+msgid "Pools cannot have more than 11 teams."
+msgstr "Los grupos no pueden tener más de 11 equipos."
+
+msgid "place teams"
+msgstr "acomoda los equipos"
+
+msgid "Invalid qualifier %s."
+msgstr "%s calificador no valido."
+
+msgid ""
+"You have selected %s and %s, but you cannot mix \"pool\"-type options with "
+"\"ordinal\"-type options; both could end up being the same team."
+msgstr ""
+"Has seleccionado %s y %s, pero no puedes mezclar las opciones de \"pool\" "
+"con las opciones \"ordinal\", ya que ambas podrían terminar siendo el mismo "
+"equipo."
+
+msgid "You must select a qualifier for each slot."
+msgstr "Debes elegir un calificador para cada espacio."
+
+msgid "You must select a unique qualifier for each slot."
+msgstr "Debes seleccionar un calificador único para cada espacio."
+
+msgid "pools"
+msgstr "grupos"
+
+msgid "Select the type of game or games to add."
+msgstr "Selecciona el tipo de juego o juegos que agregaras."
+
+msgid ""
+"Sorry, there are no %s available for your division. Check that %s have been "
+"allocated before attempting to proceed."
+msgstr ""
+"Lo sentimos, no hay %s disponibles para tu división. Verifica cuales son los "
+"%s que han sido asignados antes de continuar."
+
+msgid "Deleted games on the requested date."
+msgstr "Borra los partidos en la fecha solicitada."
+
+msgid "Deleted games from the requested pool."
+msgstr "Partidos borrados para el grupo seleccionado."
+
+msgid "Failed to delete games on the requested date."
+msgstr "No se han podido borrar los partidos para la fecha solicitada."
+
+msgid "Games rescheduled"
+msgstr "Partidos reprogramados"
+
+msgid "Games were rescheduled, but failed to clear unused slots!"
+msgstr ""
+"¡Los partidos han sido reprogramados, pero no hemos podido vaciar el espacio "
+"no usado!"
+
+msgid "%s games on the requested date."
+msgstr "Partidos %s en la fecha solicitada."
+
+msgid "Failed to %s games on the requested date."
+msgstr "No se ha podido %s los partidos en las fechas solicitadas."
+
+msgid "settings"
+msgstr "ajustes"
+
+msgid "Failed to save the settings"
+msgstr "No se han podido guardar los ajustes"
+
+msgid "task slot"
+msgstr "ranura de tarea"
+
+msgid "task"
+msgstr "tarea"
+
+msgid ""
+"The task slot(s) have been saved. You may create more similar task slots "
+"below."
+msgstr ""
+"La ranura (s) de tarea han sido guardadas. Puedes crear ranuras de tarea "
+"similares en la parte de abajo."
+
+msgid "task slot(s)"
+msgstr "ranura (s) de tarea"
+
+msgid ""
+"The following records reference this task slot, so it cannot be deleted."
+msgstr ""
+"El registro hace referencia a esta ranura de tarea, por lo tanto no puede "
+"ser borrado."
+
+msgid "Task slot"
+msgstr "Ranura de tarea"
+
+msgid "This task slot has already been assigned."
+msgstr "Esta ranura de tarea ya ha sido asignada."
+
+msgid ""
+"This person has a conflicting assignment:\\n\\n%s (%s) from %s to %s on %s"
+msgstr ""
+"Esta persona tiene un conflicto con su tarea: \\n\\n%s (%s) del %s al %s en "
+"%s "
+
+msgid "This person has a conflicting assignment: %s (%s) from %s to %s on %s"
+msgstr ""
+"Esta persona tiene un conflicto con su tarea: %s (%s)  del %s al %s  en %s."
+
+msgid "Error assigning the task slot"
+msgstr "Error al asignar la ranura de tarea"
+
+msgid "assignment"
+msgstr "tarea"
+
+msgid "This task slot has not been assigned."
+msgstr "Esta ranura de tarea no ha sido asignada."
+
+msgid "This task slot has already been approved."
+msgstr "Esta ranura de tarea ya ha sido aprobada."
+
+msgid "Error approving the task slot"
+msgstr "Error al aprobar la ranura de tarea"
+
+msgid "The %s has been approved"
+msgstr "Este %s ha sido aprobado"
+
+msgid "The following records reference this task, so it cannot be deleted."
+msgstr ""
+"El siguiente registro hace referencia a esta tarea, por lo tanto no puede "
+"ser borrado."
+
+msgid "Task"
+msgstr "Tarea"
+
+msgid "team event"
+msgstr "evento de equipo"
+
+msgid "Team event"
+msgstr "Evento de equipo"
+
+msgid "That person does not have an attendance record for this event."
+msgstr "Esta persona no tiene un record de asistencia para este evento."
+
+msgid ""
+"That is not currently a valid attendance status for this player for this "
+"event."
+msgstr ""
+"Actualmente este no es un estado válido de asistencia de este jugador/a para "
+"este evento."
+
+msgid "Shirt numbers are not enabled on this system."
+msgstr "Los numeros de playera no estan habilitados para este sistema."
+
+msgid "That player is not on this team."
+msgstr "El jugador/a no esta en este equipo."
+
+msgid "You do not have permission to set shirt numbers for this team."
+msgstr ""
+"No tienes autorización para asignar los numeros de playera para este equipo."
+
+msgid "You cannot set shirt numbers for someone not on this team."
+msgstr ""
+"No puedes poner numeros de playeras para alguien que no esta en este equipo."
+
+msgid "number"
+msgstr "numero"
+
+msgid "numbers"
+msgstr "numeros"
+
+msgid ""
+"This system creates teams through the registration process. Team creation "
+"through Zuluru is disabled. If you need a team created for some other reason "
+"(e.g. a touring team), please email "
+msgstr ""
+"Este sistema crea equipos a través de un proceso de registro. La opción para "
+"crear equipos a través de Zuluru no esta habilitada. Si necesitas crear un "
+"equipo por cualquier razón (por ejemplo un equipo para ir de gira) por favor "
+"mandanos un correo electronico."
+
+msgid "The following records reference this team, so it cannot be deleted."
+msgstr ""
+"El siguiente registro hace referencia a este equipo, por lo que no puede ser "
+"borrado."
+
+msgid "Team"
+msgstr "Equipo"
+
+msgid "Cannot move a team to a different league"
+msgstr "No puedes mover un equipo a una liga diferente"
+
+msgid "Destination division must have the same gender ratio"
+msgstr ""
+"La división de destino debe tener la misma proporción en cuanto a género"
+
+msgid "Team has been moved to %s"
+msgstr "El equipo ha sido movida a %s"
+
+msgid "Failed to move the team!"
+msgstr "¡No se ha podido mover el equipo!"
+
+msgid "No similar division found to move this team to!"
+msgstr "¡No se ha encontrado una división con las mismas características!"
+
+msgid "This team has no games scheduled yet."
+msgstr "No hay juegos programados para este equipo."
+
+msgid "The roster deadline for this division has already passed."
+msgstr "El límite para enviar el roster para esta división ya ha pasado."
+
+msgid "Failed to send invitation"
+msgstr "No se ha podido enviar la invitación"
+
+msgid "This player is not on this team."
+msgstr "Este jugador/a no esta en este equipo."
+
+msgid ""
+"A player's role on a team cannot be changed until they have been approved on "
+"the roster."
+msgstr ""
+"No se puede cambiar el rol de un jugador/a en un equipo hasta que sean "
+"aprobados en el roster."
+
+msgid "All teams must have at least one player as captain."
+msgstr "Todos los equipos deben tener al menos un jugador/a como capitán."
+
+msgid "You do not have permission to set that role."
+msgstr "No tienes autorización para acomodar esos roles."
+
+msgid "That is not a valid position."
+msgstr "Esa no es una posición válida."
+
+msgid "Changed the player's position."
+msgstr "Posición de jugador/a cambiada."
+
+msgid "Failed to change the player's position."
+msgstr "No se ha podido cambiar la posición del jugador/a."
+
+msgid "This player is already on this team."
+msgstr "Este jugador/a ya esta en este equipo."
+
+msgid "You are already on this team."
+msgstr "Ya estas en este equipo."
+
+msgid "You are not allowed to request that role."
+msgstr "No tienes permitido solicitar ese rol."
+
+msgid "This player has neither been invited nor requested to join this team."
+msgstr ""
+"Este jugador/a no ha sido invitado a este equipo y tampoco ha solicitado "
+"unirse a él."
+
+msgid "This player has already been added to the roster."
+msgstr "Este jugador/a ya ha sido añadido a este roster."
+
+msgid "You are not allowed to accept this roster %s."
+msgstr "Tu no tienes autorización para aceptar el/la %s de este roter."
+
+msgid "You have accepted this roster %s."
+msgstr "Has aceptado el/la %s de este roster."
+
+msgid "The database failed to save the acceptance of this roster %s."
+msgstr "Hubo un fallo al aceptar en la base de datos la %s de este roster."
+
+msgid "You are not allowed to decline this roster %s."
+msgstr "No tienes permitido rechazar al %s de este roster."
+
+msgid "You have declined this roster %s."
+msgstr "Has rechazado el %s de este roster."
+
+msgid "The database failed to save the removal of this roster %s."
+msgstr ""
+"La base de datos no ha podido guardar la eliminación del %s del roster."
+
+msgid "Sorry, this team is not open for new players to join."
+msgstr "Lo sentimos este equipo no tiene vacantes para nuevos jugadores."
+
+msgid "Removed the player from the team."
+msgstr "Se ha eliminado el jugador/a del equipo."
+
+msgid "Failed to remove the player from the team."
+msgstr "No hemos podido quitar al jugador/a del equipos."
+
+msgid "Failed to set player to that state."
+msgstr "No se ha podido ajustar al jugador/a a ese estado."
+
+msgid ""
+"New players must be approved by an administrator before they can be added to "
+"a team; this normally happens within one business day."
+msgstr ""
+"Los nuevos jugadores deben ser aprobados por el administrador antes de ser "
+"añadidos al equipo; esto normalmente sucede en un día hábil."
+
+msgid ""
+"This player has not yet completed their profile.  Please contact this player "
+"directly to have them complete their profile."
+msgstr ""
+"Este jugador no ha completado su perfil. Por favor ponte en contacto "
+"directamente con el jugador para que lo complete."
+
+msgid "You are not allowed to invite someone to that role."
+msgstr "No tienes la autorización para invitar a alguien para ese rol."
+
+msgid "upload type"
+msgstr "tipo de subida"
+
+msgid ""
+"The following records reference this upload type, so it cannot be deleted."
+msgstr ""
+"Los siguientes registros hacen referencia a este tipo de subida, por lo que "
+"no se pueden eliminar."
+
+msgid "Upload type"
+msgstr "Tipo de subida"
+
+msgid "You are already logged in!"
+msgstr "¡Tu sesión ya esta iniciada!"
+
+msgid "THANK YOU"
+msgstr "GRACIAS"
+
+msgid "for creating an account with %s."
+msgstr "por crear una cuenta con %s."
+
+msgid ""
+"Your account has been created. It must be approved by an administrator "
+"before you will have full access to the site. However, you can log in and "
+"start exploring right away."
+msgstr ""
+"Tu cuenta ha sido creada. Debe ser aprobada por el administrador antes de "
+"que puedas acceder completamente a ella. De todas formas puedes acceder a "
+"ella y empezar a explorar."
+
+msgid "user"
+msgstr "usuario"
+
+msgid "The password has been updated"
+msgstr "Tu clave ha sido actualizada"
+
+msgid "The password could not be updated. Please, try again."
+msgstr "Tu clave no ha posido ser actualizada. Por favor inténtalo de nuevo."
+
+msgid "You are already logged in. Use the change password form instead."
+msgstr ""
+"Ya has iniciado sesión. En lugar de esto usa la forma de cambio de clave."
+
+msgid "The provided code is not valid!"
+msgstr "¡El código proporcionado no es válido!"
+
+msgid "Your new password has been emailed to you."
+msgstr "Te hemos enviado un correo electrónico con tu clave."
+
+msgid ""
+"There was an error emailing your new password to you, please try again. If "
+"you have continued problems, please contact the office."
+msgstr ""
+"Tuvimos un problema al intentar enviarte tu clave via correo electrónico, "
+"por favor intentalo de nuevo. Si el problema persiste, por favor contacta a "
+"la oficina."
+
+msgid "No matching accounts were found!"
+msgstr "¡No se han encontrado cuentas que coincidan!"
+
+msgid "Your reset code has been emailed to you."
+msgstr "Tu codigo para reiniciar se ha enviado a tu correo."
+
+msgid ""
+"There was an error emailing the reset code to you, please try again. If you "
+"have continued problems, please contact the office."
+msgstr ""
+"Tuvimos un problema al intentar enviarte tu codigo para reiniciar tu cuenta, "
+"por favor inténtalo de nuevo. Si ese problema persiste, por favor contacta a "
+"la oficina."
+
+msgid ""
+"Multiple matching accounts were found for this email address; you will need "
+"to specify the user name."
+msgstr ""
+"Hemos encontrado cuentas que ya tienen este dirección de correo electronico; "
+"tendras que especificar tu nombre de usuario."
+
+msgid "exención"
+msgstr "exención de responsabilidad"
+
+msgid ""
+"This waiver has already been signed, so for legal reasons the text cannot be "
+"edited."
+msgstr ""
+"La exención de responsabilidad ya ha sido firmada, por lo tanto, por razones "
+"legales, el texto no puede ser modificado."
+
+msgid "The following records reference this waiver, so it cannot be deleted."
+msgstr ""
+"Los siguientes registros hacen referencia a esta exención de "
+"responsabilidad, por lo que no se pueden eliminar."
+
+msgid "Waiver"
+msgstr "Exención de responsabilidad"
+
+msgid "waiver date"
+msgstr "fecha de la exención de responsabilidad"
+
+msgid "You have already accepted this waiver"
+msgstr "Ya has aceptado esta exención de responsabilidad"
+
+msgid "Waiver signed."
+msgstr "exención de responsabilidad firmada."
+
+msgid "Failed to save the waiver."
+msgstr "No se ha podido guardar la exención de responsabilidad."
+
+msgid "Sorry, you may only proceed by agreeing to the waiver."
+msgstr ""
+"Lo sentimos, solo puedes continuar si estas de acuerdo con la exención de "
+"responsabilidad."
+
+msgid "You have already registered and paid for this event."
+msgstr "Ya estas registrado y ya pagaste para este evento."
+
+msgid "You have already been added to the waiting list for this event."
+msgstr "Ya has sido agregado a la lista de espera de este evento."
+
+msgid "You have already registered for this event, but not yet paid."
+msgstr "Ya te has registrado para este evento, pero todavía no has pagado."
+
+msgid ""
+"Your payment was not received in time, so your registration has been moved "
+"to a waiting list. If you have any questions about this, please contact the "
+"head office."
+msgstr ""
+"Tu pago no fue recibido a tiempo, por lo tanto, tu registro ha sido movido a "
+"la lista de espera. Si tienes alguna pregunta por favor contacta a la "
+"oficina principal."
+
+msgid "To complete your payment, please proceed to the %s."
+msgstr "Para completar tu pago por favor procede al %s."
+
+msgid "checkout page"
+msgstr "página de pago de salida"
+
+msgid ""
+"If you registered in error or have changed your mind about participating, "
+"you can remove this from your %s."
+msgstr ""
+"Si se ha registrado por error o ha cambiado su mente sobre participar en "
+"este evento, puede quitar esto de su %s."
+
+msgid "registration list"
+msgstr "lista de registros"
+
+msgid ""
+"This event allows multiple registrations (e.g. the same person can register "
+"teams to play on different nights)."
+msgstr ""
+"Este evento permite múltiples registros (por ejemplo, la misma persona se "
+"puede registrar con equipos diferentes en diferente diferente noches de "
+"juego)."
+
+msgid "This event is not yet open for registration."
+msgstr "Este evento todavía no esta abierto para registro."
+
+msgid "Registration for this event has closed."
+msgstr "El registro para este evento ha cerrado."
+
+msgid "This event is for the opposite gender only."
+msgstr "Este evento es solo para el sexo opuesto."
+
+msgid ""
+"This event is already full.  You may however %s to be put on a waiting list "
+"in case others drop out."
+msgstr ""
+"Este evento ya esta lleno. De cualquier manera puedes %s ser puesto en la "
+"lista de espera en caso de que alguien cancele."
+
+msgid "continue with registration"
+msgstr "continua con tu registro"
+
+msgid "You may register for this event."
+msgstr "Puedes registrarte para este evento."
+
+msgid "To register for this event, you must"
+msgstr "Para registrarse en este evento debes"
+
+msgid "You may register for this because there are no prerequisites."
+msgstr "Te puedes registrar aquí debido a que no hay prerequisitos."
+
+msgid "Team Details"
+msgstr "Detalles del equipo"
+
+msgid "Team Name"
+msgstr "Nombre del equipo"
+
+msgid "The full name of your team."
+msgstr "Nombre completo del equipo."
+
+msgid "Shirt Colour"
+msgstr "Color de playera"
+
+msgid ""
+"Shirt colour of your team. If you don't have team shirts, pick 'light' or "
+"'dark'."
+msgstr ""
+"Color de playera de tu equipo, en caso de no tener una playera de equipo "
+"elige 'claro' u 'oscuro'."
+
+msgid "Team ID"
+msgstr "Identificación del equipo"
+
+msgid ""
+"This MUST be the same franchise that the regular-season team belongs to, or "
+"you will NOT be able to correctly set up your roster."
+msgstr ""
+"Esta DEBE ser la misma franquicia a la que el equipo de la tempora regular "
+"pertenece, de lo contrario NO podrás establecer tu roster."
+
+msgid "Create a new franchise"
+msgstr "Crear una nueva franquicia"
+
+msgid "You may also choose to start a new franchise."
+msgstr "También puedes elegir crear una nueva franquicia."
+
+msgid ""
+"Select an existing franchise to add this team to. %s You can only add teams "
+"to franchises you own; if you don't own the franchise this team should be "
+"added to, have the owner transfer ownership to you before registering this "
+"team."
+msgstr ""
+"Selecciona una franquisia existente para poder agregar este equipo. %s "
+"Solamente puedes agregar equipos a franquisias de las cuales seas dueño; si "
+"no eres el dueño, debes solicitar una transferencia de propiedad antes de "
+"registrar al equipo"
+
+msgid "Region Preference"
+msgstr "Preferencias de región"
+
+msgid "Area of city where you would prefer to play."
+msgstr "Area de la ciudad donde preferirías jugar"
+
+msgid "Open Roster"
+msgstr "Roster abierto"
+
+msgid ""
+"If the team roster is open, others can request to join; otherwise, only the "
+"captain can add players."
+msgstr ""
+"Si el roster es abierto, otros jugadores podrían solicitar unirse a tu "
+"equipo; de otra forma el capitán es el que agrega los jugadores"
+
+msgid "Attendance Tracking"
+msgstr "Registro de asistencia"
+
+msgid "Would you like to enable attendance tracking for this team?"
+msgstr "¿Quieres habilitar el registro de asistencia para este equipo?"
+
+msgid "There are insufficient %s available to support the requested schedule."
+msgstr "No hay suficientes %s disponibles para soportar el horario solicitado"
+
+msgid ""
+"A game slot chosen for this schedule has been allocated elsewhere in the "
+"interim. Please try again."
+msgstr ""
+"Una ranura de juego elegido para este horario ha sido asignado en otro "
+"lugar. Por favor, inténtelo de nuevo."
+
+msgid "Must have two teams"
+msgstr "Debe haber dos equipos"
+
+msgid ""
+"There are insufficient game slots available to complete this schedule. Check "
+"the %s for details."
+msgstr ""
+"No existen suficientes ranuras de juego disponibles para completar este "
+"calendario. Revisa %s para mas detalles."
+
+msgid "%s Availability Report"
+msgstr "Reporte de disponibilidad de %s"
+
+msgid ""
+"The number of games before two teams can be scheduled to play each other "
+"again."
+msgstr ""
+"El númerode juegos previos, antes de que estos equipos puedan jugar otra vez "
+"uno contra el otro."
+
+msgid "single blank, unscheduled game (2 teams, one %s)"
+msgstr "espacio en blanco, juego no asignado (2 equipos, uno %s)"
+
+msgid "Must have even number of teams"
+msgstr "Debe existir un número par de equipos"
+
+msgid "New games will be scheduled in this round by default."
+msgstr "Nuevos partidos serán calendarizados para esta ronda automaticamente."
+
+msgid ""
+"Need %s weeks of gameslots, yet only %s are available. Add more gameslots."
+msgstr ""
+"Semanas necesarias %s de ranuras de juego, solo %s están disponibles aún. "
+"Agrega mas ranuras de juego. "
+
+msgid "Had to stop with %s sets left to schedule: could not assign %s"
+msgstr ""
+"Tiene que detener con %s encuentros pendientes por asignarse al horario: no "
+"se puede asignar %s"
+
+msgid "Had to stop with %s sets left to schedule: no more game dates available"
+msgstr ""
+"Tiene que detener con %s encuentros pendientes por asignarse al horario: no "
+"hay mas fechas disponibles"
+
+msgid "Duplicate game id, check the scheduling algorithm"
+msgstr ""
+"Identificadore del juego duplicado, revisa el algoritmo para generar el "
+"horario"
+
+msgid "Unknown home dependency type \"%s\""
+msgstr "Dependencia de local desconocida tipo \"%s\""
+
+msgid "Unknown away dependency type \"%s\""
+msgstr "Dependencia de visitante desconocida tipo \"%s\""
+
+msgid "Couldn't get a slot ID: date %s, round %s"
+msgstr "No se puede obtener el identificador de la ranura: fecha %s, round %s"
+
+msgid "Couldn't get a slot ID: date %s, time %s, round %s"
+msgstr ""
+"No se puede obtener el identificador de la ranura: fecha %s, hora %s, round "
+"%s"
+
+msgid ""
+"A game dependency was not resolved before saving the game. Check the "
+"scheduling algorithm."
+msgstr ""
+"Una dependencia no fue resuelta antes de salvar el juego. Revisa el "
+"algoritmo para generar el horario."
+
+msgid ""
+"There is currently a %s in progress. If unsuccessful, it will expire in 15 "
+"minutes."
+msgstr ""
+"Actualmente hay un %s en progreso. Si es incorrecto, expirará en 15 minutos."
+
+msgid " AND "
+msgstr " Y "
+
+msgid "have a %s"
+msgstr "tiene un %s"
+
+msgid "less than"
+msgstr "menos que"
+
+msgid "less than or equal to"
+msgstr "menos que o igual a"
+
+msgid "greater than"
+msgstr "mayor que"
+
+msgid "greater than or equal to"
+msgstr "mayor que o igual a"
+
+msgid "of"
+msgstr "de"
+
+msgid "NOT "
+msgstr "NO"
+
+msgid "have the document"
+msgstr "tiene el documento"
+
+msgid "have a team count"
+msgstr "tiene una cuenta de equipo"
+
+msgid " OR "
+msgstr " O "
+
+msgid "have previously registered for the"
+msgstr "se ha registrado previamente para"
+
+msgid "or"
+msgstr "o"
+
+msgid "Registered"
+msgstr "Registrado"
+
+msgid "have signed the waiver"
+msgstr "ha firmado la exención de responsabilidad"
+
+msgid "does not have a unique affiliated team in the correct league"
+msgstr "no existe un único equipo afiliado en la liga correcta"
+
+msgid ""
+"is already on the roster for another team which is in the playoffs for the "
+"same night. A player can only participate in a given night's playoffs with a "
+"single team"
+msgstr ""
+"ya se encuentra en el roster para otro equipo que juega finales en la misma "
+"fecha. Un jugador sólo puede participar en un equipo"
+
+msgid ""
+"is a regular player for another team on the same night, which is registered "
+"in the playoffs. If a player's regular season team is in the playoffs, that "
+"is the only team from that night with which they can participate in the "
+"playoffs"
+msgstr ""
+"es un jugador regular para otro equipo que juega en la misma fecha, dicho "
+"equipo jugará en finales. Si el equipo de dicho jugador está en finales, es "
+"el único equipo al que este jugador podrá pertenecer "
+
+msgid "cannot have more than 2 male subs"
+msgstr "no puedes tener mas de 2 hombres con límite de edad"
+
+msgid ""
+"cannot have male subs until at least 5 males from the regular-season roster "
+"are included"
+msgstr ""
+"no puedes tener hombres con límite de edad hasta que existan 5 mujeres "
+"incluidas en el roster"
+
+msgid "cannot have more than 8 male players if subs are being used"
+msgstr ""
+"no puedes tener mas de 8 jugadores hombres si estás usando elementos con "
+"límite de edad"
+
+msgid "cannot have more than 3 female subs"
+msgstr "no puedes tener mas de 3 mujeres con límite de edad"
+
+msgid ""
+"cannot have female subs until at least 3 females from the regular-season "
+"roster are included"
+msgstr ""
+"no puedes tener mujeres con límite de edad hasta que existan 3 mujeres "
+"regulares incluidas en el roster"
+
+msgid "cannot have more than 6 female players if subs are being used"
+msgstr ""
+"no puedes tener mas de 6 jugadoras si estás usando elementos con límite de "
+"edad"
+
+msgid "meet the TUC playoff sub rule"
+msgstr "coincide con la regla TUC para límite de edad en finales"
+
+msgid "Game timer was already initialized."
+msgstr "El tiempo de juego fue ya inicializado."
+
+msgid "Second half was already started."
+msgstr "El segundo tiempo ya empezó."
+
+msgid "This game apparently hasn't started yet."
+msgstr "Este juego, aparentemente, no ha comenzado."
+
+msgid "The same team shouldn't pull to start both halves."
+msgstr "El mismo equipo no puede hacer el saque en ambas mitades."
+
+msgid "Home"
+msgstr "Local"
+
+msgid "Winner of game %s"
+msgstr "Ganador del juego %s"
+
+msgid "Loser of game %s"
+msgstr "Perdedor del juego %s"
+
+msgid "%s seed"
+msgstr "%s sembrado"
+
+msgid "Failed to save schedule changes!"
+msgstr "¡Error al guardar los cambios en el horario!"
+
+msgid "You cannot choose the \"---\" as the game time/place!"
+msgstr "¡No puedes escoger \"---\" como hora/lugar del juego!"
+
+msgid "Game slot at %s on %s was selected more than once!"
+msgstr "¡Ranura del juego en %s y %s fue seleccionado mas de una vez!"
+
+msgid "You cannot choose the \"---\" as the team!"
+msgstr "¡No puedes seleccionar \"---\" como equipo!"
+
+msgid "Team %s was scheduled twice in the same time slot!"
+msgstr "¡Equipo %s fue colocado dos veces en el mismo horario!"
+
+msgid "Team %s was scheduled in overlapping time slots!"
+msgstr "¡Equipo %s fue colocado en horarios que se enciman!"
+
+msgid "Team %s was scheduled on %s at different facilities!"
+msgstr "¡Equipo %s fue colocado en diferentes sedes!"
+
+msgid "Team %s was selected more than once!"
+msgstr "¡Equipo %s fue seleccionado mas de una vez!"
+
+msgid ""
+"You have scheduled teams from different divisions against each other (%s vs "
+"%s), but not checked the box allowing cross-division games."
+msgstr ""
+"Has calendarizado un partido entre dos equipos de diferentes divisiones (%s "
+"vs %s), pero no has seleccionado la opción de juegos inter-divisiones."
+
+msgid ""
+"You have scheduled a game between %s and %s in a game slot not available to "
+"them."
+msgstr ""
+"Has calendarizado un juego entre %s y %s en una ranura de juego no "
+"disponible para ellos."
+
+msgid "Saved schedule changes, but failed to clear unused slots!"
+msgstr ""
+"¡Se han almacenado los cambios en el calendario, pero se produjo un error "
+"limpiando las ranuras no usadas!"
+
+msgid "Installation files deleted successfully."
+msgstr "Los archivos de instalación se han borrado satisfactoriamente."
+
+msgid "Could not delete installation files."
+msgstr "No se han podido eliminar los archivos de instalación."
+
+msgid "Installation: Welcome"
+msgstr "Instalación: Bienvenido"
+
+msgid "Step 1: Basic settings"
+msgstr "Paso 1: Ajustes básicos"
+
+msgid ""
+"Basic settings saved. Please review install.php for any advanced setting "
+"changes."
+msgstr ""
+"Ajustes básicos almacenados. Por favor revisa el archivo install.php para "
+"cualquier ajuste avanzado."
+
+msgid "Could not write install.php file."
+msgstr "No se pudo guardar el archivo instal.php."
+
+msgid "Step 2: Database configuration"
+msgstr "Paso 2: Configuración de la base de datos"
+
+msgid "Could not connect to database."
+msgstr "No se ha podido establecer conección con la base de datos."
+
+msgid "Could not write database.php file."
+msgstr "No se puede guardar el archivo database.php."
+
+msgid "Step 3: Build database"
+msgstr "Paso 3: Construcción de la base de datos"
+
+msgid "Installation completed successfully"
+msgstr "Instalación completada satisfactoriamente"
+
+msgid "Update database"
+msgstr "Base de datos actualizada"
+
+msgid "Database is already up to date."
+msgstr "La base de datos está actualizada."
+
+msgid "Failed to perform pre-processing on database"
+msgstr "Ha ocurrido un error durante el pre-procesamiento en la base de datos"
+
+msgid "Click here to build your database"
+msgstr "Da click aquí para contruir tu base de datos"
+
+msgid "Failed to write to %s"
+msgstr "Error al escribir %s"
+
+msgid ""
+"To ensure that future updates go smoothly, please update it manually with "
+"the following:"
+msgstr ""
+"Para asegurar que futuras actualizaciones sean más sencillas, por favor "
+"actualice manualmente lo siguiente:"
+
+msgid "Your tmp directory is writable."
+msgstr "Tu directorio tmp es editable."
+
+msgid "Your tmp directory is NOT writable."
+msgstr "Tu directorio tmp NO es editable."
+
+msgid "Your config directory is writable."
+msgstr "Tu directorio config es editable."
+
+msgid "Your config directory is NOT writable."
+msgstr "Tu directorio config NO es editable."
+
+msgid "Your core.php config file is writable."
+msgstr "Tu archivo core.php es editable."
+
+msgid "Your core.php config file is NOT writable."
+msgstr "Tu archivo core.php NO es editable."
+
+msgid "PHP version %s > 5.2"
+msgstr "Versión PHP %s >5.2"
+
+msgid "PHP version %s < 5.2"
+msgstr "Versión PHP %s < 5.2"
+
+msgid "Installation cannot continue as minimum requirements are not met."
+msgstr ""
+"La instalación no puede continuar a menos que los requisitos mínimos se "
+"cumplan."
+
+msgid "The following table(s) were updated:"
+msgstr "La(s) siguiente(s) tabla(s) fueron actualizadas:"
+
+msgid "Failed to complete the update!"
+msgstr "¡Error al intentar la actualización!"
+
+msgid "This is Zuluru version %d.%d.%d, database schema version %d."
+msgstr ""
+"Esta es versión de Zuluru %d.%d.%d, versión del schema de base de datos %d."
+
+msgid ""
+"Your installation of version %s, database schema version %d, is dated %s."
+msgstr ""
+"Tu instalación de la versión %s, versión del schema de base de datos %d, "
+"tiene fecha de %s."
+
+msgid "Found %d table(s) to update."
+msgstr "Se encontraron %d tablas para actualizar. "
+
+msgid ""
+"Ensure that the configured database user has CREATE, ALTER and DROP "
+"permissions on the database."
+msgstr ""
+"Asegúrese que la configuración de base de datos tenga permisos para: CREAR, "
+"ALTERAR y BORRAR."
+
+msgid ""
+"WARNING: You should perform a backup before proceeding. These updates are "
+"not typically reversible, and if anything goes wrong you will want a backup "
+"to restore from."
+msgstr ""
+"ATENCION: Debes realizar un respaldo antes de continuar. Estas "
+"actualizaciones, no son siempre reversibles y si algo sale mal, seguramente "
+"querrías restaurar la versión previa."
+
+msgid "Click here to proceed with database updates."
+msgstr "Da click aquí para proceder con la actualización."
+
+msgid "Zuluru"
+msgstr "Zuluru"
+
+msgid "Install Zuluru"
+msgstr "Instalar Zuluru"
+
+msgid "Invalid TinyMCE configuration preset %s"
+msgstr "Configuración de TinyMCE %s inválida"
+
+msgid "Affiliates"
+msgstr "Afiliados"
+
+msgid "Add Manager"
+msgstr "Y el administrador"
+
+msgid "Add %s"
+msgstr "Agregar %s"
+
+msgid "Manager"
+msgstr "Administrador"
+
+msgid "Current Managers:"
+msgstr "Administradores actuales:"
+
+msgid "Create"
+msgstr "Crear"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "List Affiliates"
+msgstr "Lista de afiliados"
+
+msgid "Delete"
+msgstr "Borrar"
+
+msgid "Delete Affiliate"
+msgstr "Afiliados eliminados"
+
+msgid "Are you sure you want to delete # %s?"
+msgstr "¿Estás seguro que quieres eliminar # %s?"
+
+msgid "New"
+msgstr "Nuevo"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Managers"
+msgstr "Administradores"
+
+msgid "Actions"
+msgstr "Acciones"
+
+msgid "None"
+msgstr "Ninguno"
+
+msgid "View"
+msgstr "Vista"
+
+msgid "Add"
+msgstr "Agregar"
+
+msgid "Add Affiliate"
+msgstr "Agregar afiliado"
+
+msgid "Select"
+msgstr "Seleccionar"
+
+msgid ""
+"By selecting an affiliate below, you will only be shown that affiliate's "
+"details throughout the site. You will be able to remove this restriction or "
+"select another affiliate to browse, using links on your home page."
+msgstr ""
+"Seleccionando algún afiliado de la lista, solamente te serán presentados los "
+"detalles a través del sitio. Puedes remover estar restricción o elegir otro "
+"afiliado para buscar, usando el link en tu página de inicio."
+
+msgid ""
+"Note that, regardless of which affiliate you may select, your home page and "
+"menus will always show your teams and games."
+msgstr ""
+"Nota: sin importar que afiliado selecciones, tu página de inicio y menus "
+"siempre te mostrarán tu equipo y juegos."
+
+msgid "User Name"
+msgstr "Nombre de usuario"
+
+msgid "First Name"
+msgstr "Nombre(s)"
+
+msgid "Last Name"
+msgstr "Apellidos"
+
+msgid "Remove"
+msgstr "Eliminar"
+
+msgid "Edit Affiliate"
+msgstr "Editar afiliado"
+
+msgid "Nothing to report today."
+msgstr "No hay reportes para hoy."
+
+msgid "There are %d new %s."
+msgstr "Hay %d %s nuevo(s)."
+
+msgid "accounts to approve"
+msgstr "cuentas que aprovar"
+
+msgid "profile photos to approve"
+msgstr "fotos de perfil para aprovar"
+
+msgid "uploaded documents to approve"
+msgstr "documentos cargados por aprovar"
+
+msgid "badge nominations to approve"
+msgstr "nominaciones para premios por aprovar"
+
+msgid "You currently have %s unpaid %s. %s to complete these registrations."
+msgstr "En este momento tienes %s sin pagar %s. %s para completar el registro."
+
+msgid "Click here"
+msgstr "Da click aquí"
+
+msgid "Consolidated Schedule"
+msgstr "Horario consolidado"
+
+msgid "My"
+msgstr "Mi"
+
+msgid "Divisions Coordinated"
+msgstr "División coordinada"
+
+msgid "Get your personal schedule in "
+msgstr "Obten tu horario personal"
+
+msgid " format or "
+msgstr " formato o "
+
+msgid "Edit your preferences"
+msgstr "Edita tus preferencias"
+
+msgid " to enable your personal iCal feed"
+msgstr " para habilitar tu iCal"
+
+msgid "home"
+msgstr "local"
+
+msgid "Attendance"
+msgstr "Asistencia"
+
+msgid "View Game Attendance Report"
+msgstr "Ver reporte de la asistencia al juego"
+
+msgid " vs. "
+msgstr " contra "
+
+msgid "away"
+msgstr "fuera"
+
+msgid " at "
+msgstr " en "
+
+msgid "at"
+msgstr "en"
+
+msgid "report to"
+msgstr "reportar a"
+
+msgid "iCal"
+msgstr "iCal"
+
+msgid ""
+"You are currently browsing the %s affiliate. You might want to %s or %s."
+msgstr "Actualmente estás buscando el %s afiliado. Debes querer %s o %s."
+
+msgid "remove this restriction"
+msgstr "quitar la restricción"
+
+msgid "select a different affiliate to view"
+msgstr "seleccionar un afiliado diferente"
+
+msgid "This site has multiple affiliates. You might want to %s."
+msgstr "Este sitio tiene múltiples afiliados. Debes querer %s."
+
+msgid "select a specific affiliate to view"
+msgstr "selecciona un afiliado específico para ver"
+
+msgid ""
+"This site has affiliates that you are not a member of. You might want to %s "
+"or %s."
+msgstr "El sitio tiene afiliados que no son miembros. Tu debes querer %s o %s."
+
+msgid "join other affiliates"
+msgstr "ingresa otros afiliados"
+
+msgid "change which affiliate you are a member of"
+msgstr "cambia el afiliado del cual eres miembro"
+
+msgid ""
+"You are a member of all affiliates on this site. You might want to %s or %s."
+msgstr ""
+"Eres mmiembro de todos los afiliados en este sitio. Debes querer %s o %s."
+
+msgid "reduce your affiliations"
+msgstr "eliminar tus afiliaciones"
+
+msgid "Deactivate"
+msgstr "Desactivar"
+
+msgid "Activate"
+msgstr "Activado"
+
+msgid "Badges"
+msgstr "Premios"
+
+msgid "The full name of the badge, to be used as title text on the icon."
+msgstr "El nombre completo del premio será usado en el texto del ícono."
+
+msgid ""
+"A detailed description of this badge, which should explain how to earn it, "
+"what it denotes, and/or what the benefits are."
+msgstr ""
+"Una descripción detallada del premio, debe explicar como ganarlo, que "
+"representa y que beneficios tiene."
+
+msgid ""
+"The category determines the timing for when the badge may be awarded. Don't "
+"change this unless you know what you are doing."
+msgstr ""
+"La categoría determina el momento en que el premio puede ser ganado. No se "
+"debe cambiar a menos que sepas que estás haciendo."
+
+msgid ""
+"The handler sets which algorithm is used to determine whether a badge should "
+"be awarded. Don't change this unless you REALLY know what you are doing."
+msgstr ""
+"El controlador ajusta el algoritmo que se usa para determinar el premio "
+"otorgado. No se debe cambiar a menos que sepas que estás haciendo."
+
+msgid "Select where this badge will be visible."
+msgstr "Selecciona donde se puede ver este premio."
+
+msgid ""
+"Include only the base name of the file; _24.png or _32.png will be appended "
+"as required."
+msgstr ""
+"Incluye solamente el nombre base del archivo; _24.png or _32.png será "
+"agregado, cuando sea requerido."
+
+msgid "List %s"
+msgstr "Lista %s"
+
+msgid "Delete Badge"
+msgstr "Premio eliminado"
+
+msgid ""
+"Page %page% of %pages%, showing %current% records out of %count% total, "
+"starting on record %start%, ending on %end%"
+msgstr ""
+"Página %page% de %pages%, mostrando el record %current% de %count% totales, "
+"comenzando en el record %start%, terminando en %end%"
+
+msgid "Icon"
+msgstr "Icono"
+
+msgid "Awarded"
+msgstr "Logrado"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid ""
+"This badge is determined on-the-fly so there is no count of how many people "
+"have it"
+msgstr ""
+"Este premio es determinado en el momento, por lo que no hay registro de "
+"cuanta gente lo tiene."
+
+msgid "Assign"
+msgstr "Asignar"
+
+msgid "Assign this Badge"
+msgstr "Asignar el premio"
+
+msgid "Initialize"
+msgstr "Inicilizar"
+
+msgid ""
+"Are you sure you want to initialize? This should only ever need to be done "
+"once when the badge system is introduced."
+msgstr ""
+"¿Estás seguro que quieres inicializar? Esto debe ser sólo necesario cuando "
+"el sistema de premios es introducido."
+
+msgid "Nominate"
+msgstr "Nominado"
+
+msgid "Nominate for this Badge"
+msgstr "Nominado para este premio"
+
+msgid "Add Badge"
+msgstr "Agregar premio"
+
+msgid "previous"
+msgstr "anterior"
+
+msgid "next"
+msgstr "siguiente"
+
+msgid "Awarded to"
+msgstr "Otorgado a"
+
+msgid "people"
+msgstr "gente"
+
+msgid "Details"
+msgstr "Detalles"
+
+msgid "Visibility"
+msgstr "Visibilidad"
+
+msgid "This badge has been awarded to:"
+msgstr "Este premio ha sido otorgado a:"
+
+msgid "For"
+msgstr "Para"
+
+msgid "Edit Badge"
+msgstr "Editar premio"
+
+msgid "Categories"
+msgstr "Categorías"
+
+msgid "Delete Category"
+msgstr "Categoría eliminada"
+
+msgid "Add Category"
+msgstr "Agregar categoría"
+
+msgid "Related Tasks"
+msgstr "Tareas relacionadas"
+
+msgid "Reporting To"
+msgstr "Reportando a"
+
+msgid "List Categories"
+msgstr "Lista de categorías"
+
+msgid "Edit Category"
+msgstr "Editar categoría"
+
+msgid "Contacts"
+msgstr "Contactos"
+
+msgid "Contact Details"
+msgstr "Detalle de contacto"
+
+msgid "The name of your contact."
+msgstr "El nombre de tu contacto"
+
+msgid ""
+"The email address for your contact. This will not be shown to users, only "
+"used to deliver messages."
+msgstr ""
+"El correo electrónico de tu contacto. Esto no será mostrado para los "
+"usuarios, sólo para administradores."
+
+msgid "List Contacts"
+msgstr "Lista de contactos"
+
+msgid "Email"
+msgstr "Correo electrónico"
+
+msgid "Edit Contact"
+msgstr "Editar contacto"
+
+msgid "Delete Contact"
+msgstr "Eliminar contacto"
+
+msgid "Message Contact"
+msgstr "Enviar mensaje a contacto"
+
+msgid "Add Contact"
+msgstr "Agregar contacto"
+
+msgid "Message"
+msgstr "Mensaje"
+
+msgid "Message Details"
+msgstr "Detalles del mensaje"
+
+msgid "Divisions"
+msgstr "Divisiones"
+
+msgid "Add Coordinator"
+msgstr "Agregar coordinador"
+
+msgid "Coordinator"
+msgstr "Coordinador"
+
+msgid "Current Coordinators:"
+msgstr "Coordinadores actuales:"
+
+msgid "Add Teams"
+msgstr "Agregar equipos"
+
+msgid "Team Names"
+msgstr "Nombre de equipos"
+
+msgid ""
+"This can be used to create up to %d teams at once. To create less, simply "
+"leave those names blank."
+msgstr ""
+"Esto puede ser usado para crear hasta %d equipos al mismo tiempo. Para crear "
+"menos, simplemente deja espacios en blanco."
+
+msgid ""
+"If selected, the system will help you to monitor attendance on a game-to-"
+"game basis."
+msgstr ""
+"Si se selecciona, el sistema te ayudará a monitorear la asistencia en cada "
+"juego."
+
+msgid ""
+"Reminder emails will be sent to players that have not finalized their "
+"attendance this many days before the game. 0 means the day of the game, -1 "
+"will disable these reminders."
+msgstr ""
+"Correos recordatorios serán enviados a los jugadores que no han asistido, el "
+"número indicado de días antes del juego. 0 significa el mismo día del juego, "
+"-1 deshabilita los recordatorios."
+
+msgid ""
+"Attendance summary emails will be sent to captains this many days before the "
+"game. 0 means the day of the game, -1 will disable these summaries."
+msgstr ""
+"El resumen de asistencia se enviará por correo a los capitanes, el número "
+"indicado de días antes del juego. 0 significa el mismo día del juego, -1 "
+"deshabilita el resumen."
+
+msgid ""
+"Emails notifying captains about changes in attendance status will be sent "
+"starting this many days before the game. 0 means the day of the game, -1 "
+"will disable these notifications. You will never receive notifications about "
+"any changes that happen before this time."
+msgstr ""
+"Las notificaciones por correo, a cerca de los cambios en el estastus de "
+"asistencia serán enviadas estos días antes del juego. 0 significa el mismo "
+"día del juego, -1 deshabilita las notificaciones. Nunca recibirás "
+"notificaciones de ningún cambio antes de la fecha indicada."
+
+msgid "Allstar Nominations Report"
+msgstr "Reporte de nominados al juego de estrellas"
+
+msgid ""
+"This list shows only those with at least %d nominations. The %s is also "
+"available."
+msgstr ""
+"La lista sólo muestra aquellos con, al menos, %d nominaciones. %s está "
+"también disponible."
+
+msgid "complete list"
+msgstr "lista completa"
+
+msgid "Approve Scores"
+msgstr "Resultados aprovados"
+
+msgid "not entered"
+msgstr "no ingresado"
+
+msgid "approve score"
+msgstr "resultado aprovado"
+
+msgid "Home score"
+msgstr "Resultado local"
+
+msgid "email captains"
+msgstr "correo de capitanes"
+
+msgid "Away score"
+msgstr "Resultado visitante"
+
+msgid "Division Information"
+msgstr "Información de la división"
+
+msgid "The name of the division."
+msgstr "El nombre de la división"
+
+msgid "Coordinator Email List"
+msgstr "Lista de correo del coordinador"
+
+msgid ""
+"An email alias for all coordinators of this division (can be a comma "
+"separated list of individual email addresses)."
+msgstr ""
+"Un alias para el correo de todos los coordinadores de división (puede ser "
+"una lista individual de correos, separados por comas)"
+
+msgid "Captain Email List"
+msgstr "Lista de mail de capitanes"
+
+msgid "An email alias for all captains of this division."
+msgstr "Un alias para el correo de todos los capitanes de división."
+
+msgid ""
+"A short blurb to be displayed at the top of schedule and standings pages, "
+"HTML is allowed."
+msgstr ""
+"Una pequeña nota puede ser desplegada en los calendarios, formato HTML "
+"permitido."
+
+msgid ""
+"A short blurb to be displayed at the bottom of schedule and standings pages, "
+"HTML is allowed."
+msgstr ""
+"Una pequeña nota puede ser desplegada en los calendarios, formato HTML "
+"permitido."
+
+msgid "Dates"
+msgstr "Fechas"
+
+msgid ""
+"Date of the first game in the schedule. Will be used to determine open/"
+"closed status."
+msgstr ""
+"La fecha del primer juego, será usada para determinar el estatus de inicio/"
+"fin."
+
+msgid ""
+"Date of the last game in the schedule. Will be used to determine open/closed "
+"status."
+msgstr ""
+"La fecha del último  juego, será usada para determinar el estatus de inicio/"
+"fin."
+
+msgid ""
+"The date after which teams are no longer allowed to edit their rosters. "
+"Leave blank for no deadline (changes can be made until the division is "
+"closed)."
+msgstr ""
+"Fecha límite para que los equipos envíen sus rosters. Si se deja en blanco "
+"no hay límite (los cambios se pueden realizar hasta que la división cierra)."
+
+msgid "Specifics"
+msgstr "Específicos"
+
+msgid "Day, or days, on which this division will play."
+msgstr "Día, o días, en los cuales la división jugará."
+
+msgid "Gender Ratio"
+msgstr "Distribusión de género"
+
+msgid "Gender format for the division."
+msgstr "Formato de género para la división."
+
+msgid ""
+"Rules that must be passed to allow a player to be added to the roster of a "
+"team in this division."
+msgstr ""
+"Reglas que deben ser cumplidas para permitir que un jugador sea agregado al "
+"roster de un equipo en esta división."
+
+msgid ""
+"Do players need to accept invitations, or can they just be added? The latter "
+"has privacy policy implications and should be used only when necessary."
+msgstr ""
+"¿Los jugadores necesitan aceptar la invitación o pueden ser simplemente "
+"agregados? Este ultimo tiene implicasiones importantes y sólo debe usarse de "
+"ser necesario."
+
+msgid "Scheduling"
+msgstr "Calendarizando"
+
+msgid ""
+"What type of scheduling to use. This affects how games are scheduled and "
+"standings displayed."
+msgstr ""
+"¿Qué tipo de calendarización se utilizará? Esto afecta como los juegos se "
+"calendarizan y las estadísticas se muestran."
+
+msgid "Allows coordinators to exclude teams from schedule generation."
+msgstr ""
+"Permite a los coordinadores excluir equipos para la generación de "
+"calendarios."
+
+msgid "Allows coordinators to schedule multiple games in a single game slot."
+msgstr ""
+"Permite a los coordinadores calendarizar múltiples juegos en una misma "
+"ranura de juegos."
+
+msgid "Scoring"
+msgstr "Marcador"
+
+msgid "What type of ratings calculation to use."
+msgstr "Que tipo de calculadora de ratings se usará."
+
+msgid ""
+"Email captains who haven't scored games after this many hours, no reminder "
+"if 0."
+msgstr ""
+"Enviar correo al capitán que no haya registrado el resultado de su juego, "
+"despúes de estas horas, 0 si no se quiere agregar recordatorio."
+
+msgid ""
+"Games which haven't been scored will be automatically finalized after this "
+"many hours, no finalization if 0."
+msgstr ""
+"Los juegos en los que no se haya registrado el resultado, serán terminados "
+"automáticamente despúes de estas horas, 0 si no se quiere finalizar."
+
+msgid "When to ask captains for allstar nominations."
+msgstr ""
+"Cuando preguntar a un capitán sobre sus nominaciones al juego de estrellas."
+
+msgid ""
+"Which team will allstar nominations come from? Ignored if the above field is "
+"set to \"never\"."
+msgstr ""
+"¿De parte de qué equipo vienen las nominaciones al juego de estrellas? "
+"Ignorar si el campo de arriba es ajustado a \"never\"."
+
+msgid "Emails"
+msgstr "Correos electrónicos"
+
+msgid "Captain Emails"
+msgstr "Correos electrónicos de capitanes"
+
+msgid "%s Distribution Report"
+msgstr "Reporte del % de distribusión"
+
+msgid ""
+"This report includes only games that are published. You may also see it %s."
+msgstr ""
+"Este reporte incluye sólo juegos que son publicados. Lo puedes ver tambien "
+"como %s."
+
+msgid "including all games"
+msgstr "incluyendo todos los juegos"
+
+msgid "This report includes all games. You may also see it %s."
+msgstr "Este reporte incluye todos los juegos. Puedes ver %s."
+
+msgid "including only games that are published"
+msgstr "incluyendo sólo juegos que son publicados"
+
+msgid "Rating"
+msgstr "Rating"
+
+msgid "Sub total"
+msgstr "Sub total"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Total games"
+msgstr "Juegos totales"
+
+msgid "Average"
+msgstr "Promedio"
+
+msgid "Adjust Ratings"
+msgstr "Ratings ajustados"
+
+msgid "Avg. Skill"
+msgstr "Habilidad promedio"
+
+msgid "Current Rating"
+msgstr "Rating actual"
+
+msgid "Initial Rating"
+msgstr "Rating inicial"
+
+msgid "New Initial Rating"
+msgstr "Nuevo rating inicial"
+
+msgid "Save Changes"
+msgstr "Cambios salvados"
+
+msgid "Reset"
+msgstr "Reseteado"
+
+msgid "Schedule"
+msgstr "Horario"
+
+msgid "Division Schedule"
+msgstr "Horario de la división"
+
+msgid "Jump to upcoming games"
+msgstr "Ir a juegos por venir"
+
+msgid "Scores"
+msgstr "Marcadores"
+
+msgid "Division Scores"
+msgstr "Marcadores de la división"
+
+msgid "Adjust Initial Seeds"
+msgstr "Ajustar siembra inicial"
+
+msgid "Initial Seed"
+msgstr "Siembra inicial"
+
+msgid "New Initial Seed"
+msgstr "Nueva siembra inicial"
+
+msgid "Division %s Availability Report"
+msgstr "Reporte del % de disponibilidad de la división"
+
+msgid "%s open"
+msgstr "%s abierto"
+
+msgid ""
+"There are %s %s available for use this week, currently %s of these are "
+"unused."
+msgstr ""
+"Hay %s %s disponibles para usar esta semana, actualmente %s de estos estan "
+"sin usar."
+
+msgid "Spirit Report"
+msgstr "Reporte de espíritu"
+
+msgid "Team Spirit Summary"
+msgstr "Resumen de espíritu del equipo"
+
+msgid "Average Spirit"
+msgstr "Promedio de espíritu"
+
+msgid "Assigned Spirit"
+msgstr "Espíritu asignado"
+
+msgid "Score Submitted?"
+msgstr "¿Marcador enviado?"
+
+msgid "Division average"
+msgstr "Promedio de la división"
+
+msgid "Division std dev"
+msgstr "Desviación estandar de la división"
+
+msgid "Distribution of team average spirit scores"
+msgstr "Distribución del promedio de espíritu"
+
+msgid "Spirit score"
+msgstr "Marcador de espíritu"
+
+msgid "Number of teams"
+msgstr "Número de equipos"
+
+msgid "Percentage of division"
+msgstr "Porcentaje de la división"
+
+msgid "Spirit reports per game"
+msgstr "Reporte de espíritu por juego"
+
+msgid "Entry By"
+msgstr "Ingreso por"
+
+msgid "Given To"
+msgstr "Entregado a"
+
+msgid "Entered"
+msgstr "Ingresado"
+
+msgid "Assigned"
+msgstr "Asignado"
+
+msgid "Comment for entry above:"
+msgstr "Comentario sobre la entrada:"
+
+msgid "Highlight for entry above:"
+msgstr "Destacado de la entrada:"
+
+msgid "Standings"
+msgstr "Estadísticas"
+
+msgid "Division Standings"
+msgstr "Estadísticas de la división"
+
+msgid "Preliminary rounds"
+msgstr "Rondas preliminares"
+
+msgid "Playoff brackets"
+msgstr "Rondas finales"
+
+msgid "Stats"
+msgstr "Estadísticas"
+
+msgid "Gender"
+msgstr "Género"
+
+msgid "Status"
+msgstr "Estatus"
+
+msgid "Coordinators"
+msgstr "Coordinadores"
+
+msgid "Teams"
+msgstr "Equipos"
+
+msgid "League Details"
+msgstr "Detalles de la liga"
+
+msgid "Season"
+msgstr "Temporada"
+
+msgid "Spirit Questionnaire"
+msgstr "Cuestionario de espíritu"
+
+msgid "Spirit Numeric Entry"
+msgstr "Ingresar valor númerico de espíritu"
+
+msgid "Spirit Display"
+msgstr "Espíritu mostrado"
+
+msgid "Expected Max Score"
+msgstr "Marcador máximo esperado"
+
+msgid "TeamID"
+msgstr "Identificador de equipo"
+
+msgid "Opponent"
+msgstr "Oponente"
+
+msgid "Team Score"
+msgstr "Marcador de equipo"
+
+msgid "Opp Score"
+msgstr "Marcador del oponente"
+
+msgid "Spirit"
+msgstr "Espíritu"
+
+msgid "Calc Spirit"
+msgstr "Espíritu calculado"
+
+msgid "send an email right away"
+msgstr "enviar el correo en este momento"
+
+msgid "Remind me later"
+msgstr "Recordar después"
+
+msgid "Show All"
+msgstr "Mostrar todo"
+
+msgid "Shirt colour"
+msgstr "Color de playera"
+
+msgid "To ensure proper operation, please"
+msgstr "Para asegurar un correcta operación, por favor"
+
+msgid "complete your update"
+msgstr "completa tu actualización"
+
+msgid ""
+"You have enabled the affiliate option, but have not yet created any "
+"affiliates. "
+msgstr ""
+"Has habilitado la opción de afiliado, pero no has creado ninguna afiliación."
+
+msgid "Create one now!"
+msgstr "¡Crea una ahora!"
+
+msgid "You have no open facilities. "
+msgstr "No tienes sedes habilitadas"
+
+msgid "Edit Facility"
+msgstr "Editar sede"
+
+msgid "Delete Facility"
+msgstr "Eliminar sede"
+
+msgid "You have no current or upcoming leagues. "
+msgstr "No tienes ninguna liga en este momento, ni proximamente."
+
+msgid "You have no current or upcoming registration events. "
+msgstr "No tienes ningún evento en este momento, ni proximamente."
+
+msgid "You are not yet on any teams."
+msgstr "Todavía no te encuentras en ningún equipo"
+
+msgid "View Division Details"
+msgstr "Ver los detalles de la división"
+
+msgid "Edit Division"
+msgstr "Editar división"
+
+msgid "Initialize Ratings"
+msgstr "Ratings iniciales"
+
+msgid "Approve scores"
+msgstr "Marcadores aprovados"
+
+msgid "Add Games"
+msgstr "Agregar juegos"
+
+msgid "See Division Spirit Report"
+msgstr "Ver el reporte de espíritu de la división"
+
+msgid "%s Distribution"
+msgstr "Distribución de %s"
+
+msgid "Clone Division"
+msgstr "Copiar división"
+
+msgid "Allstars"
+msgstr "Mejores jugadores"
+
+msgid "Delete Division"
+msgstr "Eliminar división"
+
+msgid "First Game"
+msgstr "Primer juego"
+
+msgid "Last Game"
+msgstr "Ultimo juego"
+
+msgid "Roster Deadline"
+msgstr "Límite para entrega de roster"
+
+msgid "Roster Rule"
+msgstr "Regla para armar roster"
+
+msgid "Roster Method"
+msgstr "Método para armar roster"
+
+msgid "Schedule Type"
+msgstr "Tipo de horario"
+
+msgid "Rating Calculator"
+msgstr "Calculador de rating"
+
+msgid "Exclude Teams"
+msgstr "Equipos excluidos"
+
+msgid "Scoring reminder delay"
+msgstr "Retraso del recordatorio para anotar marcador"
+
+msgid "hours"
+msgstr "horas"
+
+msgid "Game finalization delay"
+msgstr "Retraso en el final del juego"
+
+msgid "All-star nominations"
+msgstr "Nominaciones para mejor jugador"
+
+msgid "All-star nominations from"
+msgstr "Nominaciones para mejor jugador de"
+
+msgid "Register to play in this division:"
+msgstr "Registrado para jugar en esta división:"
+
+msgid "Registration"
+msgstr "Registro"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "check up-to-the-minute details"
+msgstr "Revisión de detalles"
+
+msgid "set your attendance in advance"
+msgstr "registra tu asistencia por adelantado"
+
+msgid "update this or check up-to-the-minute details"
+msgstr "actualiza esto o revisa los detalles"
+
+msgid "here"
+msgstr "aquí"
+
+msgid "Accept the request"
+msgstr "Acepta la petición"
+
+msgid "Decline the request"
+msgstr "Rechazar solicitud"
+
+msgid "Accept the invitation"
+msgstr "Aceptar invitación"
+
+msgid "Decline the invitation"
+msgstr "Rechazar la invitación"
+
+msgid "Cost"
+msgstr "Costo"
+
+msgid "Opens on"
+msgstr "Abrel en"
+
+msgid "Closes on"
+msgstr "Cierra en"
+
+msgid "Register Now"
+msgstr "Registrarse Ahora"
+
+msgid ""
+"You cannot register for any events until you are %s to the site. The system "
+"can help you %s or %s."
+msgstr ""
+"No puedes registrarte para ningún envento hasta que estes %s en este sitio. "
+"El sistema puede ayudarte a %s o %s."
+
+msgid "logged on"
+msgstr "sesión iniciada"
+
+msgid "recover forgotten passwords"
+msgstr "recuperar la contraseña olvidada"
+
+msgid ""
+"create a new profile (and user ID with password) if you are new to the %s "
+"site"
+msgstr ""
+"crea un nuevo perfil (y nombre de ususario y password) si es nuevo sitio de "
+"%s."
+
+msgid "Add a sub"
+msgstr "Añadir un substituto"
+
+msgid "Current attendance: %s"
+msgstr "Asistencia actual: %s"
+
+msgid "Comment"
+msgstr "Comentario"
+
+msgid "Attendance comment"
+msgstr "Comentario de Asistencia"
+
+msgid "If you want to add a comment for your captain, do so here."
+msgstr "Si quieres añadir un comentario para tu capitán, hazlo aquí."
+
+msgid ""
+"If you want to add a personal note to the player, do so here. To include no "
+"note with this invitation, leave this blank, but click \"Save\". \"Cancel\" "
+"will abort the invitation entirely."
+msgstr ""
+"Si quieres añadir una nota personal al jugador, hazlo aquí. Si no quieres "
+"incluir ninguna nota a la invitación, deja este espacio vacio, pero da click "
+"en \"Save\". \"Cancel\" anulara completamente la invitación."
+
+msgid "Game started"
+msgstr "Juego comenzado"
+
+msgid "Timeout"
+msgstr "Tiempo fuera"
+
+msgid "Delete Score Detail"
+msgstr "Borrar los Detalles del Marcador"
+
+msgid "Are you sure you want to delete this?"
+msgstr "¿Esta seguro de querer borrar esto?"
+
+msgid "Time"
+msgstr "Tiempo"
+
+msgid "Recent and Upcoming Schedule"
+msgstr "Calendarios recientes y venideros"
+
+msgid "Stat Sheet"
+msgstr "Hoja de estadisticas"
+
+msgid ""
+"This stat sheet will only include players who have indicated that they are "
+"playing, plus a couple of blank lines.\\n\\nFor a stat sheet with your full "
+"roster, use the link from the team view page."
+msgstr ""
+"Esta hoja de estadísticas, sólo incluye jugadores que han indicado que están "
+"participando en este juego, mas un par de líneas en blanco.\\n\\nPara una "
+"hoja que contenga todo el roster, usa el link desde la página del equipo."
+
+msgid "Add Note"
+msgstr "Agregar una nota"
+
+msgid "View Event Attendance"
+msgstr "Ver la asistencia al evento"
+
+msgid ""
+"Because this team does not have attendance tracking enabled, the list below "
+"assumes that all regular players are attending and all subs are unknown. To "
+"enable attendance tracking, %s."
+msgstr ""
+"Debido a que este equipo no tiene registro de asistencia habilitado, la "
+"lista siguiente asume que todos los jugadores están asistiendo. Para "
+"habilitar registro de asistencia, %s."
+
+msgid "edit the team record"
+msgstr "editar el record del equipo"
+
+msgid "Player"
+msgstr "Jugador"
+
+msgid "Unlisted Subs"
+msgstr "Jugadores con límite de edad, no enlistados"
+
+msgid "New Users"
+msgstr "Nuevo usuario"
+
+msgid "Advanced Users"
+msgstr "Usuario avanzado"
+
+msgid "Captains"
+msgstr "Capitanes"
+
+msgid "Administrators"
+msgstr "Administradores"
+
+msgid "Site Setup and Configuration"
+msgstr "Ajuste y configuración"
+
+msgid "Player Management"
+msgstr "Administración de jugadores"
+
+msgid "League Management"
+msgstr "Administración de la liga"
+
+msgid "%s Management"
+msgstr "%s Administración"
+
+msgid "People"
+msgstr "Gente"
+
+msgid "Events"
+msgstr "Eventos"
+
+msgid "Waivers"
+msgstr "Exclución de responsabilidad"
+
+msgid "Games"
+msgstr "Juegos"
+
+msgid "Schedules"
+msgstr "Horarios"
+
+msgid "Leagues"
+msgstr "Ligas"
+
+msgid "and"
+msgstr "y"
+
+msgid "Facilities"
+msgstr "Sedes"
+
+msgid "Rules Engine"
+msgstr "Motor de reglas"
+
+msgid "Configuration"
+msgstr "Configuración"
+
+msgid "edit the division"
+msgstr "editar la división"
+
+msgid "edit your preferences"
+msgstr "editar preferencias"
+
+msgid "advanced users guide"
+msgstr "guia de usuarios avanzados"
+
+msgid "captains guide"
+msgstr "guía de capitanes"
+
+msgid ""
+"Check the \"mark this registration as refunded\" box if the registration "
+"should be considered fully refunded. This may remove associated team "
+"records, invalidate other registrations that the user has and/or open up "
+"registration spots for others."
+msgstr ""
+"Selecciona la casilla de \"marcar este registro como reembolsado\" si el "
+"registro debe ser considerado como totalmente reembolsado. Esto puede "
+"retirar records de equipos asociados, invalidar otros registro que los "
+"usuarios tienen y/o abrir puntos de registro para otros."
+
+msgid ""
+"You typically do not want to check this if you are issuing a partial refund, "
+"e.g. if a team drops out part way through a season and you need their game "
+"results to remain for other team standings to be correct."
+msgstr ""
+"Normalmente no deberías seleccionar esta opción, si estas realizando un "
+"reembolso parcial, i.e. si un equipo se retira de la temporada y tu "
+"necesitas que sus estadísticas permanezcan para no alterar las de otros "
+"equipos."
+
+msgid "registration system"
+msgstr "sistema de registro"
+
+msgid "Registration Help"
+msgstr "Ayuda para el registro"
+
+msgid "View League Details"
+msgstr "Ver detalles de la liga"
+
+msgid "Edit League"
+msgstr "Editar liga"
+
+msgid "Clone League"
+msgstr "Clonar liga"
+
+msgid "Add Division"
+msgstr "Agregar división"
+
+msgid "Delete League"
+msgstr "Borrar liga"
+
+msgid "Participation"
+msgstr "Participasión"
+
+msgid "Rating Points"
+msgstr "Puntos de rating"
+
+msgid "lose"
+msgstr "perdida"
+
+msgid "gain"
+msgstr "ganancia"
+
+msgid "point"
+msgstr "punto"
+
+msgid "points"
+msgstr "puntos"
+
+msgid "Available %s"
+msgstr "Disponible %s"
+
+msgid "Time/%s"
+msgstr "Tiempo/%s"
+
+msgid "Away"
+msgstr "Fuera"
+
+msgid "Unassigned"
+msgstr "No asignado"
+
+msgid "Initialize schedule dependencies"
+msgstr "Inicializar dependencias del calendario"
+
+msgid "Reset schedule dependencies"
+msgstr "Resetear dependencias del calendario"
+
+msgid "Edit Day"
+msgstr "Editar día"
+
+msgid "Delete Day"
+msgstr "Borrar día"
+
+msgid "Reschedule"
+msgstr "Re-calendarizar"
+
+msgid "Unpublish"
+msgstr "Sin publicar"
+
+msgid "Publish"
+msgstr "Publicado"
+
+msgid "Score"
+msgstr "Marcador"
+
+msgid "Set as published for player viewing?"
+msgstr "¿Publicarlo para que los jugadores lo vean?"
+
+msgid "Allow double-headers?"
+msgstr "¿Permitir doble encabezado?"
+
+msgid "Allow double-booking?"
+msgstr "¿Permitir doble registro?"
+
+msgid "Allow cross-division games?"
+msgstr "¿Permitir juegos inter-divisionales?"
+
+msgid "Seed"
+msgstr "Siembra"
+
+msgid "Season To Date"
+msgstr "Temporada por agendar"
+
+msgid "Streak"
+msgstr "Característica"
+
+msgid "Wins"
+msgstr "Ganados"
+
+msgid "W"
+msgstr "G"
+
+msgid "Losses"
+msgstr "Perdidos"
+
+msgid "L"
+msgstr "P"
+
+msgid "Ties"
+msgstr "Empatados"
+
+msgid "T"
+msgstr "E"
+
+msgid "Defaults"
+msgstr "Inasistencia"
+
+msgid "D"
+msgstr "D"
+
+msgid "Goals For"
+msgstr "Goles a favor"
+
+msgid "GF"
+msgstr "GF"
+
+msgid "Goals Against"
+msgstr "Goles en contra"
+
+msgid "GA"
+msgstr "GC"
+
+msgid "Plus/Minus"
+msgstr "Mas/menos"
+
+msgid "+/-"
+msgstr "+/-"
+
+msgid "Current Round"
+msgstr "Round actual"
+
+msgid "Points"
+msgstr "Puntos"
+
+msgid "P"
+msgstr "Pt"
+
+msgid "Delete pool games"
+msgstr "Borrar juego del grupo"
+
+msgid "Pool %s"
+msgstr "Grupo %s"
+
+msgid "Day"
+msgstr "Día"
+
+msgid "Players"
+msgstr "Jugadores"
+
+msgid "From"
+msgstr "Desde"
+
+msgid "TBD"
+msgstr "TBD"
+
+msgid ""
+"If you prefer to pay offline via cheque, the online portion of your "
+"registration process is now complete, but you must do the following to make "
+"payment:"
+msgstr ""
+"Si tu prefieres hacer el pago via transferencia bancaria, la sección en-"
+"línea de tu proceso de registro esta completa, pero tu debes hacer lo "
+"siguiente para completar el pago:"
+
+msgid ""
+"The online portion of your registration process is now complete, but you "
+"must do the following to make payment:"
+msgstr ""
+"La sección en-línea de tu proceso de registro esta completa, pero tu debes "
+"hacer lo siguiente para completar el pago:"
+
+msgid "Refund Policy"
+msgstr "Políticas de reembolso"
+
+msgid "Chase Paymentech Options"
+msgstr "Opciones alternativas de pago"
+
+msgid "Moneris Options"
+msgstr "Opción por Moneris"
+
+msgid "Paypal Options"
+msgstr "Opción por Paypal"
+
+msgid "Badge comment"
+msgstr "Comentario del badge"
+
+msgid "Document comment"
+msgstr "Comentario del documento"
+
+msgid "If you want to add a comment to the player, do so here."
+msgstr "Si quieres agregar algún comentario para el jugador, hazlo aquí."
+
+msgid "Add Number"
+msgstr "Agregar número"
+
+msgid "Shirt Number"
+msgstr "Número de playera"
+
+msgid ""
+"Enter the new shirt number here, or leave blank to assign no shirt number."
+msgstr ""
+"Ingres el nuevo número de playera aquí, o déjalo en blanco para no asignarlo."
+
+msgid "Questions"
+msgstr "Preguntas"
+
+msgid "invited"
+msgstr "invitado"
+
+msgid "invitation"
+msgstr "invitación"
+
+msgid "requested"
+msgstr "solicitado(a)"
+
+msgid "request"
+msgstr "solicitud"
+
+msgid "remove"
+msgstr "remover"
+
+msgid "Are you sure you want to %s this %s?"
+msgstr "¿Estás seguro que quieres %s este %s?"
+
+msgid "accept"
+msgstr "aceptar"
+
+msgid "decline"
+msgstr "declinar"
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "No matches found!"
+msgstr "¡No se encontraron elementos!"
+
+msgid "VCF"
+msgstr "VCF"
+
+msgid "Delete Note"
+msgstr "Borrar nota"
+
+msgid "Required"
+msgstr "Requerido"
+
+msgid "Type part of the question you want"
+msgstr "Escribe parte de la pregunta que quieres"
+
+msgid "anonymous"
+msgstr "anónimo"
+
+msgid "This is only used internally to improve event/division linkage."
+msgstr "Esto sólo se usa internamente para mejorar el evetno/liga."
+
+msgid "Indicate the expected level(s) of play in this division."
+msgstr "Indica el nivel esperado de juego en esta división."
+
+msgid ""
+"First date that this registration will confer membership for (e.g. beginning "
+"of the membership year)."
+msgstr ""
+"Primer fecha de registro incluirá la membresía para (i.e. empezando el año)."
+
+msgid ""
+"Last date that this registration will confer membership for (e.g. end of the "
+"membership year)."
+msgstr ""
+"Ultima fecha de registro incluirá la membresía para (i.e. finalizando el "
+"año)."
+
+msgid ""
+"Different membership types may come with limitations (e.g. play on a limited "
+"number of teams)."
+msgstr ""
+"Diferentes tipos de membresía pueden tener limitaciones (i.e. jugar con un "
+"número limitado de equipos)."
+
+msgid ""
+"Registrations performed through this event will create team records in this "
+"division."
+msgstr ""
+"El registro realizado a través de este evento, creará un record para este "
+"equipo en esta división."
+
+msgid "Ask whether team rosters will be open or closed during registration?"
+msgstr "¿En que momento se podrá registrar el roster ?"
+
+msgid "Ask teams for their regional preference during registration?"
+msgstr "¿En que momento se podrá seleccionar región?"
+
+msgid ""
+"Ask teams whether they want to use attendance tracking during registration?"
+msgstr "¿En que momento se podrá habilitar el registro de asistencia?"
+
+msgid ""
+"You are editing %s settings. You should update only those that differ from "
+"the default. To use the default for text fields, simply leave the field "
+"blank."
+msgstr ""
+"Estas editando las opciones para %s. Deberías actualizar solo aquellos que "
+"son diferentes a los preestablecidos. Para utilizar los textos de los campos "
+"preestablecidos simplemente deja la casilla en blanco."
+
+msgid ""
+"You are editing the global system settings. These will be used for any "
+"affiliate that does not override them."
+msgstr ""
+"Estás editando las preferencias globales del sistema. Este será usado por "
+"cualquier afiliado que no los sobre escriba."
+
+msgid "Default"
+msgstr "Preestablecidos"
+
+msgid "(between 0 and %d)"
+msgstr "(entre 0 y %d)"
+
+msgid "Assign penalty for missing score entry?"
+msgstr "¿Se penalizará por errores al ingresar marcador?"
+
+msgid "Spirit assigned to"
+msgstr "Espíritu asignado a"
+
+msgid "Tasks"
+msgstr "Tareas"
+
+msgid "Report To"
+msgstr "Reportar a"
+
+msgid "View Team Stats"
+msgstr "Ver estadísticas del equipo"
+
+msgid "Team Event"
+msgstr "Evento del equipo"
+
+msgid "Add a Team Event"
+msgstr "Agrega un evento del equipo"
+
+msgid "View Season Attendance Report"
+msgstr "Ver reporte de asistencia en la temporada"
+
+msgid "Join Team"
+msgstr "Entrar a un equipo"
+
+msgid "Edit Team"
+msgstr "Editar equipo"
+
+msgid "Player Emails"
+msgstr "Correo electrónico de los jugadores"
+
+msgid "Add Player"
+msgstr "Agregar jugador"
+
+msgid "See Team Spirit Report"
+msgstr "Ver el reporte de espíritu del equipo"
+
+msgid "Move Team"
+msgstr "Mover equipo"
+
+msgid "Delete Team"
+msgstr "Borrar equipo"
+
+msgid "Show Team History"
+msgstr "Mostrar historia del equipo"
+
+msgid "Connections"
+msgstr "Conecciones"
+
+msgid "Event Connections"
+msgstr "Eventos conectados"
+
+msgid ""
+"These two lists connect this event to events that have gone before. They "
+"will typically be the same. For more details see the help for each field."
+msgstr ""
+"Esta dos listas conectan este evento con previos. Estos típicamente son los "
+"mismos. Para mas detalles ver la ayuda para cada campo."
+
+msgid "Events to consider as predecessors to this one:"
+msgstr "Eventos a considerar como predecesores a este:"
+
+msgid "Select all that apply"
+msgstr "Escoge todos los que apliquen"
+
+msgid "Events that this one is considered a successor to:"
+msgstr "Eventos que pueden ser considerados como sucesores a:"
+
+msgid ""
+"These two lists connect this event to events that come later, and are "
+"generally not applicable when creating a new event. They will typically be "
+"the same. For more details see the help for each field."
+msgstr ""
+"Esta dos listas conectan este evento con posteriores y generalmente no "
+"aplica cuando se crea un evento nuevo. Estos típicamente son los mismos. "
+"Para mas detalles ver la ayuda para cada campo."
+
+msgid "Events that this one is considered a predecessor to:"
+msgstr "Eventos a los cuales este es considerado predecesor:"
+
+msgid "Events to consider as successors to this one:"
+msgstr "Eventos que son consideradores como sucesores de este:"
+
+msgid "Events to consider as alternates to this one:"
+msgstr "Eventos que son consideradores como alternos a este:"
+
+msgid "Full name of this registration event."
+msgstr "Nombre completo para este evento de registro."
+
+msgid "Complete description of the event, HTML is allowed."
+msgstr "Descripción completa del evento, formato HTML permitido."
+
+msgid ""
+"Note that any team type will result in team records being created. If you "
+"don't want this, then use the appropriate individual type."
+msgstr ""
+"Cualquier tipo de equipo crear records. Si tu no quieres esto, usa el tipo "
+"individual adecuado."
+
+msgid ""
+"Cost of this event, may be 0, <span class=\"error\">not including tax</span>."
+msgstr ""
+"Costo de este evento, debe estar entre 0, <span class=\"error\">sin incluir "
+"impuestos</span>."
+
+msgid ""
+"The date and time at which registration for this event will open (12:01AM "
+"recommended to disambiguate noon from midnight)."
+msgstr ""
+"La fecha y hora a la cual el registro de este evento se habilitará (12:01AM "
+"recomendado para evitar ambigüedades entre media noche y medio día)."
+
+msgid ""
+"The date and time at which registration for this event will close (11:59PM "
+"recommended to disambiguate midnight from noon)."
+msgstr ""
+"La fecha y hora a la cual el registro de este evento se cerrará (11:59PM "
+"recomendado para evitar ambigüedades entre media noche y medio día)."
+
+msgid "-1 for no limit."
+msgstr "-1 para no establecer límite."
+
+msgid "-1 for no limit, -2 to use male cap as combined limit."
+msgstr ""
+"-1 para no establecer límite., -2 para tener la restricción de hombres como "
+"una lista combinada"
+
+msgid "Can a single user register for this event multiple times?"
+msgstr "¿Un mismo usuario se puede registrar para este evento varias veces?"
+
+msgid "Rules that must be passed to allow a person to register for this event."
+msgstr ""
+"Reglas que deben tomarse en cuenta para permitirle a una persona registrarse "
+"a este evento."
+
+msgid "Manage %s"
+msgstr "Administra %s"
+
+msgid "Registration Events"
+msgstr "Eventos de registro"
+
+msgid "Registration Events List"
+msgstr "Lista de eventos de registro"
+
+msgid "Waiting List"
+msgstr "Lista de espera"
+
+msgid "Summary"
+msgstr "Resumenb"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Event Type"
+msgstr "Tipo de evento"
+
+msgid "Level of Play"
+msgstr "Nivel de juego"
+
+msgid "Membership Begins"
+msgstr "Comienza membresía"
+
+msgid "Membership Ends"
+msgstr "Termina membresía"
+
+msgid "Registration Opens"
+msgstr "Inicio de registro"
+
+msgid "Registration  Closes"
+msgstr "Clausura del registro"
+
+msgid "Registration Cap"
+msgstr "Restricciones al registro"
+
+msgid "Male Cap"
+msgstr "Restricción de hombres"
+
+msgid "Female Cap"
+msgstr "Restricción de mujeres"
+
+msgid "Multiples"
+msgstr "Múltiples"
+
+msgid "Register now!"
+msgstr "¡Regístrate ahora!"
+
+msgid "Register for "
+msgstr "Registro para"
+
+msgid "You might alternately be interested in the following registrations:"
+msgstr ""
+"Tu debes, de igual forma, estar interesado en los siguientes registros:"
+
+msgid "View %s"
+msgstr "Ver %s"
+
+msgid "Edit %s"
+msgstr "Editar %s"
+
+msgid "%s Summary"
+msgstr "Resumen %s"
+
+msgid "Detailed %s List"
+msgstr "Lista %s detallada"
+
+msgid "Download %s List"
+msgstr "Descarga %s lista"
+
+msgid "Preregistrations"
+msgstr "Pre-registro"
+
+msgid "Related %s"
+msgstr "%s relacionado"
+
+msgid "Person Id"
+msgstr "Identificador personal"
+
+msgid "Event Id"
+msgstr "Identificación del evento"
+
+msgid "Wizard"
+msgstr "Formado Wizard"
+
+msgid "Registration Wizard"
+msgstr "Formato Wizard para registros"
+
+msgid ""
+"This wizard walks you through registration options based on your current "
+"status. As you register for things, different options may appear here. You "
+"might also want to review our %s."
+msgstr ""
+"Esta forma wizard te ayudara en las opciones de registro basado en tu estado "
+"actual. Mientras te registrar para algo, diferentes opciones pueden "
+"aparecer. También puedes revisar nuestro %s."
+
+msgid "complete list of offerings"
+msgstr "completa la lista de ofertas"
+
+msgid "You are currently eligible for the following memberships."
+msgstr "Eres elegible para las siguientes membrecías."
+
+msgid "You are currently eligible to register a team in the following leagues."
+msgstr "Puedes registrar un equipo a las siguientes ligas."
+
+msgid ""
+"You are currently eligible to register as an individual in the following "
+"leagues."
+msgstr "Puedes registrate como individuo en las siguientes ligas."
+
+msgid "You are currently eligible to register a team for the following events."
+msgstr "Puedes regitrarte como equipo para el siguiente evento."
+
+msgid ""
+"You are currently eligible to register as an individual for the following "
+"events."
+msgstr "Puedes registrarte como individuo para este evento."
+
+msgid "You are currently eligible to register for the following clinics."
+msgstr "Actaulmente eres elegible para registrarte en las siguientes clínicas."
+
+msgid "You can register for the following social events."
+msgstr "Puedes registrarte para el este evento social."
+
+msgid ""
+"You are eligible to %s. A membership is typically required before you can "
+"sign up for team-related events."
+msgstr ""
+"Eres elegible para %s. Una membresía normalmente se requiere antes de que "
+"puedas anotarte para los eventos relacionados con un equipo."
+
+msgid "register for membership in the club"
+msgstr "registrate para una membresía en un club"
+
+msgid ""
+"You are eligible to %s. This is for team captains looking to add their team "
+"for the upcoming season."
+msgstr ""
+"Eres elegible para %s. Esto es para capitanes de equipo que estan buscando "
+"añadir su equipo a la próxima temporada."
+
+msgid "register a league team"
+msgstr "registra un equipo a la liga"
+
+msgid ""
+"You are eligible to %s. This is for individuals who do not already have a "
+"team and want to play on a \"hat team\"."
+msgstr ""
+"Eres elegible para %s. Esto es para individuos que no tienen ya un equipo y "
+"quieren participar en un \"hat team\"."
+
+msgid "register as an individual for league play"
+msgstr "registrate como individuo para jugar en una liga"
+
+msgid ""
+"You are eligible to %s. This is for team captains looking to add their team "
+"for a tournament or similar event."
+msgstr ""
+"Eres elegible para %s. Esto es para capitanes de equipos que buscan añadir "
+"su equipo a un torneo o un evento similar."
+
+msgid "register a team for a one-time event"
+msgstr "registrate como equipo para un envento de una sola vez"
+
+msgid ""
+"You are eligible to %s. This is for individuals who do not already have a "
+"team and want to play on a \"hat team\" in a tournament or similar event."
+msgstr ""
+"Eres elegible para %s. Esto es para individuos que no tienen ya un euqipo y "
+"quieren jugar en \"hat team\"  en un torneo o evento similar."
+
+msgid "register as an individual for a one-time event"
+msgstr "registrarte como individuo solamente para un evento"
+
+msgid "There are %s that you might be interested in."
+msgstr "Hay %s en los cuales puedes estar interesado a."
+
+msgid "upcoming clinics"
+msgstr "clínicas que se acercan"
+
+msgid "upcoming social events"
+msgstr "eventons sociales que se acercan"
+
+msgid "Handle Chase Error Email"
+msgstr "Ocuparse del Error de Búsqueda del Correo Electrónico"
+
+msgid "Open"
+msgstr "Abierto"
+
+msgid "map of all %s"
+msgstr "mapa de todos/as las/los %s"
+
+msgid "Layout"
+msgstr "Trazado"
+
+msgid "Close"
+msgstr "Cerrado"
+
+msgid "Code"
+msgstr "Codigo"
+
+msgid "Address"
+msgstr "Dirección"
+
+msgid "City"
+msgstr "Ciudad"
+
+msgid "Province"
+msgstr "Provincia"
+
+msgid "Driving Directions"
+msgstr "Instrucciones para llegar en auto"
+
+msgid "Parking Details"
+msgstr "Detalles del parque"
+
+msgid "Transit Directions"
+msgstr "Direcciones de transito"
+
+msgid "Biking Directions"
+msgstr "Instrucciones para llegar en bicicleta"
+
+msgid "Washrooms"
+msgstr "Regaderas"
+
+msgid "Special Instructions"
+msgstr "Instrucciones Especiales"
+
+msgid "Private Instructions"
+msgstr "Instrucciones Privadas"
+
+msgid "You must be logged in to see the private instructions for this site."
+msgstr ""
+"Tienes que iniciar sesión para ver las instrucciones privadas para este "
+"sitio."
+
+msgid "%s at this facility"
+msgstr "%s en esta instalación"
+
+msgid "Game Slots"
+msgstr "Ranura de Partido"
+
+msgid "Bookings"
+msgstr "Reservaciones"
+
+msgid "Availability and Bookings"
+msgstr "Disponibilidad y Reservaciones"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Start"
+msgstr "Comienzo"
+
+msgid "End"
+msgstr "Fin"
+
+msgid "Booking"
+msgstr "Reservando"
+
+msgid "open"
+msgstr "abierto"
+
+msgid "Surface"
+msgstr "Superficie"
+
+msgid "Map"
+msgstr "Mapa"
+
+msgid "Open in new window"
+msgstr "Abrir en nueva ventana"
+
+msgid "%s&nbsp;Permit"
+msgstr "%s&nbsp;Permiso"
+
+msgid "Facility Details"
+msgstr "Detalles de la instalación"
+
+msgid "Number"
+msgstr "Numero"
+
+msgid "Indoor"
+msgstr "Bajo techo"
+
+msgid "Click for map in new window"
+msgstr "Da click para ver el mata en una nueva ventana"
+
+msgid "Click for %s layout diagram in new window"
+msgstr "Da clic para %s ver el diagrama en una nueva ventana."
+
+msgid "Other %s at this facility"
+msgstr "Otras/os %s en estas instalaciones"
+
+msgid "Bookings "
+msgstr "Reservando"
+
+msgid "Add an Owner"
+msgstr "Añadir un Dueño"
+
+msgid "Add Team to Franchise"
+msgstr "Añadir Equipo a la Franquicia"
+
+msgid "Select a team from your history below to add to this franchise."
+msgstr ""
+"Selecciona a un equipo de tu historial de abajo para añadir a esta "
+"franquicia."
+
+msgid ""
+"Note that you can only add teams that you are a captain, assistant captain "
+"or coach of. This may necessitate temporarily transferring this franchise to "
+"someone else."
+msgstr ""
+"Nota que solo puedes añadir equipo de los cuales eres capitán, asistente de "
+"capitán o entrenador. Esto tal vez necesite que transfieras estas franquicia "
+"a alguien mas."
+
+msgid "unassigned"
+msgstr "sin asignar"
+
+msgid "Add team"
+msgstr "Añadir equipo"
+
+msgid "Franchises"
+msgstr "Franquicias"
+
+msgid "Franchise Details"
+msgstr "Detalles de franquicia"
+
+msgid "The full name of your franchise."
+msgstr "El nombre completo de tu franquicia."
+
+msgid "Your franchise's website, if you have one."
+msgstr "El sitio web de tu franquicia, en caso de tener uno."
+
+msgid "List Franchises"
+msgstr "Lista franquicias"
+
+msgid "Locate by letter: "
+msgstr "Encontrar por letra:"
+
+msgid "Owner(s)"
+msgstr "Dueño(s)"
+
+msgid "Add Team"
+msgstr "Añadir equipo"
+
+msgid "Edit Franchise"
+msgstr "Editar franquicia"
+
+msgid "Add Owner"
+msgstr "Añadir dueño"
+
+msgid "Delete Franchise"
+msgstr "Borrar franquicia"
+
+msgid "Starting with %s"
+msgstr "Comenzando con %s"
+
+msgid "Website"
+msgstr "Sitio web"
+
+msgid "Remove Team from this Franchise"
+msgstr "Quitar este equipo de esta franquicia"
+
+msgid "Are you sure you want to remove this %s?"
+msgstr "¿Estas seguro de que quieres quitar este %s?"
+
+msgid "%s Selection"
+msgstr "Selección de %s"
+
+msgid "Game start time"
+msgstr "Hora de comienzo del partido"
+
+msgid "Time for games in this timeslot to start."
+msgstr "Hora en que los juegos de esta ranura comenzaran."
+
+msgid "Game timecap"
+msgstr "'Timecap' para el partido"
+
+msgid ""
+"Time for games in this timeslot to end. Choose \"---\" to assign the default "
+"timecap (dark) for that week."
+msgstr ""
+"Tiempo que los juegos en esta ranura terminaran. Escoge \"---\" para asignar "
+"el 'timecap' predeterminado (oscuro) para esa semana."
+
+msgid "First date"
+msgstr "Primera fecha"
+
+msgid "Date of the first game slot to add."
+msgstr "Fecha de la primera ranura del partido para añadir."
+
+msgid "Weeks to repeat"
+msgstr "Semanas para repetir"
+
+msgid "Number of weeks to repeat this gameslot."
+msgstr "Numero de semanas para repetir esta ranura de partido."
+
+msgid "Make Gameslot Available To"
+msgstr "Hacer que la ranura de partido esté disponible para"
+
+msgid "Continue"
+msgstr "Continuar"
+
+msgid "Confirm"
+msgstr "Confirmar"
+
+msgid "Confirm %s"
+msgstr "Confirmar %s"
+
+msgid "Game slots will not be created on the following holidays:"
+msgstr "Una ranura de partido no será creada en los siguientes días festivos:"
+
+msgid "Create Slots"
+msgstr "Crear ranura"
+
+msgid "Game Slot"
+msgstr "Ranura de partido"
+
+msgid "Choose \"---\" to assign the default timecap (dark)."
+msgstr "Escoge \"---\" para asignar el 'timecap' preterminado (oscuro)."
+
+msgid "Submit Game Results"
+msgstr "Registra el resultado del partido"
+
+msgid "This game was:"
+msgstr "Este partido fue:"
+
+msgid "Game Date"
+msgstr "Fecha del partido"
+
+msgid "Game Start"
+msgstr "Inicio del partido"
+
+msgid "Game End"
+msgstr "Fin de partido"
+
+msgid " vs "
+msgstr "vs"
+
+msgid "Available to Divisions"
+msgstr "Disponibles para las divisiones"
+
+msgid "Game Time"
+msgstr "Hora del partido"
+
+msgid "Location"
+msgstr "Lugar"
+
+msgid "Totals"
+msgstr "Totales"
+
+msgid "Attendance: %s"
+msgstr "Asistencia: %s"
+
+msgid "Role"
+msgstr "Rol"
+
+msgid "Updated"
+msgstr "Actualización"
+
+msgid "Attendance Change"
+msgstr "Cambio de asistencia"
+
+msgid "You are attempting to change attendance for"
+msgstr "Estas intentando cambiar la asistencia para"
+
+msgid "Current status:"
+msgstr "Estado actuao"
+
+msgid "Possible attendance options are:"
+msgstr "Las posibles opciones de asistencia son:"
+
+msgid "You may optionally add a comment"
+msgstr "Pues, opcionalmente, añadir un comentario"
+
+msgid ""
+"You may optionally add a personal note which will be included in the "
+"invitation email to the player"
+msgstr ""
+"Puedes, de manera opcional, añadir una nota personal que sera incluida en la "
+"invitación via correo electrónico al jugador"
+
+msgid "Finalized"
+msgstr "Terminado"
+
+msgid "Emailed"
+msgstr "Correo electrónico enviado"
+
+msgid "DID NOT finalize or email"
+msgstr "No ha terminado o enviar correo electronico"
+
+msgid "between"
+msgstr "entre"
+
+msgid "status"
+msgstr "estado"
+
+msgid "%s attendance reminders sent"
+msgstr "Se han enviado los recordatorios de asistencia de %s"
+
+msgid "%s attendance summaries sent"
+msgstr "Se ha enviado el contro de asistencia de %s"
+
+msgid "Edit Game"
+msgstr "Editar partido"
+
+msgid "Home Team"
+msgstr "Equipo local"
+
+msgid "currently rated"
+msgstr "calificación actual"
+
+msgid "Away Team"
+msgstr "Equipo que es visita"
+
+msgid "Date and Time"
+msgstr "Fecha y Hora"
+
+msgid "Game Status"
+msgstr "Estado del partido"
+
+msgid "Round"
+msgstr "Ronda"
+
+msgid "Email all captains"
+msgstr "Evía un correo electrónico a todos los capitanes"
+
+msgid "Score Approved By"
+msgstr "Marcador aprobado por"
+
+msgid "Score not yet finalized"
+msgstr "Marcado aun no finalizado"
+
+msgid "Score as entered"
+msgstr "Marcador tal cual se llenó"
+
+msgid "Home Score"
+msgstr "Marcador del local"
+
+msgid "Away Score"
+msgstr "Marcador de la visita"
+
+msgid "Defaulted?"
+msgstr "¿Partido por default?"
+
+msgid "Entered By"
+msgstr "Llenado por"
+
+msgid "Entry Time"
+msgstr "Hora de entrada"
+
+msgid "Spirit Assigned"
+msgstr "Espíritu asignado"
+
+msgid "Edit Box Score"
+msgstr "Edita la casilla de marcador"
+
+msgid "Play"
+msgstr "Jugada"
+
+msgid "Add Score Detail"
+msgstr "Añadir detalles del marcador"
+
+msgid "Live Game Scoring"
+msgstr "Marcador en vivo"
+
+msgid "Finalize"
+msgstr "Finalizar"
+
+msgid "Pulling team"
+msgstr "Equipo que hace el pull"
+
+msgid "Game Note"
+msgstr "Nota del juego"
+
+msgid "Only I will be able to see this"
+msgstr "Solo yo podré ver esto"
+
+msgid "Only I and the captains of our team"
+msgstr "Solamente yo y los capitanes de nuestro equipo"
+
+msgid "Everyone on my team"
+msgstr "Todos en mi equipo"
+
+msgid "Emails are NOT sent to others when you edit an existing note."
+msgstr "No se envía correos electrónicos a otros cuando editas una nota."
+
+msgid ""
+"Everyone else that is allowed to see this note will be sent an email "
+"informing them. This is a good way to communicate with your teams."
+msgstr ""
+"Cualquier otra persona que tenga permitido ver esta nota, se le enviara un "
+"correo electrónico informándoles. Esta es una buena manera de mantener "
+"comunicación con tu equipo."
+
+msgid ""
+"Under no circumstance will the players on the other team, or anyone else, be "
+"able to see this."
+msgstr ""
+"Bajo ninguna circunstancia los jugadores de otros equipos, o quien sea, será "
+"capaza de ver esto."
+
+msgid "Ratings Table"
+msgstr "Tabla de calificaciones"
+
+msgid "View Ratings Table"
+msgstr "Ver la tabla de calificaciones"
+
+msgid "current"
+msgstr "actual"
+
+msgid "\"what if\""
+msgstr "\"que ocurriría si\""
+
+msgid "rating of"
+msgstr "calificación de"
+
+msgid "chance to win"
+msgstr "oportunidad de ganar"
+
+msgid "What if?"
+msgstr "¿Qué ocurriría si?"
+
+msgid "Stat Entry Sheet"
+msgstr "Hoja para estadisticas"
+
+msgid "Game Notes"
+msgstr "Notas del partido"
+
+msgid "Game Stats"
+msgstr "Estadisticas de partido"
+
+msgid "Subs"
+msgstr "Sustitutos"
+
+msgid "not yet entered"
+msgstr "todavía no ingresados"
+
+msgid "substitute"
+msgstr "sustitutos"
+
+msgid "Male"
+msgstr "Masculino"
+
+msgid "Female"
+msgstr "Femenino"
+
+msgid "league coordinator"
+msgstr "coordinador de la liga"
+
+msgid "Submit Game Stats"
+msgstr "Ingresar las estadísticas del partido"
+
+msgid "Show Only Applicable Stat Options"
+msgstr "Mostrar todas las estadísticas que se puedan aplicar"
+
+msgid "Show All Stat Options"
+msgstr "Mostrar todas las opciones de estadisticas"
+
+msgid "Show All Players"
+msgstr "Mostrar todos los jugadores"
+
+msgid "Show Only Attending Players"
+msgstr "Mostrar solamente a los jugadores que asistieron"
+
+msgid "Game %d"
+msgstr "%d de partido"
+
+msgid "View Game"
+msgstr "Ver partido"
+
+msgid "Click to view"
+msgstr "Dar click para ver"
+
+msgid "Delete Game"
+msgstr "Borrar partido"
+
+msgid "Spirit for"
+msgstr "Espíritu para"
+
+msgid "The score of this game has not yet been finalized."
+msgstr "El marcador de este partido todavía no termina."
+
+msgid ""
+"The final scores entered by the teams do not match, and the discrepancy has "
+"not been resolved."
+msgstr ""
+"Los marcadores finales que los equipos reportadorn no concuerdan y la "
+"diferencia no ha sido resuelta."
+
+msgid "A scorekeeper"
+msgstr "Quien lleva el marcador"
+
+msgid "%s reported the following in-progress score as of %s:"
+msgstr "%s reporto el siguiente marcador en progreso como:"
+
+msgid "%s reported the final score as:"
+msgstr "%s reporto el marcador minal como:"
+
+msgid "Incident Reports"
+msgstr "Reportes de incidentes"
+
+msgid "Reporting Team"
+msgstr "Equipo del reporte"
+
+msgid "Notes"
+msgstr "Notas"
+
+msgid "Are you sure you want to delete this note?"
+msgstr "¿Esta seguro de querer borrar esta nota?"
+
+msgid "Help"
+msgstr "Ayuda"
+
+msgid "Return to main help page"
+msgstr "Regresar a la página principal de ayuda"
+
+msgid "default"
+msgstr "no se presentó"
+
+msgid "Submit Stats"
+msgstr "Subir estadisticas"
+
+msgid "Live Score"
+msgstr "Marcador en vivo"
+
+msgid "Edit score"
+msgstr "Editar marcador"
+
+msgid "in progress"
+msgstr "en progreso"
+
+msgid "unofficial"
+msgstr "no oficial"
+
+msgid "score mismatch"
+msgstr "desventaja en el marcador"
+
+msgid "[Help]"
+msgstr "[Ayuda]"
+
+msgid "Additional help"
+msgstr "Ayuda adicional"
+
+msgid "unknown"
+msgstr "desconocido"
+
+msgid "Holiday"
+msgstr "Día festivo"
+
+msgid "List Holidays"
+msgstr "Listar días festivos"
+
+msgid "Holidays"
+msgstr "Día festivo"
+
+msgid "New Holiday"
+msgstr "Nuevo día festivo"
+
+msgid "Made the following ratings adjustments:"
+msgstr "Hacer los siguientes ajustes para la calificación:"
+
+msgid "games"
+msgstr "partidos"
+
+msgid "Adjusted"
+msgstr "Ajustado"
+
+msgid " and "
+msgstr " y "
+
+msgid "Closed the following divisions:"
+msgstr "Se cerraron las siguientes divisiones:"
+
+msgid "Opened the following divisions:"
+msgstr "Se abrieron las siguientes divisiones:"
+
+msgid "League Information"
+msgstr "Información de la liga"
+
+msgid ""
+"The full name of the league. Year and season will be automatically added."
+msgstr ""
+"El nombre completo de la liga. El año y la temporada serán añadidos "
+"automaticamente."
+
+msgid ""
+"The name of the first division in the league. If the league will only have "
+"one division, you can leave this blank."
+msgstr ""
+"El nombre de la primera división en tu liga. Si la liga solamente tiene una "
+"división, puedes dejar este espacio en blanco."
+
+msgid "Sport played in this league."
+msgstr "Deporte jugado en esta liga."
+
+msgid "Season during which this league's games take place."
+msgstr "Temporada durante la cual esta liga se efectuara."
+
+msgid ""
+"Number of attempts to generate a schedule, before taking the best option."
+msgstr ""
+"Numero de intentas para crear un calendario, antes de elegir la mejor opción."
+
+msgid "NOTE: If you set the questionnaire to \""
+msgstr "NOTA: Si tu elegiste que el cuestionario para \""
+
+msgid "Select which questionnaire to use for spirit scoring, or \""
+msgstr "Elige que cuestionario utilizar para la calificación de espíritu o \""
+
+msgid ""
+"Enable or disable the entry of a numeric spirit score, independent of the "
+"questionnaire selected above."
+msgstr ""
+"Habilita o deshabilita la posibilidad de la entrada de una calificación de "
+"espíritu de manera directa, independientemente del cuestionario seleccionado "
+"en la parte de arriba."
+
+msgid ""
+"Control spirit display. \"All\" shows numeric scores and survey answers (if "
+"applicable) to any player. \"Numeric\" shows game scores but not survey "
+"answers. \"Symbols Only\" shows only star, check, and X, with no numeric "
+"values attached. \"Coordinator Only\" restricts viewing of any per-game "
+"information to coordinators only."
+msgstr ""
+"Contro del desplegado de espíritu. \"All\" muestra la calificación numérica "
+"y las respuestas a la encuesta (en caso de que aplique) a cualquier jugador. "
+"\"Numeric\" muestra los resultados de los partidos pero no las respuestas en "
+"la encuesta. \"Symbols Only\" muestra solamente la estrella, la merca y X, "
+"sin ningún valor numérico adjunto. \"Coordinator Only\" restringe la "
+"información para que solamente el coordinarod la pueda ver. "
+
+msgid "Order of tie-breakers to use in standings."
+msgstr ""
+"Orden de los criterios de desempate para usar en la tabla de posiciones."
+
+msgid "Used as the size of the ratings table."
+msgstr "Usar del tamaño de la tabla de calificaciones."
+
+msgid "When to ask captains for game stats."
+msgstr "Cuando preguntar a los capitanes por las estadísticas del partido."
+
+msgid "League Schedule"
+msgstr "Calendario de la liga"
+
+msgid "League Standings"
+msgstr "Puestos en la liga"
+
+msgid "League Summary"
+msgstr "Resumen de la liga"
+
+msgid "Numeric Spirit?"
+msgstr "¿Espíritu numérico?"
+
+msgid "Max Score"
+msgstr "Puntuación maxima"
+
+msgid "Schedule Attempts"
+msgstr "Intentos de calendarización"
+
+msgid "Tie Breaker"
+msgstr "Criterio de desempate"
+
+msgid "Division Summary"
+msgstr "Resumen de la división"
+
+msgid "Games Before Repeat"
+msgstr "Partidos antes de repetir"
+
+msgid "Remind After"
+msgstr "Recordar despues"
+
+msgid "Finalize After"
+msgstr "Terminar después"
+
+msgid " from "
+msgstr " de "
+
+msgid "Stat Tracking"
+msgstr "Seguidor de estadisticas"
+
+msgid "User ID"
+msgstr "Numero de Usuario"
+
+msgid "Email Address"
+msgstr "Correo Electrónico"
+
+msgid "Postal Code"
+msgstr "Codigo Postal"
+
+msgid "Home Phone"
+msgstr "Teléfono en casa"
+
+msgid "Work Phone"
+msgstr "Teléfono en el trabajo"
+
+msgid "Work Ext"
+msgstr "Extensión en el trabajo"
+
+msgid "Mobile Phone"
+msgstr "Teléfono Celular"
+
+msgid "Birthdate"
+msgstr "Fecha de nacimiento"
+
+msgid "Height"
+msgstr "Altura"
+
+msgid "Skill Level"
+msgstr "Nivel de habilidades"
+
+msgid "Shirt Size"
+msgstr "Talla de playera"
+
+msgid "Added"
+msgstr "Añadido"
+
+msgid "Mailing List"
+msgstr "Lista de correos"
+
+msgid ""
+"Check this to allow recipients to unsubscribe from this mailing list. Be "
+"sure that your local privacy laws allow you to uncheck this before doing so."
+msgstr ""
+"Marca esto para permitir que las personas puedan salir de esta lista de "
+"correos. Asegurate que tus leyes de privacidad locales te permitan desmarcar "
+"esto antes de hacerlo."
+
+msgid "Rules that must be passed to include a person on this mailing list."
+msgstr ""
+"La regla debe ser aprobada para incluir a esta persona en la lista de "
+"correos."
+
+msgid "Mailing Lists"
+msgstr "Lista de correos"
+
+msgid "Delete Mailing List"
+msgstr "Borrar lista de correos para envio"
+
+msgid "Preview"
+msgstr "Previsualización"
+
+msgid "Opt Out"
+msgstr "Salir"
+
+msgid "Rule"
+msgstr "Regla"
+
+msgid "List Mailing Lists"
+msgstr "Listar lista de correos"
+
+msgid "Related Newsletters"
+msgstr "Boletines relacionados"
+
+msgid "Target"
+msgstr "Blanco"
+
+msgid "Delivery Report"
+msgstr "Reporte de envio"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "Delete Newsletter"
+msgstr "Borrar boletin"
+
+msgid "%s Editor"
+msgstr "Editor de %s"
+
+msgid "All %s"
+msgstr "Todos los/las %s"
+
+msgid "Show only open %s"
+msgstr "Solo muestra los %s abiertos"
+
+msgid "Show all %s"
+msgstr "Muestra todos los %s"
+
+msgid "%s Layout"
+msgstr "Desplegado de %s"
+
+msgid "Recipient"
+msgstr "Remitente"
+
+msgid "Date Sent"
+msgstr "Fecha de Envio"
+
+msgid "Newsletters"
+msgstr "Boletín"
+
+msgid ""
+"A short name for this newsletter, to be used as a heading in administrative "
+"reports."
+msgstr ""
+"Un nombre corto para este boletín, para ser utilizado como encabezado en los "
+"reportes administrativos."
+
+msgid "Email address that this newsletter should come from."
+msgstr "Dirección de correo electrónico de la cual este boletín debe venir."
+
+msgid ""
+"Email address that this newsletter should be sent to, if different than the "
+"From address. If the \"Personalize\" box is checked, this is ignored."
+msgstr ""
+"Dirección de correo electrónico a la que el boletín debe ser enviado, en "
+"caso de ser diferente de la dirección del remitente. Esto se ignorara si la "
+"casilla de \"Personalize\"  es marcada."
+
+msgid ""
+"Email address that replies to this newsletter should be sent to, if "
+"different than the From address."
+msgstr ""
+"Direcciones de correo electrónico que respondan a este boletón se deberá "
+"mandar a, en caso de que la dirección sea diferente de la del remitente."
+
+msgid "Subject line for emailing this newsletter."
+msgstr "Recuadro de tema para envio de este boletín."
+
+msgid "The full text of the newsletter."
+msgstr "Texto completo del boletín."
+
+msgid ""
+"Target date for sending this newsletter. For display purposes only; does not "
+"cause the newsletter to be sent on this date."
+msgstr ""
+"Elige una fecha para mandar este boletín. Para mostrarlo solamente; no "
+"necesariamente causa que se envie en esa fecha."
+
+msgid ""
+"Time (in minutes) between batches. Larger delays decrease the chance that "
+"sites like Hotmail will consider your email to be spam."
+msgstr ""
+"Tiempo (en minutos) entre cada lote. Más espacio entre lotes reduce la "
+"posibilidad de que sitios como Hotmail consideren tu correo electrónico como "
+"correo no deseado."
+
+msgid ""
+"Maximum number of newsletters to send in a single batch. Smaller batches "
+"decrease the chance that sites like Hotmail will consider your email to be "
+"spam."
+msgstr ""
+"Numero máximo de boletines para enviar en un solo lote. Entre más pequeño el "
+"lote reduce la posibilidad de que sitios como Hotmail consideren como correo "
+"electrónico como correo no deseado."
+
+msgid ""
+"Check this to personalize each email. This slows down the sending process "
+"and increases the amount of internet traffic your newsletter will generate."
+msgstr ""
+"Revisa esto para personalizar cada correo electrónico. Esto hace que el "
+"proceso de envio sea mas lento e incrementa el trafico de internet que tu "
+"boletín generará."
+
+msgid "Sending"
+msgstr "Enviando"
+
+msgid "Sent email to"
+msgstr "Enviar correo electrónico a"
+
+msgid "Test email sent to"
+msgstr "Prueba el envio de correo electrónico"
+
+msgid "To send yourself a test copy of this newsletter, %s."
+msgstr "Para que tu mismo mandes copias de este boletín, %s."
+
+msgid "To initiate delivery of this newsletter, %s."
+msgstr "Para iniciar el envio de este boletín, %s."
+
+msgid "Subject"
+msgstr "Tema"
+
+msgid "Text"
+msgstr "Texto"
+
+msgid "List Newsletters"
+msgstr "Listar Boletines"
+
+msgid "Add Relative"
+msgstr "Añadir Pariente"
+
+msgid "Relative"
+msgstr "Pariente"
+
+msgid "Approve Account"
+msgstr "Aprobar cuenta"
+
+msgid "%s User Id"
+msgstr "Numero de usuario de %s"
+
+msgid ""
+"The following users may be duplicates of this account (click to compare):"
+msgstr ""
+"Los siguientes usuarios pueden ser duplicados de la siguiente cuenta (da "
+"click para comparar):"
+
+msgid "This user should be:"
+msgstr "Este usuario debería ser:"
+
+msgid "Approve Badges"
+msgstr "Aprobar insignias"
+
+msgid "Reason"
+msgstr "Razón"
+
+msgid "Approve"
+msgstr "Aprobar"
+
+msgid "Edit Document"
+msgstr "Editar documento"
+
+msgid "Approve Document"
+msgstr "Documento aprobado"
+
+msgid "Approve Documents"
+msgstr "Documentos aprobados"
+
+msgid "Approve Photos"
+msgstr "Fotos aprobadas"
+
+msgid "Credits"
+msgstr "Creditos"
+
+msgid "Unused Credits"
+msgstr "Creditos sin usar"
+
+msgid "Initial Amount"
+msgstr "Cantidad inicial"
+
+msgid "Amount Used"
+msgstr "Cantidad utilizada"
+
+msgid "Membership welcome letters"
+msgstr "Cartas de bienvenida a la membrecía"
+
+msgid "Emailed %d membership letters."
+msgstr "Carta de membrecía %d enviada."
+
+msgid "Upload Document"
+msgstr "Subir documento"
+
+msgid "Upload"
+msgstr "Subir"
+
+msgid "Edit Your Profile"
+msgstr "Edita tu perfil"
+
+msgid "Photo"
+msgstr "Foto"
+
+msgid "Profile Photo"
+msgstr "Foto de perfil"
+
+msgid "Identity"
+msgstr "Identidad"
+
+msgid "First (and, if desired, middle) name."
+msgstr "Nombre de pila (con segundo nombre, si lo deseas)."
+
+msgid ""
+"To prevent system abuses, this can only be changed by an administrator. To "
+"change this, please email your new name to "
+msgstr ""
+" Para evitar abusos en el sistema, esto solamente puede ser cabiado por el "
+"administrador. Para cambiar tu nombre por favor envía el nuevo a "
+
+msgid ""
+"To prevent system abuses, this can only be changed by an administrator. To "
+"change this, please email your gender to "
+msgstr ""
+"Para evitar abusos en el sistema, esto solamente puede ser cabiado por el "
+"administrador. Para cambiar tu genero, por favor manda un correo electrónico "
+"a "
+
+msgid "Select all affiliates you are interested in."
+msgstr "Elige los afiliados en los que estas interesado."
+
+msgid ""
+"Note that affiliates you are already a manager of (%s) are not included "
+"here; this will remain unchanged."
+msgstr ""
+"Nota que los afiliados de los cuales ya eres manager (%s) no estan incluidos "
+"aquí; esto quedara sin cambio."
+
+msgid "Online Contact"
+msgstr "Contacto en Linea"
+
+msgid "Allow other players to view my email address"
+msgstr ""
+"Permitir que otros jugadores puedan ver tu dirección de correo electrónico"
+
+msgid "Show Gravatar image for your account?"
+msgstr "¿Quieres que se muestre una imagen Gravatar para tu cuenta?"
+
+msgid "Street Address"
+msgstr "Dirección"
+
+msgid "Street and Number"
+msgstr "Calle y numero"
+
+msgid "Number, street name, and apartment number if necessary."
+msgstr ""
+"Numero, nombre de la calle y numero de departamento, en caso de ser "
+"necesario."
+
+msgid ""
+"To prevent system abuses, this can only be changed by an administrator. To "
+"change this, please email your new address to "
+msgstr ""
+"Para evitar abusos en el sistema, esto solamente puede ser cambiado por el "
+"administrador. Para cambiarlo, por favor envía por correo electrónico tu "
+"nueva dirección a "
+
+msgid "Name of city."
+msgstr "Nombre de la ciudad."
+
+msgid "Select a province/state from the list"
+msgstr "Elige una provincia/estado de la lista"
+
+msgid "Country"
+msgstr "País"
+
+msgid "Select a country from the list."
+msgstr "Elige un país de la lista."
+
+msgid ""
+"Please enter a correct postal code matching the address above. %s uses this "
+"information to help locate new %s near its members."
+msgstr ""
+"Por favor ingresa el numero de código postal que concuerde con la dirección "
+"de arriba. %s utiliza esta información para localizar nuevos %s cerca de sus "
+"miembros."
+
+msgid ""
+"Enter your home telephone number. If you have only a mobile phone, enter "
+"that number both here and below."
+msgstr ""
+"Ingresa tu numero telefónico de casa. Si soloamente tienes un teléfono "
+"celular, ingresa ese numero aquí y abajo."
+
+msgid ""
+"To prevent system abuses, this can only be changed by an administrator. To "
+"change this, please email your new phone number to "
+msgstr ""
+" Para evitar abusos en el sistema esto sólo puede ser cambiado por el "
+"administrador. Para cambiar esto por favor envía por correo electrónico con "
+"tu nuevo numero telefónico a "
+
+msgid "Allow other players to view home number"
+msgstr "Permite que otros jugadores vean tu numero de casa"
+
+msgid "Enter your work telephone number (optional)."
+msgstr "Ingresa tu numero telefónico de tu trabajo (opcional)."
+
+msgid "Enter your work extension (optional)."
+msgstr "Ingresa tu extensión del trabajo (opcional)."
+
+msgid "Allow other players to view work number"
+msgstr "Permite que otros jugadores vean tu numero de trabajo"
+
+msgid "Enter your cell or pager number (optional)."
+msgstr "Ingresa tu numero de celular o de localizador (opcional)."
+
+msgid "Allow other players to view mobile number"
+msgstr "Permita que otros jugadores vean tu numero de celular"
+
+msgid "Account Information"
+msgstr "Información de cuenta"
+
+msgid "Account Type"
+msgstr "Tipo de Cuenta"
+
+msgid "Player Information"
+msgstr "Información del jugador"
+
+msgid "Please use the questionnaire to "
+msgstr "Por favor, utiliza el cuestionario para "
+
+msgid "calculate your rating"
+msgstr "calcula tu calificación"
+
+msgid ""
+"To prevent system abuses, this can only be changed by an administrator. To "
+"change this, please email your new skill level to "
+msgstr ""
+" Para evitar abusos en el sistema esto sólo puede ser cambiado por el "
+"administrador. Para cambiar esto por favor envía por correo electrónico tu "
+"nuevo nivel de habilidad "
+
+msgid ""
+"To prevent system abuses, this can only be changed by an administrator. To "
+"change this, please email your correct year started to "
+msgstr ""
+" Para evitar abusos en el sistema esto sólo puede ser cambiado por el "
+"administrador. Para cambiar esto por favor envía por correo electrónico la "
+"fecha correcta en la que iniciaste "
+
+msgid ""
+"Please enter a correct birthdate; having accurate information is important "
+"for insurance purposes."
+msgstr ""
+"Por favor ingresa tu fecha de nacimiento correcta; tener información "
+"fidedigna es importante para fines de aseguradora."
+
+msgid ""
+"To prevent system abuses, this can only be changed by an administrator. To "
+"change this, please email your correct birthdate to "
+msgstr ""
+" Para evitar abusos en el sistema esto sólo puede ser cambiado por el "
+"administrador. Para cambiar esto por favor envía por correo electrónico tu "
+"fecha de nacimiento correcta "
+
+msgid ""
+"Please enter your height in inches (5 feet is 60 inches; 6 feet is 72 "
+"inches). This is used to help generate even teams for hat leagues."
+msgstr ""
+"Por favor ingresa tu altura en pulgadas (5 pies son 60 pulgadas; 6 pies son "
+"72 pulgadas). Esto se usa para crear equipos equitativos en la liga hat."
+
+msgid ""
+"To prevent system abuses, this can only be changed by an administrator. To "
+"change this, please email your new height to "
+msgstr ""
+" Para evitar abusos en el sistema esto sólo puede ser cambiado por el "
+"administrador. Para cambiar esto, por favor envía por correo electrónico tu "
+"nueva altura "
+
+msgid ""
+"To prevent system abuses, this can only be changed by an administrator. To "
+"change this, please email your new shirt size to "
+msgstr ""
+"Para evitar abusos en el sistema esto sólo puede ser cambiado por el "
+"administrador. Para cambiar esto, por favor envía por correo electrónico tu "
+"nueva talla de playera a "
+
+msgid "Inactive Search"
+msgstr "Busqueda inactiva"
+
+msgid "Search %s"
+msgstr "Buscar %s"
+
+msgid "League Search"
+msgstr "Buscar liga"
+
+msgid "New Accounts"
+msgstr "Nueva cuenta"
+
+msgid "No accounts to approve."
+msgstr "No hay cuentas para aprobar."
+
+msgid "Nominate for a Badge"
+msgstr "Nomiar para insignia"
+
+msgid "Assign a Badge"
+msgstr "Asigniar insignia"
+
+msgid "Assign \"%s\" Badge to %s"
+msgstr "Asignar la insignia de \"%s\" a %s"
+
+msgid "Nominate %s for the \"%s\" Badge"
+msgstr "Nominar a %s para la insignia de \"%s\""
+
+msgid "Participation Statistics"
+msgstr "Estadisticas de los participantes"
+
+msgid "Include details starting in"
+msgstr "Incluir los detalles comenzando en"
+
+msgid "Up to and including"
+msgstr "Hasta e incluyendo"
+
+msgid ""
+"Note that this report is time- and memory-intensive, and multi-year reports "
+"may cause it to crash, depending on php.ini settings."
+msgstr ""
+"Nota que este reporte es intenso con el tiempo y la meoria y los reportes de "
+"varios años pueden causar que el sistema falle, dependiendo de la "
+"configuración del php.ini."
+
+msgid "Year Started"
+msgstr "Año de comienzo"
+
+msgid "captain"
+msgstr "capitan"
+
+msgid "tournament"
+msgstr "torneo"
+
+msgid "Resize Photo"
+msgstr "Cambiar el tamaño de la foto"
+
+msgid "Upload Photo"
+msgstr "Subir foto"
+
+msgid "Preferences"
+msgstr "Preferencias"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid ""
+"You have authorized your account to post updates to Twitter. You can %s if "
+"you no longer want to tweet updates."
+msgstr ""
+"Has autorizado para que tu cuenta publique actualizaciones en Twitter. "
+"Puedes %s en caso de que en algún momento ya no quieras esto."
+
+msgid "revoke this authorization"
+msgstr "revoca esta autorización"
+
+msgid ""
+"This system can post certain updates to Twitter on your behalf. To enable "
+"this, you must %s. Note that nothing will ever be tweeted automatically; "
+"this authorization enables you to tweet directly from this site."
+msgstr ""
+"Este sistema puede publicar ciertas actualizaciones en Twitter de tu parte. "
+"Para permitir esto tu debes %s. Nota que esto no hara que se manden tweets "
+"automaticos; esta autorización permite que mandes tweets directos de este "
+"sitio."
+
+msgid "authorize Twitter to accept these tweets"
+msgstr "autoriza Twitter par apoder aceptar estos tweets"
+
+msgid "Registration History"
+msgstr "Historial de Registro"
+
+msgid "Unregister"
+msgstr "No registrados"
+
+msgid "Membership Retention Statistics"
+msgstr "Estadisticas de Retención de Membrecías"
+
+msgid "Membership Registration"
+msgstr "Registro de Membrecías"
+
+msgid "Total Prior"
+msgstr "Total anteriores"
+
+msgid "Total Registered"
+msgstr "Total de registros"
+
+msgid "% Prior"
+msgstr "Anterior %s"
+
+msgid "Rule-based Search"
+msgstr "Busqueda con lienamientos"
+
+msgid "enter a rule and find people who match"
+msgstr "anota lineamiento y encuentra a toda la gente que coincida con este"
+
+msgid "find everyone participating in a particular league"
+msgstr "encuentra a todos lo que estan participando en alguna liga"
+
+msgid "find all inactive users (not currently on any team)"
+msgstr ""
+"encuentra a todos los jugadores inactivos (que no estan en ningún equipo"
+
+msgid "Statistics"
+msgstr "Estadisticas"
+
+msgid "Player Statistics"
+msgstr "Estadisticas del Jugador"
+
+msgid "Players by Account Status"
+msgstr "Jugadores por Estado de su cuenta"
+
+msgid "Players by Account Class"
+msgstr "Jugadores por clase de cuenta"
+
+msgid "Class"
+msgstr "Clase"
+
+msgid "Players by Gender"
+msgstr "Jugadores por genero"
+
+msgid "Players by Age"
+msgstr "Jugadores por edad"
+
+msgid "Age"
+msgstr "Edad"
+
+msgid "Players by Year Started"
+msgstr "Jugadores por año de comienzo"
+
+msgid "Year"
+msgstr "Año"
+
+msgid "Players by Skill Level"
+msgstr "Jugadores por habilidades de juego"
+
+msgid "Players by City"
+msgstr "Jugadores por ciudad"
+
+msgid "Team History"
+msgstr "Historia del equipo"
+
+msgid "work"
+msgstr "trabajo"
+
+msgid "mobile"
+msgstr "celular"
+
+msgid "Private Note"
+msgstr "Nota privada"
+
+msgid "Zuluru User Id"
+msgstr "Numero de Usuario en Zuluru"
+
+msgid "Phone (home)"
+msgstr "Teléfono (casa)"
+
+msgid "Phone (work)"
+msgstr "Teléfono (trabajo)"
+
+msgid "Phone (mobile)"
+msgstr "Teléfono (celular)"
+
+msgid "inches"
+msgstr "pulgadas"
+
+msgid "Account Class"
+msgstr "Clase de cuenta"
+
+msgid "Account Status"
+msgstr "Estado de la Cuenta"
+
+msgid "Has Dog"
+msgstr "Tiene un perro"
+
+msgid "Willing To Volunteer"
+msgstr "Dispuesto a ser voluntario"
+
+msgid "Contact For Feedback"
+msgstr "Contactar para retroalimentación"
+
+msgid "Edit Profile"
+msgstr "Modificar perfil"
+
+msgid "Edit Preferences"
+msgstr "Editar preferencias"
+
+msgid "Change Password"
+msgstr "Cambiar contraseña"
+
+msgid "Delete Player"
+msgstr "Borrar jugador"
+
+msgid "on"
+msgstr "encendido"
+
+msgid "Relatives"
+msgstr "Parientes"
+
+msgid "Approved"
+msgstr "Aprobado"
+
+msgid "You"
+msgstr "Tú/Ustedes"
+
+msgid "can control"
+msgstr "puede controlar"
+
+msgid "you"
+msgstr "tú/ustedes"
+
+msgid "Link a new relative"
+msgstr "Enlaza un nuevo pariente"
+
+msgid "Allstar Nominations"
+msgstr "Nominaciones para el equipo de estrellas"
+
+msgid "Add Preregistration"
+msgstr "Añadir pre-registro"
+
+msgid "Recent Registrations"
+msgstr "Registros recientes"
+
+msgid "Payment"
+msgstr "Pago"
+
+msgid "Show Registration History"
+msgstr "Mostrar el historial de registros"
+
+msgid "Available Credits"
+msgstr "Creditos disponibles"
+
+msgid "Show Credit History"
+msgstr "Mostrar Historial de Credito"
+
+msgid "Signed"
+msgstr "Firmado"
+
+msgid "Valid From"
+msgstr "Valido desde"
+
+msgid "Valid Until"
+msgstr "Valido hasta"
+
+msgid "Show Waiver History"
+msgstr "Mostrar historial de exenciones de responsabilidad"
+
+msgid "Documents"
+msgstr "Documentos"
+
+msgid "Document"
+msgstr "Documento"
+
+msgid "Unapproved"
+msgstr "Sin aprovar"
+
+msgid "Upload New Document"
+msgstr "Subir Nuevo Documento"
+
+msgid "Assigned Tasks"
+msgstr "Tarea asignada"
+
+msgid "Waiver History"
+msgstr "Historial de exenciones de responsabilidad"
+
+msgid "covering"
+msgstr "cubriendo"
+
+msgid "to"
+msgstr "para"
+
+msgid "Sign"
+msgstr "Firmar"
+
+msgid "Event ID"
+msgstr "Numero de identificación del evento"
+
+msgid "List Preregistrations"
+msgstr "Lista de preregistros"
+
+msgid "New Preregistration"
+msgstr "Preregistro nuevo"
+
+msgid "Questionnaires"
+msgstr "Cuestionarios"
+
+msgid "New %s"
+msgstr "Nuevo %s"
+
+msgid "Questionnaire Preview"
+msgstr "Previsualización del Cuestionario"
+
+msgid "Delete %s"
+msgstr "Borrar %s"
+
+msgid ""
+"A short name for this question, to be used as a heading in administrative "
+"reports."
+msgstr ""
+"Una forma corta para esta pregunta, para ser el encabezado en el reporte "
+"administrativo."
+
+msgid "The full text of the question, to be shown to users."
+msgstr "El texto completo de la pregunta que se mostrara a los usuarios."
+
+msgid "Will responses to this question be kept anonymous?"
+msgstr "¿Las respuestas de este cuestionario se mantendrán anónimas?"
+
+msgid "Answer"
+msgstr "Respuesta"
+
+msgid "Add an answer to this question"
+msgstr "Añade una respuesta a esta pregunta"
+
+msgid "Id"
+msgstr "Numero de identificación"
+
+msgid "Regions"
+msgstr "Regiones"
+
+msgid "Delete Region"
+msgstr "Borra región"
+
+msgid "Add Region"
+msgstr "Añade Region"
+
+msgid "Is Open"
+msgstr "Esta abierto"
+
+msgid "New Facility"
+msgstr "Nueva instalación"
+
+msgid "List Regions"
+msgstr "Lista tu region"
+
+msgid "Edit Region"
+msgstr "Edita tu región"
+
+msgid "%s Payment"
+msgstr "Pago de %s"
+
+msgid "Payment Details"
+msgstr "Detalles del pago"
+
+msgid "Checkout"
+msgstr "Checar la salida"
+
+msgid "Registration Checkout"
+msgstr "Salida del Registro"
+
+msgid ""
+"These are your current unpaid registrations. To remove one, click the "
+"\"Unregister\" button; note that this will delete all of your preferences "
+"and you may lose the spot that is currently tentatively reserved for you."
+msgstr ""
+"Estas son tus resgistros sin pagar actuales. Para quitr alguno de click en "
+"el botón de \"Unregister\", nota que esto borrara todas tus preferencias y "
+"puedes perder el lugar tentativo que actualmente estar reservado para ti."
+
+msgid ""
+"<span class=\"highlight-message\">Payment completes your registration and "
+"confirms your booking/purchase.</span>"
+msgstr ""
+"<span class=\"highlight-message\">El pago completa tu registro y confirma tu "
+"reservación/compra.</span>"
+
+msgid "You may also %s and register for something else before paying."
+msgstr "Tambien puedes %s y registrarte para algo más antes de pagar."
+
+msgid "view the event list"
+msgstr "ver la lista del evento"
+
+msgid "If you want to pay online with "
+msgstr "Si quieres pagar en línea con "
+
+msgid "Order ID"
+msgstr "Numero de Identificación de la orden"
+
+msgid ""
+"Are you sure you want to unregister from this event? This will delete all of "
+"your preferences and you may lose the spot that is currently tentatively "
+"reserved for you."
+msgstr ""
+"¿Estas seguro que deseas quitar tu registro de este evento? Esto borrara "
+"todas tus preferenias y además perderas tu lugar tentativo que actualmente "
+"esta reservado para ti."
+
+msgid ""
+"&reg; Trade-mark of Interac Inc. Used under licence. <a href=\"http://www."
+"interaconline.com/learn/\" target=\"_blank\">Learn more</a> about INTERAC "
+"Online."
+msgstr ""
+"&reg; es una Marca Regitrada de Interac Inc. Usado con la licencia de <a "
+"href=\"http://www.interaconline.com/learn/\" target=\"_blank\">para más "
+"información </a> sobre INTERAC en linea."
+
+msgid "Credit"
+msgstr "Credito"
+
+msgid "Credit Details"
+msgstr "Detalles del Credito"
+
+msgid "Registrations"
+msgstr "Registro"
+
+msgid "Registration Details"
+msgstr "Detalles del Registro"
+
+msgid "Registration Answers"
+msgstr "Respuestas sobre el Registro"
+
+msgid "Registration List"
+msgstr "Lista de Registros"
+
+msgid "Online Transaction Result"
+msgstr "Resultados de la Transacción en linea"
+
+msgid "Refund"
+msgstr "Reembolso"
+
+msgid "Refund Details"
+msgstr "Detalles del reembolso"
+
+msgid ""
+"This payment was recorded manually, so in addition to noting the refund here "
+"you will need to issue a refund manually."
+msgstr ""
+"El pago se registro de forma manual, por lo tanto, además de tener la nota "
+"del reembolso aquí tendras que hacerlo manualmnte."
+
+msgid ""
+"Note that your online payment provider does not currently support automatic "
+"refunds, so in addition to noting the refund here you will need to issue a "
+"refund manually."
+msgstr ""
+"Nota que tu proveedor de pagos en línea no tiene la opción de reembolso "
+"automatico, por lo tanto, aparte tener la nota de el reembolso aquí, tendras "
+"que tramitar el reembolso manualmente."
+
+msgid "Registration Preferences"
+msgstr "Preferencias de registro"
+
+msgid ""
+"Note that you are only adding yourself to the waiting list for this event. "
+"You will be contacted if a space opens up at a later time."
+msgstr ""
+"Note que solo se esta añadiendo a la lista de espera del evento. Sera "
+"contactado en caso de que un espacio se abra."
+
+msgid "Report"
+msgstr "Reporte"
+
+msgid "Registration Report"
+msgstr "Reporte de registro"
+
+msgid "Date Range"
+msgstr "Rango de fechas"
+
+msgid "Created Date"
+msgstr "Fecha de creación"
+
+msgid "Amount"
+msgstr "Cantidad"
+
+msgid "Download %s Report"
+msgstr "Baja el reporte %s"
+
+msgid "Registration Statistics"
+msgstr "Estadisticas del registro"
+
+msgid "Registration Summary"
+msgstr "Sumario del registro"
+
+msgid "By gender:"
+msgstr "Por genero:"
+
+msgid "By payment:"
+msgstr "Por pago:"
+
+msgid "Transfer"
+msgstr "Transferencia"
+
+msgid "Transfer Details"
+msgstr "Detalles de la transferencia"
+
+msgid "Unpaid"
+msgstr "Sin pagar"
+
+msgid "Unpaid Registrations"
+msgstr "Registro sin pagar"
+
+msgid "Player / Event"
+msgstr "Jugador / Evento"
+
+msgid "Are you sure you want to delete this registration?"
+msgstr "¿Estas seguro de querer borrar este registro?"
+
+msgid "View Registration"
+msgstr "Ver el registro"
+
+msgid "Edit Registration"
+msgstr "Editar su registro"
+
+msgid "Total Amount"
+msgstr "Montal total"
+
+msgid "Created"
+msgstr "Creado"
+
+msgid "Modified"
+msgstr "Modificado"
+
+msgid "Payment Type"
+msgstr "Tipo de pago"
+
+msgid "Payment Amount"
+msgstr "Monto a pagar"
+
+msgid "(%s refunded; see below)"
+msgstr "(%s reembolso; ver abajo)"
+
+msgid "Payment Date"
+msgstr "Fecha de pago"
+
+msgid "Online payment"
+msgstr "Pago en linea"
+
+msgid "Updated By"
+msgstr "Actualizado por"
+
+msgid "Response Code"
+msgstr "Codigo de respuesta"
+
+msgid "ISO Code"
+msgstr "Codigo ISO"
+
+msgid "Transaction Id"
+msgstr "Numero de identificación de la transacción"
+
+msgid "Approval Code"
+msgstr "Codigo de aprovación"
+
+msgid "Transaction Name"
+msgstr "Nombre de la transacción"
+
+msgid "Charge Total"
+msgstr "Cargo total"
+
+msgid "Cardholder"
+msgstr "Tarjetahabiente"
+
+msgid "Expiry"
+msgstr "Expira"
+
+msgid "F4L4"
+msgstr "F4L4"
+
+msgid "Card"
+msgstr "Tarjeta"
+
+msgid "Issuer"
+msgstr "Emisor"
+
+msgid "Issuer Invoice"
+msgstr "Factura del emisor"
+
+msgid "Issuer Confirmation"
+msgstr "Confirmación del emisor"
+
+msgid "Issue Refund"
+msgstr "Emitir Reembolso"
+
+msgid "Issue Credit"
+msgstr "Tramita un Credito"
+
+msgid "Transfer Payment"
+msgstr "Transferir Pago"
+
+msgid "Balance"
+msgstr "Balance"
+
+msgid "There is an outstanding balance of $%0.2f."
+msgstr "Hay un balance sobresaliente de $%0.2f."
+
+msgid "Add Payment"
+msgstr "Añadir Pago"
+
+msgid "Modified Date"
+msgstr "Modificar la Fecha"
+
+msgid "Confirm Selections"
+msgstr "Confirmar Selección"
+
+msgid " (pool names are %s)"
+msgstr "(los nombres de los grupos son %s)"
+
+msgid "Create games"
+msgstr "Crear partidos"
+
+msgid "Number of Crossovers"
+msgstr "Numero de cruces"
+
+msgid "How many crossover games do you want?"
+msgstr "¿Cuántos partidos de cruce quieres?"
+
+msgid "Next step"
+msgstr "Proximo Paso"
+
+msgid "Select Date"
+msgstr "Selecciona la Fecha"
+
+msgid "Scheduling a %s will create a total of "
+msgstr "Programar un %s va a crear un total de"
+
+msgid "%d games across a minimum of %d time slots."
+msgstr "%d juegos a través de un minimo de %s ranuras de hora."
+
+msgid "%d games."
+msgstr "juegos %d."
+
+msgid "Schedule games in the past"
+msgstr "Programe juegos en el pasado"
+
+msgid "Daily Schedule"
+msgstr "Programación diaria"
+
+msgid "Delete Games"
+msgstr "Borrar juegos"
+
+msgid "contact all captains"
+msgstr "ponte en contacto con todos los capitanes"
+
+msgid "Proceed"
+msgstr "Procede"
+
+msgid "Set Pool Details"
+msgstr "Crea los Detalles para los Grupos"
+
+msgid "Number of Teams"
+msgstr "Numero de Equipos"
+
+msgid "Select Exclusions"
+msgstr "Selecciona las Exclusiones"
+
+msgid "create a playoff schedule"
+msgstr "crear un calendario para los playoff"
+
+msgid "Create Pools"
+msgstr "Crear Grupos"
+
+msgid "Reschedule Day"
+msgstr "Día Recalendarizado"
+
+msgid "Schedule Reschedule"
+msgstr "Calendario Recalendarizado"
+
+msgid "You are about to reschedule %d games originally scheduled for %s."
+msgstr ""
+"Estás a punto de recalendarizar los juegos de %s que originalmente estaban "
+"programados para %s."
+
+msgid "Reschedule games to"
+msgstr "Recalendarizar los partidos para"
+
+msgid "Publish rescheduled games for player viewing?"
+msgstr ""
+"¿Quieres publicar los juegos re calendarizados para que los jugadores los "
+"puedan ver? "
+
+msgid "Are you sure you want to reschedule these games? This cannot be undone."
+msgstr ""
+"¿Estas seguro que quieres re calendarizar estos partidos? Esto no se podría "
+"deshacer."
+
+msgid "Crossover Details"
+msgstr "Detalles para el cruzamiento"
+
+msgid "Re-seeding Details"
+msgstr "Detalles para la re-siembra"
+
+msgid "Pool"
+msgstr "Grupo"
+
+msgid "Qualifier"
+msgstr "Clasificador"
+
+msgid "No games today"
+msgstr "No hay juegos el día de hoy"
+
+msgid "%d games today"
+msgstr "%s juegos para hoy"
+
+msgid "Select Type"
+msgstr "Selecciona el Tipo"
+
+msgid "Are you sure you want to delete %s # %d?"
+msgstr "¿Esta seguro que quiere borrar %s # %d?"
+
+msgid "Publish created games for player viewing?"
+msgstr "¿Publicar los juegos creados para que los jugadores puedan verlos?"
+
+msgid "Settings"
+msgstr "Opciones"
+
+msgid "Sender"
+msgstr "Remitente"
+
+msgid "Feature"
+msgstr "Caracteristicas"
+
+msgid "Primary Options"
+msgstr "Opciones Primarias"
+
+msgid "Team-related Features"
+msgstr "Caracteristicas relacionadas con el equipo"
+
+msgid "User-related Features"
+msgstr "Caracteristicas relacionadas con el usuario"
+
+msgid "Twitter Features"
+msgstr "Caracteristicas para Twitter"
+
+msgid "Organization"
+msgstr "Organización"
+
+msgid "Location and Mapping"
+msgstr "Localización y Mapeo"
+
+msgid "Online Payments"
+msgstr "Pagos en Linea"
+
+msgid "Common Options"
+msgstr "Opciones Comunes"
+
+msgid "Registration Configuration"
+msgstr "Configuación del Registro"
+
+msgid "Defaulted Games"
+msgstr "Partidos ganados por ausencia"
+
+msgid "Spirit Scores"
+msgstr "Calificación de Espíritu"
+
+msgid ""
+"By using various combinations of questions and numeric entry above, you can "
+"have just the questionnaire, just the numeric entry, both or neither."
+msgstr ""
+"Utilizando varias combinaciones de preguntas y entradas de números  en la "
+"parte de arriba, puedes tener solamente el cuestionario, los numero, ambos o "
+"ninguno."
+
+msgid ""
+"The values set above will be the default value for leagues, but can be "
+"overridden on a per-league basis."
+msgstr ""
+"Los valores establecidos en la parte de arriba serán los valores "
+"predeterminados para la liga, pero pueden ser cambiados en una situación per-"
+"liga."
+
+msgid "Score Entry Features"
+msgstr "Registrar las Caracteristicas de la Entrada"
+
+msgid "User"
+msgstr "Usuario"
+
+msgid "Profile Requirements"
+msgstr "Requerimientos para el Perfil"
+
+msgid "Task Slots"
+msgstr "Ranura de Tarea"
+
+msgid "Create Slots for the \"%s\" Task"
+msgstr "Crear una Ranura para la tarea \"%s\" "
+
+msgid "The system will add this many slots at the specified time."
+msgstr "El sistema añadirá este numero de ranuras en la hora especificada"
+
+msgid ""
+"The system will add the specified number of slots at the specified time for "
+"this many consecutive days."
+msgstr ""
+"El sistema añadirá un número específico de ranuras en la hora especificada "
+"para la cantidad de días."
+
+msgid "No"
+msgstr "No"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "Task Slot"
+msgstr "Ranura de Tarea"
+
+msgid "Delete TaskSlot"
+msgstr "Borrar la Ranura de Tarea"
+
+msgid "Task Id"
+msgstr "Número de Identificación de la Tarea"
+
+msgid "Task Date"
+msgstr "Fecha de la Tarea"
+
+msgid "Task Start"
+msgstr "Inicio de Tarea"
+
+msgid "Task End"
+msgstr "Fin de Tarea"
+
+msgid "Approved By"
+msgstr "Aprobado Por"
+
+msgid "Add Task Slot"
+msgstr "Añadir una Ranura de Tarea"
+
+msgid "Assigned To"
+msgstr "Asignado a"
+
+msgid "Edit Task Slot"
+msgstr "Editar la ranura de tarea"
+
+msgid "Delete Task Slot"
+msgstr "Borrar la ranura de tarea"
+
+msgid "This description will be visible to people assigned to the task."
+msgstr ""
+"Esta descripción será visible a las personas que sean asignadas a la tarea."
+
+msgid "Notes will only be visible administrators."
+msgstr "Solo el administrador podrá ver las notas."
+
+msgid "If checked, assignments will not require separate admin approval."
+msgstr ""
+"Si lo ha seleccionado, las asignaturas no requerirán una aprobación del "
+"administrador aparte."
+
+msgid ""
+"If checked, volunteers will be able to sign themselves up; if not, an admin "
+"will have to assign people."
+msgstr ""
+"Si lo ha seleccionado, los voluntarios podrán registrarse ellos mismo, de no "
+"ser así, un administrador tendrá que asignar a las personas."
+
+msgid "List Tasks"
+msgstr "Enlista Tareas"
+
+msgid "Delete Task"
+msgstr "Borrar Tarea"
+
+msgid "Allow Signup"
+msgstr "Permitir Registro"
+
+msgid "Add Slots"
+msgstr "Añadir Ranura"
+
+msgid "Add Task"
+msgstr "Añadir Tarea"
+
+msgid "Related Task Slots"
+msgstr "Ranura de Tarea Relacionada"
+
+msgid "Sign up"
+msgstr "Registrarte"
+
+msgid "Edit Task"
+msgstr "Editar la Tarea"
+
+msgid "Assignee"
+msgstr "Asignatura"
+
+msgid "Team Events"
+msgstr "Evento de Equipo"
+
+msgid "Start Time"
+msgstr "Hora de Comienzo"
+
+msgid "End Time"
+msgstr "Hora de Finalización"
+
+msgid "Team Event Attendance"
+msgstr "Asistencia al Evento del Equipo"
+
+msgid "Edit Team Event"
+msgstr "Edita el Evento del Equipo"
+
+msgid "Edit Event"
+msgstr "Edita el evento"
+
+msgid "Delete Event"
+msgstr "Borra el evento"
+
+msgid "New Event"
+msgstr "Nuevo evento"
+
+msgid "Create a New Event"
+msgstr "Crea un nuevo evento"
+
+msgid ""
+"The following players cannot be added to the roster. Hover your mouse over a "
+"name to see the reason why."
+msgstr ""
+"Los siguientes jugadores no pueden ser añadidos al roster. Coloca el cursor "
+"sobre el nombre para ver la razón."
+
+msgid ""
+"Notice: The following players are currently INELIGIBLE to participate on "
+"this roster. This is typically because %s. They are not allowed to play with "
+"this team until this is corrected. Hover your mouse over the %s to see the "
+"specific reason why."
+msgstr ""
+"Atención: Los siguientes jugadores son INELEGIBLES para participar en el "
+"roster. Esto típicamente es porque %s. No podrán jugar con el equipo hasta "
+"que esto sea corregido. Coloca el cursor de tu ratón sobre el %s para ver la "
+"razón específica."
+
+msgid ""
+"They can still be invited to join, but will not be allowed to accept the "
+"invitation or play with your team until this is resolved."
+msgstr ""
+"Todavía pueden ser invitados a unirse, pero no podrán aceptar la invitación "
+"o jugar con tu equipo hasta que esto se resuelva."
+
+msgid "Invite"
+msgstr "Invita"
+
+msgid ""
+"Or select a team from your history below to invite people from that roster."
+msgstr ""
+"O selecciona un equipo de tu historial para invitar gente de ese roster."
+
+msgid "Show roster"
+msgstr "Mostrar roster"
+
+msgid "Or select a recent event to add people that are registered."
+msgstr "O selecciona un evento reciente para añadir gente que esta registrada."
+
+msgid "Show registrations"
+msgstr "Mostrar registros"
+
+msgid "Season Attendance"
+msgstr "Asistencia en la temporada"
+
+msgid "Week of"
+msgstr "Semana de"
+
+msgid "Rosters"
+msgstr "Rosters"
+
+msgid "%d reminders sent"
+msgstr "Se ha enviado el recordatorio de %s"
+
+msgid "%d second reminders sent"
+msgstr "El segundo recordatorio de %s ha sido mandado"
+
+msgid "%d expired invitations/requests removed"
+msgstr "La invitación/solicitud %s expirada ha sido removida"
+
+msgid "%d have had reminders sent but have not yet expired"
+msgstr "%s ha enviado los recordatorios pero estos no han expirado"
+
+msgid "No roster activity to report."
+msgstr "No hay actividad en el roster que reportar"
+
+msgid "A short name for your team, if you have one."
+msgstr "Nombre corto del equipo, en caso de tener uno."
+
+msgid "No preference"
+msgstr "Sin preferencias"
+
+msgid "Your team's website, if you have one."
+msgstr "La página web de tu equipo, si es que tiene una."
+
+msgid ""
+"If selected, this team's Flickr slideshow will no longer be shown. This is "
+"for use if teams repeatedly violate this site's terms of service."
+msgstr ""
+"Si es seleccionado, la presentación de Flickr de este equipo no se mostrará "
+"más. Esto se usa en caso de que algún equipo viole la política de uso de "
+"manera repetitiva."
+
+msgid ""
+"Your team has been banned from using the Flickr slideshow. Contact an "
+"administrator if you believe this was done in error or would like to request "
+"a review."
+msgstr ""
+"A tu equipo se le ha prohibido usar la presentación de fotos de Flickr. "
+"Ponte en contacto con el administrador si crees que esto es un error o "
+"quisieras solicitar una revisión."
+
+msgid ""
+"The URL for your photo set will be something like http://www.flickr.com/"
+"photos/abcdef/sets/12345678901234567/. abcdef is your user name."
+msgstr ""
+"La URL para su conjunto de fotos sera algo como esto http://www.flickr.com/"
+"photos/abcdef/sets/12345678901234567/. abcdef es tu nombre de usuario."
+
+msgid ""
+"The URL for your photo set will be something like http://www.flickr.com/"
+"photos/abcdef/sets/12345678901234567/. 12345678901234567 is your set number."
+msgstr ""
+"La URL para su conjunto de fotos sera algo como esto http://www.flickr.com/"
+"photos/abcdef/sets/12345678901234567/. 1234567890123456 es tu numero de "
+"conjunto."
+
+msgid "Do NOT include the @; it will be automatically added for you."
+msgstr "No incluyas la @, se añadirá automáticamente por usted."
+
+msgid "Home %s"
+msgstr "%s de local"
+
+msgid "Home %s, if applicable."
+msgstr "%s de local, si aplica."
+
+msgid "No home %s"
+msgstr "No hay %s de local"
+
+msgid "List Teams"
+msgstr "Listado de Equipos"
+
+msgid "Join"
+msgstr "Unirse"
+
+msgid "Join a Team"
+msgstr "Unirse a un Equipo"
+
+msgid "Move"
+msgstr "Mover"
+
+msgid "Division to move this team to:"
+msgstr "División a la que se moverá el equipo:"
+
+msgid "Shirt Numbers"
+msgstr "Numero de Playera"
+
+msgid "FAIL"
+msgstr "FALLO"
+
+msgid "Roster %s"
+msgstr "%s de Roster"
+
+msgid "You are adding"
+msgstr "estas añadiendo"
+
+msgid "to the team"
+msgstr "al equipo"
+
+msgid "You are inviting"
+msgstr "Estas invitando"
+
+msgid "to join the team"
+msgstr "para unirse al equipo"
+
+msgid ""
+"The player will have to accept your invitation before they are considered an "
+"active member of the team."
+msgstr ""
+"El jugador tendrá que aceptar tu invitación antes de ser considerado un "
+"jugador activo del equipo."
+
+msgid ""
+"This player can still be invited to join, but will not be allowed to accept "
+"the invitation or play with your team until this is resolved."
+msgstr ""
+"Este jugador todavía puede ser invitado a unirse, pero no se le permitirá "
+"aceptar la invitación o jugar con tu equipo hasta que esto se resuelva."
+
+msgid "Possible roster roles are:"
+msgstr "Los roles posibles para el equipo son:"
+
+msgid "Roster Position"
+msgstr "Posición en el Roster"
+
+msgid "You are attempting to change player position for"
+msgstr "Estas intentando cambiar la posición del jugador para"
+
+msgid "on the team"
+msgstr "en el equipo"
+
+msgid "Current position:"
+msgstr "Posición Actual:"
+
+msgid "Possible roster positions are:"
+msgstr "Las posiciones posibles para este roster son:"
+
+msgid "Roster Request"
+msgstr "Solicitud para el Roster"
+
+msgid "You are requesting to join the team"
+msgstr "Estas solicitando unirte al equipo"
+
+msgid ""
+"A captain will have to approve your request before you are considered an "
+"active member of the team."
+msgstr ""
+"Un capitán tendrá que aprobar tu solicitud antes de que seas considerado "
+"como un miembro activo del roster."
+
+msgid "Roster Role"
+msgstr "Rol en el Roster"
+
+msgid "You are attempting to change the role for"
+msgstr "Estas intentado cambiar el rol para"
+
+msgid "Current role:"
+msgstr "Rol Actual:"
+
+msgid "Team Schedule"
+msgstr "Calendario del Equipo"
+
+msgid "Team Spirit"
+msgstr "Espíritu del Equipo"
+
+msgid "Team Statistics"
+msgstr "Estadisticas del Equipo"
+
+msgid "Teams by Division"
+msgstr "Equipos por División"
+
+msgid "Teams with too few players"
+msgstr "Equipos con muy pocos jugadores"
+
+msgid "Top-rated Teams"
+msgstr "Equipos mejor calificados"
+
+msgid "Lowest-rated Teams"
+msgstr "Equipos con peor calificación"
+
+msgid "Top Defaulting Teams"
+msgstr "Mejor Equipo en cuanto a juegos por Default"
+
+msgid "Top Non-score-submitting Teams"
+msgstr "Mejor Equipo que no reporta sus resultados"
+
+msgid "Top Spirited Teams"
+msgstr "Equipo con mejor Espíritu"
+
+msgid "Lowest Spirited Teams"
+msgstr "Equipos con menos Espíritu"
+
+msgid "Other years"
+msgstr "Otros años"
+
+msgid "Other leagues"
+msgstr "Otras ligas"
+
+msgid "Details & roster"
+msgstr "Detalles y roster"
+
+msgid "Unassigned List"
+msgstr "Lista de No Asignados"
+
+msgid "List Unassigned Teams"
+msgstr "Lista de equipos que no han sido asignados"
+
+msgid "Home Field"
+msgstr "Campo del Equipo Local"
+
+msgid "Roster Status"
+msgstr "Status del Roster"
+
+msgid "Track Attendance"
+msgstr "Control de Asistencia"
+
+msgid "Attendance Reminder"
+msgstr "Recordatorio de Asistencia"
+
+msgid "disabled"
+msgstr "deshabilitado"
+
+msgid "day of game"
+msgstr "días de partido"
+
+msgid "day before game"
+msgstr "días antes del partido"
+
+msgid "%d days before game"
+msgstr "%d días antes del partido"
+
+msgid "Attendance Summary"
+msgstr "Resumen de Asistencia"
+
+msgid "Attendance Notification"
+msgstr "Noticificación de asistencia"
+
+msgid "Affiliated Team"
+msgstr "Equipo alfiliado"
+
+msgid "Jersey Numbers"
+msgstr "Numero de Playera"
+
+msgid "Position"
+msgstr "Posición"
+
+msgid "Date Joined"
+msgstr "Fecha que se unió"
+
+msgid "account inactive"
+msgstr "cuenta activa"
+
+msgid "not a member"
+msgstr "no es un miembro"
+
+msgid "roster conflict"
+msgstr "conflicto en el roster"
+
+msgid "schedule conflict"
+msgstr "conflicto en el calendario"
+
+msgid "Average Skill Rating"
+msgstr "Calificación de Habilidades Promedio"
+
+msgid "Upload Type"
+msgstr "Tipo para Subir"
+
+msgid "Upload Types"
+msgstr "Tipos para Subir"
+
+msgid "New Upload Type"
+msgstr "Nuevo Tipo para Subir"
+
+msgid "Edit Upload Type"
+msgstr "Editar el Tipo de Subida"
+
+msgid "Delete Upload Type"
+msgstr "Borrar el Tipo de Subida"
+
+msgid "List Upload Types"
+msgstr "Listar Tipo de Subida"
+
+msgid "Users"
+msgstr "Usuario"
+
+msgid "Change Password for"
+msgstr "Cambiar la Contraseña por"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Telephone Numbers"
+msgstr "Número Telefónico"
+
+msgid "Player and Skill Information"
+msgstr "Información de las Habilidades del Jugador"
+
+msgid "Login"
+msgstr "Iniciar sesión"
+
+msgid "Reset Password"
+msgstr "Restablecer contraseña"
+
+msgid "Full name of this waiver."
+msgstr "Nombre completo de esta exención de responsabilidad."
+
+msgid ""
+"An extended description, shown solely to administrators, for example to "
+"differentiate between various \"Membership\" waivers."
+msgstr ""
+"La descripción extendida solo se muestra al administrador, por ejemplo las "
+"diferencias entre la exenciones de responsabilidad de \"Membership\"."
+
+msgid "Complete waiver text, HTML is allowed."
+msgstr ""
+"Completa el texto de la exención de responsabilidad, formato HTML es "
+"permitido."
+
+msgid "Expiry Options"
+msgstr "Opciones de expiración"
+
+msgid "days"
+msgstr "días"
+
+msgid ""
+"Event waivers have no expiry options; they always expire after the event is "
+"done."
+msgstr ""
+"Las exenciones de responsabilidad no tienen opciones de vencimiento; siempre "
+"vencen después que ha finalizado el evento."
+
+msgid "List Waivers"
+msgstr "Lista de exenciones de responsabilidad"
+
+msgid "Expiry Type"
+msgstr "Tipo de caducidad"
