@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-02-17 21:03-0500\n"
-"PO-Revision-Date: 2014-08-09 01:25-0400\n"
-"Last-Translator: Zuluru Admin <admin@zuluru.org>\n"
+"PO-Revision-Date: 2014-08-09 01:26-0400\n"
+"Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -119,23 +119,23 @@ msgstr "mis à jour."
 
 #: /config/sport/ultimate.php:47
 msgid "One of the slowest"
-msgstr ""
+msgstr "Un des plus lents"
 
 #: /config/sport/ultimate.php:48
 msgid "Slower than most"
-msgstr ""
+msgstr "Plus lent que la majorité"
 
 #: /config/sport/ultimate.php:49
 msgid "Average speed"
-msgstr ""
+msgstr "Vitesse moyenne"
 
 #: /config/sport/ultimate.php:50
 msgid "Faster than most"
-msgstr ""
+msgstr "Plus rapide que la majorité"
 
 #: /config/sport/ultimate.php:51
 msgid "One of the fastest"
-msgstr ""
+msgstr "Un des plus rapides"
 
 #: /config/sport/ultimate.php:55
 msgid "just learning, only backhand throw, no forehand"
@@ -196,6 +196,8 @@ msgstr ""
 #: /config/sport/ultimate.php:75
 msgid "can stay with the play and sometimes make the D, understand the basics of man & zone style defense strategies "
 msgstr ""
+"peut suivre le jeu et parfois faire une défense, comprends les bases des "
+"stratégies défensives de zone et d'homme à homme.  "
 
 #: /config/sport/ultimate.php:76
 msgid "can read and anticipate the play and get in position to increase the chances of make the D, comfortable with both man/zone style defense strategies"
