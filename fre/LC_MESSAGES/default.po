@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-02-17 21:03-0500\n"
-"PO-Revision-Date: 2014-08-09 01:33-0400\n"
-"Last-Translator: Zuluru Admin <admin@zuluru.org>\n"
+"PO-Revision-Date: 2014-08-09 01:35-0400\n"
+"Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -362,12 +362,12 @@ msgstr "citer, de mémoire, la règle exacte qui porte sur le problème"
 #: /controllers/waivers_controller.php:60;66;99;124;139;158;165;173;179;193;219;225;235;246
 #: /controllers/components/league_type.php:855
 msgid "Invalid %s"
-msgstr ""
+msgstr "Non valide %s"
 
 #: /controllers/affiliates_controller.php:45;58;61;72;78;81;88;97;116;123;163
 #: /controllers/game_slots_controller.php:80
 msgid "affiliate"
-msgstr ""
+msgstr "affilié"
 
 #: /controllers/affiliates_controller.php:58;78
 #: /controllers/badges_controller.php:315;336
@@ -396,7 +396,7 @@ msgstr ""
 #: /controllers/upload_types_controller.php:84;110
 #: /controllers/waivers_controller.php:79;113
 msgid "The %s has been saved"
-msgstr ""
+msgstr "Le %s a été sauvegardé"
 
 #: /controllers/affiliates_controller.php:61;81
 #: /controllers/badges_controller.php:318;339
@@ -428,6 +428,8 @@ msgstr ""
 #: /controllers/waivers_controller.php:82;116
 msgid "The %s could not be saved. Please correct the errors below and try again."
 msgstr ""
+"Le %s n'a pas pu être sauvegardé. Svp. corriger les erreurs ci-dessous et "
+"réessayer."
 
 #: /controllers/affiliates_controller.php:102
 msgid "The following records reference this affiliate, so it cannot be deleted."
@@ -459,7 +461,7 @@ msgstr ""
 #: /controllers/upload_types_controller.php:147
 #: /controllers/waivers_controller.php:148
 msgid "%s deleted"
-msgstr ""
+msgstr "%s supprimé"
 
 #: /controllers/affiliates_controller.php:106;109
 #: /views/affiliates/edit.ctp:14
@@ -507,7 +509,7 @@ msgstr ""
 #: /controllers/upload_types_controller.php:150
 #: /controllers/waivers_controller.php:151
 msgid "%s was not deleted"
-msgstr ""
+msgstr "%s n'a pas été supprimé"
 
 #: /controllers/affiliates_controller.php:168
 #: /controllers/divisions_controller.php:523
@@ -515,11 +517,11 @@ msgstr ""
 #: /controllers/task_slots_controller.php:239;242;251;254
 #: /controllers/waivers_controller.php:179;246
 msgid "person"
-msgstr ""
+msgstr "personne"
 
 #: /controllers/affiliates_controller.php:176
 msgid "Successfully removed manager"
-msgstr ""
+msgstr "Gestionnaire retiré avec succès"
 
 #: /controllers/affiliates_controller.php:178
 msgid "Failed to remove manager!"
@@ -562,7 +564,7 @@ msgstr ""
 
 #: /controllers/categories_controller.php:58;64;77;80;94;99;102;110;122
 msgid "category"
-msgstr ""
+msgstr "catégorie"
 
 #: /controllers/categories_controller.php:127
 msgid "The following records reference this category, so it cannot be deleted."
@@ -592,11 +594,11 @@ msgstr ""
 
 #: /controllers/contacts_controller.php:161
 msgid "Your message has been sent."
-msgstr ""
+msgstr "Votre message a été envoyé"
 
 #: /controllers/contacts_controller.php:165
 msgid "Error sending email."
-msgstr ""
+msgstr "Une erreur s'est produite lors de l'envoi de votre courriel."
 
 #: /controllers/contacts_controller.php:178
 msgid "No contacts have been set up yet on this site."
@@ -606,7 +608,7 @@ msgstr ""
 #: /controllers/schedules_controller.php:51;67;855;883;950
 #: /controllers/components/league_type.php:855
 msgid "division"
-msgstr ""
+msgstr "division"
 
 #: /controllers/divisions_controller.php:267
 #: /controllers/games_controller.php:1237;3004
@@ -618,7 +620,7 @@ msgstr ""
 #: /controllers/leagues_controller.php:153;163;228;237;257;261;268;300;337;340;355;395;414;427;532;555
 #: /controllers/schedules_controller.php:957
 msgid "league"
-msgstr ""
+msgstr "ligue"
 
 #: /controllers/divisions_controller.php:531
 msgid "Successfully removed coordinator"
@@ -642,7 +644,7 @@ msgstr ""
 #: /controllers/divisions_controller.php:564;573
 #: /views/leagues/cron.ctp:12
 msgid "teams"
-msgstr ""
+msgstr "équipes"
 
 #: /controllers/divisions_controller.php:639;1561
 msgid "Each team must have a unique initial seed."
@@ -682,16 +684,16 @@ msgstr ""
 #: /views/teams/view.ctp:40
 #: /views/themed/wfdfu23/teams/view.ctp:40
 msgid "Division"
-msgstr ""
+msgstr "Division"
 
 #: /controllers/divisions_controller.php:733;966;1031;1339
 msgid "This division has no games scheduled yet."
-msgstr ""
+msgstr "À ce jour, aucune partie n'a été prévue pour cette division."
 
 #: /controllers/divisions_controller.php:770
 #: /controllers/leagues_controller.php:510
 msgid "Schedule changes saved!"
-msgstr ""
+msgstr "Les changements à la grille horaire ont étés sauvegardé."
 
 #: /controllers/divisions_controller.php:855
 msgid "Cannot generate standings for a division with no schedule."
