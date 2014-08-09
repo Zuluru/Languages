@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-02-17 21:03-0500\n"
-"PO-Revision-Date: 2014-08-09 01:30-0400\n"
-"Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
+"PO-Revision-Date: 2014-08-09 01:33-0400\n"
+"Last-Translator: Zuluru Admin <admin@zuluru.org>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -63,7 +63,7 @@ msgstr "L'utilisateur peut mettre à jour"
 
 #: /config/options.php:35;40
 msgid "Admin can update"
-msgstr "L'administrateur peut mettre à jour."
+msgstr "L'administrateur peut mettre à jour"
 
 #: /config/options.php:41
 msgid "Disabled entirely"
@@ -328,7 +328,7 @@ msgstr ""
 
 #: /config/sport/ultimate.php:128
 msgid "quote the exact rule from memory that addresses the problem"
-msgstr "citer, de mémoire, la règle exacte qui porte sur le problème "
+msgstr "citer, de mémoire, la règle exacte qui porte sur le problème"
 
 #: /controllers/affiliates_controller.php:45;72;88;97;116;123;163;168
 #: /controllers/badges_controller.php:96;102;107;166;172;331;346;386
