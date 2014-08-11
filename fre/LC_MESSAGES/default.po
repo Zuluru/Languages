@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-02-17 21:03-0500\n"
-"PO-Revision-Date: 2014-08-09 14:01-0400\n"
-"Last-Translator: Philippe Lefebvre <philippe.lefebvre18@gmail.com>\n"
+"PO-Revision-Date: 2014-08-11 11:52-0400\n"
+"Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -72,26 +72,31 @@ msgstr "Entièrement désactivé"
 #: /config/options.php:95;100
 msgid "Head-to-head > Head-to-head plus-minus > Plus-minus > Goals for > Losses"
 msgstr ""
+"Tête à tête > Tête à tête plus-moins > Plus-moins > Points marqués > Défaites"
 
 #: /config/options.php:96;103
 msgid "Plus-minus > Head-to-head > Goals for > Losses"
-msgstr ""
+msgstr "Plus-moins > Tête à tête > Points marqués > Défaites"
 
 #: /config/options.php:101
 msgid "Head-to-head > Head-to-head plus-minus > Plus-minus > Goals for > Losses > Spirit"
 msgstr ""
+"Tête à tête > tête à tête plus-moins > plus-moins > Points marqués > "
+"Défaites > Esprit sportif"
 
 #: /config/options.php:102
 msgid "Spirit > Head-to-head > Head-to-head plus-minus > Plus-minus > Goals for > Losses"
 msgstr ""
+"Esprit sportif > Tête à tête > tête à tête plus-moins > plus moins > points "
+"marqués > défaites"
 
 #: /config/options.php:104
 msgid "Plus-minus > Head-to-head > Goals for > Losses > Spirit"
-msgstr ""
+msgstr "Plus-moins > Tête à tête > Points marqués > Défaites > Esprit sportif"
 
 #: /config/options.php:105
 msgid "Spirit > Plus-minus > Head-to-head > Goals for > Losses"
-msgstr ""
+msgstr "Esprit sportif > plus-moins > tête à tête > Points marqués > Défaites"
 
 #: /config/schema/migrations/schema10.php:62
 #: /config/schema/migrations/schema13.php:48
@@ -139,7 +144,7 @@ msgstr "Un des plus rapides"
 
 #: /config/sport/ultimate.php:55
 msgid "just learning, only backhand throw, no forehand"
-msgstr ""
+msgstr "en apprentissage, seulement des lancers du revers, pas de coup droit"
 
 #: /config/sport/ultimate.php:56
 msgid "can make basic throws, perhaps weaker forehand, some distance and accuracy, nervous when handling the disc"
@@ -179,14 +184,21 @@ msgstr ""
 #: /config/sport/ultimate.php:61
 msgid "all kinds of throws, very rarely make a bad throw, excellent distance, near perfect accuracy, epitome of reliability, can handle on an elite team (mid-highly competitive team)"
 msgstr ""
+"toutes sortes de lancer, fait rarement des erreurs en lançant, excellente "
+"distance, précision quasi parfaite, incarnation de la fiabilité, peut mener "
+"dans une équipe élite (équipe compétitive moyenne-élevée)"
 
 #: /config/sport/ultimate.php:65
 msgid "can make basic catches if they're straight to me, still learning to judge the flight path of the disc"
 msgstr ""
+"Peut faire des attraper de base s'ils sont lancés directement sur moi, "
+"encore en apprentissage pour évaluer la trajectoire de vol du disque"
 
 #: /config/sport/ultimate.php:66
 msgid "can make basic catches, sometimes have difficulty judging the flight path of the disc"
 msgstr ""
+"Peut faire des attraper de base, a parfois de la difficulté à évaluer la "
+"trajectoire de vol du disque"
 
 #: /config/sport/ultimate.php:67
 msgid "can make most catches, good at judging the flight path of the disc, not likely to attempt a layout"
@@ -244,6 +256,8 @@ msgstr ""
 #: /config/sport/ultimate.php:85
 msgid "proficient cutter, experienced handler, can play any position, understand many offensive strategies"
 msgstr ""
+"Traceur compétent, meneur expérimenté, peut jouer n'importe quelle position, "
+"comprends plusieurs stratégies offensives"
 
 #: /config/sport/ultimate.php:92
 msgid "0 years"
@@ -280,6 +294,8 @@ msgstr "Ligue compétitive ou tournoi intermédiaire"
 #: /config/sport/ultimate.php:103
 msgid "Competitive Tournament (top 8 at a high-caliber tournament or bottom half at Nationals"
 msgstr ""
+"Tournoi compétitif (Top 8 dans les tournois de haut calibre ou moitié "
+"inférieur aux Nationaux)"
 
 #: /config/sport/ultimate.php:104
 msgid "Elite Tournament (top half at Nationals)"
@@ -449,6 +465,8 @@ msgstr ""
 #: /controllers/affiliates_controller.php:102
 msgid "The following records reference this affiliate, so it cannot be deleted."
 msgstr ""
+"Les dossiers suivants sont liés à cet affilié, il ne peut donc pas être "
+"supprimé."
 
 #: /controllers/affiliates_controller.php:106
 #: /controllers/badges_controller.php:395
@@ -496,7 +514,7 @@ msgstr "%s supprimé"
 #: /views/users/create_account.ctp:47
 #: /views/waivers/view.ctp:23
 msgid "Affiliate"
-msgstr ""
+msgstr "affilié"
 
 #: /controllers/affiliates_controller.php:109
 #: /controllers/badges_controller.php:398
@@ -540,20 +558,20 @@ msgstr "Gestionnaire retiré avec succès"
 
 #: /controllers/affiliates_controller.php:178
 msgid "Failed to remove manager!"
-msgstr ""
+msgstr "Le gestionnaire n'a pas pu être supprimé!"
 
 #: /controllers/all_controller.php:28
 msgid "The cache has been cleared."
-msgstr ""
+msgstr "La mémoire cache a été vidé."
 
 #: /controllers/badges_controller.php:96;102;107;166;172;315;318;331;336;339;346;386
 #: /controllers/people_controller.php:1872;1878;1883;1887;1906;1919;1924;1928
 msgid "badge"
-msgstr ""
+msgstr "insigne"
 
 #: /controllers/badges_controller.php:176
 msgid "This badge is %s, not calculated, so it cannot be initialized."
-msgstr ""
+msgstr "L'insigne est %s, non calculé, il ne peut donc pas être initialisé."
 
 #: /controllers/badges_controller.php:180
 msgid "This badge has no handler."
@@ -575,7 +593,7 @@ msgstr ""
 #: /views/badges/edit.ctp:14
 #: /views/people/approve_badges.ctp:10
 msgid "Badge"
-msgstr ""
+msgstr "Insigne"
 
 #: /controllers/categories_controller.php:58;64;77;80;94;99;102;110;122
 msgid "category"
@@ -593,19 +611,19 @@ msgstr ""
 #: /views/tasks/view.ctp:15
 #: /views/tasks/csv/index.ctp:4
 msgid "Category"
-msgstr ""
+msgstr "Catégorie"
 
 #: /controllers/contacts_controller.php:48;68;90;123;142
 msgid "Contact management is disabled on this site."
-msgstr ""
+msgstr "Contater le gestionnaire n'est pas une option disponible sur ce site."
 
 #: /controllers/contacts_controller.php:75;78;96;101;104;112;129;198
 msgid "contact"
-msgstr ""
+msgstr "contact"
 
 #: /controllers/contacts_controller.php:133;136
 msgid "Contact"
-msgstr ""
+msgstr "Contact"
 
 #: /controllers/contacts_controller.php:161
 msgid "Your message has been sent."
@@ -617,7 +635,7 @@ msgstr "Une erreur s'est produite lors de l'envoi de votre courriel."
 
 #: /controllers/contacts_controller.php:178
 msgid "No contacts have been set up yet on this site."
-msgstr ""
+msgstr "Aucun contact n'a été créé pour ce site à ce jour."
 
 #: /controllers/divisions_controller.php:123;136;250;262;359;362;369;411;419;436;439;471;478;518;541;548;596;603;606;620;632;649;652;667;679;698;729;794;817;917;928;993;1027;1113;1120;1191;1200;1211;1275;1291;1303;1313;1356;1363;1425;1437;1485;1511;1700;1719
 #: /controllers/schedules_controller.php:51;67;855;883;950
@@ -630,6 +648,7 @@ msgstr "division"
 #: /controllers/teams_controller.php:955;1055
 msgid "This league does not have stat tracking enabled."
 msgstr ""
+"La fonction de suivi des statistiques n'est pas disponible pour cette ligue."
 
 #: /controllers/divisions_controller.php:348
 #: /controllers/leagues_controller.php:153;163;228;237;257;261;268;300;337;340;355;395;414;427;532;555
@@ -9432,15 +9451,15 @@ msgstr ""
 
 #: /views/teams/schedule.ctp:12
 msgid "Team Schedule"
-msgstr ""
+msgstr "Horaire pour l'équipe"
 
 #: /views/teams/spirit.ctp:8
 msgid "Team Spirit"
-msgstr ""
+msgstr "Esprit sportif de l'équipe"
 
 #: /views/teams/statistics.ctp:7
 msgid "Team Statistics"
-msgstr ""
+msgstr "Statistiques de l'équipe"
 
 #: /views/teams/statistics.ctp:9
 msgid "Teams by Division"
@@ -9476,11 +9495,11 @@ msgstr ""
 
 #: /views/teams/statistics.ctp:311
 msgid "Other years"
-msgstr ""
+msgstr "Autres années"
 
 #: /views/teams/statistics.ctp:324
 msgid "Other leagues"
-msgstr ""
+msgstr "Autres ligues"
 
 #: /views/teams/tooltip.ctp:31
 msgid "Details & roster"
@@ -9497,7 +9516,7 @@ msgstr ""
 #: /views/teams/view.ctp:47
 #: /views/themed/wfdfu23/teams/view.ctp:47
 msgid "Home Field"
-msgstr ""
+msgstr "Terrain à domicile"
 
 #: /views/teams/view.ctp:60
 #: /views/themed/wfdfu23/teams/view.ctp:60
@@ -9512,22 +9531,22 @@ msgstr ""
 #: /views/teams/view.ctp:78
 #: /views/themed/wfdfu23/teams/view.ctp:78
 msgid "Attendance Reminder"
-msgstr ""
+msgstr "Rappel de présence"
 
 #: /views/teams/view.ctp:83;106;129
 #: /views/themed/wfdfu23/teams/view.ctp:83;106;129
 msgid "disabled"
-msgstr ""
+msgstr "Désactivé"
 
 #: /views/teams/view.ctp:87;110;133
 #: /views/themed/wfdfu23/teams/view.ctp:87;110;133
 msgid "day of game"
-msgstr ""
+msgstr "Jour de match"
 
 #: /views/teams/view.ctp:91;114;137
 #: /views/themed/wfdfu23/teams/view.ctp:91;114;137
 msgid "day before game"
-msgstr ""
+msgstr "Journée avant le match"
 
 #: /views/teams/view.ctp:95;118;141
 #: /views/themed/wfdfu23/teams/view.ctp:95;118;141
@@ -9537,42 +9556,42 @@ msgstr ""
 #: /views/teams/view.ctp:101
 #: /views/themed/wfdfu23/teams/view.ctp:101
 msgid "Attendance Summary"
-msgstr ""
+msgstr "Rapport de présence"
 
 #: /views/teams/view.ctp:124
 #: /views/themed/wfdfu23/teams/view.ctp:124
 msgid "Attendance Notification"
-msgstr ""
+msgstr "Notification de présence"
 
 #: /views/teams/view.ctp:171
 #: /views/themed/wfdfu23/teams/view.ctp:171
 msgid "Affiliated Team"
-msgstr ""
+msgstr "équipe affiliée"
 
 #: /views/teams/view.ctp:206
 #: /views/themed/wfdfu23/teams/view.ctp:206
 msgid "Jersey Numbers"
-msgstr ""
+msgstr "Numéro de maillot"
 
 #: /views/teams/view.ctp:236
 #: /views/themed/wfdfu23/teams/view.ctp:235
 msgid "Position"
-msgstr ""
+msgstr "Position"
 
 #: /views/teams/view.ctp:254
 #: /views/themed/wfdfu23/teams/view.ctp:250
 msgid "Date Joined"
-msgstr ""
+msgstr "Date d'adhésion"
 
 #: /views/teams/view.ctp:303
 #: /views/themed/wfdfu23/teams/view.ctp:298
 msgid "account inactive"
-msgstr ""
+msgstr "Compte inactif"
 
 #: /views/teams/view.ctp:306
 #: /views/themed/wfdfu23/teams/view.ctp:301
 msgid "not a member"
-msgstr ""
+msgstr "n'est pas membre"
 
 #: /views/teams/view.ctp:309
 #: /views/themed/wfdfu23/teams/view.ctp:304
@@ -9582,12 +9601,12 @@ msgstr ""
 #: /views/teams/view.ctp:312
 #: /views/themed/wfdfu23/teams/view.ctp:307
 msgid "schedule conflict"
-msgstr ""
+msgstr "Conflit d'horaire"
 
 #: /views/teams/view.ctp:367
 #: /views/themed/wfdfu23/teams/view.ctp:361
 msgid "Average Skill Rating"
-msgstr ""
+msgstr "Classification moyenne de compétences"
 
 #: /views/upload_types/edit.ctp:2;14
 msgid "Upload Type"
@@ -9622,35 +9641,35 @@ msgstr ""
 #: /views/users/create_account.ctp:2
 #: /views/users/reset_password.ctp:2
 msgid "Users"
-msgstr ""
+msgstr "Usagers"
 
 #: /views/users/change_password.ctp:10
 msgid "Change Password for"
-msgstr ""
+msgstr "Modifier le mot de passe de"
 
 #: /views/users/create_account.ctp:39
 msgid "Password"
-msgstr ""
+msgstr "Mot de passe"
 
 #: /views/users/create_account.ctp:133
 msgid "Telephone Numbers"
-msgstr ""
+msgstr "Numéros de téléphone"
 
 #: /views/users/create_account.ctp:190
 msgid "Player and Skill Information"
-msgstr ""
+msgstr "Information concernant le joueur et ses habiletés"
 
 #: /views/users/login.ctp:2;14
 msgid "Login"
-msgstr ""
+msgstr "Connexion"
 
 #: /views/users/reset_password.ctp:3
 msgid "Reset Password"
-msgstr ""
+msgstr "Réinitialiser le mot de passe"
 
 #: /views/waivers/edit.ctp:21
 msgid "Full name of this waiver."
-msgstr ""
+msgstr "Nom complet de la décharge"
 
 #: /views/waivers/edit.ctp:32
 msgid "An extended description, shown solely to administrators, for example to differentiate between various \"Membership\" waivers."
@@ -9668,7 +9687,7 @@ msgstr ""
 #: /views/waivers/index.ctp:56
 #: /views/waivers/view.ctp:70
 msgid "days"
-msgstr ""
+msgstr "jours"
 
 #: /views/waivers/edit.ctp:82
 msgid "Event waivers have no expiry options; they always expire after the event is done."
@@ -9681,20 +9700,20 @@ msgstr ""
 #: /views/waivers/index.ctp:14
 #: /views/waivers/view.ctp:44
 msgid "Expiry Type"
-msgstr ""
+msgstr "type d'expiration"
 
 #: /views/waivers/index.ctp:15
 msgid "Valid For"
-msgstr ""
+msgstr "valide pour"
 
 #: /views/waivers/index.ctp:83
 #: /views/waivers/view.ctp:91
 msgid "Add Waiver"
-msgstr ""
+msgstr "Ajouter une décharge"
 
 #: /views/waivers/review.ctp:4
 msgid "View Waiver"
-msgstr ""
+msgstr "Consulter la décharge"
 
 #: /views/waivers/review.ctp:21
 msgid "You have not accepted this waiver for the dates %s to %s."
