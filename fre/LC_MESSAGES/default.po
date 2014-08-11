@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-02-17 21:03-0500\n"
 "PO-Revision-Date: 2014-08-11 12:24-0400\n"
-"Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
+"Last-Translator: Zuluru Admin <admin@zuluru.org>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -9681,7 +9681,7 @@ msgstr ""
 
 #: /views/waivers/edit.ctp:51
 msgid "Expiry Options"
-msgstr "options d'expiration"
+msgstr "Options d'expiration"
 
 #: /views/waivers/edit.ctp:76
 #: /views/waivers/index.ctp:56
@@ -9700,7 +9700,7 @@ msgstr ""
 #: /views/waivers/index.ctp:14
 #: /views/waivers/view.ctp:44
 msgid "Expiry Type"
-msgstr "type d'expiration"
+msgstr "Type d'expiration"
 
 #: /views/waivers/index.ctp:15
 msgid "Valid For"
