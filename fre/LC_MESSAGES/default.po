@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-02-17 21:03-0500\n"
-"PO-Revision-Date: 2014-08-11 12:24-0400\n"
-"Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
+"PO-Revision-Date: 2014-08-11 12:27-0400\n"
+"Last-Translator: Zuluru Admin <admin@zuluru.org>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -9586,7 +9586,7 @@ msgstr "Date d'adhésion"
 #: /views/teams/view.ctp:303
 #: /views/themed/wfdfu23/teams/view.ctp:298
 msgid "account inactive"
-msgstr "Compte inactif"
+msgstr "compte inactif"
 
 #: /views/teams/view.ctp:306
 #: /views/themed/wfdfu23/teams/view.ctp:301
@@ -9601,7 +9601,7 @@ msgstr ""
 #: /views/teams/view.ctp:312
 #: /views/themed/wfdfu23/teams/view.ctp:307
 msgid "schedule conflict"
-msgstr "Conflit d'horaire"
+msgstr "conflit d'horaire"
 
 #: /views/teams/view.ctp:367
 #: /views/themed/wfdfu23/teams/view.ctp:361
