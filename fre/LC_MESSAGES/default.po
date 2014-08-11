@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-02-17 21:03-0500\n"
-"PO-Revision-Date: 2014-08-11 12:23-0400\n"
-"Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
+"PO-Revision-Date: 2014-08-11 12:24-0400\n"
+"Last-Translator: Zuluru Admin <admin@zuluru.org>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -9669,7 +9669,7 @@ msgstr "Réinitialiser le mot de passe"
 
 #: /views/waivers/edit.ctp:21
 msgid "Full name of this waiver."
-msgstr "Nom complet de la décharge"
+msgstr "Nom complet de la décharge."
 
 #: /views/waivers/edit.ctp:32
 msgid "An extended description, shown solely to administrators, for example to differentiate between various \"Membership\" waivers."
