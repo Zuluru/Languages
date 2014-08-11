@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-02-17 21:03-0500\n"
-"PO-Revision-Date: 2014-08-11 12:21-0400\n"
-"Last-Translator: Zuluru Admin <admin@zuluru.org>\n"
+"PO-Revision-Date: 2014-08-11 12:23-0400\n"
+"Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -9541,7 +9541,7 @@ msgstr "Désactivé"
 #: /views/teams/view.ctp:87;110;133
 #: /views/themed/wfdfu23/teams/view.ctp:87;110;133
 msgid "day of game"
-msgstr "Jour de match"
+msgstr "Jour du match"
 
 #: /views/teams/view.ctp:91;114;137
 #: /views/themed/wfdfu23/teams/view.ctp:91;114;137
@@ -9566,7 +9566,7 @@ msgstr "Notification de présence"
 #: /views/teams/view.ctp:171
 #: /views/themed/wfdfu23/teams/view.ctp:171
 msgid "Affiliated Team"
-msgstr "équipe affiliée"
+msgstr "Équipe affiliée"
 
 #: /views/teams/view.ctp:206
 #: /views/themed/wfdfu23/teams/view.ctp:206
@@ -9591,7 +9591,7 @@ msgstr "Compte inactif"
 #: /views/teams/view.ctp:306
 #: /views/themed/wfdfu23/teams/view.ctp:301
 msgid "not a member"
-msgstr "n'est pas membre"
+msgstr "n'est pas un membre"
 
 #: /views/teams/view.ctp:309
 #: /views/themed/wfdfu23/teams/view.ctp:304
@@ -9641,7 +9641,7 @@ msgstr ""
 #: /views/users/create_account.ctp:2
 #: /views/users/reset_password.ctp:2
 msgid "Users"
-msgstr "Usagers"
+msgstr "Utilisateurs"
 
 #: /views/users/change_password.ctp:10
 msgid "Change Password for"
