@@ -9990,7 +9990,7 @@ msgid "Available"
 msgstr ""
 
 #: /config/features.php:188
-msgid "No Show'
+msgid "No Show'"
 msgstr ""
 
 #: /config/features.php:201;210
@@ -10034,7 +10034,7 @@ msgid "Successor"
 msgstr ""
 
 #: /config/features.php:221
-msgid "Alternate
+msgid "Alternate"
 msgstr ""
 
 #: /config/features.php:225
@@ -10846,7 +10846,7 @@ msgstr ""
 
 #: /controllers/components/spirit_modified_wfdf.php:23;44;65;86;107;128;149;170
 msgid "Average"
-msgstr ""
+msgstr "متوسط"
 
 #: /controllers/components/spirit_modified_wfdf.php:28;49;70;91;112;133;154;175
 msgid "Above Average"
@@ -10955,4 +10955,3 @@ msgstr ""
 #: /views/games/submit_status.ctp:47
 msgid "A score of %s %d, %s %d has been submitted for this game, but this has not been confirmed."
 msgstr ""
-
