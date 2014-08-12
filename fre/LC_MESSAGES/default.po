@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-02-17 21:03-0500\n"
-"PO-Revision-Date: 2014-08-11 12:27-0400\n"
+"PO-Revision-Date: 2014-08-11 22:28-0400\n"
 "Last-Translator: Zuluru Admin <admin@zuluru.org>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
@@ -203,18 +203,26 @@ msgstr ""
 #: /config/sport/ultimate.php:67
 msgid "can make most catches, good at judging the flight path of the disc, not likely to attempt a layout"
 msgstr ""
+"peux faire la plupart des attrapés, bon à juger la trajectoire du disque, ne "
+"va pas essayer de plonger"
 
 #: /config/sport/ultimate.php:68
 msgid "can catch almost everything (high, low, to the side), rarely misread the disc, will layout if necessary"
 msgstr ""
+"peux attraper presque tout (haut, bas, sur le côté), rarement une mauvaise "
+"lecture de trajectoire du disque, va plonger si nécessaire"
 
 #: /config/sport/ultimate.php:69
 msgid "catch absolutely everything thrown towards me, and most of the swill that isn't"
 msgstr ""
+"attrape absolument tout ce qui est lancé dans ma direction et parfois les "
+"lancers qui ne le sont pas"
 
 #: /config/sport/ultimate.php:73
 msgid "understand some basics, and are learning how to read the play, no/limited experience with defense strategies"
 msgstr ""
+"comprends la quelques bases, apprends à lire le jeu, peu ou pas d'expérience "
+"avec les stratégies défensives"
 
 #: /config/sport/ultimate.php:74
 msgid "know the basics, but you're sometimes behind the play, learned a bit about man defense strategies"
@@ -240,10 +248,15 @@ msgstr ""
 #: /config/sport/ultimate.php:81
 msgid "are still learning the basic strategy, not quite sure where to go or when to cut"
 msgstr ""
+"suis en train d'apprendre les stratégies de base, ne sais pas trop où aller "
+"ou quand tracer"
 
 #: /config/sport/ultimate.php:82
 msgid "have the basic idea of where/when/how cuts should be made, starting to be able to do it, basic knowledge of a stack"
 msgstr ""
+"une bonne idée de base d'où de quand et de comment les tracés doivent être "
+"fait, commence à pouvoir le faire, comprend la base d'un rang "
+"(horizontal/vertical)"
 
 #: /config/sport/ultimate.php:83
 msgid "can make decent cuts, understand the stack, can play at least one of handler/striker/popper/etc, understand the concept of the dump & swing"
@@ -256,7 +269,7 @@ msgstr ""
 #: /config/sport/ultimate.php:85
 msgid "proficient cutter, experienced handler, can play any position, understand many offensive strategies"
 msgstr ""
-"Traceur compétent, meneur expérimenté, peut jouer n'importe quelle position, "
+"traceur compétent, meneur expérimenté, peut jouer n'importe quelle position, "
 "comprends plusieurs stratégies offensives"
 
 #: /config/sport/ultimate.php:92
@@ -2902,125 +2915,6 @@ msgstr ""
 msgid "The same team shouldn't pull to start both halves."
 msgstr ""
 
-#: /libs/wordpress_bridge.php:464
-msgid "Search for:"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:485
-msgid "The <code>%s</code> option is deprecated for the family of <code>bloginfo()</code> functions."
-msgstr ""
-
-#: /libs/wordpress_bridge.php:485
-msgid "Use the <code>%s</code> option instead."
-msgstr ""
-
-#: /libs/wordpress_bridge.php:779
-msgid "Media"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:780
-msgid "Edit Media"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:797
-msgid "Revisions"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:798
-msgid "Revision"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:813
-msgid "Navigation Menu Items"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:814
-msgid "Navigation Menu Item"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:1023
-msgid "Post types cannot exceed 20 characters in length"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:1190
-msgid "Add New Post"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:1190
-msgid "Add New Page"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:1191
-msgid "Edit Post"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:1191
-msgid "Edit Page"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:1192
-msgid "New Post"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:1192
-msgid "New Page"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:1193
-msgid "View Post"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:1193
-msgid "View Page"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:1194
-msgid "Search Posts"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:1194
-msgid "Search Pages"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:1195
-msgid "No posts found."
-msgstr ""
-
-#: /libs/wordpress_bridge.php:1195
-msgid "No pages found."
-msgstr ""
-
-#: /libs/wordpress_bridge.php:1196
-msgid "No posts found in Trash."
-msgstr ""
-
-#: /libs/wordpress_bridge.php:1196
-msgid "No pages found in Trash."
-msgstr ""
-
-#: /libs/wordpress_bridge.php:1197
-msgid "Parent Page:"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:1198
-msgid "All Posts"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:1198
-msgid "All Pages"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:1588
-msgid "Pages"
-msgstr ""
-
-#: /libs/wordpress_bridge.php:1640
-#: /views/all/splash.ctp:2
-#: /views/games/ratings_table.ctp:38
-#: /views/schedules/day.ctp:35
-msgid "Home"
-msgstr ""
-
 #: /models/game.php:261
 msgid "Winner of game %s"
 msgstr ""
@@ -3857,6 +3751,12 @@ msgstr ""
 
 #: /views/all/cron.ctp:11
 msgid "Nothing to report today."
+msgstr ""
+
+#: /views/all/splash.ctp:2
+#: /views/games/ratings_table.ctp:38
+#: /views/schedules/day.ctp:35
+msgid "Home"
 msgstr ""
 
 #: /views/all/splash.ctp:11;15;19;23
@@ -9743,8 +9643,323 @@ msgstr ""
 msgid "Edit Waiver"
 msgstr "Modifier la décharge"
 
-#: /webroot/test.php:88
-msgid "Debug setting does not allow access to this url."
+msgid "Field"
+msgstr ""
+
+msgid "Fields"
+msgstr ""
+
+msgid "field"
+msgstr ""
+
+msgid "fields"
+msgstr ""
+
+msgid "Court"
+msgstr ""
+
+msgid "Courts"
+msgstr ""
+
+msgid "cout"
+msgstr ""
+
+msgid "couts"
+msgstr ""
+
+msgid "Pitch"
+msgstr ""
+
+msgid "Pitchs"
+msgstr ""
+
+msgid "pitch"
+msgstr ""
+
+msgid "pitches"
+msgstr ""
+
+msgid "Diamond"
+msgstr ""
+
+msgid "Diamonds"
+msgstr ""
+
+msgid "diamond"
+msgstr ""
+
+msgid "diamonds"
+msgstr ""
+
+msgid "Rink"
+msgstr ""
+
+msgid "Rinks"
+msgstr ""
+
+msgid "rink"
+msgstr ""
+
+msgid "rinks"
+msgstr ""
+
+msgid "Gym"
+msgstr ""
+
+msgid "Gyms"
+msgstr ""
+
+msgid "gym"
+msgstr ""
+
+msgid "gyms"
+msgstr ""
+
+msgid "Active Player"
+msgstr ""
+
+msgid "This badge indicates a player who is on a team roster for a current or upcoming season."
+msgstr ""
+
+msgid "Member"
+msgstr ""
+
+msgid "This badge indicates a player who has a current membership."
+msgstr ""
+
+msgid "Intro Member"
+msgstr ""
+
+msgid "This badge indicates a player who has an introductory membership, typically a player new to the sport or the city."
+msgstr ""
+
+msgid "Junior Player"
+msgstr ""
+
+msgid "This badge indicates a player who is under 18."
+msgstr ""
+
+msgid "Past Member"
+msgstr ""
+
+msgid "This badge denotes someone who had a membership in the past."
+msgstr ""
+
+msgid "5x Past Member"
+msgstr ""
+
+msgid "This badge denotes someone who has had at least 5 memberships in the past."
+msgstr ""
+
+msgid "League Champion"
+msgstr ""
+
+msgid "This badge is awarded to all regular players on the rosters of teams that have won league playoffs."
+msgstr ""
+
+msgid "5x League Champion"
+msgstr ""
+
+msgid "This badge is awarded to people who have won five league championships."
+msgstr ""
+
+msgid "Hall of Fame"
+msgstr ""
+
+msgid "This badge is awarded exclusively to those who have been inducted into the Hall of Fame."
+msgstr ""
+
+msgid "Volunteer of the Year"
+msgstr ""
+
+msgid "This badge is awarded to those who have been chosen as volunteer of the year."
+msgstr ""
+
+msgid "Volunteer of the Month"
+msgstr ""
+
+msgid "This badge is awarded to those who have been chosen as volunteer of the month."
+msgstr ""
+
+msgid "Board of Directors"
+msgstr ""
+
+msgid "This badge is awarded to those who have are currently on the board of directors."
+msgstr ""
+
+msgid "Red Flag"
+msgstr ""
+
+msgid "Denotes players under suspension."
+msgstr ""
+
+msgid "Yellow Flag"
+msgstr ""
+
+msgid "Denotes players being monitored for bad behaviour."
+msgstr ""
+
+msgid "Green Flag"
+msgstr ""
+
+msgid "Denotes players worthy of some recognition."
+msgstr ""
+
+msgid "Membership"
+msgstr ""
+
+msgid "Teams for Leagues"
+msgstr ""
+
+msgid "Individuals for Leagues"
+msgstr ""
+
+msgid "Teams for Events"
+msgstr ""
+
+msgid "Individuals for Events"
+msgstr ""
+
+msgid "Clinics"
+msgstr ""
+
+msgid "Social Events"
+msgstr ""
+
+#: /config/features.php:176
+msgid "automatic approval"
+msgstr ""
+
+#: /config/features.php:177
+msgid "approval using home submission"
+msgstr ""
+
+#: /config/features.php:178
+msgid "approval using away submission"
+msgstr ""
+
+#: /config/features.php:179
+msgid "automatically forfeited due to lack of score submission"
+msgstr ""
+
+#: /config/features.php:183
+msgid "Attending"
+msgstr ""
+
+#: /config/features.php:184
+msgid "Absent"
+msgstr ""
+
+#: /config/features.php:185
+msgid "Unknown"
+msgstr ""
+
+#: /config/features.php:186
+msgid "Invited"
+msgstr ""
+
+#: /config/features.php:187
+msgid "Available"
+msgstr ""
+
+#: /config/features.php:188
+msgid "No Show'
+msgstr ""
+
+#: /config/features.php:201;210
+msgid "attending"
+msgstr ""
+
+#: /config/features.php:202;211
+msgid "absent for"
+msgstr ""
+
+#: /config/features.php:203;212
+msgid "unknown/undecided for"
+msgstr ""
+
+#: /config/features.php:204
+msgid "invited to sub for"
+msgstr ""
+
+#: /config/features.php:205
+msgid "available to sub for"
+msgstr ""
+
+#: /config/features.php:206;215
+msgid "a no-show for"
+msgstr ""
+
+#: /config/features.php:213
+msgid "invited to attend"
+msgstr ""
+
+#: /config/features.php:214
+msgid "available to attend"
+msgstr ""
+
+#: /config/features.php:219
+msgid "Predecessor"
+msgstr ""
+
+#: /config/features.php:220
+msgid "Successor"
+msgstr ""
+
+#: /config/features.php:221
+msgid "Alternate
+msgstr ""
+
+#: /config/features.php:225
+msgid "Private"
+msgstr ""
+
+#: /config/features.php:228
+msgid "Public"
+msgstr ""
+
+#: /config/options.php:52
+msgid "Womens XSmall"
+msgstr ""
+
+#: /config/options.php:53
+msgid "Womens Small"
+msgstr ""
+
+#: /config/options.php:54
+msgid "Womens Medium"
+msgstr ""
+
+#: /config/options.php:55
+msgid "Womens Large"
+msgstr ""
+
+#: /config/options.php:56
+msgid "Womens XLarge"
+msgstr ""
+
+#: /config/options.php:57
+msgid "Mens Small"
+msgstr ""
+
+#: /config/options.php:58
+msgid "Mens Medium"
+msgstr ""
+
+#: /config/options.php:59
+msgid "Mens Large"
+msgstr ""
+
+#: /config/options.php:60
+msgid "Mens XLarge"
+msgstr ""
+
+#: /config/options.php:61
+msgid "Mens XXLarge"
+msgstr ""
+
+#: /config/options.php:66
+msgid "Inactive"
 msgstr ""
 
 msgid "Field"
