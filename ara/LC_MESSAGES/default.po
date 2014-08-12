@@ -3323,7 +3323,7 @@ msgstr "صفحات"
 #: /libs/wordpress_bridge.php:1640 /views/all/splash.ctp:2
 #: /views/games/ratings_table.ctp:38 /views/schedules/day.ctp:35
 msgid "Home"
-msgstr "الرئيسية"
+msgstr "الصفحة الرئيسية"
 
 #: /models/game.php:261
 msgid "Winner of game %s"
@@ -3932,7 +3932,7 @@ msgstr "اسم المستخدم"
 #: /views/registrations/report.ctp:61 /views/registrations/csv/full_list.ctp:5
 #: /views/registrations/csv/report.ctp:9
 msgid "First Name"
-msgstr "الاسم الأول"
+msgstr "الاسم الاول"
 
 #: /views/affiliates/view.ctp:24 /views/leagues/csv/participation.ctp:8
 #: /views/people/participation.ctp:33 /views/people/csv/participation.ctp:6
@@ -5258,22 +5258,22 @@ msgstr "رفض الطلب"
 #: /views/elements/email/html/roster_invite_reminder.ctp:14
 #: /views/elements/email/html/roster_request.ctp:14
 msgid "Accept the invitation"
-msgstr "قبول الدعوة"
+msgstr "قم بتلبية الدعوة"
 
 #: /views/elements/email/html/roster_invite.ctp:24
 #: /views/elements/email/html/roster_invite_reminder.ctp:20
 #: /views/elements/email/html/roster_request.ctp:19
 msgid "Decline the invitation"
-msgstr "رفض الدعوة"
+msgstr "ارفض الدعوة"
 
 #: /views/elements/events/list.ctp:15 /views/events/index.ctp:44
 #: /views/events/view.ctp:114 /views/registrations/checkout.ctp:29;74
 msgid "Cost"
-msgstr "كلفة"
+msgstr "القيمة"
 
 #: /views/elements/events/list.ctp:16 /views/events/index.ctp:45
 msgid "Opens on"
-msgstr "يفتتح في"
+msgstr "يفتح في"
 
 #: /views/elements/events/list.ctp:17 /views/events/index.ctp:46
 msgid "Closes on"
@@ -5284,38 +5284,34 @@ msgid "Register Now"
 msgstr "سجل الآن"
 
 #: /views/elements/events/not_logged_in.ctp:1
-#, fuzzy
 msgid ""
 "You cannot register for any events until you are %s to the site. The system "
 "can help you %s or %s."
-msgstr ""
-"لا يمكنك التسجيل للحصول على أي أحداث حتى تكون٪ s إلى الموقع. النظام يمكن أن "
-"تساعدك٪ ٪ أو ."
+msgstr "لا تستطيع التسجيل لأي حدث حتى %s في الموقع. النظام سيساعدك %s و %s. "
 
 #: /views/elements/events/not_logged_in.ctp:2
 msgid "logged on"
-msgstr "تسجيل الدخول"
+msgstr "مسجل الدخول"
 
 #: /views/elements/events/not_logged_in.ctp:3
 msgid "recover forgotten passwords"
-msgstr "استعادة كلمات السر المنسية"
+msgstr "إستعادة كلمة المرور التي نسيتها"
 
 #: /views/elements/events/not_logged_in.ctp:4
 msgid ""
 "create a new profile (and user ID with password) if you are new to the %s "
 "site"
-msgstr ""
-"إنشاء ملف تعريف جديد (ومعرف المستخدم مع كلمة السر) إذا كنت جديدا على موقع٪"
+msgstr "أضف ملف شخصي جديد (ورقم مستخدم مع كلمة مرور) إذا كنت جديدا لموقع %s"
 
 #: /views/elements/games/add_sub_div.ctp:2
 #: /views/elements/games/stats_entry.ctp:92
 msgid "Add a sub"
-msgstr "إضافة بديل"
+msgstr "أضف إحتياط"
 
 #: /views/elements/games/attendance_change.ctp:12
 #: /views/elements/team_events/attendance_change.ctp:12
 msgid "Current attendance: %s"
-msgstr "الحضور الحالي:%s"
+msgstr "الحضور الحالي: %s"
 
 #: /views/elements/games/attendance_div.ctp:8
 msgid "Comment"
@@ -5323,11 +5319,11 @@ msgstr "تعليق"
 
 #: /views/elements/games/attendance_div.ctp:11
 msgid "Attendance comment"
-msgstr "الحضور تعليق"
+msgstr "تعليقات الحضور"
 
 #: /views/elements/games/attendance_div.ctp:12
 msgid "If you want to add a comment for your captain, do so here."
-msgstr "إذا كنت ترغب في إضافة تعليق لقائد الفريق الخاص بك القيام بذلك هنا."
+msgstr "إذا أردت إضافة تعليق للكابتن فريقك، افعل ذلك هنا."
 
 #: /views/elements/games/attendance_div.ctp:13
 msgid ""
@@ -5335,18 +5331,20 @@ msgid ""
 "note with this invitation, leave this blank, but click \"Save\". \"Cancel\" "
 "will abort the invitation entirely."
 msgstr ""
+"إذا أردت إضافة ملاحظة خاصة للاعب، افعل ذلك هنا. لعدم إضافة ملاحظة مع الدعوة، "
+"اتركه فارغا، ولكن اضغط \"حفظ\". \"إلغاء\" سيحذف الدعوة كليا."
 
 #: /views/elements/games/edit_boxscore_line.ctp:24
 msgid "Game started"
-msgstr "بدأت اللعبة"
+msgstr "بدأت المباراة"
 
 #: /views/elements/games/edit_boxscore_line.ctp:26
 msgid "Timeout"
-msgstr "مهلة"
+msgstr "وقت مستقطع"
 
 #: /views/elements/games/edit_boxscore_line.ctp:51;51
 msgid "Delete Score Detail"
-msgstr "حذف نقاط التفاصيل"
+msgstr "حذف تفاصيل النتيجة"
 
 #: /views/elements/games/edit_boxscore_line.ctp:53
 msgid "Are you sure you want to delete this?"
@@ -5360,16 +5358,16 @@ msgstr "هل أنت متأكد أنك تريد حذف هذا؟"
 #: /views/registrations/view.ctp:131 /views/schedules/day.ctp:33
 #: /views/teams/schedule.ctp:17
 msgid "Time"
-msgstr "وقت"
+msgstr "الوقت"
 
 #: /views/elements/games/splash.ctp:5
 msgid "Recent and Upcoming Schedule"
-msgstr "الأخيرة والقادمة الجدول"
+msgstr "الجدول الحالي والقادم"
 
 #: /views/elements/games/splash.ctp:93;93 /views/games/attendance.ctp:74;74
 #: /views/teams/view.ctp:197;197 /views/themed/wfdfu23/teams/view.ctp:197;197
 msgid "Stat Sheet"
-msgstr "ورقة القانون الأساسي"
+msgstr "صفحة الإحصائيات"
 
 #: /views/elements/games/splash.ctp:94 /views/games/attendance.ctp:75
 msgid ""
@@ -5377,15 +5375,19 @@ msgid ""
 "playing, plus a couple of blank lines.\\n\\nFor a stat sheet with your full "
 "roster, use the link from the team view page."
 msgstr ""
+"صفحة الإحصائيات هذه ستضمن فقط اللاعبين الذين بينوا أنهم سيلعبون، إضافة إلى "
+"بعض الأسط الفارغة.\\n"
+"\\n"
+"لصفحة إحصائيات تحتوي قائمة لاعبيك كاملة، استخدم الوصلة من صفحة عرض الفريق."
 
 #: /views/elements/games/splash.ctp:103 /views/games/attendance.ctp:69
 #: /views/games/view.ctp:137
 msgid "Add Note"
-msgstr "إضافة ملاحظة"
+msgstr "أضف ملاحظة"
 
 #: /views/elements/games/splash.ctp:146
 msgid "View Event Attendance"
-msgstr "عرض الحضور حدث"
+msgstr "عرض حضور الحدث"
 
 #: /views/elements/games/stats_entry.ctp:3
 msgid ""
@@ -5393,12 +5395,13 @@ msgid ""
 "assumes that all regular players are attending and all subs are unknown. To "
 "enable attendance tracking, %s."
 msgstr ""
-"لأنه ليس لدى هذا الفريق تمكين تعقب الحضور، والقائمة أدناه يفترض أن جميع "
-"اللاعبين العادية ويحضر وجميع الغواصات غير معروفة. لتمكين تتبع الحضور، و٪ s."
+"لأن هذا الفريق لم يفعل خاصية متابعة حضور اللاعبين، القائمة في الأسفل تعتبر "
+"جميع اللاعبين الأساسيين والإحتياطيين الذين يحضرون مجهولون. لتفعيل خاصية "
+"متابعة الحضور، %s."
 
 #: /views/elements/games/stats_entry.ctp:4
 msgid "edit the team record"
-msgstr "تحرير سجل فريق"
+msgstr "تعديل سجل الفريق"
 
 #: /views/elements/games/stats_entry.ctp:12 /views/games/stat_sheet.ctp:43
 #: /views/games/view.ctp:430 /views/people/approve_badges.ctp:11
@@ -5411,27 +5414,27 @@ msgstr "لاعب"
 #: /views/elements/games/stats_entry.ctp:100 /views/games/stat_sheet.ctp:86
 #: /views/teams/stat_sheet.ctp:66
 msgid "Unlisted Subs"
-msgstr "التبديلات غير المدرجة"
+msgstr "الإحتياط غير المدرج"
 
 #: /views/elements/help/index.ctp:6
 msgid "New Users"
-msgstr "المستخدمون الجدد"
+msgstr "المستخدمين الجدد"
 
 #: /views/elements/help/index.ctp:7
 msgid "Advanced Users"
-msgstr "المستخدمون المتقدمون"
+msgstr "المستخدمين المتقدمين"
 
 #: /views/elements/help/index.ctp:8 /views/teams/tooltip.ctp:26
 msgid "Captains"
-msgstr "القادة"
+msgstr "الكباتن"
 
 #: /views/elements/help/index.ctp:13
 msgid "Administrators"
-msgstr "الإداريين"
+msgstr "المدراء"
 
 #: /views/elements/help/index.ctp:15
 msgid "Site Setup and Configuration"
-msgstr "إعداد الموقع والتكوين"
+msgstr "تهيئة وإعداد الموقع"
 
 #: /views/elements/help/index.ctp:16
 msgid "Player Management"
@@ -5443,24 +5446,24 @@ msgstr "إدارة الدوري"
 
 #: /views/elements/help/index.ctp:18
 msgid "%s Management"
-msgstr "%s إدارة"
+msgstr "إدارة %s"
 
 #: /views/elements/help/index.ctp:27 /views/people/add_relative.ctp:4
 #: /views/people/index.ctp:2;7 /views/people/participation.ctp:2
 #: /views/people/retention.ctp:2
 msgid "People"
-msgstr "الناس"
+msgstr "أشخاص"
 
 #: /views/elements/help/index.ctp:30 /views/events/edit.ctp:2
 #: /views/questionnaires/view.ctp:34
 msgid "Events"
-msgstr "فعاليات"
+msgstr "أحداث"
 
 #: /views/elements/help/index.ctp:35 /views/people/view.ctp:513
 #: /views/waivers/edit.ctp:2 /views/waivers/index.ctp:2;7
 #: /views/waivers/view.ctp:2
 msgid "Waivers"
-msgstr "التنازلات"
+msgstr "إعفاءات"
 
 #: /views/elements/help/index.ctp:38 /views/game_slots/submit_score.ctp:2
 #: /views/games/attendance.ctp:2 /views/games/attendance_change.ctp:2
@@ -5481,7 +5484,7 @@ msgstr "جداول"
 #: /views/leagues/schedule.ctp:2 /views/leagues/standings.ctp:2
 #: /views/leagues/summary.ctp:2 /views/leagues/view.ctp:2
 msgid "Leagues"
-msgstr "دوري"
+msgstr "دواري"
 
 #: /views/elements/help/index.ctp:42;47
 #: /views/elements/leagues/game/ladder/score.ctp:31 /views/games/cron.ctp:27
@@ -5492,34 +5495,34 @@ msgstr "و"
 #: /views/facilities/index.ctp:2 /views/facilities/view.ctp:2
 #: /views/regions/view.ctp:25
 msgid "Facilities"
-msgstr "مرافق"
+msgstr "مراكز اللعب"
 
 #: /views/elements/help/index.ctp:49
 msgid "Rules Engine"
-msgstr "قواعد المشغل"
+msgstr "محرك القواعد"
 
 #: /views/elements/help/index.ctp:50
 msgid "Configuration"
-msgstr "ترتيب"
+msgstr "الإعداد"
 
 #: /views/elements/help/divisions/edit/double_booking.ctp:6;8
 #: /views/elements/help/divisions/edit/exclude_teams.ctp:5;7
 msgid "edit the division"
-msgstr "تحرير الانقسام"
+msgstr "تعديل المستوى"
 
 #: /views/elements/help/games/personal_feed.ctp:2
 #: /views/elements/help/games/reminder_emails.ctp:3
 msgid "edit your preferences"
-msgstr "تعديل تفضيلاتك"
+msgstr "تعديل إعداداتك"
 
 #: /views/elements/help/guide/new_user.ctp:5
 msgid "advanced users guide"
-msgstr "دليل المستخدم المتقدم"
+msgstr "دليل المستخدمين المتقدم"
 
 #: /views/elements/help/guide/new_user.ctp:6
 #: /views/elements/help/teams/joining_teams.ctp:10
 msgid "captains guide"
-msgstr "دليل القادة"
+msgstr "دليل الكباتن"
 
 #: /views/elements/help/registration_payments/edit/mark_refunded.ctp:2
 msgid ""
@@ -5528,6 +5531,9 @@ msgid ""
 "records, invalidate other registrations that the user has and/or open up "
 "registration spots for others."
 msgstr ""
+"قم بتحديد صندوق \"mark this registration as refunded\" إذا كان التسجيل يعتبر "
+"قابل لإرجاع كامل المبلغ. هذا قد يحذف نتائج الفريق المعني، يبطل مفعول "
+"التسجيلات الأخرى التي عملها المستخدم ويفتح المجال لمستخدمين آخرين. "
 
 #: /views/elements/help/registration_payments/edit/mark_refunded.ctp:3
 msgid ""
@@ -5535,9 +5541,9 @@ msgid ""
 "e.g. if a team drops out part way through a season and you need their game "
 "results to remain for other team standings to be correct."
 msgstr ""
-"كنت عادة لا تريد أن تحقق هذا إذا كنت إصدار رد جزئي، على سبيل المثال في حالة "
-"انخفاض فريق من الطريق جزئيا من خلال موسم واحد وتحتاج نتائج لعبتهم أن يبقى "
-"لترتيب الفريق الآخر أن يكون صحيحا."
+"أنت عادة لا تريد تحديد هذه إذا اردت ارجاع جزء من المبلغ، مثلا إذا انسحب فريق "
+"في منتصف الموسم وأردت نتائج مبارياته أن تظل لترتيبات فريق آخر بحيث تكون "
+"صحيحة."
 
 #: /views/elements/help/teams/edit.ctp:4
 msgid "registration system"
@@ -5545,7 +5551,7 @@ msgstr "نظام التسجيل"
 
 #: /views/elements/help/teams/edit.ctp:7;7
 msgid "Registration Help"
-msgstr "تعليمات التسجيل"
+msgstr "مساعدة التسجيل"
 
 #: /views/elements/leagues/actions.ctp:29
 msgid "View League Details"
@@ -5553,32 +5559,32 @@ msgstr "عرض تفاصيل الدوري"
 
 #: /views/elements/leagues/actions.ctp:55
 msgid "Edit League"
-msgstr "تحرير الدوري"
+msgstr "تعديل دوري"
 
 #: /views/elements/leagues/actions.ctp:60;60
 msgid "Clone League"
-msgstr "استنساخ الدوري"
+msgstr "نسخ دوري"
 
 #: /views/elements/leagues/actions.ctp:65;65
 msgid "Add Division"
-msgstr "إضافة قسم"
+msgstr "إضافة مستوى"
 
 #: /views/elements/leagues/actions.ctp:74
 msgid "Delete League"
-msgstr "حذف الدوري"
+msgstr "حذف دوري"
 
 #: /views/elements/leagues/actions.ctp:78
 #: /views/leagues/participation.ctp:4;8;45
 msgid "Participation"
-msgstr "مشاركة"
+msgstr "حضور"
 
 #: /views/elements/leagues/game/ladder/score.ctp:1
 msgid "Rating Points"
-msgstr "تصنيف النقاط"
+msgstr "نقاط التقييم"
 
 #: /views/elements/leagues/game/ladder/score.ctp:17;22
 msgid "lose"
-msgstr "خسر"
+msgstr "خسارة"
 
 #: /views/elements/leagues/game/ladder/score.ctp:18;21
 msgid "gain"
@@ -5595,40 +5601,40 @@ msgstr "نقاط"
 #: /views/elements/leagues/schedule/edit_header.ctp:6
 #: /views/elements/leagues/schedule/view_header.ctp:18
 msgid "Available %s"
-msgstr "تتوفر٪ s"
+msgstr "متاح %s"
 
 #: /views/elements/leagues/schedule/edit_header.ctp:11
 msgid "Time/%s"
-msgstr "الوقت / %s"
+msgstr "وقت/%s"
 
 #: /views/elements/leagues/schedule/edit_header.ctp:14
 #: /views/elements/leagues/schedule/view_header.ctp:55
 #: /views/games/ratings_table.ctp:39 /views/schedules/day.ctp:36
 msgid "Away"
-msgstr "الفريق الزائر"
+msgstr "زائر"
 
 #: /views/elements/leagues/schedule/game_view.ctp:16;28
 #: /views/elements/leagues/schedule/week_edit.ctp:120;176
 #: /views/franchises/view.ctp:98 /views/game_slots/view.ctp:29
 #: /views/schedules/day.ctp:71;82
 msgid "Unassigned"
-msgstr "غير معين"
+msgstr "إلغاء التعيين"
 
 #: /views/elements/leagues/schedule/view_header.ctp:10
 #: /views/elements/leagues/standings/tournament/bracket.ctp:17
 #: /views/elements/leagues/standings/tournament/pools.ctp:49
 msgid "Initialize schedule dependencies"
-msgstr "تهيئة تبعيات الجدول الزمني"
+msgstr "تهيئة الأمور التي يعتمد عليها الجدول"
 
 #: /views/elements/leagues/schedule/view_header.ctp:13
 #: /views/elements/leagues/standings/tournament/bracket.ctp:20
 #: /views/elements/leagues/standings/tournament/pools.ctp:52
 msgid "Reset schedule dependencies"
-msgstr "إعادة تعيين تبعيات الجدول الزمني"
+msgstr "إعادة الأمور التي يعتمد عليها الجدول"
 
 #: /views/elements/leagues/schedule/view_header.ctp:21;21
 msgid "Edit Day"
-msgstr "تحرير اليوم"
+msgstr "تعديل اليوم"
 
 #: /views/elements/leagues/schedule/view_header.ctp:24;24
 msgid "Delete Day"
@@ -5636,63 +5642,62 @@ msgstr "حذف اليوم"
 
 #: /views/elements/leagues/schedule/view_header.ctp:29;29
 msgid "Reschedule"
-msgstr "إعادة جدولة"
+msgstr "إعادة الجدول"
 
 #: /views/elements/leagues/schedule/view_header.ctp:36;36
 msgid "Unpublish"
-msgstr "إلغاء نشر"
+msgstr "عدم النشر"
 
 #: /views/elements/leagues/schedule/view_header.ctp:40;40
 msgid "Publish"
-msgstr "نشر"
+msgstr "قم بالنشر"
 
 #: /views/elements/leagues/schedule/view_header.ctp:57
 #: /views/elements/leagues/standings/tournament/pools.ctp:145
 #: /views/games/edit_boxscore.ctp:48 /views/games/stats.ctp:40
 #: /views/schedules/day.ctp:37 /views/teams/schedule.ctp:20
 msgid "Score"
-msgstr "نتيجة"
+msgstr "النتيجة"
 
 #: /views/elements/leagues/schedule/week_edit.ctp:224
 msgid "Set as published for player viewing?"
-msgstr "كما نشرت مجموعة لاعب المشاهدة؟"
+msgstr "قم بالنشر للعرض من قبل اللاعبين؟"
 
 #: /views/elements/leagues/schedule/week_edit.ctp:230
 #: /views/schedules/type.ctp:71
 msgid "Allow double-headers?"
-msgstr "تسمح المزدوج الرؤوس؟"
+msgstr "السماح بمبارتي ذهاب وإياب؟"
 
 #: /views/elements/leagues/schedule/week_edit.ctp:237
 #: /views/schedules/type.ctp:83
 msgid "Allow double-booking?"
-msgstr "تسمح المزدوج الحجز؟"
+msgstr "السماح بإنذارين؟"
 
 #: /views/elements/leagues/schedule/week_edit.ctp:244
 msgid "Allow cross-division games?"
-msgstr "تسمح الألعاب عبر الانقسام؟"
+msgstr "السماح بمباريات بين المستويات؟"
 
 #: /views/elements/leagues/standings/ladder/heading.ctp:2
 #: /views/elements/leagues/standings/rounds/heading.ctp:2
 #: /views/elements/leagues/view/ladder/heading.ctp:2
 #: /views/schedules/reseed.ctp:33
-#, fuzzy
 msgid "Seed"
-msgstr "بذرة"
+msgstr "ترتيب"
 
 #: /views/elements/leagues/standings/ladder/heading.ctp:5
 #: /views/elements/leagues/standings/rounds/heading.ctp:7
 msgid "Season To Date"
-msgstr "الموسم إلى تاريخ"
+msgstr "الموسم المؤرخ"
 
 #: /views/elements/leagues/standings/ladder/heading.ctp:6
 #: /views/elements/leagues/standings/rounds/heading.ctp:8
 msgid "Streak"
-msgstr "خط"
+msgstr "متتالي"
 
 #: /views/elements/leagues/standings/ladder/heading.ctp:12
 #: /views/elements/leagues/standings/rounds/heading.ctp:15;24
 msgid "Wins"
-msgstr "انتصارات"
+msgstr "فوز"
 
 #: /views/elements/leagues/standings/ladder/heading.ctp:12
 #: /views/elements/leagues/standings/rounds/heading.ctp:15;24
@@ -5707,12 +5712,12 @@ msgstr "خسائر"
 #: /views/elements/leagues/standings/ladder/heading.ctp:13
 #: /views/elements/leagues/standings/rounds/heading.ctp:16;25
 msgid "L"
-msgstr "ل"
+msgstr "خ"
 
 #: /views/elements/leagues/standings/ladder/heading.ctp:14
 #: /views/elements/leagues/standings/rounds/heading.ctp:17;26
 msgid "Ties"
-msgstr "تعادل "
+msgstr "تعادلات"
 
 #: /views/elements/leagues/standings/ladder/heading.ctp:14
 #: /views/elements/leagues/standings/rounds/heading.ctp:17;26
@@ -5723,13 +5728,12 @@ msgstr "ت"
 #: /views/elements/leagues/standings/rounds/heading.ctp:18;27
 #: /views/teams/statistics.ctp:181
 msgid "Defaults"
-msgstr "الافتراضات"
+msgstr "إنسحابات"
 
 #: /views/elements/leagues/standings/ladder/heading.ctp:15
 #: /views/elements/leagues/standings/rounds/heading.ctp:18;27
-#, fuzzy
 msgid "D"
-msgstr "d"
+msgstr "إنسحب"
 
 #: /views/elements/leagues/standings/ladder/heading.ctp:16
 #: /views/elements/leagues/standings/rounds/heading.ctp:20;29
@@ -5738,25 +5742,23 @@ msgstr "أهداف له"
 
 #: /views/elements/leagues/standings/ladder/heading.ctp:16
 #: /views/elements/leagues/standings/rounds/heading.ctp:20;29
-#, fuzzy
 msgid "GF"
-msgstr "gf"
+msgstr "أ ل"
 
 #: /views/elements/leagues/standings/ladder/heading.ctp:17
 #: /views/elements/leagues/standings/rounds/heading.ctp:21;30
 msgid "Goals Against"
-msgstr "أهداف ضد"
+msgstr "أهداف عليه"
 
 #: /views/elements/leagues/standings/ladder/heading.ctp:17
 #: /views/elements/leagues/standings/rounds/heading.ctp:21;30
-#, fuzzy
 msgid "GA"
-msgstr "ga"
+msgstr "أ ع"
 
 #: /views/elements/leagues/standings/ladder/heading.ctp:18
 #: /views/elements/leagues/standings/rounds/heading.ctp:22;31
 msgid "Plus/Minus"
-msgstr "زائد / ناقص"
+msgstr "له/عليه"
 
 #: /views/elements/leagues/standings/ladder/heading.ctp:18
 #: /views/elements/leagues/standings/rounds/heading.ctp:22;31
@@ -5769,23 +5771,20 @@ msgstr "الجولة الحالية"
 
 #: /views/elements/leagues/standings/rounds/heading.ctp:19;28
 msgid "Points"
-msgstr "النقاط"
+msgstr "نقاط"
 
 #: /views/elements/leagues/standings/rounds/heading.ctp:19;28
-#, fuzzy
 msgid "P"
-msgstr "p"
+msgstr "ن"
 
 #: /views/elements/leagues/standings/tournament/bracket.ctp:14
 #: /views/elements/leagues/standings/tournament/pools.ctp:46
-#, fuzzy
 msgid "Delete pool games"
-msgstr "حذف تجمع الألعاب"
+msgstr "حذف مجموعة مباريات"
 
 #: /views/elements/leagues/standings/tournament/pools.ctp:42
-#, fuzzy
 msgid "Pool %s"
-msgstr "تجمع٪ s"
+msgstr "مجموعة %s"
 
 #: /views/elements/leagues/standings/tournament/pools.ctp:141
 msgid "Day"
@@ -5828,50 +5827,48 @@ msgid ""
 "registration process is now complete, but you must do the following to make "
 "payment:"
 msgstr ""
-"إذا كنت تفضل أن تدفع حاليا عبر الاختيار، وجزء من عملية التسجيل عبر الإنترنت "
-"الخاص بك هو الآن كاملة، ولكن يجب عليك القيام بما يلي لجعل الدفع:"
+"إذا فضلت الدفع عبر الشيك، تم الإنتهاء من الجزء المتواجد على الشبكة من عملية "
+"التسجيل، ولكن يجب عليك عمل التالي من أجل الدفع:"
 
 #: /views/elements/payments/offline.ctp:7
 msgid ""
 "The online portion of your registration process is now complete, but you "
 "must do the following to make payment:"
 msgstr ""
-"جزء من عملية التسجيل عبر الإنترنت الخاص بك هو الآن كاملة، ولكن يجب عليك "
-"القيام بما يلي لجعل الدفع:"
+"تم الإنتهاء من الجزء المتواجد على الشبكة من عملية التسجيل، لكن يجب عليك "
+"الدفع عبر التالي:"
 
 #: /views/elements/payments/refund.ctp:4
 msgid "Refund Policy"
-msgstr "سياسة رد"
+msgstr "سياسة إرجاع الأموال"
 
 #: /views/elements/payments/settings/chase.ctp:2
-#, fuzzy
 msgid "Chase Paymentech Options"
-msgstr "مطاردة خيارات Paymentech"
+msgstr "خيارات Chase Paymentech"
 
 #: /views/elements/payments/settings/moneris.ctp:2
-#, fuzzy
 msgid "Moneris Options"
 msgstr "خيارات Moneris"
 
 #: /views/elements/payments/settings/paypal.ctp:2
 msgid "Paypal Options"
-msgstr "خيارات باي بال"
+msgstr "خيارات Paypal"
 
 #: /views/elements/people/badge_div.ctp:1
 msgid "Badge comment"
-msgstr "شارة التعليق"
+msgstr "تعليق الشارة"
 
 #: /views/elements/people/document_div.ctp:1
 msgid "Document comment"
-msgstr "تعليق وثيقة"
+msgstr "تعليق المجلد"
 
 #: /views/elements/people/document_div.ctp:2
 msgid "If you want to add a comment to the player, do so here."
-msgstr "إذا كنت ترغب في إضافة تعليق على لاعب، والقيام بذلك هنا."
+msgstr "إذا اردت إضافة تعليق للاعب، افعل ذلك هنا."
 
 #: /views/elements/people/number.ctp:7;7
 msgid "Add Number"
-msgstr "إضافة عدد"
+msgstr "أضف رقما"
 
 #: /views/elements/people/number_div.ctp:2 /views/teams/numbers.ctp:6
 msgid "Shirt Number"
@@ -5880,26 +5877,26 @@ msgstr "رقم القميص"
 #: /views/elements/people/number_div.ctp:3
 msgid ""
 "Enter the new shirt number here, or leave blank to assign no shirt number."
-msgstr "أدخل رقم القميص الجديد هنا، أو اتركه فارغا لتعيين أي عدد للاقمصة."
+msgstr "أدخل رقم القميص هنا، أو اترك الحقل فارغ لعدم تعيين رقم القميص."
 
 #: /views/elements/people/rating.ctp:25 /views/questionnaires/edit.ctp:34
 #: /views/questions/add.ctp:34 /views/questions/index.ctp:2
 msgid "Questions"
-msgstr "الأسئلة"
+msgstr "أسئلة"
 
 #: /views/elements/people/roster_role.ctp:52
 #: /views/leagues/csv/participation.ctp:35
 msgid "invited"
-msgstr "دعوة"
+msgstr "مدعو"
 
 #: /views/elements/people/roster_role.ctp:59
 msgid "invitation"
-msgstr "دعوة"
+msgstr "دعوى"
 
 #: /views/elements/people/roster_role.ctp:63
 #: /views/leagues/csv/participation.ctp:39
 msgid "requested"
-msgstr "طلب"
+msgstr "تم طلبه"
 
 #: /views/elements/people/roster_role.ctp:70
 msgid "request"
@@ -5907,15 +5904,15 @@ msgstr "طلب"
 
 #: /views/elements/people/roster_role.ctp:75;80
 msgid "remove"
-msgstr "نزع"
+msgstr "حذف"
 
 #: /views/elements/people/roster_role.ctp:80;87;94
 msgid "Are you sure you want to %s this %s?"
-msgstr "هل أنت متأكد أنك تريد إلى %s %s هذا؟"
+msgstr "هل أنت متأكد أنك تريد %s هذا %s؟"
 
 #: /views/elements/people/roster_role.ctp:82;87
 msgid "accept"
-msgstr "تقبل"
+msgstr "موافقة"
 
 #: /views/elements/people/roster_role.ctp:89;94
 msgid "decline"
@@ -5929,11 +5926,10 @@ msgstr "بحث"
 
 #: /views/elements/people/search_results.ctp:5
 msgid "No matches found!"
-msgstr "لا توجد مباريات موجود!"
+msgstr "لم يوجد نتائج البحث!"
 
 #: /views/elements/people/search_results.ctp:51 /views/people/tooltip.ctp:35
 #: /views/people/view.ctp:208
-#, fuzzy
 msgid "VCF"
 msgstr "VCF"
 
@@ -5949,7 +5945,7 @@ msgstr "مطلوب"
 
 #: /views/elements/questionnaires/edit.ctp:22
 msgid "Type part of the question you want"
-msgstr "اكتب جزءا من السؤال الذي تريده"
+msgstr "نوع السؤال الذي تريده"
 
 #: /views/elements/questionnaires/edit_question.ctp:17
 msgid "anonymous"
@@ -5957,52 +5953,54 @@ msgstr "مجهول"
 
 #: /views/elements/registrations/configuration/individual.ctp:16
 msgid "This is only used internally to improve event/division linkage."
-msgstr "ويستخدم هذا فقط داخليا لتحسين الربط الحدث / الانقسام."
+msgstr "هذا مستخدم فقط داخليا لتطوير الصلة بين الحدث والمستوى."
 
 #: /views/elements/registrations/configuration/individual.ctp:20
 #: /views/elements/registrations/configuration/team.ctp:20
 msgid "Indicate the expected level(s) of play in this division."
-msgstr "تشير المستوى المتوقع (s) من اللعب في هذا التقسيم."
+msgstr "بيّن مستوى اللعب المتوقع في هذا المستوى."
 
 #: /views/elements/registrations/configuration/membership.ctp:7
 msgid ""
 "First date that this registration will confer membership for (e.g. beginning "
 "of the membership year)."
-msgstr "التاريخ الأول أن هذا التسجيل سوف تمنح عضوية (مثل بداية السنة العضوية)."
+msgstr ""
+"التاريخ الأول الذي ستبدأ فيه عضويات هذا التسجيل (مثلا السنة الذي ستبدأ فيه "
+"العضوية)."
 
 #: /views/elements/registrations/configuration/membership.ctp:15
 msgid ""
 "Last date that this registration will confer membership for (e.g. end of the "
 "membership year)."
-msgstr "تاريخ الماضي ان هذا التسجيل سوف تمنح عضوية (مثل نهاية السنة العضوية)."
+msgstr ""
+"التاريخ الأخير الذي ستنتهي فيه عضويات هذا التسجيل (مثلا السنة التي تنتهي فيه "
+"العضوية)."
 
 #: /views/elements/registrations/configuration/membership.ctp:22
 msgid ""
 "Different membership types may come with limitations (e.g. play on a limited "
 "number of teams)."
 msgstr ""
-"أنواع العضويات المختلفة قد تأتي مع القيود (على سبيل المثال تلعب على عدد "
-"محدود من الفرق)."
+"أنواع العضويات المختلفة قد تحتوي قيود (مثلا اللعب في عدد محدد من الأفرقة)."
 
 #: /views/elements/registrations/configuration/team.ctp:16
 msgid ""
 "Registrations performed through this event will create team records in this "
 "division."
-msgstr ""
-"سوف يقوم التسجيلات من خلال هذا الحدث إنشاء سجلات الفريق في هذا التقسيم."
+msgstr "التسجيلات المنفذة عبر هذا الحدث ستصنع سجلات فريق في هذا المستوى."
 
 #: /views/elements/registrations/configuration/team.ctp:25
 msgid "Ask whether team rosters will be open or closed during registration?"
-msgstr "التساؤل عما إذا كان فريق القوائم ستكون مفتوحة أو مغلقة أثناء التسجيل؟"
+msgstr "اسأل هل قائمة اللاعبين ستكون مفتوحة أو مغلقة خلال التسجيل؟"
 
 #: /views/elements/registrations/configuration/team.ctp:32
 msgid "Ask teams for their regional preference during registration?"
-msgstr "نسأل فرق لتفضيلها الإقليمية أثناء التسجيل؟"
+msgstr "اسأل الأفرقة عن خيارات الالمنطقة خلال التسجيل؟"
 
 #: /views/elements/registrations/configuration/team.ctp:39
 msgid ""
 "Ask teams whether they want to use attendance tracking during registration?"
-msgstr "نسأل فرق ما إذا كانوا يريدون استخدام تتبع الحضور أثناء التسجيل؟"
+msgstr "اسأل الأفرقة إذا كانوا يريدون متابعة الحضور خلال التسجيل؟"
 
 #: /views/elements/settings/banner.ctp:4
 msgid ""
@@ -6010,20 +6008,20 @@ msgid ""
 "the default. To use the default for text fields, simply leave the field "
 "blank."
 msgstr ""
-"كنت تقوم بتحرير الإعدادات٪ s. يجب تحديث فقط تلك التي تختلف من الافتراضي. "
-"لاستخدام الافتراضي لحقول النص، ببساطة ترك الحقل فارغا."
+"أنت تقوم بتعديل إعدادات %s. من المفترض أن تحدث فقط الإعدادات المختلفة عن "
+"الإفتراضي. لتستخدم الوضع الافتراضي لحقل النص، اجعل الحقل فارغ."
 
 #: /views/elements/settings/banner.ctp:6
 msgid ""
 "You are editing the global system settings. These will be used for any "
 "affiliate that does not override them."
 msgstr ""
-"كنت تقوم بتحرير إعدادات النظام العالمي. وسوف تستخدم هذه لأي التابعة التي لا "
-"تجاوز لهم."
+"آنت تقوم بتعديل إعدادات النظام العامة. هذه ستستخدم لأي فريق منتسب لم "
+"يتجاوزهم بإعداداته."
 
 #: /views/elements/settings/input.ctp:60
 msgid "Default"
-msgstr "الافتراضي"
+msgstr "الإفتراضي"
 
 #: /views/elements/spirit/input.ctp:27
 msgid "(between 0 and %d)"
@@ -6031,11 +6029,11 @@ msgstr "(بين 0 و %d)"
 
 #: /views/elements/spirit/input.ctp:49
 msgid "Assign penalty for missing score entry?"
-msgstr "تعيين عقوبة عن المفقودين دخول النتيجة؟"
+msgstr "قم بتعيين العقوبة بسبب عدم إدخال النتيجة؟"
 
 #: /views/elements/spirit/input.ctp:63 /views/elements/spirit/view.ctp:7
 msgid "Spirit assigned to"
-msgstr "روح المخصصة ل"
+msgstr "روح الفريق معينة إلى"
 
 #: /views/elements/tasks/splash.ctp:4 /views/tasks/edit.ctp:2
 #: /views/tasks/index.ctp:2;7 /views/tasks/view.ctp:2
@@ -6044,11 +6042,11 @@ msgstr "المهام"
 
 #: /views/elements/tasks/splash.ctp:6 /views/people/view.ctp:612
 msgid "Report To"
-msgstr "تقرير ل"
+msgstr "تواصل مع"
 
 #: /views/elements/teams/actions.ctp:41
 msgid "View Team Stats"
-msgstr "عرض احصائيات الفريق"
+msgstr "عرض إحصائيات الفريق"
 
 #: /views/elements/teams/actions.ctp:49
 msgid "Team Event"
@@ -6056,32 +6054,32 @@ msgstr "حدث الفريق"
 
 #: /views/elements/teams/actions.ctp:49
 msgid "Add a Team Event"
-msgstr "إضافة حدث للفريق"
+msgstr "أضف حدث للفريق"
 
 #: /views/elements/teams/actions.ctp:56
 msgid "View Season Attendance Report"
-msgstr "عرض الموسم تقرير الحضور"
+msgstr "عرض تقرير الحضور للموسم"
 
 #: /views/elements/teams/actions.ctp:65;65
 msgid "Join Team"
-msgstr "انضم إلى فريق"
+msgstr "انضم للفريق"
 
 #: /views/elements/teams/actions.ctp:71;71
 msgid "Edit Team"
-msgstr "تحرير الفريق"
+msgstr "تعديل الفريق"
 
 #: /views/elements/teams/actions.ctp:76;76 /views/teams/emails.ctp:3;8
 msgid "Player Emails"
-msgstr "رسائل البريد الإلكتروني للاعب"
+msgstr "إيميلات اللاعبين"
 
 #: /views/elements/teams/actions.ctp:83;83 /views/teams/add_from_event.ctp:3
 #: /views/teams/add_from_team.ctp:3 /views/teams/add_player.ctp:5
 msgid "Add Player"
-msgstr "إضافة لاعب"
+msgstr "أضف لاعب"
 
 #: /views/elements/teams/actions.ctp:89
 msgid "See Team Spirit Report"
-msgstr "روح الفريق انظر تقرير"
+msgstr "عرض تقرير روح الفريق"
 
 #: /views/elements/teams/actions.ctp:94;94 /views/teams/move.ctp:8
 msgid "Move Team"
@@ -6093,36 +6091,36 @@ msgstr "حذف الفريق"
 
 #: /views/elements/teams/splash.ctp:45 /views/people/view.ctp:267
 msgid "Show Team History"
-msgstr "اعرض تاريخ الفريق"
+msgstr "عرض تاريخ الفريق"
 
 #: /views/events/connections.ctp:4 /views/events/edit.ctp:113
 #: /views/events/index.ctp:157 /views/events/view.ctp:236
 msgid "Connections"
-msgstr "روابط"
+msgstr "العلاقات"
 
 #: /views/events/connections.ctp:10
 msgid "Event Connections"
-msgstr "اتصالات الحدث"
+msgstr "علاقات الأحداث"
 
 #: /views/events/connections.ctp:35
 msgid ""
 "These two lists connect this event to events that have gone before. They "
 "will typically be the same. For more details see the help for each field."
 msgstr ""
-"هاتين القائمتين ربط هذا الحدث للأحداث التي مرت من قبل. وسوف تكون عادة نفس. "
-"لمزيد من التفاصيل انظر التعليمات لكل حقل."
+"هاتان القائمتان توصل هذا الحدث بأحداث حدثت مسبقا. عداة سيكونون نفس الشيء. "
+"لمعلومات أكثر، انقر على صفحة المساعدة لكل ملعب."
 
 #: /views/events/connections.ctp:37
 msgid "Events to consider as predecessors to this one:"
-msgstr "الأحداث للنظر كما سابقاتها لهذا واحد:"
+msgstr "الأحداث المقترحة التي تعتبر متربطة وتنتهي قبل ابتداء هذا الحدث:"
 
 #: /views/events/connections.ctp:40;46;58;64;75
 msgid "Select all that apply"
-msgstr "اختر كل ما ينطبق"
+msgstr "اختر جميع الذين يطابقون:"
 
 #: /views/events/connections.ctp:43
 msgid "Events that this one is considered a successor to:"
-msgstr "الأحداث التي يعتبر هذا واحد خلفا ل:"
+msgstr "الأحداث التي تعتبر مرتبطة وتنتهي قبل ابتداء هذا الحدث:"
 
 #: /views/events/connections.ctp:53
 msgid ""
@@ -6130,75 +6128,74 @@ msgid ""
 "generally not applicable when creating a new event. They will typically be "
 "the same. For more details see the help for each field."
 msgstr ""
-"هاتين القائمتين ربط هذا الحدث على الأحداث التي تأتي في وقت لاحق، وعادة ما "
-"تكون غير قابلة للتطبيق عند إنشاء حدث جديد. وسوف تكون عادة نفس. لمزيد من "
-"التفاصيل انظر التعليمات لكل حقل."
+"هاتان القائمتان توصل هذا الحدث لأحداث مستقبلية، وتعتبر عامة غير مرتبطة عند "
+"إضافة حدث جديد. عادة سيكونون نفس الشيء. لمعلومات إضافية اعرض المساعدة لكل "
+"ملعب."
 
 #: /views/events/connections.ctp:55
 msgid "Events that this one is considered a predecessor to:"
-msgstr "الأحداث التي يعتبر هذا واحد من السلف إلى:"
+msgstr "الأحداث التي تعتبر كأحداث سابقة قبل هذا الحدث:"
 
 #: /views/events/connections.ctp:61
 msgid "Events to consider as successors to this one:"
-msgstr "الأحداث للنظر كما خلفاء هذا واحد:"
+msgstr "الأحداث المقترحة بعد انتهاء هذا الحدث:"
 
 #: /views/events/connections.ctp:72
 msgid "Events to consider as alternates to this one:"
-msgstr "الأحداث للنظر كما المناوبين لهذا واحد:"
+msgstr "الأحداث المقترحة كبدائل عن هذا الحدث:"
 
 #: /views/events/edit.ctp:21
 msgid "Full name of this registration event."
-msgstr "الاسم الكامل لهذا الحدث تسجيل."
+msgstr "الاسم الكامل لهذا الحدث."
 
 #: /views/events/edit.ctp:35
 msgid "Complete description of the event, HTML is allowed."
-msgstr "وصف كامل للحدث، ما سمح HTML."
+msgstr "أكمل الوصف لهذا الحدث، HTML مسموح."
 
 #: /views/events/edit.ctp:40
 msgid ""
 "Note that any team type will result in team records being created. If you "
 "don't want this, then use the appropriate individual type."
 msgstr ""
-"لاحظ أن أي نوع الفريق سيؤدي في سجلات فريق يتم إنشاؤه. إذا كنت لا تريد ذلك، "
-"ثم استخدم نوع الفردية المناسبة."
+"لاحظ أن أي نوع فريق سينتج عن تكوين سجلات للفريق. إذا لم ترد هذا، استخدم نوع "
+"الفرد اللائق."
 
 #: /views/events/edit.ctp:43
 msgid ""
 "Cost of this event, may be 0, <span class=\"error\">not including tax</span>."
-msgstr ""
-"تكلفة هذا الحدث، قد يكون 0، class=\"error\"> <span لا تشمل الضرائب </ SPAN>."
+msgstr "قيمة هذا الحدث، قد تكون 0، <span class=\"error\">بدون الضرائب</span>."
 
 #: /views/events/edit.ctp:61
 msgid ""
 "The date and time at which registration for this event will open (12:01AM "
 "recommended to disambiguate noon from midnight)."
 msgstr ""
-"التاريخ والوقت الذي تسجيل لهذا الحدث سيفتح (00:01 أوصى أزل غموض ظهرا من "
-"منتصف الليل)."
+"التاريخ والوقت الذي سيفتح فيه التسجيل (١٢:٠١ صباحا مفضل للتفريق بين منتصف "
+"الظهر ومنتصف الليل)."
 
 #: /views/events/edit.ctp:69
 msgid ""
 "The date and time at which registration for this event will close (11:59PM "
 "recommended to disambiguate midnight from noon)."
 msgstr ""
-"التاريخ والوقت الذي تسجيل لهذا الحدث سوف يغلق (11:59 أوصى أزل غموض منتصف "
-"الليل من الظهر)."
+"التاريخ والوقت الذي سيتم إغلاق التسجيل فيه لهذا الحدث (١١:٥٩ مساء مفضل "
+"للتفريق بين منتصف الظهر ومنتصف الظهر)."
 
 #: /views/events/edit.ctp:73
 msgid "-1 for no limit."
-msgstr "-1 لبدون حدوود."
+msgstr "-1 لبدون حدود."
 
 #: /views/events/edit.ctp:77
 msgid "-1 for no limit, -2 to use male cap as combined limit."
-msgstr "-1 لبدون حد، -2 لاستخدام حد الاشخاص كحدود مشتركة."
+msgstr "-1 لعدم وجود حد أقصى، -2 لاستخدام الحد الأقصى للرجال كحد مشترك."
 
 #: /views/events/edit.ctp:81
 msgid "Can a single user register for this event multiple times?"
-msgstr "يمكن تسجيل مستخدم واحد لهذا الحدث عدة مرات؟"
+msgstr "هل يستطيع المستخدم الواحد التسجيل عدة مرات لهذا الحدث؟"
 
 #: /views/events/edit.ctp:102
 msgid "Rules that must be passed to allow a person to register for this event."
-msgstr "القواعد التي يجب أن يتم تمرير السماح لشخص لتسجيل لهذا الحدث."
+msgstr "القوانين التي يجب أن يتخطاها الشخص للسماح له بالتسجيل لهذا الحدث."
 
 #: /views/events/edit.ctp:113 /views/events/index.ctp:157
 #: /views/events/view.ctp:236
@@ -6207,27 +6204,27 @@ msgstr "إدارة %s"
 
 #: /views/events/index.ctp:2 /views/events/wizard.ctp:2
 msgid "Registration Events"
-msgstr "تسجيل الأحداث"
+msgstr "أحداث التسجيل"
 
 #: /views/events/index.ctp:20
 msgid "Registration Events List"
-msgstr "قائمة تسجيل الأحداث"
+msgstr "قائمة أحداث التسجيل"
 
 #: /views/events/index.ctp:165 /views/events/view.ctp:246
 #: /views/registrations/waiting.ctp:3;8
 msgid "Waiting List"
-msgstr "قائمة الانتظار"
+msgstr "قائمة الإنتظار"
 
 #: /views/events/index.ctp:169;169 /views/leagues/summary.ctp:3
 #: /views/registrations/summary.ctp:4
 msgid "Summary"
-msgstr "ملخص"
+msgstr "الملخص"
 
 #: /views/events/view.ctp:29 /views/tasks/view.ctp:20
 #: /views/team_events/attendance_change.ctp:14 /views/team_events/view.ctp:22
 #: /views/waivers/index.ctp:12 /views/waivers/view.ctp:29
 msgid "Description"
-msgstr "وصف"
+msgstr "الوصف"
 
 #: /views/events/view.ctp:33
 msgid "Event Type"
@@ -6239,57 +6236,54 @@ msgstr "مستوى اللعب"
 
 #: /views/events/view.ctp:102
 msgid "Membership Begins"
-msgstr "تبدأ العضوية"
+msgstr "بداية العضوية"
 
 #: /views/events/view.ctp:107
 msgid "Membership Ends"
-msgstr "نتهي"
+msgstr "نهاية العضوية"
 
 #: /views/events/view.ctp:126
 msgid "Registration Opens"
-msgstr "فتح باب التسجيل"
+msgstr "تاريخ فتح التسجيل"
 
 #: /views/events/view.ctp:131
 msgid "Registration  Closes"
-msgstr "إغلاق التسجيل"
+msgstr "تاريخ انتهاء التسجيل"
 
 #: /views/events/view.ctp:137
-#, fuzzy
 msgid "Registration Cap"
-msgstr "كاب تسجيل"
+msgstr "الحد الأقصى للتسجيل"
 
 #: /views/events/view.ctp:144
-#, fuzzy
 msgid "Male Cap"
-msgstr "الذكور كاب"
+msgstr "الحد الأقصى لعدد الرجال"
 
 #: /views/events/view.ctp:151
-#, fuzzy
 msgid "Female Cap"
-msgstr "الإناث كاب"
+msgstr "الحد الأقصى لعدد الرجال"
 
 #: /views/events/view.ctp:158
 msgid "Multiples"
-msgstr "مضاعفات"
+msgstr "المضاعفات"
 
 #: /views/events/view.ctp:178
 msgid "Register now!"
-msgstr "سجل الان!"
+msgstr "سجل الآن!"
 
 #: /views/events/view.ctp:180
 msgid "Register for "
-msgstr "تسجيل ل"
+msgstr "سجل عن"
 
 #: /views/events/view.ctp:189
 msgid "You might alternately be interested in the following registrations:"
-msgstr "كنت قد تكون مهتمة بالتناوب في التسجيلات التالية:"
+msgstr "قد تكون مهتما أيضا بالتسجيلات التالية:"
 
 #: /views/events/view.ctp:230 /views/facilities/view.ctp:152
 #: /views/fields/view.ctp:144 /views/leagues/participation.ctp:44
 #: /views/registrations/full_list.ctp:75 /views/registrations/summary.ctp:39
 #: /views/registrations/view.ctp:20
 msgid "View %s"
-msgstr "عرض% s"
+msgstr "عرض %s"
 
 #: /views/events/view.ctp:240 /views/facilities/view.ctp:149;150;185
 #: /views/fields/edit.ctp:14;43;44 /views/fields/view.ctp:140;141
@@ -6302,45 +6296,44 @@ msgstr "تعديل %s"
 
 #: /views/events/view.ctp:248 /views/registrations/full_list.ctp:76
 msgid "%s Summary"
-msgstr "%s ملخصات"
+msgstr "ملخص %s"
 
 #: /views/events/view.ctp:252 /views/registrations/summary.ctp:40
 msgid "Detailed %s List"
-msgstr "قائمة مفصلة s%"
+msgstr "تفاصيل القائمة %s"
 
 #: /views/events/view.ctp:254 /views/leagues/participation.ctp:45
 #: /views/registrations/full_list.ctp:77 /views/registrations/summary.ctp:41
 msgid "Download %s List"
-msgstr "تحميل قائمة %s"
+msgstr "تحميل القائمة %s"
 
 #: /views/events/view.ctp:260;268 /views/people/view.ctp:400
 #: /views/preregistrations/add.ctp:2
 #: /views/preregistrations/add_to_event.ctp:4
 #: /views/preregistrations/index.ctp:2;14
-#, fuzzy
 msgid "Preregistrations"
-msgstr "Preregistrations"
+msgstr "التسجيلات المسبقة"
 
 #: /views/events/view.ctp:268 /views/questionnaires/view.ctp:34
 #: /views/questions/view.ctp:25
 msgid "Related %s"
-msgstr "ذات صلة٪ s"
+msgstr "%s المنتمي"
 
 #: /views/events/view.ctp:271 /views/task_slots/index.ctp:14
 msgid "Person Id"
-msgstr "الشخص رقم"
+msgstr "رقم الشخص"
 
 #: /views/events/view.ctp:272
 msgid "Event Id"
-msgstr "معرف الحدث"
+msgstr "رقم الحدث"
 
 #: /views/events/wizard.ctp:3
 msgid "Wizard"
-msgstr "ساحر"
+msgstr "مساعد التسجيل للأحداث"
 
 #: /views/events/wizard.ctp:7
 msgid "Registration Wizard"
-msgstr "معالج تسجيل"
+msgstr "مساعد التسجيل للأحداث"
 
 #: /views/events/wizard.ctp:9
 msgid ""
@@ -6348,151 +6341,153 @@ msgid ""
 "status. As you register for things, different options may appear here. You "
 "might also want to review our %s."
 msgstr ""
-"هذا المعالج يرشدك خلال خيارات تسجيل يعتمد على الوضع الحالي الخاص بك. كما "
-"تقوم بالتسجيل للأشياء، قد تظهر خيارات مختلفة هنا. قد ترغب أيضا في مراجعة "
-"موقعنا٪ s."
+"مساعد التسجيل للأحداث سيساعدك في عملية التسجيل على حسب حالتك الحالية. عندما "
+"تسجل للأشياء، خيارات مختلفة قد تظهر هنا. قد تريد أن تراجع %s لدينا."
 
 #: /views/events/wizard.ctp:10
 msgid "complete list of offerings"
-msgstr "قائمة كاملة من العروض"
+msgstr "قائمة العروض الكاملة"
 
 #: /views/events/wizard.ctp:30
 msgid "You are currently eligible for the following memberships."
-msgstr "أنت حاليا مؤهلة للحصول على عضوية التالية."
+msgstr "أنت مصرح لك حاليا التسجيل للعضويات التالية."
 
 #: /views/events/wizard.ctp:40
 msgid "You are currently eligible to register a team in the following leagues."
-msgstr "أنت حاليا مؤهلة لتسجيل فريق في الدوريات التالية."
+msgstr "أنت مصرح لك حاليا التسجيل كفريق للدواري التالية."
 
 #: /views/events/wizard.ctp:50
 msgid ""
 "You are currently eligible to register as an individual in the following "
 "leagues."
-msgstr "أنت حاليا مؤهلا للتسجيل كفرد في الدوريات التالية."
+msgstr "أنت مصرح لك حاليا للتسجيل كعضو للدواري التالية."
 
 #: /views/events/wizard.ctp:60
 msgid "You are currently eligible to register a team for the following events."
-msgstr "أنت حاليا مؤهلة لتسجيل فريق للأحداث التالية."
+msgstr "أنت مصرح لك حاليا أن تسجل فريق للأحداث التالية."
 
 #: /views/events/wizard.ctp:70
 msgid ""
 "You are currently eligible to register as an individual for the following "
 "events."
-msgstr "أنت حاليا مؤهلا للتسجيل كفرد عن الأحداث التالية."
+msgstr "أنت مصرح لك حاليا أن تسجل كعضو للأحداث التالية."
 
 #: /views/events/wizard.ctp:80
 msgid "You are currently eligible to register for the following clinics."
-msgstr "أنت حاليا مؤهلة للتسجيل في العيادات التالية."
+msgstr "أنت مصرح لك حاليا أن تسجل للمستوصفات التالية."
 
 #: /views/events/wizard.ctp:90
 msgid "You can register for the following social events."
-msgstr "يمكنك التسجيل في المناسبات الاجتماعية التالية."
+msgstr "تستطيع التسجيل للأحداث الإجتماعية التالية."
 
 #: /views/events/wizard.ctp:99
 msgid ""
 "You are eligible to %s. A membership is typically required before you can "
 "sign up for team-related events."
 msgstr ""
-"كنت مؤهلا إلى٪ s. عادة مطلوب عضوية قبل أن تتمكن من الاشتراك في الأحداث ذات "
-"الصلة فريق."
+"أنت مصرح لك أن %s. العضوية عادة مطلوبة قبل أن تستطيع التسجيل للأحداث المعنية "
+"بالفريق."
 
 #: /views/events/wizard.ctp:99
 msgid "register for membership in the club"
-msgstr "تسجيل للحصول على عضوية في النادي"
+msgstr "سجل للعضوية في هذا النادي"
 
 #: /views/events/wizard.ctp:106
 msgid ""
 "You are eligible to %s. This is for team captains looking to add their team "
 "for the upcoming season."
 msgstr ""
-"كنت مؤهلا إلى٪ s. هذا هو لفريق النقباء الذين يتطلعون إلى إضافة فريقهم للموسم "
-"المقبل."
+"أنت مصرح لك أن %s. هذا للكباتنة الذين يريدون إضافة أفرقتهم للموسم المقبل."
 
 #: /views/events/wizard.ctp:106
 msgid "register a league team"
-msgstr "تسجيل فريق في الدوري"
+msgstr "تسجيل فريق دوري"
 
 #: /views/events/wizard.ctp:113
 msgid ""
 "You are eligible to %s. This is for individuals who do not already have a "
 "team and want to play on a \"hat team\"."
 msgstr ""
+"أنت مصرح لك أن %s. هذا للأفراد الذين لا ينتمون لأحد الأفرقة ويريدون أن "
+"يلعبوا في \"فريق حر\"."
 
 #: /views/events/wizard.ctp:113
 msgid "register as an individual for league play"
-msgstr "تسجيل كفرد لجامعة لعبة"
+msgstr "سجل كفرد للعب في الدوري"
 
 #: /views/events/wizard.ctp:120
 msgid ""
 "You are eligible to %s. This is for team captains looking to add their team "
 "for a tournament or similar event."
 msgstr ""
-"كنت مؤهلا إلى٪ s. هذا هو لفريق النقباء الذين يتطلعون إلى إضافة فريقهم "
-"لمباراة أو حدث مماثل."
+"أنت مصرح لك أن %s. هذا للكباتنة الذين يريدون إضافة فريقهم لبطولة أو حدث "
+"مماثل."
 
 #: /views/events/wizard.ctp:120
 msgid "register a team for a one-time event"
-msgstr "تسجيل فريق لحدث لمرة واحدة"
+msgstr "سجل فريق في حدث لمرة واحدة فقط"
 
 #: /views/events/wizard.ctp:127
 msgid ""
 "You are eligible to %s. This is for individuals who do not already have a "
 "team and want to play on a \"hat team\" in a tournament or similar event."
 msgstr ""
+"أنت مصرح لك أن %s. هذا مخصص للأفراد الذين ليس لديهم فريق ويريدون اللعب في \""
+"فريق حر\" في بطولة أو حدث مماثل."
 
 #: /views/events/wizard.ctp:127
 msgid "register as an individual for a one-time event"
-msgstr "تسجيل كفرد لحدث لمرة واحدة"
+msgstr "قم بالتسجيل كفرد لحدث لمرة واحدة"
 
 #: /views/events/wizard.ctp:134;141
 msgid "There are %s that you might be interested in."
-msgstr "هناك %s التي قد تكون مهتما"
+msgstr "هناك %s قد تكون مهتما فيها."
 
 #: /views/events/wizard.ctp:134
 msgid "upcoming clinics"
-msgstr "العيادات القادمة"
+msgstr "المستوصفات القادمة"
 
 #: /views/events/wizard.ctp:141
 msgid "upcoming social events"
-msgstr "المناسبات الاجتماعية القادمة"
+msgstr "الأحداث الإجتماعية القادمة"
 
 #: /views/extensions/handle_chase_error.ctp:3;7
 msgid "Handle Chase Error Email"
-msgstr "التعامل مع خطأ تشيس البريد الإلكتروني"
+msgstr "معاينة مشاكل البريد الالكتروني ل Chase"
 
 #: /views/facilities/close.ctp:3 /views/facilities/index.ctp:129
 #: /views/facilities/view.ctp:161 /views/fields/close.ctp:3
 #: /views/questionnaires/view.ctp:39
 msgid "Open"
-msgstr "فتح"
+msgstr "مفتوح"
 
 #: /views/facilities/index.ctp:33
 msgid "map of all %s"
-msgstr "خريطة لجميع %s"
+msgstr "عرض خريطة كل %s"
 
 #: /views/facilities/index.ctp:107 /views/facilities/view.ctp:150
 #: /views/fields/edit.ctp:44 /views/fields/tooltip.ctp:21
 #: /views/fields/view.ctp:97;141
 msgid "Layout"
-msgstr "تصميم"
+msgstr "التصميم"
 
 #: /views/facilities/index.ctp:124 /views/facilities/open.ctp:3
 #: /views/facilities/view.ctp:156 /views/fields/open.ctp:3
 #: /views/questionnaires/view.ctp:40
 msgid "Close"
-msgstr "قريب"
+msgstr "الإغلاق"
 
 #: /views/facilities/view.ctp:28 /views/fields/view.ctp:27
 #: /views/regions/view.ctp:30
 msgid "Code"
-msgstr "رمز"
+msgstr "الرمز"
 
 #: /views/facilities/view.ctp:45 /views/fields/tooltip.ctp:5
 #: /views/fields/view.ctp:38 /views/leagues/csv/participation.ctp:10
 #: /views/people/view.ctp:78 /views/registrations/csv/full_list.ctp:8
 #: /views/team_events/view.ctp:55
 msgid "Address"
-msgstr "عنوان"
+msgstr "العنوان"
 
 #: /views/facilities/view.ctp:50 /views/fields/tooltip.ctp:7
 #: /views/fields/view.ctp:43 /views/leagues/csv/participation.ctp:11
@@ -6500,55 +6495,55 @@ msgstr "عنوان"
 #: /views/people/statistics.ctp:320 /views/people/csv/participation.ctp:11
 #: /views/registrations/csv/full_list.ctp:9 /views/users/create_account.ctp:98
 msgid "City"
-msgstr "مدينة"
+msgstr "المدينة"
 
 #: /views/facilities/view.ctp:55 /views/fields/view.ctp:48
 #: /views/leagues/csv/participation.ctp:12 /views/people/edit.ctp:178;187
 #: /views/registrations/csv/full_list.ctp:10
 #: /views/users/create_account.ctp:104
 msgid "Province"
-msgstr "مقاطعة"
+msgstr "المنطقة"
 
 #: /views/facilities/view.ctp:74
 msgid "Driving Directions"
-msgstr "الاتجاهات القيادة"
+msgstr "توجيهات السواقة"
 
 #: /views/facilities/view.ctp:81
 msgid "Parking Details"
-msgstr "تفاصيل وقوف السيارات"
+msgstr "تفاصيل مواقف السيارات"
 
 #: /views/facilities/view.ctp:88
 msgid "Transit Directions"
-msgstr "الاتجاهات العبور"
+msgstr "توجيهات المواصفات العامة"
 
 #: /views/facilities/view.ctp:95
 msgid "Biking Directions"
-msgstr "الاتجاهات ركوب الدراجات"
+msgstr "توجيهات الدراجة الهوائية"
 
 #: /views/facilities/view.ctp:102
 msgid "Washrooms"
-msgstr "المراحيض"
+msgstr "غرف الغسيل"
 
 #: /views/facilities/view.ctp:109
 msgid "Special Instructions"
-msgstr "تعليمات خاصة"
+msgstr "التعليمات الخاصة"
 
 #: /views/facilities/view.ctp:116
 msgid "Private Instructions"
-msgstr "تعليمات خاصة"
+msgstr "التعليمات الخصوصية"
 
 #: /views/facilities/view.ctp:122
 msgid "You must be logged in to see the private instructions for this site."
-msgstr "يجب عليك تسجيل الدخول لعرض التعليمات الخاصة لهذا الموقع."
+msgstr "يجب أن تكون مسجل الدخول لكي تعرض التعليمات الخصوصية لهذا الموقع."
 
 #: /views/facilities/view.ctp:130
 msgid "%s at this facility"
-msgstr "%sفي هذا المرفق"
+msgstr "%s في هذا المركز"
 
 #: /views/facilities/view.ctp:151 /views/fields/view.ctp:142
 #: /views/game_slots/add.ctp:5;13 /views/game_slots/confirm.ctp:2;9
 msgid "Game Slots"
-msgstr "فتحات اللعبة"
+msgstr "حجوزات المباراة"
 
 #: /views/facilities/view.ctp:152
 msgid "Bookings"
@@ -6556,7 +6551,7 @@ msgstr "الحجوزات"
 
 #: /views/fields/bookings.ctp:3;8
 msgid "Availability and Bookings"
-msgstr "توافر والإنذار"
+msgstr "التوفر والحجوزات"
 
 #: /views/fields/bookings.ctp:28 /views/games/tooltip.ctp:3
 #: /views/leagues/participation.ctp:15 /views/people/credits.ctp:13
@@ -6566,51 +6561,50 @@ msgstr "توافر والإنذار"
 #: /views/team_events/attendance_change.ctp:16 /views/team_events/view.ctp:35
 #: /views/teams/schedule.ctp:16
 msgid "Date"
-msgstr "تاريخ"
+msgstr "التاريخ"
 
 #: /views/fields/bookings.ctp:29 /views/tasks/csv/index.ctp:8
 #: /views/team_events/view.ctp:40 /views/waivers/view.ctp:57
 msgid "Start"
-msgstr "بداية"
+msgstr "البداية"
 
 #: /views/fields/bookings.ctp:30 /views/tasks/csv/index.ctp:9
 #: /views/team_events/view.ctp:45 /views/waivers/view.ctp:62;68
 msgid "End"
-msgstr "نهاية"
+msgstr "النهاية"
 
 #: /views/fields/bookings.ctp:31
 msgid "Booking"
-msgstr "الحجز"
+msgstr "حجز"
 
 #: /views/fields/bookings.ctp:63
 msgid "open"
-msgstr "فتح"
+msgstr "مفتوح"
 
 #: /views/fields/tooltip.ctp:11 /views/fields/view.ctp:72
 msgid "Surface"
-msgstr "سطح"
+msgstr "السطح"
 
 #: /views/fields/tooltip.ctp:14 /views/fields/view.ctp:91
 msgid "Map"
-msgstr "خريطة"
+msgstr "الخريطة"
 
 #: /views/fields/tooltip.ctp:15;22
 msgid "Open in new window"
-msgstr "فتح في نافذة جديدة"
+msgstr "افتح في صفحة جديدة"
 
 #: /views/fields/tooltip.ctp:28 /views/fields/view.ctp:104
-#, fuzzy
 msgid "%s&nbsp;Permit"
-msgstr "%s تصريحات"
+msgstr "%s&nbsp، تصريح"
 
 #: /views/fields/view.ctp:20
 msgid "Facility Details"
-msgstr "تفاصيل منشأة"
+msgstr "تفاصيل مركز الملاعب"
 
 #: /views/fields/view.ctp:57 /views/teams/view.ctp:228
 #: /views/themed/wfdfu23/teams/view.ctp:227
 msgid "Number"
-msgstr "عدد"
+msgstr "رقم"
 
 #: /views/fields/view.ctp:67
 msgid "Indoor"
@@ -6618,15 +6612,15 @@ msgstr "داخلي"
 
 #: /views/fields/view.ctp:93
 msgid "Click for map in new window"
-msgstr "انقر لالخريطة في نافذة جديدة"
+msgstr "اضغط لعرض خريطة في صفحة جديدة"
 
 #: /views/fields/view.ctp:99
 msgid "Click for %s layout diagram in new window"
-msgstr "انقر ل%s تخطيط المخطط في نافذة جديدة"
+msgstr "انقر لشكل التصميم %s في صفحة جديدة"
 
 #: /views/fields/view.ctp:112
 msgid "Other %s at this facility"
-msgstr "%s أخرى في هذا المرفق"
+msgstr "%s شيء آخر في هذا المركز"
 
 #: /views/fields/view.ctp:144
 msgid "Bookings "
@@ -6635,15 +6629,15 @@ msgstr "الحجوزات"
 #: /views/franchises/add_owner.ctp:5;10 /views/franchises/index.ctp:82
 #: /views/franchises/letter.ctp:80 /views/franchises/view.ctp:60
 msgid "Add an Owner"
-msgstr "إضافة المالك"
+msgstr "أضف مالك"
 
 #: /views/franchises/add_team.ctp:3
 msgid "Add Team to Franchise"
-msgstr "إضافة إلى فريق امتياز"
+msgstr "أضف الفريق إلى الوكالة"
 
 #: /views/franchises/add_team.ctp:11
 msgid "Select a team from your history below to add to this franchise."
-msgstr "حدد فريق من تاريخكم أدناه لإضافة لهذا الامتياز."
+msgstr "اختر فريق من الماضي في الأسفل لإضافة هذه الوكالة."
 
 #: /views/franchises/add_team.ctp:12
 msgid ""
@@ -6651,8 +6645,8 @@ msgid ""
 "or coach of. This may necessitate temporarily transferring this franchise to "
 "someone else."
 msgstr ""
-"لاحظ أنه يمكنك إضافة الفرق التي كنت ضابط برتبة نقيب، مساعد قائد الطائرة أو "
-"مدرب فقط. هذا قد يتطلب نقل هذا الامتياز مؤقتا إلى شخص آخر."
+"لاحظ أنك تستطيع إضافة الفرق  التي انت كابتنها، مساعد الكابتن أو مدربها. هذا "
+"فد يؤدي إلى نقل الوكالة مؤقتا إلى شخص آخر."
 
 #: /views/franchises/add_team.ctp:18
 msgid "unassigned"
@@ -6660,121 +6654,120 @@ msgstr "غير معين"
 
 #: /views/franchises/add_team.ctp:27
 msgid "Add team"
-msgstr "إضافة فريق"
+msgstr "أضف فريق"
 
 #: /views/franchises/edit.ctp:2 /views/franchises/index.ctp:2
 #: /views/franchises/letter.ctp:2 /views/franchises/view.ctp:2
 #: /views/teams/view.ctp:158 /views/themed/wfdfu23/teams/view.ctp:158
 msgid "Franchises"
-msgstr "الامتيازات"
+msgstr "الوكالات"
 
 #: /views/franchises/edit.ctp:14
 msgid "Franchise Details"
-msgstr "تفاصيل الامتياز"
+msgstr "تفاصيل الوكالة"
 
 #: /views/franchises/edit.ctp:20
 msgid "The full name of your franchise."
-msgstr "الاسم الكامل للامتياز الخاص بك."
+msgstr "الإسم الكامل لوكالتك."
 
 #: /views/franchises/edit.ctp:31
 msgid "Your franchise's website, if you have one."
-msgstr "موقع امتياز الخاص بك، إذا كان لديك واحدة."
+msgstr "موقع وكالتك الإلكتروني، إذا كان لديك."
 
 #: /views/franchises/index.ctp:7 /views/franchises/letter.ctp:7
 msgid "List Franchises"
-msgstr "قائمة الامتيازات"
+msgstr "قائمة الوكالات"
 
 #: /views/franchises/index.ctp:12 /views/franchises/letter.ctp:12
 #: /views/teams/index.ctp:12 /views/teams/letter.ctp:12
 msgid "Locate by letter: "
-msgstr "تحديد موقع عن طريق بريد إلكتروني:"
+msgstr "ابحث عن طريق الحرف:"
 
 #: /views/franchises/index.ctp:29 /views/franchises/letter.ctp:27
 msgid "Owner(s)"
-msgstr "مالك (s)"
+msgstr "المالك/الملاك"
 
 #: /views/franchises/index.ctp:74;74 /views/franchises/letter.ctp:72;72
 #: /views/franchises/view.ctp:52;52
 msgid "Add Team"
-msgstr "إضافة فريق"
+msgstr "أضف فريق"
 
 #: /views/franchises/index.ctp:79;79 /views/franchises/letter.ctp:77;77
 #: /views/franchises/view.ctp:57;57
 msgid "Edit Franchise"
-msgstr "تحرير الامتياز"
+msgstr "تعديل الوكالة"
 
 #: /views/franchises/index.ctp:82 /views/franchises/letter.ctp:80
 #: /views/franchises/view.ctp:60
 msgid "Add Owner"
-msgstr "إضافة المالك"
+msgstr "أضف المالك"
 
 #: /views/franchises/index.ctp:87 /views/franchises/letter.ctp:85
 #: /views/franchises/view.ctp:65
 msgid "Delete Franchise"
-msgstr "حذف الامتياز"
+msgstr "حذف الوكالة"
 
 #: /views/franchises/letter.ctp:3 /views/teams/letter.ctp:3
 msgid "Starting with %s"
-msgstr "تبدأ ب %s"
+msgstr "يبدأ بـ %s"
 
 #: /views/franchises/view.ctp:36 /views/team_events/view.ctp:29
 #: /views/teams/tooltip.ctp:40 /views/teams/view.ctp:16
 #: /views/themed/wfdfu23/teams/view.ctp:16
 msgid "Website"
-msgstr "الموقع"
+msgstr "الموقع الإلكتروني"
 
 #: /views/franchises/view.ctp:106
 msgid "Remove Team from this Franchise"
-msgstr "إزالة فريق من هذا الامتياز"
+msgstr "احذف الفريق من هذه الوكالة"
 
 #: /views/franchises/view.ctp:108
 msgid "Are you sure you want to remove this %s?"
-msgstr "هل أنت متأكد أنك تريد إزالة هذ%s؟"
+msgstr "هل أنت متأكد أنك تريد حذف هذا %s؟"
 
 #: /views/game_slots/add.ctp:24
 msgid "%s Selection"
-msgstr "%sاختيار"
+msgstr "%s اختيار"
 
 #: /views/game_slots/add.ctp:93 /views/game_slots/edit.ctp:13
 msgid "Game start time"
-msgstr "تبدا اللعبة في"
+msgstr "وقت ابتداء المباريات"
 
 #: /views/game_slots/add.ctp:94
 msgid "Time for games in this timeslot to start."
-msgstr "الوقت المناسب للعب في هذا موعدها لتبدأ."
+msgstr "الوقت المحدد لابتداء المباريات في هذا الحجز الوقتي."
 
 #: /views/game_slots/add.ctp:97 /views/game_slots/edit.ctp:16
-#, fuzzy
 msgid "Game timecap"
-msgstr "لعبة timecap"
+msgstr "الحد الوقتي للمباراة"
 
 #: /views/game_slots/add.ctp:99
 msgid ""
 "Time for games in this timeslot to end. Choose \"---\" to assign the default "
 "timecap (dark) for that week."
 msgstr ""
+"إنهاء الوقت للمباريات في حجز الوقت. اختر \"---\" لتعيين حد الوقت الافتراضي "
+"(داكن) لذلك الاسبوع."
 
 #: /views/game_slots/add.ctp:102
 msgid "First date"
-msgstr "التاريخ الأول"
+msgstr "أول تاريخ"
 
 #: /views/game_slots/add.ctp:105
 msgid "Date of the first game slot to add."
-msgstr "تاريخ أول فتحة لعبة لإضافتها."
+msgstr "تاريخ أول حجز مباراة للإضافة."
 
 #: /views/game_slots/add.ctp:108
 msgid "Weeks to repeat"
-msgstr "أسابيع التكرار"
+msgstr "أسابيع من أجل التكرار"
 
 #: /views/game_slots/add.ctp:110
-#, fuzzy
 msgid "Number of weeks to repeat this gameslot."
-msgstr "عدد أسابيع لتكرار هذا gameslot."
+msgstr "عدد الأسابيع التي تريد أن يتكرر فيها هذا الحجز."
 
 #: /views/game_slots/add.ctp:114 /views/game_slots/edit.ctp:28
-#, fuzzy
 msgid "Make Gameslot Available To"
-msgstr "جعل Gameslot المتوفرة ل"
+msgstr "اجعل حجز المباراة متاح إلى"
 
 #: /views/game_slots/add.ctp:119 /views/people/nominate.ctp:17
 #: /views/preregistrations/add.ctp:17 /views/schedules/reschedule.ctp:29
@@ -6783,7 +6776,7 @@ msgstr "استمر"
 
 #: /views/game_slots/confirm.ctp:3
 msgid "Confirm"
-msgstr "أكد"
+msgstr "تأكيد"
 
 #: /views/game_slots/confirm.ctp:9
 msgid "Confirm %s"
@@ -6791,93 +6784,92 @@ msgstr "تأكيد %s"
 
 #: /views/game_slots/confirm.ctp:32
 msgid "Game slots will not be created on the following holidays:"
-msgstr "لن يتم إنشاء فتحات لعبة على العطل التالية:"
+msgstr "حجوزات المباراة لن تضاف في إيام الإجازة التالية:"
 
 #: /views/game_slots/confirm.ctp:55
 msgid "Create Slots"
-msgstr "إنشاء فتحات"
+msgstr "أضف حجوزات"
 
 #: /views/game_slots/edit.ctp:2;9 /views/game_slots/submit_score.ctp:3
 #: /views/game_slots/view.ctp:2;7;61
-#, fuzzy
 msgid "Game Slot"
-msgstr "لعبة قمار"
+msgstr "حجز المباراة"
 
 #: /views/game_slots/edit.ctp:18
 msgid "Choose \"---\" to assign the default timecap (dark)."
-msgstr ""
+msgstr "اختر \"---\" لوضع حد الوقت الإفتراضي (داكن)."
 
 #: /views/game_slots/submit_score.ctp:4;8 /views/games/submit_score.ctp:4;19
 msgid "Submit Game Results"
-msgstr "تقديم لعبة نتائج"
+msgstr "إرسال نتائج المباراة"
 
 #: /views/game_slots/submit_score.ctp:23 /views/games/submit_score.ctp:44
 msgid "This game was:"
-msgstr "هذه اللعبة كانت في:"
+msgstr "هذه المباراة كانت:"
 
 #: /views/game_slots/view.ctp:13 /views/games/attendance.ctp:16
 #: /views/games/attendance_change.ctp:12
 msgid "Game Date"
-msgstr "تاريخ اللعب"
+msgstr "تاريخ المباراة"
 
 #: /views/game_slots/view.ctp:17
 msgid "Game Start"
-msgstr "لعبة البداية"
+msgstr "بداية المباراة"
 
 #: /views/game_slots/view.ctp:21
 msgid "Game End"
-msgstr "نهاية اللعبة"
+msgstr "نهاية المباراة"
 
 #: /views/game_slots/view.ctp:42
 msgid " vs "
-msgstr "ضد"
+msgstr " ضد "
 
 #: /views/game_slots/view.ctp:67
 msgid "Available to Divisions"
-msgstr "المتاحة للشعب"
+msgstr "متاح للمستويات"
 
 #: /views/games/attendance.ctp:19 /views/games/attendance_change.ctp:20
 msgid "Game Time"
-msgstr "وقت اللعب"
+msgstr "وقت المباراة"
 
 #: /views/games/attendance.ctp:25 /views/games/edit.ctp:72
 #: /views/games/note.ctp:57 /views/games/stats.ctp:54 /views/games/view.ctp:71
 #: /views/team_events/view.ctp:50
 msgid "Location"
-msgstr "موقع"
+msgstr "الموقع"
 
 #: /views/games/attendance.ctp:30 /views/team_events/view.ctp:64
 msgid "Totals"
-msgstr "المجموع"
+msgstr "المحصلة"
 
 #: /views/games/attendance.ctp:54 /views/team_events/view.ctp:88
 msgid "Attendance: %s"
-msgstr "الحضور:%s"
+msgstr "الحضور: %s"
 
 #: /views/games/attendance.ctp:85 /views/leagues/participation.ctp:14
 #: /views/leagues/csv/participation.ctp:23 /views/team_events/view.ctp:116
 #: /views/teams/view.ctp:234 /views/themed/wfdfu23/teams/view.ctp:233
 msgid "Role"
-msgstr "دور"
+msgstr "الدور"
 
 #: /views/games/attendance.ctp:89 /views/team_events/view.ctp:120
 msgid "Updated"
-msgstr "تحديث"
+msgstr "تم تعديله"
 
 #: /views/games/attendance_change.ctp:3;8
 #: /views/team_events/attendance_change.ctp:3;8
 msgid "Attendance Change"
-msgstr "الحضور التغيير"
+msgstr "تغيير الحضور"
 
 #: /views/games/attendance_change.ctp:41
 #: /views/team_events/attendance_change.ctp:33
 msgid "You are attempting to change attendance for"
-msgstr "تحاول تغيير الحضور ل"
+msgstr "أنت تحاول تغيير الحضور لـ"
 
 #: /views/games/attendance_change.ctp:44
 #: /views/team_events/attendance_change.ctp:36
 msgid "Current status:"
-msgstr "الوضع الحالي:"
+msgstr "الحالة الحالية:"
 
 #: /views/games/attendance_change.ctp:47
 #: /views/team_events/attendance_change.ctp:39
@@ -6887,28 +6879,26 @@ msgstr "خيارات الحضور الممكنة هي:"
 #: /views/games/attendance_change.ctp:56
 #: /views/team_events/attendance_change.ctp:48
 msgid "You may optionally add a comment"
-msgstr "يمكنك إضافة اختيار تعليق"
+msgstr "لديك الخيار في إضافة تعليق"
 
 #: /views/games/attendance_change.ctp:62
 #: /views/team_events/attendance_change.ctp:54
 msgid ""
 "You may optionally add a personal note which will be included in the "
 "invitation email to the player"
-msgstr ""
-"يمكنك إضافة ملاحظة شخصية والتي سيتم إدراجها في البريد الإلكتروني دعوة "
-"اختياريا لاعب"
+msgstr "لديك الخيار في إضافة ملاحظة خاصة ستكون في إيميل دعوة اللاعب"
 
 #: /views/games/cron.ctp:12
 msgid "Finalized"
-msgstr "وضع اللمسات الأخيرة"
+msgstr "تم الإنهاء"
 
 #: /views/games/cron.ctp:14
 msgid "Emailed"
-msgstr "عبر البريد الالكتروني"
+msgstr "ت إرسال البريد الإلكتروني"
 
 #: /views/games/cron.ctp:16
 msgid "DID NOT finalize or email"
-msgstr "لم وضع اللمسات الأخيرة أو البريد الإلكتروني"
+msgstr "لم يقم بالإنهاء أو المراسلة"
 
 #: /views/games/cron.ctp:25
 msgid "between"
@@ -6916,19 +6906,19 @@ msgstr "بين"
 
 #: /views/games/cron.ctp:29
 msgid "status"
-msgstr "حالة"
+msgstr "الحالة"
 
 #: /views/games/cron.ctp:36 /views/team_events/cron.ctp:4
 msgid "%s attendance reminders sent"
-msgstr "%s تذكيرات للحضور أرسلت"
+msgstr "%s مذكرات حضور تم إرسالها"
 
 #: /views/games/cron.ctp:37 /views/team_events/cron.ctp:5
 msgid "%s attendance summaries sent"
-msgstr "%s ملخصات حضور أرسلت"
+msgstr "%s ملخصات حضور تم إرسالها"
 
 #: /views/games/edit.ctp:11 /views/games/view.ctp:142;142
 msgid "Edit Game"
-msgstr "تحرير اللعبة"
+msgstr "تعديل المباراة"
 
 #: /views/games/edit.ctp:29 /views/games/note.ctp:20 /views/games/stats.ctp:19
 #: /views/people/view.ctp:371
@@ -6937,7 +6927,7 @@ msgstr "الفريق المضيف"
 
 #: /views/games/edit.ctp:41;59 /views/games/view.ctp:30;52
 msgid "currently rated"
-msgstr "تقييما حاليا"
+msgstr "تقييمه الحالي"
 
 #: /views/games/edit.ctp:47 /views/games/note.ctp:35 /views/games/stats.ctp:29
 #: /views/games/tooltip.ctp:19 /views/games/view.ctp:40
@@ -6956,72 +6946,72 @@ msgstr "حالة المباراة"
 
 #: /views/games/edit.ctp:92 /views/games/view.ctp:83
 msgid "Round"
-msgstr "جولة"
+msgstr "الجولة"
 
 #: /views/games/edit.ctp:111 /views/games/view.ctp:101
 msgid "Email all captains"
-msgstr "البريد الالكتروني كل كابتن"
+msgstr "مراسلة جميع كباتنة الفريق"
 
 #: /views/games/edit.ctp:123 /views/games/view.ctp:237
 msgid "Score Approved By"
-msgstr "يسجل المعتمدة من قبل"
+msgstr "النتيجة تم التأكيد عليها بواسطة"
 
 #: /views/games/edit.ctp:138
 msgid "Score not yet finalized"
-msgstr "يسجل لم تستكمل بعد"
+msgstr "النتيجة لم تحسم بعد"
 
 #: /views/games/edit.ctp:140 /views/games/view.ctp:253
 msgid "Score as entered"
-msgstr "كما يسجل دخل"
+msgstr "النتيجة كما أدخلت"
 
 #: /views/games/edit.ctp:156 /views/games/view.ctp:269
 msgid "Home Score"
-msgstr "الإياب"
+msgstr "نتيجة الفريق المضيف"
 
 #: /views/games/edit.ctp:161 /views/games/view.ctp:274
 msgid "Away Score"
-msgstr "الذهاب"
+msgstr "نتيجة الفريق الزائر"
 
 #: /views/games/edit.ctp:166 /views/games/view.ctp:279
 msgid "Defaulted?"
-msgstr "تخلفت؟"
+msgstr "قام بالإنسحاب؟"
 
 #: /views/games/edit.ctp:171 /views/games/view.ctp:284
 #: /views/registrations/view.ctp:99
 msgid "Entered By"
-msgstr "تم إدخاله من قبل"
+msgstr "تم الإدخال بواسطة"
 
 #: /views/games/edit.ctp:180 /views/games/view.ctp:293
 msgid "Entry Time"
-msgstr "وقت الدخول"
+msgstr "وقت الإدخال"
 
 #: /views/games/edit.ctp:194 /views/games/view.ctp:307
 msgid "Spirit Assigned"
-msgstr "روح المخصصة"
+msgstr "روح الفريق المعينة"
 
 #: /views/games/edit_boxscore.ctp:4;37 /views/games/view.ctp:403;403
 msgid "Edit Box Score"
-msgstr "تحرير مربع النقاط"
+msgstr "تعديل جدول النتيجة"
 
 #: /views/games/edit_boxscore.ctp:44
 msgid "Play"
-msgstr "اللعب"
+msgstr "إلعب"
 
 #: /views/games/edit_boxscore.ctp:103;103
 msgid "Add Score Detail"
-msgstr "إضافة نقاط التفاصيل"
+msgstr "أضف تفاصيل النتيجة"
 
 #: /views/games/live_score.ctp:4;8
 msgid "Live Game Scoring"
-msgstr "لايف لعبة التهديف"
+msgstr "نتيجة المباراة المباشرة"
 
 #: /views/games/live_score.ctp:43;45
 msgid "Finalize"
-msgstr "وضع اللمسات الأخيرة"
+msgstr "قم بالإنهاء"
 
 #: /views/games/live_score.ctp:89
 msgid "Pulling team"
-msgstr "فريق سحب"
+msgstr "الفريق المنسحب"
 
 #: /views/games/note.ctp:13
 msgid "Game Note"
@@ -7029,47 +7019,45 @@ msgstr "ملاحظة المباراة"
 
 #: /views/games/note.ctp:75
 msgid "Only I will be able to see this"
-msgstr "أنا فقط سوف تكون قادرا على رؤية هذا"
+msgstr "أنا فقط أستطيع عرض هذا"
 
 #: /views/games/note.ctp:76
 msgid "Only I and the captains of our team"
-msgstr "أنا فقط ورؤساء فريقنا"
+msgstr "أنا فقط وكباتنة الفريق"
 
 #: /views/games/note.ctp:77
 msgid "Everyone on my team"
-msgstr "الجميع على فريقي"
+msgstr "كل الأشخاص في فريقي"
 
 #: /views/games/note.ctp:81
 msgid "Emails are NOT sent to others when you edit an existing note."
-msgstr "لا يتم إرسال رسائل البريد الإلكتروني للآخرين عند تحرير ملاحظة موجودة."
+msgstr "الإيميلات لم ترسل للأشخاص الآخرين اذا قمت بتعديل الملاحظة الحالية."
 
 #: /views/games/note.ctp:83
 msgid ""
 "Everyone else that is allowed to see this note will be sent an email "
 "informing them. This is a good way to communicate with your teams."
 msgstr ""
-"سيتم إرسال الجميع أن يسمح لرؤية هذه المذكرة بريد الكتروني يبلغهم. هذا هو "
-"وسيلة جيدة للتواصل مع فريقك."
+"جميع باقي الأشخاص سيسمح لهم برؤية هذه الملاحظة وسنقوم بإرسال ملاحظة تخبرهم "
+"بذلك. هذه طريقة جيدة لمراسلة فرقك."
 
 #: /views/games/note.ctp:85
 msgid ""
 "Under no circumstance will the players on the other team, or anyone else, be "
 "able to see this."
-msgstr ""
-"تحت أي ظرف من الظروف واللاعبين على الفريق الآخر، أو أي شخص آخر، يكون قادرا "
-"على رؤية ذلك."
+msgstr "في جميع الحالات لن يستطيع اللاعبين، الفريق أو أي شخص آخر عرض هذا."
 
 #: /views/games/ratings_table.ctp:4 /views/games/view.ctp:110
 msgid "Ratings Table"
-msgstr "تقييمات الجدول"
+msgstr "جدول الإحصائيات"
 
 #: /views/games/ratings_table.ctp:8
 msgid "View Ratings Table"
-msgstr "عرض تقييمات الجدول"
+msgstr "عرض جدول الإحصائيات"
 
 #: /views/games/ratings_table.ctp:30
 msgid "current"
-msgstr "حالي"
+msgstr "الحالي"
 
 #: /views/games/ratings_table.ctp:32
 msgid "\"what if\""
@@ -7077,7 +7065,7 @@ msgstr "\"ماذا لو\""
 
 #: /views/games/ratings_table.ctp:38;39
 msgid "rating of"
-msgstr "تقييم"
+msgstr "تقييم الـ"
 
 #: /views/games/ratings_table.ctp:38;39 /views/games/view.ctp:32;54
 msgid "chance to win"
@@ -7089,28 +7077,28 @@ msgstr "ماذا لو؟"
 
 #: /views/games/stat_sheet.ctp:6 /views/teams/stat_sheet.ctp:6
 msgid "Stat Entry Sheet"
-msgstr "ورقة دخول القانون الأساسي"
+msgstr "صحيفة إدخال الإحصائيات"
 
 #: /views/games/stat_sheet.ctp:95 /views/teams/stat_sheet.ctp:75
 msgid "Game Notes"
-msgstr "لعبة الملاحظات"
+msgstr "ملاحظات المباراة"
 
 #: /views/games/stats.ctp:11 /views/games/view.ctp:151;151
 #: /views/helpers/zuluru_game.php:65;65
 msgid "Game Stats"
-msgstr "الإحصائيات لعبة"
+msgstr "إحصائيات المباراة"
 
 #: /views/games/stats.ctp:127 /views/games/csv/stats.ctp:50
 msgid "Subs"
-msgstr "التبديلات"
+msgstr "الإحتياط"
 
 #: /views/games/submit_score.ctp:78;95
 msgid "not yet entered"
-msgstr "لم تدخل بعد"
+msgstr "لم يدخل بعد"
 
 #: /views/games/submit_score.ctp:175
 msgid "substitute"
-msgstr "استبدل"
+msgstr "بديل"
 
 #: /views/games/submit_score.ctp:201
 msgid "Male"
@@ -7118,73 +7106,75 @@ msgstr "ذكر"
 
 #: /views/games/submit_score.ctp:210
 msgid "Female"
-msgstr "انثى"
+msgstr "أنثى"
 
 #: /views/games/submit_score.ctp:216
 msgid "league coordinator"
-msgstr "منسق الدوري"
+msgstr "مشرف الدوري"
 
 #: /views/games/submit_stats.ctp:4;18
 msgid "Submit Game Stats"
-msgstr "يقدم الإحصائيات لعبة"
+msgstr "إرسال احصائيات المباراة"
 
 #: /views/games/submit_stats.ctp:65;95
 msgid "Show Only Applicable Stat Options"
-msgstr "تظهر خيارات ستات ينطبق فقط"
+msgstr "عرض خيارات الإحصائيات المطابقة فقط"
 
 #: /views/games/submit_stats.ctp:66;96
 msgid "Show All Stat Options"
-msgstr "إظهار جميع خيارات ستات"
+msgstr "عرض جميع خيارات الإحصائيات"
 
 #: /views/games/submit_stats.ctp:73;103
 msgid "Show All Players"
-msgstr "تظهر جميع اللاعبين"
+msgstr "عرض جميع اللاعبين"
 
 #: /views/games/submit_stats.ctp:74;104
 msgid "Show Only Attending Players"
-msgstr "إظهار حضور اللاعبين فقط"
+msgstr "عرض اللاعبين الذين حضروا المباراة فقط"
 
 #: /views/games/tooltip.ctp:1
 msgid "Game %d"
-msgstr "لعبة٪ D"
+msgstr "المباراة %d"
 
 #: /views/games/view.ctp:11
 msgid "View Game"
-msgstr "عرض اللعبة"
+msgstr "عرض المباراة"
 
 #: /views/games/view.ctp:112
 msgid "Click to view"
-msgstr "انقر فوق لعرض"
+msgstr "اضغط للعرض"
 
 #: /views/games/view.ctp:145;145
 msgid "Delete Game"
-msgstr "حذف اللعبة"
+msgstr "حذف المباراة"
 
 #: /views/games/view.ctp:206;218
 msgid "Spirit for"
-msgstr "روح ل"
+msgstr "روح الفريق إلى"
 
 #: /views/games/view.ctp:251
 msgid "The score of this game has not yet been finalized."
-msgstr "لم تكتمل النتيجة من هذه اللعبة حتى الآن."
+msgstr "النتيجة النهائية لهذه المباراة لم تسجل بعد."
 
 #: /views/games/view.ctp:327
 msgid ""
 "The final scores entered by the teams do not match, and the discrepancy has "
 "not been resolved."
-msgstr "عشرات النهائي إدخالها من قبل فرق لا تتطابق، وأنه لم يتم حل التناقض."
+msgstr ""
+"النتائج النهائية المدخلة عبر الأفرقة لا تتطابق، ولم تحل مشكلة التضارب في "
+"النتيجة بعد."
 
 #: /views/games/view.ctp:334
 msgid "A scorekeeper"
-msgstr "والمتابع"
+msgstr "متابع النتائج"
 
 #: /views/games/view.ctp:339
 msgid "%s reported the following in-progress score as of %s:"
-msgstr "%s  ذكرت النتيجة التالية في التقدم اعتبارا من٪ s:"
+msgstr "%s قام بتقرير النتيجة التالية (قيد التطوير) في %s:"
 
 #: /views/games/view.ctp:343
 msgid "%s reported the final score as:"
-msgstr "%s و ذكرت والنتيجة النهائية على النحو التالي:"
+msgstr "%s قام بتقرير النتيجة النهائية كـ:"
 
 #: /views/games/view.ctp:450
 msgid "Incident Reports"
@@ -7192,7 +7182,7 @@ msgstr "تقارير الحادث"
 
 #: /views/games/view.ctp:453
 msgid "Reporting Team"
-msgstr "الإبلاغ عن الفريق"
+msgstr "الفريق الحاضر"
 
 #: /views/games/view.ctp:479 /views/people/credits.ctp:16
 #: /views/people/view.ctp:484 /views/registrations/credits.ctp:15
@@ -7213,7 +7203,7 @@ msgstr "مساعدة"
 
 #: /views/help/view.ctp:31
 msgid "Return to main help page"
-msgstr "العودة إلى الصفحة الرئيسية مساعدة"
+msgstr "ارجع إلى صفحة المساعدة الرئيسية"
 
 #: /views/helpers/zuluru_game.php:53
 msgid "default"
@@ -7221,27 +7211,27 @@ msgstr "الافتراضي"
 
 #: /views/helpers/zuluru_game.php:59
 msgid "Submit Stats"
-msgstr "تقديم الإحصائيات"
+msgstr "إرسال الإحصائيات"
 
 #: /views/helpers/zuluru_game.php:96;115;153;158
 msgid "Live Score"
-msgstr "النقاط المباشرة"
+msgstr "النتيجة المباشرة"
 
 #: /views/helpers/zuluru_game.php:100;119
 msgid "Edit score"
-msgstr "تحرير النتيجة"
+msgstr "تعديل النتيجة"
 
 #: /views/helpers/zuluru_game.php:125
 msgid "in progress"
-msgstr "في تقدم"
+msgstr "قيد الإنشاء"
 
 #: /views/helpers/zuluru_game.php:127
 msgid "unofficial"
-msgstr "غير رسمي"
+msgstr "غير رسمية"
 
 #: /views/helpers/zuluru_game.php:130
 msgid "score mismatch"
-msgstr "النتيجة غير متطابقة"
+msgstr "عدم تطابق النتيجة"
 
 #: /views/helpers/zuluru_html.php:161
 msgid "[Help]"
@@ -7258,43 +7248,43 @@ msgstr "غير معروف"
 
 #: /views/holidays/edit.ctp:2;14
 msgid "Holiday"
-msgstr "عطلة"
+msgstr "يوم إجازة"
 
 #: /views/holidays/edit.ctp:35
 msgid "List Holidays"
-msgstr "قائمة العطل"
+msgstr "قائمة أيام الإجازة"
 
 #: /views/holidays/index.ctp:2;7
 msgid "Holidays"
-msgstr "العطل"
+msgstr "أيام الإجازة"
 
 #: /views/holidays/index.ctp:48
 msgid "New Holiday"
-msgstr "العطل الجديدة"
+msgstr "يوم إجازة جديد"
 
 #: /views/leagues/cron.ctp:2
 msgid "Made the following ratings adjustments:"
-msgstr "إجراء التعديلات تصنيفات التالية:"
+msgstr "تم تعديل التقييمات التالية:"
 
 #: /views/leagues/cron.ctp:15
 msgid "games"
-msgstr "ألعاب"
+msgstr "المباريات"
 
 #: /views/leagues/cron.ctp:19
 msgid "Adjusted"
-msgstr "تعديل"
+msgstr "تم تعديله"
 
 #: /views/leagues/cron.ctp:20
 msgid " and "
-msgstr "و"
+msgstr " و "
 
 #: /views/leagues/cron.ctp:26
 msgid "Closed the following divisions:"
-msgstr "إغلاق الأقسام التالية:"
+msgstr "تم إغلاق المستويات التالية:"
 
 #: /views/leagues/cron.ctp:34
 msgid "Opened the following divisions:"
-msgstr "فتح الأقسام التالية:"
+msgstr "تم فتح المستويات التالية:"
 
 #: /views/leagues/edit.ctp:17
 msgid "League Information"
@@ -7303,43 +7293,44 @@ msgstr "معلومات الدوري"
 #: /views/leagues/edit.ctp:27
 msgid ""
 "The full name of the league. Year and season will be automatically added."
-msgstr "الاسم الكامل من الدوري. ستضاف العام وموسم تلقائيا."
+msgstr "الإسم الكامل للدوري. السنة والموسم ستضاف تلقائيا."
 
 #: /views/leagues/edit.ctp:33
 msgid ""
 "The name of the first division in the league. If the league will only have "
 "one division, you can leave this blank."
 msgstr ""
-"اسم الدرجة الاولى في الدوري. إذا كان الدوري لن يكون لها سوى فرقة واحدة، "
-"يمكنك ترك هذا فارغا."
+"اسم المستوى الأول في الدوري. إذا كان الدوري سيحتوي على مستوى واحد، تستطيع "
+"ترك فراغ."
 
 #: /views/leagues/edit.ctp:52
 msgid "Sport played in this league."
-msgstr "لعبت الرياضة في هذا الدوري."
+msgstr "الرياضة التي ستلعب في هذا الدوري."
 
 #: /views/leagues/edit.ctp:59
 msgid "Season during which this league's games take place."
-msgstr "الموسم خلال المباريات التي هذه البطولة تأخذ مكان."
+msgstr "الموسم الذي ستلعب فيه مباريات هذا الدوري."
 
 #: /views/leagues/edit.ctp:219
 msgid ""
 "Number of attempts to generate a schedule, before taking the best option."
-msgstr "عدد من المحاولات لإنشاء جدول، قبل اتخاذ الخيار الأفضل."
+msgstr "عدد المحاولات لعمل جدول المباريات، قبل اختيار أفضل جدول."
 
 #: /views/leagues/edit.ctp:227
 msgid "NOTE: If you set the questionnaire to \""
-msgstr ""
+msgstr "ملاحظة: اذا قمت بضبط الاستبيان إلى \""
 
 #: /views/leagues/edit.ctp:233
 msgid "Select which questionnaire to use for spirit scoring, or \""
-msgstr ""
+msgstr "اختر الاستبيان الذي تريد استخدامه لنقاط روح الفريق، أو \""
 
 #: /views/leagues/edit.ctp:240
 msgid ""
 "Enable or disable the entry of a numeric spirit score, independent of the "
 "questionnaire selected above."
 msgstr ""
-"تمكين أو تعطيل دخول على درجة روح رقمية ومستقلة من الاستبيان المحدد أعلاه."
+"تمكين أو عدم تمكين إدخال تقييم روح الفريق الرقمية، ليس له علاقة بالإستبيان "
+"في الأعلى."
 
 #: /views/leagues/edit.ctp:248
 msgid ""
@@ -7349,18 +7340,22 @@ msgid ""
 "values attached. \"Coordinator Only\" restricts viewing of any per-game "
 "information to coordinators only."
 msgstr ""
+"تحكم في عرض روح الفريق. \"الكل\" يعرض النتائج الرقمية وإجابات الإستبيان (إذا "
+"وجد) لأي لاعب. \"رقمي\" يعرض نتائج المباريات بدون إجابات الإستبيان. \"رموز "
+"فقط\" يعرض فقط نجمة، تفعيل، علامة إكس بدون قيم رقمية مرفقة. \"منسقين فقط\" "
+"يعرض فقط معلومات أي كل مباراة للمنسقين فقط."
 
 #: /views/leagues/edit.ctp:263
 msgid "Order of tie-breakers to use in standings."
-msgstr "ترتيب التعادل قواطع لاستخدامها في الترتيب."
+msgstr "ترتيب كاسر التعادل المستخدم في الترتيب."
 
 #: /views/leagues/edit.ctp:306
 msgid "Used as the size of the ratings table."
-msgstr "تستخدم حجم الجدول التصنيفات."
+msgstr "يستخدم كحجم قائمة التقييم."
 
 #: /views/leagues/edit.ctp:312
 msgid "When to ask captains for game stats."
-msgstr "حين نسأل القادة عنإحصائيات اللعبة."
+msgstr "متى تسأل الكباتن عن إحصائيات المباراة."
 
 #: /views/leagues/schedule.ctp:18
 msgid "League Schedule"
@@ -7376,55 +7371,55 @@ msgstr "ملخص الدوري"
 
 #: /views/leagues/summary.ctp:15
 msgid "Numeric Spirit?"
-msgstr "الروح الرقمية؟"
+msgstr "روح الفريق الرقمية؟"
 
 #: /views/leagues/summary.ctp:17
 msgid "Max Score"
-msgstr "أقصى النقاط"
+msgstr "النتيجة العظمى"
 
 #: /views/leagues/summary.ctp:18 /views/leagues/view.ctp:34
 msgid "Schedule Attempts"
-msgstr "محاولات الجدول الزمني"
+msgstr "جدولة المحاولات"
 
 #: /views/leagues/summary.ctp:19 /views/leagues/view.ctp:69
 msgid "Tie Breaker"
-msgstr "كسر التعادل"
+msgstr "كاسر التعادل"
 
 #: /views/leagues/summary.ctp:67
 msgid "Division Summary"
-msgstr "ملخص الانقسام"
+msgstr "ملخص الفئة"
 
 #: /views/leagues/summary.ctp:74
 msgid "Games Before Repeat"
-msgstr "العاب متكرره من قبل"
+msgstr "المباريات قبل الإعادة"
 
 #: /views/leagues/summary.ctp:80
 msgid "Remind After"
-msgstr "أذكر بعد"
+msgstr "تذكير بعد"
 
 #: /views/leagues/summary.ctp:81
 msgid "Finalize After"
-msgstr "وضع اللمسات الأخيرة بعد"
+msgstr "انجز بعد"
 
 #: /views/leagues/summary.ctp:127
 msgid " from "
-msgstr "من"
+msgstr " من "
 
 #: /views/leagues/view.ctp:63
 msgid "Stat Tracking"
-msgstr "تتبع القانون الأساسي"
+msgstr "متابعة الإحصائيات"
 
 #: /views/leagues/csv/participation.ctp:6 /views/people/participation.ctp:31
 #: /views/people/csv/participation.ctp:4 /views/registrations/report.ctp:60
 #: /views/registrations/view.ctp:33 /views/registrations/csv/full_list.ctp:4
 #: /views/registrations/csv/report.ctp:8
 msgid "User ID"
-msgstr "هوية المستخدم"
+msgstr "رقم المستخدم"
 
 #: /views/leagues/csv/participation.ctp:9 /views/people/view.ctp:31
 #: /views/registrations/csv/full_list.ctp:7
 msgid "Email Address"
-msgstr "عنوان البريد الإلكتروني"
+msgstr "البريد الإلكتروني"
 
 #: /views/leagues/csv/participation.ctp:13 /views/people/edit.ctp:209;215
 #: /views/registrations/csv/full_list.ctp:11
@@ -7435,22 +7430,22 @@ msgstr "الرمز البريدي"
 #: /views/leagues/csv/participation.ctp:14
 #: /views/registrations/csv/full_list.ctp:12 /views/tasks/csv/index.ctp:15
 msgid "Home Phone"
-msgstr "هاتف المنزل"
+msgstr "تلفون البيت"
 
 #: /views/leagues/csv/participation.ctp:15
 #: /views/registrations/csv/full_list.ctp:13 /views/tasks/csv/index.ctp:18
 msgid "Work Phone"
-msgstr "هاتف العمل"
+msgstr "تلفون العمل"
 
 #: /views/leagues/csv/participation.ctp:16
 #: /views/registrations/csv/full_list.ctp:14 /views/tasks/csv/index.ctp:19
 msgid "Work Ext"
-msgstr "تحويلة العمل"
+msgstr "وصلة تلفون العمل"
 
 #: /views/leagues/csv/participation.ctp:17
 #: /views/registrations/csv/full_list.ctp:15 /views/tasks/csv/index.ctp:22
 msgid "Mobile Phone"
-msgstr "الهاتف المحمول"
+msgstr "رقم الجوال"
 
 #: /views/leagues/csv/participation.ctp:19 /views/people/participation.ctp:36
 #: /views/people/view.ctp:111 /views/people/csv/participation.ctp:9
@@ -7461,14 +7456,14 @@ msgstr "تاريخ الميلاد"
 #: /views/leagues/csv/participation.ctp:20 /views/people/view.ctp:134
 #: /views/registrations/csv/full_list.ctp:18
 msgid "Height"
-msgstr "ارتفاع"
+msgstr "الطول"
 
 #: /views/leagues/csv/participation.ctp:21 /views/people/participation.ctp:35
 #: /views/people/statistics.ctp:268 /views/people/view.ctp:149
 #: /views/people/csv/participation.ctp:8
 #: /views/registrations/csv/full_list.ctp:19
 msgid "Skill Level"
-msgstr "مستوى المهارة"
+msgstr "المستوى المهاري"
 
 #: /views/leagues/csv/participation.ctp:22 /views/people/view.ctp:141
 #: /views/registrations/csv/full_list.ctp:20
@@ -7477,29 +7472,29 @@ msgstr "حجم القميص"
 
 #: /views/leagues/csv/participation.ctp:24
 msgid "Added"
-msgstr "اضف"
+msgstr "تمت الإضافة"
 
 #: /views/mailing_lists/edit.ctp:2;14 /views/mailing_lists/view.ctp:2
 #: /views/newsletters/view.ctp:20
 msgid "Mailing List"
-msgstr "القائمة البريدية"
+msgstr "قائمة البريد"
 
 #: /views/mailing_lists/edit.ctp:30
 msgid ""
 "Check this to allow recipients to unsubscribe from this mailing list. Be "
 "sure that your local privacy laws allow you to uncheck this before doing so."
 msgstr ""
-"التحقق من ذلك للسماح للمتلقي لإلغاء الاشتراك من هذه القائمة البريدية. تأكد "
-"من أن قوانين الخصوصية المحلية تسمح لك لإلغاء هذا قبل القيام بذلك."
+"اضغط هنا للسماح للمستلمين بأن لا يستلموا البريد من قائمة البريد. تأكد أن "
+"قوانين الخصوصية المحلية الخاصة بك تسمح لك بعدم الضعط."
 
 #: /views/mailing_lists/edit.ctp:34
 msgid "Rules that must be passed to include a person on this mailing list."
-msgstr "القواعد التي يجب تمريرها إلى يشمل الشخص في هذه القائمة البريدية."
+msgstr "القواعد المطلوبة لإدخال هذا الشخص في القائمة البريدية."
 
 #: /views/mailing_lists/edit.ctp:43 /views/mailing_lists/index.ctp:2;7
 #: /views/mailing_lists/preview.ctp:2
 msgid "Mailing Lists"
-msgstr "قوائم البريدية"
+msgstr "القاوائم البريدية"
 
 #: /views/mailing_lists/edit.ctp:47 /views/mailing_lists/index.ctp:37
 #: /views/mailing_lists/view.ctp:41
@@ -7520,15 +7515,15 @@ msgstr "الانسحاب"
 
 #: /views/mailing_lists/view.ctp:25
 msgid "Rule"
-msgstr "حكم"
+msgstr "قاعدة"
 
 #: /views/mailing_lists/view.ctp:43
 msgid "List Mailing Lists"
-msgstr "قائمة القوائم البريدية"
+msgstr "عرض القائمة البريدية"
 
 #: /views/mailing_lists/view.ctp:51
 msgid "Related Newsletters"
-msgstr "النشرات الإخبارية ذات الصلة"
+msgstr "الأخبار المتعلقة"
 
 #: /views/mailing_lists/view.ctp:56 /views/newsletters/view.ctp:25
 msgid "Target"
@@ -7538,100 +7533,100 @@ msgstr "الهدف"
 #: /views/newsletters/edit.ctp:69 /views/newsletters/index.ctp:48
 #: /views/newsletters/view.ctp:34
 msgid "Delivery Report"
-msgstr "تقرير التسليم"
+msgstr "تقرير توزيع الرسائل"
 
 #: /views/mailing_lists/view.ctp:80;80 /views/newsletters/delivery.ctp:45;45
 #: /views/newsletters/edit.ctp:72;72 /views/newsletters/index.ctp:51;51
 #: /views/newsletters/view.ctp:37;37
 msgid "Send"
-msgstr "إرسال"
+msgstr "أرسل"
 
 #: /views/mailing_lists/view.ctp:83 /views/newsletters/delivery.ctp:51
 #: /views/newsletters/edit.ctp:75 /views/newsletters/index.ctp:54
 #: /views/newsletters/view.ctp:43
 msgid "Delete Newsletter"
-msgstr "حذف النشرة الإخبارية"
+msgstr "حذف الخبر"
 
 #: /views/maps/edit.ctp:2
 msgid "%s Editor"
-msgstr "%s محررات"
+msgstr "محرر %s"
 
 #: /views/maps/index.ctp:2
 msgid "All %s"
-msgstr "جميع %s"
+msgstr "كل %s"
 
 #: /views/maps/index.ctp:63
 msgid "Show only open %s"
-msgstr "المعرض مفتوح فقط%s"
+msgstr "عرض %s المفتوحين فقط"
 
 #: /views/maps/index.ctp:65
 msgid "Show all %s"
-msgstr "عرض الكل s٪"
+msgstr "عرض كل ال%s"
 
 #: /views/maps/view.ctp:2
 msgid "%s Layout"
-msgstr "%s تخاطيط"
+msgstr "تصميم %s"
 
 #: /views/newsletters/delivery.ctp:27
 msgid "Recipient"
-msgstr "مستلم"
+msgstr "المستلم"
 
 #: /views/newsletters/delivery.ctp:28
 msgid "Date Sent"
-msgstr "تاريخ المرسل"
+msgstr "تاريخ الإرسال"
 
 #: /views/newsletters/delivery.ctp:53 /views/newsletters/edit.ctp:67
 #: /views/newsletters/index.ctp:2
 msgid "Newsletters"
-msgstr "النشرات الإخبارية"
+msgstr "الأخبار"
 
 #: /views/newsletters/edit.ctp:21
 msgid ""
 "A short name for this newsletter, to be used as a heading in administrative "
 "reports."
-msgstr "اسم قصيرة لهذه النشرة، لاستخدامها كعنوان في التقارير الإدارية."
+msgstr "اسم قصير بهذا الخبر، سيستخدم كعنوان في التقارير الإدارية."
 
 #: /views/newsletters/edit.ctp:26
 msgid "Email address that this newsletter should come from."
-msgstr "عنوان البريد الإلكتروني أن هذا يجب أن يأتي من النشرة."
+msgstr "البريد الإلكتروني الذي تريد إستقبال الخبر منه."
 
 #: /views/newsletters/edit.ctp:30
 msgid ""
 "Email address that this newsletter should be sent to, if different than the "
 "From address. If the \"Personalize\" box is checked, this is ignored."
 msgstr ""
+"العنوان المراد إرسال هذا الخبر إلى، إذا كان مختلفا عن عنوان الإرسال. إذا تم "
+"الضغط على \"Personalize\"، سيتم التجاهل."
 
 #: /views/newsletters/edit.ctp:34
 msgid ""
 "Email address that replies to this newsletter should be sent to, if "
 "different than the From address."
-msgstr ""
-"وينبغي أن ترسل عنوان البريد الإلكتروني الذي بالرد على هذه النشرة ل، إذا كان "
-"مختلفا عن العنوان من."
+msgstr "البريد الإلكتروني للرد على هذا الخبر، إذا كان مختلفا عن عنوان المرسل."
 
 #: /views/newsletters/edit.ctp:38
 msgid "Subject line for emailing this newsletter."
-msgstr "سطر الموضوع البريد الإلكتروني لهذه النشرة."
+msgstr "العنوان لهذا الخبر"
 
 #: /views/newsletters/edit.ctp:43
 msgid "The full text of the newsletter."
-msgstr "النص الكامل لرسالة إخبارية."
+msgstr "النص الكامل للخبر."
 
 #: /views/newsletters/edit.ctp:50
 msgid ""
 "Target date for sending this newsletter. For display purposes only; does not "
 "cause the newsletter to be sent on this date."
 msgstr ""
-"تاريخ استهداف لإرسال هذه النشرة. لأغراض العرض فقط؛ لا يسبب النشرة الإخبارية "
-"ليتم إرسالها في هذا التاريخ."
+"التاريخ المراد إرسال هذا الخبر فيه. لأغراض العرض فقط، لن يرسل الخبر في هذا "
+"التاريخ."
 
 #: /views/newsletters/edit.ctp:53
 msgid ""
 "Time (in minutes) between batches. Larger delays decrease the chance that "
 "sites like Hotmail will consider your email to be spam."
 msgstr ""
-"الوقت (بالدقائق) بين دفعات. تقليل التأخير أكبر فرصة أن مواقع مثل هوتميل "
-"ستنظر البريد الإلكتروني الخاص بك لتكون غير مرغوب فيها."
+"الوقت (بالدقائق) بين الدفعات. فترات الانتظار الأطول تقلل من احتمالة وصول "
+"البريد الى صندوق البريد الغير مرغوب فيه."
 
 #: /views/newsletters/edit.ctp:56
 msgid ""
@@ -7639,52 +7634,52 @@ msgid ""
 "decrease the chance that sites like Hotmail will consider your email to be "
 "spam."
 msgstr ""
-"الحد الأقصى لعدد الرسائل الإخبارية لإرسال دفعة واحدة. خفض دفعات أصغر فرصة أن "
-"مواقع مثل هوتميل ستنظر البريد الإلكتروني الخاص بك لتكون غير مرغوب فيها."
+"الحد الأقصى من الأخبار التي سترسل دفعة واحدة. الدفعات الصغيرة ستقلل من ارسال "
+"رسالتك إلى البريد الغير مرغوب فيه."
 
 #: /views/newsletters/edit.ctp:59
 msgid ""
 "Check this to personalize each email. This slows down the sending process "
 "and increases the amount of internet traffic your newsletter will generate."
 msgstr ""
-"التحقق من ذلك لتخصيص كل البريد الإلكتروني. هذا يبطئ عملية إرسال ويزيد من "
-"كمية حركة المرور على الإنترنت سوف الرسائل الإخبارية الخاصة بك توليد."
+"اضغط هنا للتشخيص كل بريد إلكتروني. هذا سيبطئ عملية الإرسال وسيزيد الإزدحام "
+"الذي سيكونه الخبر."
 
 #: /views/newsletters/send.ctp:4;8
 msgid "Sending"
-msgstr "إرسال"
+msgstr "جاري الإرسال"
 
 #: /views/newsletters/send.ctp:14
 msgid "Sent email to"
-msgstr "ارسال البريد الالكتروني"
+msgstr "أرسل البريد إلى"
 
 #: /views/newsletters/send.ctp:22
 msgid "Test email sent to"
-msgstr "أرسلت رسالة إلكترونية  اختبار"
+msgstr "تجريب البريد المرسل إلى"
 
 #: /views/newsletters/send.ctp:24
 msgid "To send yourself a test copy of this newsletter, %s."
-msgstr "لإرسال نسخة إلى نفسك اختبار هذه النشرة،٪ s."
+msgstr "لإرسال نسخة تجريبية من هذا الخبر، %s."
 
 #: /views/newsletters/send.ctp:25
 msgid "To initiate delivery of this newsletter, %s."
-msgstr "لبدء تسليم هذه النشرة،٪ s."
+msgstr "للبدء في إرسال هذا الخبر، %s."
 
 #: /views/newsletters/view.ctp:10
 msgid "Subject"
-msgstr "موضوع"
+msgstr "العنوان"
 
 #: /views/newsletters/view.ctp:15 /views/waivers/view.ctp:34
 msgid "Text"
-msgstr "نص"
+msgstr "النص"
 
 #: /views/newsletters/view.ctp:45
 msgid "List Newsletters"
-msgstr "قائمة النشرات الإخبارية"
+msgstr "قائمة الأخبار"
 
 #: /views/people/add_relative.ctp:6
 msgid "Add Relative"
-msgstr "إضافة النسبية"
+msgstr "أضف قريب"
 
 #: /views/people/add_relative.ctp:10 /views/people/view.ctp:278
 msgid "Relative"
@@ -7692,94 +7687,94 @@ msgstr "قريب"
 
 #: /views/people/approve.ctp:3;8
 msgid "Approve Account"
-msgstr "الموافقة على الحساب"
+msgstr "تأكيد الحساب"
 
 #: /views/people/approve.ctp:23 /views/people/view.ctp:20
 msgid "%s User Id"
-msgstr "%s تعاريف المستخدمين"
+msgstr "%s رقم المستخدم"
 
 #: /views/people/approve.ctp:105
 msgid ""
 "The following users may be duplicates of this account (click to compare):"
-msgstr "قد يكون المستخدمين التالية نسخ من هذا الحساب (انقر للمقارنة):"
+msgstr "هؤلاء المستخدمين قد يكونوا مكررين من هذا الحساب (انقر للمقارنة):"
 
 #: /views/people/approve.ctp:150
 msgid "This user should be:"
-msgstr "وينبغي أن يكون هذا المستخدم:"
+msgstr "هذا المستخدم من المفترض أن يكون:"
 
 #: /views/people/approve_badges.ctp:3;7
 msgid "Approve Badges"
-msgstr "الموافقة شارات"
+msgstr "تأكيد الشارات"
 
 #: /views/people/approve_badges.ctp:12
 msgid "Reason"
-msgstr "سبب"
+msgstr "السبب"
 
 #: /views/people/approve_badges.ctp:41 /views/people/approve_documents.ctp:19
 #: /views/people/approve_photos.ctp:16 /views/people/list_new.ctp:15
 #: /views/people/view.ctp:316;586 /views/tasks/view.ctp:107
 #: /views/upload_types/view.ctp:50
 msgid "Approve"
-msgstr "وافق"
+msgstr "تأكيد"
 
 #: /views/people/approve_document.ctp:5
 msgid "Edit Document"
-msgstr "تحرير المستند"
+msgstr "تعديل المجلد"
 
 #: /views/people/approve_document.ctp:7
 msgid "Approve Document"
-msgstr "الموافقة على الوثيقة"
+msgstr "تأكيد المجلد"
 
 #: /views/people/approve_documents.ctp:3;7
 msgid "Approve Documents"
-msgstr "الموافقة على المستندات"
+msgstr "تأكيد المجلدات"
 
 #: /views/people/approve_photos.ctp:3;7
 msgid "Approve Photos"
-msgstr "الموافقة على الصور"
+msgstr "تأكيد الصور"
 
 #: /views/people/credits.ctp:4 /views/registrations/credits.ctp:3
 msgid "Credits"
-msgstr "ائتمانات"
+msgstr "الديون"
 
 #: /views/people/credits.ctp:8 /views/registrations/credits.ctp:7
 msgid "Unused Credits"
-msgstr "الاعتمادات غير المستخدمة"
+msgstr "الديون الغير مستخدمة"
 
 #: /views/people/credits.ctp:14 /views/people/view.ctp:482
 #: /views/registrations/credits.ctp:13
 msgid "Initial Amount"
-msgstr "المبلغ الأولي"
+msgstr "المبلغ المبدئي"
 
 #: /views/people/credits.ctp:15 /views/people/view.ctp:483
 #: /views/registrations/credits.ctp:14
 msgid "Amount Used"
-msgstr "الكمية المستخدمة"
+msgstr "المبلغ المستخدم"
 
 #: /views/people/cron.ctp:3
 msgid "Membership welcome letters"
-msgstr "خطابات عضوية الترحيب"
+msgstr "رسائل ترحيب للعضوية"
 
 #: /views/people/cron.ctp:4
 msgid "Emailed %d membership letters."
-msgstr "عبر البريد الالكتروني%d  خطابات العضوية."
+msgstr "تم إرسال %d رسائل عضوية."
 
 #: /views/people/document_upload.ctp:4;17
 msgid "Upload Document"
-msgstr "تحميل الوثيقة"
+msgstr "رفع المجلد"
 
 #: /views/people/document_upload.ctp:30 /views/people/edit.ctp:41
 #: /views/people/photo_upload.ctp:15
 msgid "Upload"
-msgstr "تحميل"
+msgstr "رفع"
 
 #: /views/people/edit.ctp:27
 msgid "Edit Your Profile"
-msgstr "تعديل ملف التعريف الخاص بك"
+msgstr "تعديل الملف الشخصي"
 
 #: /views/people/edit.ctp:35
 msgid "Photo"
-msgstr "صور"
+msgstr "الصورة"
 
 #: /views/people/edit.ctp:40 /views/people/photo_upload.ctp:14
 msgid "Profile Photo"
@@ -7787,71 +7782,68 @@ msgstr "صورة الملف الشخصي"
 
 #: /views/people/edit.ctp:51 /views/users/create_account.ctp:22
 msgid "Identity"
-msgstr "هوية"
+msgstr "الهوية"
 
 #: /views/people/edit.ctp:56 /views/users/create_account.ctp:25
 msgid "First (and, if desired, middle) name."
-msgstr "الأولى (وإذا كان المطلوب، وسط) الاسم."
+msgstr "الإسم الأول (أول الإسم الأول مع إسم الأب)."
 
 #: /views/people/edit.ctp:61;69
 msgid ""
 "To prevent system abuses, this can only be changed by an administrator. To "
 "change this, please email your new name to "
 msgstr ""
-"لمنع انتهاكات النظام، وهذا لا يمكن إلا أن تتغير من قبل مسؤول. لتغيير هذا، "
-"يرجى البريد الالكتروني الاسم الجديد ل"
+"لمنع إبتزازات النظام، يتطيع المدير فقط التغيير. للتغيير، الرجاء إرسال الإسم "
+"الجديد إلى "
 
 #: /views/people/edit.ctp:88
 msgid ""
 "To prevent system abuses, this can only be changed by an administrator. To "
 "change this, please email your gender to "
 msgstr ""
-"لمنع انتهاكات النظام، وهذا لا يمكن إلا أن تتغير من قبل مسؤول. لتغيير هذا، "
-"يرجى الكتابة بين الجنسين ل"
+"لمنع ابتزازات النظام، يستطيع المدير التغيير فقط، للتغيير، يجب ارسال جنسك إلى "
 
 #: /views/people/edit.ctp:105 /views/users/create_account.ctp:52
 msgid "Select all affiliates you are interested in."
-msgstr "تحديد كافة الشركات التابعة لها كنت مهتما فيها."
+msgstr "اختر الفرق المنتسبة التي أنت مهتم بها."
 
 #: /views/people/edit.ctp:107
 msgid ""
 "Note that affiliates you are already a manager of (%s) are not included "
 "here; this will remain unchanged."
-msgstr ""
-"نلاحظ أن الشركات التابعة كنت بالفعل مدير (%s) ليست مدرجة هنا؛ هذا سيبقى دون "
-"تغيير."
+msgstr "لاحظ أن الفرق المنتسبة (%s) التي تديرها غير موجودة هنا، هذا لن يتغير."
 
 #: /views/people/edit.ctp:125 /views/users/create_account.ctp:65
 msgid "Online Contact"
-msgstr "الاتصال عبر الإنترنت"
+msgstr "التواصل عبر الإنترنت"
 
 #: /views/people/edit.ctp:131 /views/users/create_account.ctp:69
 msgid "Allow other players to view my email address"
-msgstr "تسمح لاعبين آخرين لعرض عنوان البريد الإلكتروني الخاص بي"
+msgstr "اسمح للاعبين الآخرين بعرض بريدك الإلكتروني"
 
 #: /views/people/edit.ctp:140 /views/users/create_account.ctp:78
 msgid "Show Gravatar image for your account?"
-msgstr "تظهر الصورة غرفتر لحسابك؟"
+msgstr "عرض صورة Gravatar لحسابك؟"
 
 #: /views/people/edit.ctp:150 /views/users/create_account.ctp:88
 msgid "Street Address"
-msgstr "العنوان"
+msgstr "عنوان الشارع"
 
 #: /views/people/edit.ctp:154;160 /views/users/create_account.ctp:92
 msgid "Street and Number"
-msgstr "الشارع و رقم"
+msgstr "الشارع والرقم"
 
 #: /views/people/edit.ctp:155 /views/users/create_account.ctp:93
 msgid "Number, street name, and apartment number if necessary."
-msgstr "العدد، اسم الشارع ورقم الشقة إذا لزم الأمر."
+msgstr "الرقم، اسم الشارع، ورقم الشقة في حالة السكن في شقة."
 
 #: /views/people/edit.ctp:161;173;188;203;216
 msgid ""
 "To prevent system abuses, this can only be changed by an administrator. To "
 "change this, please email your new address to "
 msgstr ""
-"لمنع انتهاكات النظام، وهذا لا يمكن إلا أن تتغير من قبل مسؤول. لتغيير هذا، "
-"يرجى إرسال بريد إلكتروني إلى عنوانك الجديد"
+"لمنع ابتزازات النظام، يستطيع المدير التغيير فقط. للتغيير، الرجاء إرسال "
+"عنوانك الجديد إلى "
 
 #: /views/people/edit.ctp:167 /views/users/create_account.ctp:99
 msgid "Name of city."
@@ -7859,11 +7851,11 @@ msgstr "اسم المدينة."
 
 #: /views/people/edit.ctp:182 /views/users/create_account.ctp:108
 msgid "Select a province/state from the list"
-msgstr "اختر المقاطعة / الدولة من القائمة"
+msgstr "اختر منطقة من القائمة"
 
 #: /views/people/edit.ctp:193;202 /views/users/create_account.ctp:113
 msgid "Country"
-msgstr "بلد"
+msgstr "الدولة"
 
 #: /views/people/edit.ctp:197 /views/users/create_account.ctp:117
 msgid "Select a country from the list."
@@ -7874,48 +7866,46 @@ msgid ""
 "Please enter a correct postal code matching the address above. %s uses this "
 "information to help locate new %s near its members."
 msgstr ""
-"يرجى إدخال الرمز البريدي الصحيح مطابقة العنوان المذكور أعلاه. ٪ و يستخدم هذه "
-"المعلومات للمساعدة في تحديد جديد٪ و بالقرب من أعضائها."
+"الرجاء إدخال رمز بريدك المكون من خمسة أرقام للعنوان في الأعلى. %s يستخدم هذه "
+"المعلومات للمساعدة في تحديد مواقع جديدة لـ %s قريبة من الأعضاء."
 
 #: /views/people/edit.ctp:238 /views/users/create_account.ctp:137
 msgid ""
 "Enter your home telephone number. If you have only a mobile phone, enter "
 "that number both here and below."
-msgstr ""
-"أدخل رقم هاتف المنزل الخاص بك. إذا كان لديك مجرد هاتف نقال، أدخل هذا العدد "
-"سواء هنا أو أدناه."
+msgstr "أدخل رقم تلفون بيتك كمثال (0131234567)."
 
 #: /views/people/edit.ctp:243;266;281
 msgid ""
 "To prevent system abuses, this can only be changed by an administrator. To "
 "change this, please email your new phone number to "
 msgstr ""
-"لمنع انتهاكات النظام، وهذا لا يمكن إلا أن تتغير من قبل مسؤول. لتغيير هذا، "
-"يرجى البريد الالكتروني رقم الهاتف الجديد ل"
+"بمنع إبتزازات النظام، يستطيع المدير تغيير هذا الخيار فقط. للتغيير، الرجاء "
+"إرسال رقم تلفونك الجديد إلى "
 
 #: /views/people/edit.ctp:248 /views/users/create_account.ctp:140
 msgid "Allow other players to view home number"
-msgstr "تسمح لاعبين آخرين لعرض رقم المنزل"
+msgstr "إسمح للاعبين الآخرين بعرض تلفون بيتك."
 
 #: /views/people/edit.ctp:253 /views/users/create_account.ctp:145
 msgid "Enter your work telephone number (optional)."
-msgstr "إدخال رقم الهاتف عملك (اختياري)."
+msgstr "أدخل رقم تلفون عملك (خياري)."
 
 #: /views/people/edit.ctp:257 /views/users/create_account.ctp:149
 msgid "Enter your work extension (optional)."
-msgstr "أدخل تمديد العمل الخاص بك (اختياري)."
+msgstr "أدخل ملحق تلفون عملك (خياري)."
 
 #: /views/people/edit.ctp:271 /views/users/create_account.ctp:152
 msgid "Allow other players to view work number"
-msgstr "تسمح لاعبين آخرين لعرض رقم العمل"
+msgstr "اسمح للاعبين الآخرين بعرض تلفون عملك."
 
 #: /views/people/edit.ctp:276 /views/users/create_account.ctp:157
 msgid "Enter your cell or pager number (optional)."
-msgstr "دخول الخلية او رقم الاستدعاء (اختياري)."
+msgstr "أدخل رقم جوالك كمثال (0512345678)."
 
 #: /views/people/edit.ctp:286 /views/users/create_account.ctp:160
 msgid "Allow other players to view mobile number"
-msgstr "تسمح لاعبين آخرين لعرض رقم الهاتف النقال"
+msgstr "اسمع للاعبين الآخرين بعرض رقم جوالك"
 
 #: /views/people/edit.ctp:294 /views/users/create_account.ctp:168
 msgid "Account Information"
@@ -7927,83 +7917,84 @@ msgstr "نوع الحساب"
 
 #: /views/people/edit.ctp:316
 msgid "Player Information"
-msgstr "معلومات الاعب"
+msgstr "معلومات اللاعب"
 
 #: /views/people/edit.ctp:320 /views/users/create_account.ctp:194
 msgid "Please use the questionnaire to "
-msgstr "الرجاء استخدام استبيان ل"
+msgstr "الرجاء استخدام الإستبيان لـ "
 
 #: /views/people/edit.ctp:320 /views/users/create_account.ctp:194
 msgid "calculate your rating"
-msgstr "حساب تصويتك"
+msgstr "قم بحساب تقييمك"
 
 #: /views/people/edit.ctp:335
 msgid ""
 "To prevent system abuses, this can only be changed by an administrator. To "
 "change this, please email your new skill level to "
 msgstr ""
-"لمنع انتهاكات النظام، وهذا لا يمكن إلا أن تتغير من قبل مسؤول. لتغيير هذا، "
-"يرجى إرسال بريد إلكتروني مستواك مهارة جديدة ل"
+"لمنع ابتزازات النظام، المدير فقط يستطيع تغيير هذا الخيار. لتغيير هذا، الرجاء "
+"إرسال المهارة الجديدة إلى"
 
 #: /views/people/edit.ctp:352
 msgid ""
 "To prevent system abuses, this can only be changed by an administrator. To "
 "change this, please email your correct year started to "
 msgstr ""
-"لمنع انتهاكات النظام، وهذا لا يمكن إلا أن تتغير من قبل مسؤول. لتغيير هذا، "
-"يرجى البريد الالكتروني بدأت في العام الصحيح ل"
+"لمنع ابتزازات النظام، المدير فقط يستطيع تغيير هذا الخيار. لتغيير هذا، الرجاء "
+"إرسال سنة البداية الصحيحة إلى "
 
 #: /views/people/edit.ctp:361;369 /views/users/create_account.ctp:223;231
 msgid ""
 "Please enter a correct birthdate; having accurate information is important "
 "for insurance purposes."
 msgstr ""
-"يرجى إدخال تاريخ ميلادك الصحيح؛ وجود معلومات دقيقة المهم لأغراض التأمين."
+"الرجاء إدخال تاريخ الميلاد الصحيح، المعلومات الدقيقة مهمة من أجل توزيع "
+"اللاعبين."
 
 #: /views/people/edit.ctp:377
 msgid ""
 "To prevent system abuses, this can only be changed by an administrator. To "
 "change this, please email your correct birthdate to "
 msgstr ""
-"لمنع انتهاكات النظام، وهذا لا يمكن إلا أن تتغير من قبل مسؤول. لتغيير هذا، "
-"يرجى البريد الالكتروني تاريخ الميلاد الصحيح ل"
+"لمنع ابتزازات النظام، المدير فقط يستطيع تغيير هذا الخيار. لتغيير هذا، الرجاء "
+"إرسال تاريخ الميلاد الصحيح إلى "
 
 #: /views/people/edit.ctp:383 /views/users/create_account.ctp:238
 msgid ""
 "Please enter your height in inches (5 feet is 60 inches; 6 feet is 72 "
 "inches). This is used to help generate even teams for hat leagues."
 msgstr ""
-"من فضلك ادخل طولك في بوصة (5 أقدام هو 60 بوصة؛ 6 أقدام 72 بوصة). ويستخدم هذا "
-"للمساعدة في توليد حتى فرق الدوريات لقبعة."
+"الرجاء إدخال طولك بالإنشات (٥ قدم هو ٦٠ انش، ٦ قدم هو ٧٢ انش). هذا يساعد في "
+"تنظيم اللاعبين في الفرق."
 
 #: /views/people/edit.ctp:389
 msgid ""
 "To prevent system abuses, this can only be changed by an administrator. To "
 "change this, please email your new height to "
 msgstr ""
-"لمنع انتهاكات النظام، وهذا لا يمكن إلا أن تتغير من قبل مسؤول. لتغيير هذا، "
-"يرجى إرسال بريد إلكتروني افاق جديدة ل"
+"لمنع ابتزازات النظام، المدير فقط يستطيع تغيير هذا الخيار. للتغيير، الرجاء "
+"إرسال بريد إلكتروني إلى"
 
 #: /views/people/edit.ctp:401
 msgid ""
 "To prevent system abuses, this can only be changed by an administrator. To "
 "change this, please email your new shirt size to "
 msgstr ""
-"لمنع انتهاكات النظام، وهذا لا يمكن إلا أن تتغير من قبل مسؤول. لتغيير هذا، "
-"يرجى البريد الالكتروني الجديد الخاص بك حجم قميص ل"
+"لمنع ابتزازات النظام، المدير فقط يستطيع تغيير هذا الخيار. للتغيير الرجاء "
+"ارسالم حجم القميص"
 
 #: /views/people/inactive_search.ctp:5
 msgid "Inactive Search"
-msgstr "غير نشط البحث"
+msgstr "بحث غير نشط"
 
 #: /views/people/inactive_search.ctp:9 /views/people/league_search.ctp:9
 #: /views/people/rule_search.ctp:9 /views/people/search.ctp:9
 msgid "Search %s"
-msgstr "بحث٪s"
+msgstr "ابحث عن %s"
 
 #: /views/people/league_search.ctp:5
 msgid "League Search"
-msgstr "الدوري بحث"
+msgstr "بحث الدواري"
 
 #: /views/people/list_new.ctp:3;7
 msgid "New Accounts"
@@ -8011,11 +8002,11 @@ msgstr "حسابات جديدة"
 
 #: /views/people/list_new.ctp:28
 msgid "No accounts to approve."
-msgstr "لا حسابات للموافقة."
+msgstr "ليس هناك حسابات للموافقة عليها."
 
 #: /views/people/nominate.ctp:9 /views/people/nominate_badge.ctp:22
 msgid "Nominate for a Badge"
-msgstr "ترشيح لشارة"
+msgstr "قم بالترشيح لشارة"
 
 #: /views/people/nominate_badge.ctp:20
 msgid "Assign a Badge"
@@ -8023,46 +8014,46 @@ msgstr "تعيين شارة"
 
 #: /views/people/nominate_badge_reason.ctp:23
 msgid "Assign \"%s\" Badge to %s"
-msgstr ""
+msgstr "تعيين الشارة \"%s\" إلى %s"
 
 #: /views/people/nominate_badge_reason.ctp:25
 msgid "Nominate %s for the \"%s\" Badge"
-msgstr ""
+msgstr "قم بترشيح %s للشارة \"%s\""
 
 #: /views/people/participation.ctp:3;7
 msgid "Participation Statistics"
-msgstr "المشاركة الاحصائيات"
+msgstr "إحصائيات الحضور"
 
 #: /views/people/participation.ctp:14 /views/people/retention.ctp:14
 msgid "Include details starting in"
-msgstr "وتشمل التفاصيل بدءا من عام"
+msgstr "يحتوي على تفاصيل تبدأ من"
 
 #: /views/people/participation.ctp:18 /views/people/retention.ctp:18
 msgid "Up to and including"
-msgstr "وبما يصل إلى"
+msgstr "حتى وضمن"
 
 #: /views/people/participation.ctp:24
 msgid ""
 "Note that this report is time- and memory-intensive, and multi-year reports "
 "may cause it to crash, depending on php.ini settings."
 msgstr ""
-"لاحظ أن هذا التقرير هو الوقت وتستهلك ذاكرة، ويمكن أن يتسبب تقارير متعددة "
-"السنوات في سقوطها، اعتمادا على إعدادات ملف php.ini."
+"لاحظ أن هذا التقرير يؤثر على الوقت والذاكرة، والتقارير السنوية قد تعطل "
+"النظام على حسب اعدادات php.ini."
 
 #: /views/people/participation.ctp:37 /views/people/view.ctp:156
 #: /views/people/csv/participation.ctp:10
 msgid "Year Started"
-msgstr "كتبت العام"
+msgstr "سنة الإنضمام"
 
 #: /views/people/participation.ctp:42;46
 #: /views/people/csv/participation.ctp:16;20
 msgid "captain"
-msgstr "قائد الفريق"
+msgstr "كابتن الفريق"
 
 #: /views/people/participation.ctp:46;47
 #: /views/people/csv/participation.ctp:20;21
 msgid "tournament"
-msgstr "بطولة"
+msgstr "البطولة"
 
 #: /views/people/photo_resize.ctp:4;8
 #: /views/themed/wods/people/photo_resize.ctp:4;8
@@ -8071,11 +8062,11 @@ msgstr "تغيير حجم الصورة"
 
 #: /views/people/photo_upload.ctp:4;8
 msgid "Upload Photo"
-msgstr "تحميل الصور"
+msgstr "رفع الصورة"
 
 #: /views/people/preferences.ctp:2;9 /views/registrations/register.ctp:4
 msgid "Preferences"
-msgstr "التفضيلات"
+msgstr "خيارات"
 
 #: /views/people/preferences.ctp:85 /views/teams/view.ctp:23
 #: /views/themed/wfdfu23/teams/view.ctp:23
@@ -8087,12 +8078,12 @@ msgid ""
 "You have authorized your account to post updates to Twitter. You can %s if "
 "you no longer want to tweet updates."
 msgstr ""
-"لديك أذن الحساب الخاص بك للنشر التحديثات إلى تويتر. يمكنك٪ و إذا لم تعد تريد "
-"أن تغرد التحديثات."
+"لقد قمت بالتصريح لحسابك لنشر التحديثات في تويتر. تستطيع %s إذا اردت إلغاء "
+"نشر التغريدات الجديدة."
 
 #: /views/people/preferences.ctp:89
 msgid "revoke this authorization"
-msgstr "إلغاء هذا التفويض"
+msgstr "إلغاء هذا التصريح"
 
 #: /views/people/preferences.ctp:92
 msgid ""
@@ -8100,17 +8091,17 @@ msgid ""
 "this, you must %s. Note that nothing will ever be tweeted automatically; "
 "this authorization enables you to tweet directly from this site."
 msgstr ""
-"هذا النظام يمكن إضافة بعض التحديثات إلى تويتر نيابة عنك. لتمكين هذا، يجب "
-"عليك %s . لاحظ أنه في أي وقت إلى أي شيء بالتغريد تلقائيا؛ هذا التفويض تمكنك "
-"من سقسقة مباشرة من هذا الموقع."
+"هذا النظام يستطيع كتابة تحديثات معينة إلى تويتر عن طريقك. لتفعيل هذه الخدمة، "
+"يجب عليك %s. لاحظ انه لا شيء سنقوم بتغريده أوتوماتيكيا، هذا التصريح سيسمح لك "
+"بالتغريدات عبر عذا المقع فقط."
 
 #: /views/people/preferences.ctp:93
 msgid "authorize Twitter to accept these tweets"
-msgstr "يأذن تويتر لقبول هذه التغريدة"
+msgstr "قم بالتصريح لتويتر بقبول هذه التغريدات"
 
 #: /views/people/registrations.ctp:6;10
 msgid "Registration History"
-msgstr "التاريخ تسجيل"
+msgstr "تاريخ التسجيل"
 
 #: /views/people/registrations.ctp:111 /views/people/view.ctp:462
 #: /views/registrations/checkout.ctp:46;90 /views/registrations/unpaid.ctp:42
@@ -8120,7 +8111,7 @@ msgstr "إلغاء التسجيل"
 
 #: /views/people/retention.ctp:3;7
 msgid "Membership Retention Statistics"
-msgstr "عضوية الاحتفاظ الاحصائيات"
+msgstr "احصائيات حجوزات العضوية"
 
 #: /views/people/retention.ctp:35 /views/people/csv/retention.ctp:10
 msgid "Membership Registration"
@@ -8128,11 +8119,11 @@ msgstr "تسجيل العضوية"
 
 #: /views/people/retention.ctp:67 /views/people/csv/retention.ctp:38
 msgid "Total Prior"
-msgstr "مجموع قبل"
+msgstr "مجموع المسجلين المسبقين"
 
 #: /views/people/retention.ctp:79 /views/people/csv/retention.ctp:47
 msgid "Total Registered"
-msgstr "مجموع مسجل"
+msgstr "مجموع المسجلين المسبقين"
 
 #: /views/people/retention.ctp:91 /views/people/csv/retention.ctp:56
 msgid "% Prior"
@@ -8140,28 +8131,28 @@ msgstr "% قبل"
 
 #: /views/people/rule_search.ctp:5
 msgid "Rule-based Search"
-msgstr "بحث قائم على القواعد"
+msgstr "بحث عن طريق القاعدة"
 
 #: /views/people/search.ctp:14
 msgid "enter a rule and find people who match"
-msgstr "إدخال القاعدة والعثور على الأشخاص الذين تتطابق"
+msgstr "أضف قاعدة وابحث عن اللاعبين الذين يتوافقوا مع القاعدة"
 
 #: /views/people/search.ctp:15
 msgid "find everyone participating in a particular league"
-msgstr "تجد الجميع المشاركة في الدوري خاصة"
+msgstr "ابحث عن جميع المشاركين في دوري معيّن"
 
 #: /views/people/search.ctp:16
 msgid "find all inactive users (not currently on any team)"
-msgstr "العثور على كافة المستخدمين غير نشط (ليس حاليا على أي فريق)"
+msgstr "ابحث عن جميع المستخدمين الغير نشطين (ليسوا حاليا في أي فريق)"
 
 #: /views/people/statistics.ctp:3 /views/registrations/statistics.ctp:3
 #: /views/teams/statistics.ctp:3
 msgid "Statistics"
-msgstr "إحصائيات"
+msgstr "الإحصائيات"
 
 #: /views/people/statistics.ctp:7
 msgid "Player Statistics"
-msgstr "الاحصائيات الاعب"
+msgstr "إحصائيات اللاعب"
 
 #: /views/people/statistics.ctp:9
 msgid "Players by Account Status"
@@ -8169,11 +8160,11 @@ msgstr "اللاعبين حسب حالة الحساب"
 
 #: /views/people/statistics.ctp:59
 msgid "Players by Account Class"
-msgstr "اللاعبين من قبل فئة الحساب"
+msgstr "اللاعبين حسب فئة الحساب"
 
 #: /views/people/statistics.ctp:63
 msgid "Class"
-msgstr "فئة"
+msgstr "الفئة"
 
 #: /views/people/statistics.ctp:109
 msgid "Players by Gender"
@@ -8185,23 +8176,23 @@ msgstr "اللاعبين حسب العمر"
 
 #: /views/people/statistics.ctp:164
 msgid "Age"
-msgstr "عمر"
+msgstr "العمر"
 
 #: /views/people/statistics.ctp:212
 msgid "Players by Year Started"
-msgstr "اللاعبين حسب السنة البداية"
+msgstr "اللاعبين حسب تاريخ الإنضمام"
 
 #: /views/people/statistics.ctp:216
 msgid "Year"
-msgstr "عام"
+msgstr "السنة"
 
 #: /views/people/statistics.ctp:264
 msgid "Players by Skill Level"
-msgstr "اللاعبين حسب مستوى المهارة"
+msgstr "اللاعبين حسب المهارة"
 
 #: /views/people/statistics.ctp:316
 msgid "Players by City"
-msgstr "اللاعبين بحسب المدينة"
+msgstr "اللاعبين حسب المدينة"
 
 #: /views/people/teams.ctp:4;8
 msgid "Team History"
@@ -8209,11 +8200,11 @@ msgstr "تاريخ الفريق"
 
 #: /views/people/tooltip.ctp:25
 msgid "work"
-msgstr "عمل"
+msgstr "العمل"
 
 #: /views/people/tooltip.ctp:30
 msgid "mobile"
-msgstr "متنقل"
+msgstr "الجوال"
 
 #: /views/people/tooltip.ctp:49 /views/people/view.ctp:196
 #: /views/teams/view.ctp:183 /views/themed/wfdfu23/teams/view.ctp:183
@@ -8222,23 +8213,23 @@ msgstr "ملاحظة خاصة"
 
 #: /views/people/view.ctp:25
 msgid "Zuluru User Id"
-msgstr "Zuluru العضو رقم"
+msgstr "رقم العضوية"
 
 #: /views/people/view.ctp:42
 msgid "Phone (home)"
-msgstr "الهاتف (المنزل)"
+msgstr "التلفون (البيت)"
 
 #: /views/people/view.ctp:53
 msgid "Phone (work)"
-msgstr "الهاتف (العمل)"
+msgstr "التلفون (العمل)"
 
 #: /views/people/view.ctp:67
 msgid "Phone (mobile)"
-msgstr "الهاتف (الجوال)"
+msgstr "التلفون (الجوال)"
 
 #: /views/people/view.ctp:136
 msgid "inches"
-msgstr "بوصة"
+msgstr "انش(بوصة)"
 
 #: /views/people/view.ctp:163
 msgid "Account Class"
@@ -8254,19 +8245,19 @@ msgstr "لديه كلب"
 
 #: /views/people/view.ctp:181
 msgid "Willing To Volunteer"
-msgstr "على استعداد للتطوع"
+msgstr "مستعد للتطوع"
 
 #: /views/people/view.ctp:188
 msgid "Contact For Feedback"
-msgstr "الاتصال للحصول على تعليقات"
+msgstr "تواصل من أجل استشارتك"
 
 #: /views/people/view.ctp:220;220
 msgid "Edit Profile"
-msgstr "تحرير الملف الشخصي"
+msgstr "تعديل الملف الشخصي"
 
 #: /views/people/view.ctp:221
 msgid "Edit Preferences"
-msgstr "تحرير التفضيلات"
+msgstr "تعديل الخيارات"
 
 #: /views/people/view.ctp:223 /views/users/change_password.ctp:4
 msgid "Change Password"
@@ -8278,7 +8269,7 @@ msgstr "حذف اللاعب"
 
 #: /views/people/view.ctp:249
 msgid "on"
-msgstr "في"
+msgstr "على"
 
 #: /views/people/view.ctp:275
 msgid "Relatives"
@@ -8287,7 +8278,7 @@ msgstr "الأقارب"
 #: /views/people/view.ctp:279 /views/task_slots/index.ctp:15
 #: /views/task_slots/view.ctp:34 /views/tasks/view.ctp:58
 msgid "Approved"
-msgstr "وافق"
+msgstr "مصدّق"
 
 #: /views/people/view.ctp:284
 msgid "You"
@@ -8295,95 +8286,93 @@ msgstr "أنت"
 
 #: /views/people/view.ctp:284;310
 msgid "can control"
-msgstr "يمكن السيطرة"
+msgstr "تستطيع التحكم"
 
 #: /views/people/view.ctp:302
 msgid "you"
 msgstr "أنت"
 
 #: /views/people/view.ctp:325
-#, fuzzy
 msgid "Link a new relative"
-msgstr "الربط النسبي الجديد"
+msgstr "أضف قريب"
 
 #: /views/people/view.ctp:366
-#, fuzzy
 msgid "Allstar Nominations"
-msgstr "الترشيحات ALLSTAR"
+msgstr "النجوم المرشحة"
 
 #: /views/people/view.ctp:428 /views/preregistrations/add.ctp:9
 #: /views/preregistrations/add_to_event.ctp:15
 msgid "Add Preregistration"
-msgstr "إضافة التسجيل المسبق"
+msgstr "أضف تسجيلات مسبقة"
 
 #: /views/people/view.ctp:437
 msgid "Recent Registrations"
-msgstr "التسجيلات الأخيرة"
+msgstr "التسجيلات الحديثة"
 
 #: /views/people/view.ctp:442 /views/registrations/report.ctp:63
 #: /views/registrations/unpaid.ctp:14 /views/registrations/view.ctp:58;73
 #: /views/registrations/csv/full_list.ctp:24
 #: /views/registrations/csv/report.ctp:11
 msgid "Payment"
-msgstr "دفع"
+msgstr "الدفع"
 
 #: /views/people/view.ctp:469
 msgid "Show Registration History"
-msgstr "اعرض تاريخ التسجيل"
+msgstr "عرض تاريخ التسجيل"
 
 #: /views/people/view.ctp:477
 msgid "Available Credits"
-msgstr "الاعتمادات المتاحة"
+msgstr "الدين المتوفرة"
 
 #: /views/people/view.ctp:504
 msgid "Show Credit History"
-msgstr "اعرض تاريخ الائتمان"
+msgstr "عرض تاريخ الدين"
 
 #: /views/people/view.ctp:518 /views/people/waivers.ctp:16
 msgid "Signed"
-msgstr "وقعت"
+msgstr "موقّع"
 
 #: /views/people/view.ctp:519;559 /views/people/waivers.ctp:17
 #: /views/upload_types/view.ctp:24
 msgid "Valid From"
-msgstr "صالحة من"
+msgstr "صالح من"
 
 #: /views/people/view.ctp:520;560 /views/people/waivers.ctp:18
 #: /views/upload_types/view.ctp:25
 msgid "Valid Until"
-msgstr "صالحة حتى"
+msgstr "صالح حتى"
 
 #: /views/people/view.ctp:546
 msgid "Show Waiver History"
-msgstr "عرض تاريخ التنازل"
+msgstr "عرض تاريخ الإعفاء"
 
 #: /views/people/view.ctp:554 /views/upload_types/view.ctp:19
 msgid "Documents"
-msgstr "وثائق"
+msgstr "مجلدات"
 
 #: /views/people/view.ctp:558 /views/upload_types/view.ctp:23
 msgid "Document"
-msgstr "وثيقة"
+msgstr "مجلد"
 
 #: /views/people/view.ctp:578 /views/upload_types/view.ctp:43
 msgid "Unapproved"
-msgstr "لم تتم الموافقة عليها"
+msgstr "غير مصدّق"
 
 #: /views/people/view.ctp:599
 msgid "Upload New Document"
-msgstr "تحميل مستند جديد"
+msgstr "رفع مجلد جديد"
 
 #: /views/people/view.ctp:607
 msgid "Assigned Tasks"
-msgstr "المهام المسندة"
+msgstr "المهمات المعينة"
 
 #: /views/people/waivers.ctp:4;8
 msgid "Waiver History"
-msgstr "سجل التنازل "
+msgstr "تاريخ الإعفاء"
 
 #: /views/people/waivers.ctp:79
 msgid "covering"
-msgstr "تغطية"
+msgstr "يدعم"
 
 #: /views/people/waivers.ctp:80
 msgid "to"
@@ -8391,59 +8380,56 @@ msgstr "إلى"
 
 # شوف الصح
 #: /views/people/waivers.ctp:85
-#, fuzzy
 msgid "Sign"
-msgstr "سجل-علامه"
+msgstr "توقيع"
 
 #: /views/people/csv/retention.ctp:9 /views/registrations/report.ctp:58
 #: /views/registrations/csv/report.ctp:6
 msgid "Event ID"
-msgstr "حدث معرف"
+msgstr "رقم الحدث"
 
 # ماعرف ترجمتها
 #: /views/preregistrations/add.ctp:21
 #: /views/preregistrations/add_to_event.ctp:39
-#, fuzzy
 msgid "List Preregistrations"
-msgstr "Preregistrations قائمة"
+msgstr "عرض التسجيلات المسبقة"
 
 # مانا متاكد
 #: /views/preregistrations/index.ctp:87
-#, fuzzy
 msgid "New Preregistration"
-msgstr "التسجيل المسبق الجديد"
+msgstr "تسجيلات مسبقة جديدة"
 
 #: /views/questionnaires/edit.ctp:44 /views/questionnaires/index.ctp:2
 #: /views/questionnaires/view.ctp:29 /views/questions/view.ctp:25
 msgid "Questionnaires"
-msgstr "الاستبيانات"
+msgstr "الإستطلاعات"
 
 #: /views/questionnaires/index.ctp:75 /views/questionnaires/view.ctp:30
 #: /views/questions/index.ctp:79 /views/questions/view.ctp:55
 msgid "New %s"
-msgstr "جديد s%"
+msgstr "%s جديد"
 
 #: /views/questionnaires/view.ctp:19
 msgid "Questionnaire Preview"
-msgstr "معاينة الاسبيان"
+msgstr "عرض الإستطلاع"
 
 #: /views/questionnaires/view.ctp:28
 msgid "Delete %s"
-msgstr "حذف %s"
+msgstr "حذف %s"
 
 #: /views/questions/add.ctp:8 /views/questions/edit.ctp:14
 msgid ""
 "A short name for this question, to be used as a heading in administrative "
 "reports."
-msgstr "اسم قصير لهذا السؤال، لاستخدامها كعنوان في التقارير الإدارية."
+msgstr "إسم قصير لهذا السؤال، ليستخدم كعنوان للتقارير الإدارية."
 
 #: /views/questions/add.ctp:17 /views/questions/edit.ctp:18
 msgid "The full text of the question, to be shown to users."
-msgstr "النص الكامل لهذه المسألة، إلى أن تظهر للمستخدمين."
+msgstr "النص الكامل للسؤال، الذي سيعرض للمستخدمين."
 
 #: /views/questions/add.ctp:26 /views/questions/edit.ctp:27
 msgid "Will responses to this question be kept anonymous?"
-msgstr "سيتم الاحتفاظ الردود على هذا السؤال المجهول؟"
+msgstr "هل ستكون الردود على هذه الأسئلة مجهولة؟"
 
 #: /views/questions/edit.ctp:38
 msgid "Answer"
@@ -8451,12 +8437,12 @@ msgstr "إجابة"
 
 #: /views/questions/edit.ctp:59
 msgid "Add an answer to this question"
-msgstr "إضافة الإجابة على هذا السؤال"
+msgstr "أضف إجابة لهذا السؤال"
 
 #: /views/questions/view.ctp:29 /views/upload_types/index.ctp:10
 #: /views/waivers/index.ctp:10
 msgid "Id"
-msgstr "معرف"
+msgstr "رقم"
 
 #: /views/regions/edit.ctp:2;33 /views/regions/index.ctp:2;7
 #: /views/regions/view.ctp:2
@@ -8465,7 +8451,7 @@ msgstr "المناطق"
 
 #: /views/regions/edit.ctp:37 /views/regions/view.ctp:79
 msgid "Delete Region"
-msgstr "حذف المنطقة"
+msgstr "حذف منطقة"
 
 #: /views/regions/index.ctp:58 /views/regions/view.ctp:83
 msgid "Add Region"
@@ -8477,22 +8463,22 @@ msgstr "مفتوح"
 
 #: /views/regions/view.ctp:70
 msgid "New Facility"
-msgstr "مرفق جديد "
+msgstr "مركز ملاعب جديد"
 
 #: /views/regions/view.ctp:72
 msgid "List Regions"
-msgstr "قائمة الأقاليم"
+msgstr "قائمة المناطق"
 
 #: /views/regions/view.ctp:76
 msgid "Edit Region"
-msgstr "تحرير المنطقة"
+msgstr "تعديل المنطقة"
 
 #: /views/registrations/add_payment.ctp:5;9
 #: /views/registrations/credit_payment.ctp:5;9
 #: /views/registrations/refund_payment.ctp:5;9
 #: /views/registrations/transfer_payment.ctp:5;9
 msgid "%s Payment"
-msgstr "%s دفعات"
+msgstr "%s الدفع"
 
 #: /views/registrations/add_payment.ctp:13
 msgid "Payment Details"
@@ -8500,11 +8486,11 @@ msgstr "تفاصيل الدفع"
 
 #: /views/registrations/checkout.ctp:3
 msgid "Checkout"
-msgstr "الخروج"
+msgstr "انهاء عملية الدفع"
 
 #: /views/registrations/checkout.ctp:7
 msgid "Registration Checkout"
-msgstr "تسجيل الخروج"
+msgstr "انهاء عملية دفع التسجيل"
 
 #: /views/registrations/checkout.ctp:13
 msgid ""
@@ -8512,20 +8498,20 @@ msgid ""
 "\"Unregister\" button; note that this will delete all of your preferences "
 "and you may lose the spot that is currently tentatively reserved for you."
 msgstr ""
+"هذه هي تسجيلاتك الحالية الغير مدفوعة. لحذف واحده قم بالضغط على \"Unregister\""
+". لاحظ أن هذا سيحذف جميع خياراتك وقد تخسر مكانك المحجوز."
 
 # مادري وش اترجمهم
 #: /views/registrations/checkout.ctp:14
-#, fuzzy
 msgid ""
 "<span class=\"highlight-message\">Payment completes your registration and "
 "confirms your booking/purchase.</span>"
 msgstr ""
-"<span class=\"highlight-message\"> الدفع يكمل تسجيلك ويؤكد الحجز الخاصة بك / "
-"الشراء. </ SPAN>"
+"<span class=\"highlight-message\"> الدفع يكمل تسجيلك ويؤكد حجزك/دفع. </span>"
 
 #: /views/registrations/checkout.ctp:15
 msgid "You may also %s and register for something else before paying."
-msgstr "يجوز لك أيضا%s وتسجيل لشيء آخر قبل أن تدفع."
+msgstr "تستطيع أيضا %s والتسجيل لشيء آخر أيضا قبل الدفع."
 
 #: /views/registrations/checkout.ctp:16
 msgid "view the event list"
@@ -8533,13 +8519,13 @@ msgstr "عرض قائمة الحدث"
 
 #: /views/registrations/checkout.ctp:20
 msgid "If you want to pay online with "
-msgstr "إذا كنت تريد أن تدفع عبر الإنترنت مع"
+msgstr "إذا اردت الدفع عبر الإنترنت بواسطة"
 
 #: /views/registrations/checkout.ctp:27;72 /views/registrations/report.ctp:57
 #: /views/registrations/view.ctp:23 /views/registrations/csv/full_list.ctp:21
 #: /views/registrations/csv/report.ctp:5
 msgid "Order ID"
-msgstr "أمر معرف"
+msgstr "رقم الطلب"
 
 #: /views/registrations/checkout.ctp:49;93 /views/registrations/view.ctp:244
 msgid ""
@@ -8547,8 +8533,8 @@ msgid ""
 "your preferences and you may lose the spot that is currently tentatively "
 "reserved for you."
 msgstr ""
-"هل أنت متأكد أنك تريد إلغاء تسجيل من هذا الحدث؟ سيؤدي ذلك إلى حذف كل خياراتك "
-"وكنت قد تفقد البقعة التي يتم حاليا محجوزة مبدئيا بالنسبة لك."
+"هل أنت متأكد أنك تريد الإنسحاب من هذا الحدث؟ ستخسر جميع خياراتك للحدث ومكانك "
+"المحجوز."
 
 #: /views/registrations/checkout.ctp:103
 msgid ""
@@ -8556,17 +8542,17 @@ msgid ""
 "interaconline.com/learn/\" target=\"_blank\">Learn more</a> about INTERAC "
 "Online."
 msgstr ""
-"® التجارة علامة من التفاعلات شركة المستخدمة بموجب ترخيص. <a href=\"http://"
-"www.interaconline.com/learn/\" target=\"_blank\"> مزيد من المعلومات </ a> "
-"حول التفاعلات أون لاين."
+"&reg; Trade-mark of Interac Inc. Used under licence. <a href=\""
+"http://www.interaconline.com/learn/\" target=\"_blank\">Learn more</a> about "
+"INTERAC Online."
 
 #: /views/registrations/credit_payment.ctp:5;9
 msgid "Credit"
-msgstr "ائتمان"
+msgstr "الدين"
 
 #: /views/registrations/credit_payment.ctp:13
 msgid "Credit Details"
-msgstr "تفاصيل الائتمان"
+msgstr "تفاصيل الدين"
 
 #: /views/registrations/credits.ctp:2 /views/registrations/full_list.ctp:4
 #: /views/registrations/report.ctp:4 /views/registrations/statistics.ctp:2
@@ -8581,7 +8567,7 @@ msgstr "تفاصيل التسجيل"
 
 #: /views/registrations/edit.ctp:45 /views/registrations/view.ctp:229
 msgid "Registration Answers"
-msgstr "تسجيل الأجوبة"
+msgstr "إجابات التسجيل"
 
 #: /views/registrations/full_list.ctp:10
 msgid "Registration List"
@@ -8589,23 +8575,21 @@ msgstr "قائمة التسجيل"
 
 #: /views/registrations/payment.ctp:2
 msgid "Online Transaction Result"
-msgstr "عملية على الانترنت النتيجة"
+msgstr "نتيجة الاسترجاع الإلكتروني"
 
 #: /views/registrations/refund_payment.ctp:5;9
 msgid "Refund"
-msgstr "رد"
+msgstr "الإسترجاع"
 
 #: /views/registrations/refund_payment.ctp:13
 msgid "Refund Details"
-msgstr "تفاصيل الرد"
+msgstr "تفاصيل الإسترجاع"
 
 #: /views/registrations/refund_payment.ctp:20
 msgid ""
 "This payment was recorded manually, so in addition to noting the refund here "
 "you will need to issue a refund manually."
-msgstr ""
-"وقد سجلت هذه الدفعة يدويا، وذلك بالإضافة إلى الإشارة إلى المبلغ هنا سوف "
-"تحتاج إلى إصدار استرداد يدويا."
+msgstr "تم تسجيل الدفع يدويا، لذلك يجب عليك طلب الإسترجاع يدويا."
 
 #: /views/registrations/refund_payment.ctp:22
 msgid ""
@@ -8613,24 +8597,24 @@ msgid ""
 "refunds, so in addition to noting the refund here you will need to issue a "
 "refund manually."
 msgstr ""
-"لاحظ أن مزود خدمة الدفع عبر الإنترنت لا يدعم حاليا استرداد التلقائي، وذلك "
-"بالإضافة إلى الإشارة إلى أن المبلغ هنا سوف تحتاج إلى إصدار استرداد يدويا."
+"لاحظ ان الدفع عن طريق الانترنت لا يدعم حاليا خاصية الإسترجاع، لذلك يجب عليك "
+"استرجاع الأموال يدويا."
 
 #: /views/registrations/register.ctp:8
 msgid "Registration Preferences"
-msgstr "تفضيلات تسجيل"
+msgstr "خيارات التسجيل"
 
 #: /views/registrations/register.ctp:14
 msgid ""
 "Note that you are only adding yourself to the waiting list for this event. "
 "You will be contacted if a space opens up at a later time."
 msgstr ""
-"ملاحظة أنك تقوم بإضافة نفسك فقط على قائمة الانتظار لهذا الحدث. سيتم الاتصال "
-"بك إذا مساحة يفتح في وقت لاحق."
+"لاحظ انك تسجل نفسك في قائمة الإنتظار فقط. سنقوم بالتواصل معك في حالة توفر "
+"فراغ في وقت لاحق."
 
 #: /views/registrations/report.ctp:5
 msgid "Report"
-msgstr "تقرير"
+msgstr "التقرير"
 
 #: /views/registrations/report.ctp:9
 msgid "Registration Report"
@@ -8638,33 +8622,33 @@ msgstr "تقرير التسجيل"
 
 #: /views/registrations/report.ctp:21
 msgid "Date Range"
-msgstr "نطاق التاريخ"
+msgstr "تاريخ النطاق"
 
 #: /views/registrations/report.ctp:56
 #: /views/registrations/csv/full_list.ctp:22
 #: /views/registrations/csv/report.ctp:4
 msgid "Created Date"
-msgstr "تاريخ الإنشاء"
+msgstr "تاريخ الإضافة"
 
 #: /views/registrations/report.ctp:64 /views/registrations/csv/report.ctp:12
 msgid "Amount"
-msgstr "مبلغ"
+msgstr "المبلغ"
 
 #: /views/registrations/report.ctp:137
 msgid "Download %s Report"
-msgstr "تحميل تقرير s%"
+msgstr "تحميل تقرير %s"
 
 #: /views/registrations/statistics.ctp:7
 msgid "Registration Statistics"
-msgstr "تسجيل الاحصائيات"
+msgstr "إحصائيات التسجيل"
 
 #: /views/registrations/summary.ctp:8
 msgid "Registration Summary"
-msgstr "ملخص التسجيل"
+msgstr "خلاصة التسجيل"
 
 #: /views/registrations/summary.ctp:13
 msgid "By gender:"
-msgstr "حسب الجنس:"
+msgstr "عن طريق الجنس"
 
 #: /views/registrations/summary.ctp:23
 msgid "By payment:"
@@ -8672,23 +8656,23 @@ msgstr "عن طريق الدفع:"
 
 #: /views/registrations/transfer_payment.ctp:5;9
 msgid "Transfer"
-msgstr "نقل"
+msgstr "انتقال"
 
 #: /views/registrations/transfer_payment.ctp:13
 msgid "Transfer Details"
-msgstr "تفاصيل النقل"
+msgstr "تفاصيل الإنتقال"
 
 #: /views/registrations/unpaid.ctp:3
 msgid "Unpaid"
-msgstr "غير مدفوع"
+msgstr "غير مدفوعة"
 
 #: /views/registrations/unpaid.ctp:7
 msgid "Unpaid Registrations"
-msgstr "التسجيلات غير المدفوعة"
+msgstr "التسجيلات الغير مدفوعة"
 
 #: /views/registrations/unpaid.ctp:12
 msgid "Player / Event"
-msgstr "لاعب / الحدث"
+msgstr "اللاعب / الحدث"
 
 #: /views/registrations/unpaid.ctp:43 /views/registrations/waiting.ctp:29
 msgid "Are you sure you want to delete this registration?"
@@ -8700,19 +8684,19 @@ msgstr "عرض التسجيل"
 
 #: /views/registrations/unpaid.ctp:47
 msgid "Edit Registration"
-msgstr "تحرير التسجيل"
+msgstr "تعديل التسجيل"
 
 #: /views/registrations/view.ctp:43
 msgid "Total Amount"
-msgstr "إجمالي المبلغ"
+msgstr "المبلغ الإجمالي"
 
 #: /views/registrations/view.ctp:48
 msgid "Created"
-msgstr "خلق"
+msgstr "تم تكوينه"
 
 #: /views/registrations/view.ctp:53
 msgid "Modified"
-msgstr "تعديل"
+msgstr "تم تعديله"
 
 #: /views/registrations/view.ctp:76
 msgid "Payment Type"
@@ -8720,11 +8704,11 @@ msgstr "نوع الدفع"
 
 #: /views/registrations/view.ctp:80
 msgid "Payment Amount"
-msgstr "دفع المبلغ"
+msgstr "مبلغ الدفع"
 
 #: /views/registrations/view.ctp:85
 msgid "(%s refunded; see below)"
-msgstr "(%s (تم ترجيعها;انظر ادناه"
+msgstr "(%s تم استرجاعها، انظر للأسفل)"
 
 #: /views/registrations/view.ctp:89
 msgid "Payment Date"
@@ -8732,43 +8716,43 @@ msgstr "تاريخ الدفع"
 
 #: /views/registrations/view.ctp:105
 msgid "Online payment"
-msgstr "الدفع عبر الإنترنت"
+msgstr "الدفع عبر الانترنت"
 
 #: /views/registrations/view.ctp:110
 msgid "Updated By"
-msgstr "تحديث بواسطة"
+msgstr "تم التحديث بواسطة"
 
 #: /views/registrations/view.ctp:116
 msgid "Response Code"
-msgstr "كود الاستجابة"
+msgstr "رمز الرد"
 
 #: /views/registrations/view.ctp:121
 msgid "ISO Code"
-msgstr "كود ISO"
+msgstr "رمز ISO"
 
 #: /views/registrations/view.ctp:136
 msgid "Transaction Id"
-msgstr "رقم المعاملات"
+msgstr "رقم الإجراء"
 
 #: /views/registrations/view.ctp:141
 msgid "Approval Code"
-msgstr "كود موافقة"
+msgstr "رمز التأكيد"
 
 #: /views/registrations/view.ctp:146
 msgid "Transaction Name"
-msgstr "اسم المعاملة"
+msgstr "اسم الإجراء"
 
 #: /views/registrations/view.ctp:151
 msgid "Charge Total"
-msgstr "تهمة إجمالي"
+msgstr "مجموع الحساب"
 
 #: /views/registrations/view.ctp:156
 msgid "Cardholder"
-msgstr "حامل البطاقة"
+msgstr "صاحب البطاقة"
 
 #: /views/registrations/view.ctp:161
 msgid "Expiry"
-msgstr "انقضاء"
+msgstr "الإنتهاء"
 
 #: /views/registrations/view.ctp:166
 msgid "F4L4"
@@ -8780,63 +8764,63 @@ msgstr "بطاقة"
 
 #: /views/registrations/view.ctp:181
 msgid "Issuer"
-msgstr "المصدر"
+msgstr "الجهة المصدرة"
 
 #: /views/registrations/view.ctp:186
 msgid "Issuer Invoice"
-msgstr "المصدر الفاتورة"
+msgstr "فاتورة الجهة المصدرة"
 
 #: /views/registrations/view.ctp:191
 msgid "Issuer Confirmation"
-msgstr "المصدر تأكيد"
+msgstr "تأكيد الجهة المصدرة"
 
 #: /views/registrations/view.ctp:202
 msgid "Issue Refund"
-msgstr "قضية استرداد الأموال"
+msgstr "إصدار استرجاع"
 
 #: /views/registrations/view.ctp:203
 msgid "Issue Credit"
-msgstr "قضية الائتمان"
+msgstr "إصدار رصيد دائن"
 
 #: /views/registrations/view.ctp:204
 msgid "Transfer Payment"
-msgstr "الدفع عن طريق التحويل"
+msgstr "نقل الدفع"
 
 #: /views/registrations/view.ctp:215
 msgid "Balance"
-msgstr "توازن"
+msgstr "رصيد الحساب"
 
 #: /views/registrations/view.ctp:217
 msgid "There is an outstanding balance of $%0.2f."
-msgstr "هناك الرصيد غير المسدد من $ 0.2f."
+msgstr "هناك رصيد حساب معلق يحتوي على $%0.2f."
 
 #: /views/registrations/view.ctp:220
 msgid "Add Payment"
-msgstr "إضافة الدفع"
+msgstr "أضف الدفع"
 
 #: /views/registrations/csv/full_list.ctp:23
 msgid "Modified Date"
-msgstr "تاريخ التعديل"
+msgstr "التاريخ المعدل"
 
 #: /views/schedules/confirm.ctp:5
 msgid "Confirm Selections"
-msgstr "تأكيد التحديدات"
+msgstr "تأكيد الاختيارات"
 
 #: /views/schedules/confirm.ctp:14
 msgid " (pool names are %s)"
-msgstr "(عدد مجموعة الاسماء هو s% )"
+msgstr "(أسماء المجموعة هي %s)"
 
 #: /views/schedules/confirm.ctp:48
 msgid "Create games"
-msgstr "إنشاء الألعاب"
+msgstr "أضف مباريات"
 
 #: /views/schedules/crossover.ctp:5
 msgid "Number of Crossovers"
-msgstr "عدد من عمليات الانتقال"
+msgstr "عدد المباريات المتضاربة"
 
 #: /views/schedules/crossover.ctp:26
 msgid "How many crossover games do you want?"
-msgstr "كيف العديد من الألعاب كروس تريد؟"
+msgstr "كم عدد المباريات المتضاربة تريد؟"
 
 #: /views/schedules/crossover.ctp:34 /views/schedules/date.ctp:67
 #: /views/schedules/details.ctp:53 /views/schedules/exclude.ctp:23
@@ -8847,23 +8831,23 @@ msgstr "الخطوة التالية"
 
 #: /views/schedules/date.ctp:5
 msgid "Select Date"
-msgstr "حدد التاريخ"
+msgstr "اختر اليوم"
 
 #: /views/schedules/date.ctp:22
 msgid "Scheduling a %s will create a total of "
-msgstr "سوف جدولةs% إنشاء ما مجموعه"
+msgstr "جدولة %s ستضيف المجموع"
 
 #: /views/schedules/date.ctp:27
 msgid "%d games across a minimum of %d time slots."
-msgstr "%d ألعاب عبر الحد الأدنى %d فتحات للوقت."
+msgstr "%d مباريات عبر %d حجوزات وقتية كحد أدنى"
 
 #: /views/schedules/date.ctp:31
 msgid "%d games."
-msgstr "%d ألعاب"
+msgstr "%d مباريات."
 
 #: /views/schedules/date.ctp:74
 msgid "Schedule games in the past"
-msgstr "العاب جدول في الماضي"
+msgstr "جدولة المباريات في الماضي"
 
 #: /views/schedules/day.ctp:2;7
 msgid "Daily Schedule"
@@ -8871,75 +8855,77 @@ msgstr "الجدول اليومي"
 
 #: /views/schedules/delete.ctp:4;8
 msgid "Delete Games"
-msgstr "حذف الالعاب"
+msgstr "حذف المباريات"
 
 #: /views/schedules/delete.ctp:34
 msgid "contact all captains"
-msgstr "الاتصال كل كابتن"
+msgstr "التواصل مع جميع كباتن الفريق"
 
 #: /views/schedules/delete.ctp:43
 msgid "Proceed"
-msgstr "تقدم"
+msgstr "تقدّم"
 
 #: /views/schedules/details.ctp:5
 msgid "Set Pool Details"
-msgstr "تعيين بركة تفاصيل"
+msgstr "تعيين تفاصيل المجموعة"
 
 #: /views/schedules/details.ctp:25
 msgid "Number of Teams"
-msgstr "عدد فرق"
+msgstr "عدد الأفرقة"
 
 #: /views/schedules/exclude.ctp:5
 msgid "Select Exclusions"
-msgstr "تحديد الاستثناءات"
+msgstr "اختر الاستثناءات"
 
 #: /views/schedules/exclude.ctp:28 /views/schedules/type.ctp:52
 msgid "create a playoff schedule"
-msgstr "إنشاء جدول البلاي اوف"
+msgstr "أضف جدول خروج الخاسر"
 
 #: /views/schedules/pools.ctp:5
 msgid "Create Pools"
-msgstr "إنشاء مجمعات"
+msgstr "أضف تجمعات"
 
 #: /views/schedules/reschedule.ctp:4
 msgid "Reschedule Day"
-msgstr "إعادة جدولة يوم"
+msgstr "أعد جدولة اليوم"
 
 #: /views/schedules/reschedule.ctp:8
 msgid "Schedule Reschedule"
-msgstr "الجدول الزمني إعادة جدولة"
+msgstr "عرض جدول إعادة جدول المباريات"
 
 #: /views/schedules/reschedule.ctp:10
 msgid "You are about to reschedule %d games originally scheduled for %s."
-msgstr "كنت على وشك أن إعادة جدولة٪ د الألعاب من المقرر اصلا ل٪ s."
+msgstr "أنت على وشك إعادة جدولة %d مباريات كانت مجدولة ل %s."
 
 #: /views/schedules/reschedule.ctp:20
 msgid "Reschedule games to"
-msgstr "إعادة جدولة المباريات ل"
+msgstr "أعد جدولة المباريات إلى"
 
 #: /views/schedules/reschedule.ctp:25
 msgid "Publish rescheduled games for player viewing?"
-msgstr "نشر الألعاب المعاد جدولتها لاعب المشاهدة؟"
+msgstr "انشر المباريات المعاد جدولتها للعرض من قبل اللاعبين؟"
 
 #: /views/schedules/reschedule.ctp:30
 msgid "Are you sure you want to reschedule these games? This cannot be undone."
-msgstr "هل أنت متأكد من أنك تريد إعادة جدولة هذه الألعاب؟ هذا لا يمكن التراجع."
+msgstr ""
+"هل أنت متأكد أنك تريد إعادة جدولة هذه المباريات؟ انتبه لا تستطيع الرجوع "
+"للسابق."
 
 #: /views/schedules/reseed.ctp:6
 msgid "Crossover Details"
-msgstr "تفاصيل كروس"
+msgstr "تفاصيل الإنتقال"
 
 #: /views/schedules/reseed.ctp:8
 msgid "Re-seeding Details"
-msgstr "تفاصيل إعادة البذر"
+msgstr "تفاصيل إعادة الإدراج"
 
 #: /views/schedules/reseed.ctp:32
 msgid "Pool"
-msgstr "تجمع"
+msgstr "التجمع"
 
 #: /views/schedules/reseed.ctp:34
 msgid "Qualifier"
-msgstr "مؤهل"
+msgstr "المؤهل"
 
 #: /views/schedules/today.ctp:2
 msgid "No games today"
@@ -8951,26 +8937,26 @@ msgstr "%d مباريات اليوم"
 
 #: /views/schedules/type.ctp:5
 msgid "Select Type"
-msgstr "حدد نوع"
+msgstr "اختر النوع"
 
 #: /views/schedules/type.ctp:24
 msgid "Are you sure you want to delete %s # %d?"
-msgstr "هل أنت متأكد أنك تريد حذفs% #%d؟"
+msgstr "هل أنت متأكد أنك تريد حذف %s # %d؟"
 
 #: /views/schedules/type.ctp:59
 msgid "Publish created games for player viewing?"
-msgstr "نشر الألعاب التي تم إنشاؤها لاعب المشاهدة؟"
+msgstr "انشر المباريات المضافة للعرض من قِبل اللاعبين؟"
 
 #: /views/settings/email.ctp:2 /views/settings/feature.ctp:2
 #: /views/settings/organization.ctp:2 /views/settings/payment.ctp:2
 #: /views/settings/registration.ctp:2 /views/settings/scoring.ctp:2
 #: /views/settings/user.ctp:2
 msgid "Settings"
-msgstr "إعدادات"
+msgstr "الإعدادات"
 
 #: /views/settings/email.ctp:21
 msgid "Sender"
-msgstr "مرسل"
+msgstr "المرسل"
 
 #: /views/settings/feature.ctp:3
 msgid "Feature"
@@ -8978,67 +8964,67 @@ msgstr "ميزة"
 
 #: /views/settings/feature.ctp:21
 msgid "Primary Options"
-msgstr "خيارات الابتدائي"
+msgstr "الخيارات الرئيسية"
 
 #: /views/settings/feature.ctp:136
 msgid "Team-related Features"
-msgstr "الميزات المتعلقة فريق"
+msgstr "خيارات مرتبطة بالفريق"
 
 #: /views/settings/feature.ctp:218
 msgid "User-related Features"
-msgstr "الميزات المتعلقة المستعمل"
+msgstr "خيارات مرتبطة بالمستخدم"
 
 #: /views/settings/feature.ctp:331
 msgid "Twitter Features"
-msgstr "تويتر الميزات"
+msgstr "خيارات تويتر"
 
 #: /views/settings/organization.ctp:3;21
 msgid "Organization"
-msgstr "منظمة"
+msgstr "المنظمة"
 
 #: /views/settings/organization.ctp:99
 msgid "Location and Mapping"
-msgstr "موقع ورسم الخرائط"
+msgstr "الموقع والخريطة"
 
 #: /views/settings/payment.ctp:3
 msgid "Online Payments"
-msgstr "المدفوعات عبر الإنترنت"
+msgstr "الدفع على الانترنت"
 
 #: /views/settings/payment.ctp:21
 msgid "Common Options"
-msgstr "خيارات مشتركة"
+msgstr "الخيارات العامة"
 
 #: /views/settings/registration.ctp:21
 msgid "Registration Configuration"
-msgstr "تكوين تسجيل"
+msgstr "تعديلات التسجيل"
 
 #: /views/settings/scoring.ctp:21
 msgid "Defaulted Games"
-msgstr "ألعاب المتعثرة"
+msgstr "المباريات المنسحبة"
 
 #: /views/settings/scoring.ctp:53
 msgid "Spirit Scores"
-msgstr "روح النتائج"
+msgstr "نتائج الحماس"
 
 #: /views/settings/scoring.ctp:74
 msgid ""
 "By using various combinations of questions and numeric entry above, you can "
 "have just the questionnaire, just the numeric entry, both or neither."
 msgstr ""
-"باستخدام توليفات مختلفة من الأسئلة وإدخال رقمي أعلاه، هل يمكن أن يكون مجرد "
-"الاستبيان، مجرد دخول الرقمية، سواء أو لا."
+"عبر استخدام تركيبات مختلفة من الأسئلة والأرقام المدخلة في الأعلى، تستطيع أن "
+"تحصل على الأسئلة، القيود الرقمية، كلاهما او بدونهما."
 
 #: /views/settings/scoring.ctp:75
 msgid ""
 "The values set above will be the default value for leagues, but can be "
 "overridden on a per-league basis."
 msgstr ""
-"فإن القيم المبينة أعلاه تكون القيمة الافتراضية لبطولات الدوري، ولكن يمكن "
-"تجاوز على أساس لكل العصبة."
+"القيم المعيّنة في الأعلى ستكون القيم الإفتراضية للدواري، لكن سيتم تجاوزها "
+"على أساس كل دوري."
 
 #: /views/settings/scoring.ctp:109
 msgid "Score Entry Features"
-msgstr "تسجيل الدخول الميزات"
+msgstr "مواصفات ادخال النتيجة"
 
 #: /views/settings/user.ctp:3
 msgid "User"
@@ -9046,12 +9032,12 @@ msgstr "المستخدم"
 
 #: /views/settings/user.ctp:21
 msgid "Profile Requirements"
-msgstr "متطلبات الملف الشخصي"
+msgstr "متطلبات ملفّك الشخصي"
 
 #: /views/task_slots/add.ctp:3 /views/task_slots/edit.ctp:2
 #: /views/task_slots/index.ctp:2;7 /views/task_slots/view.ctp:2
 msgid "Task Slots"
-msgstr "فتحات المهمة"
+msgstr "حجوزات المهمة"
 
 #: /views/task_slots/add.ctp:10
 msgid "Create Slots for the \"%s\" Task"
@@ -9059,14 +9045,15 @@ msgstr "إنشاء فتحات ل\"٪ S \" العمل "
 
 #: /views/task_slots/add.ctp:19
 msgid "The system will add this many slots at the specified time."
-msgstr "سيقوم النظام إضافة هذا العديد من فتحات في الوقت المحدد."
+msgstr "النظام سيضيف هذا العدد من الحجوزات في الوقت المحدد."
 
 #: /views/task_slots/add.ctp:25
 msgid ""
 "The system will add the specified number of slots at the specified time for "
 "this many consecutive days."
 msgstr ""
-"سيقوم النظام إضافة عدد محدد من فتحات في الوقت المحدد لعدة أيام متتالية هذا."
+"النظام سيضيف عدد معيّن من الحجوزات في وقت محدد بهذا العدد من الأيام "
+"المتتالية."
 
 #: /views/task_slots/approve.ctp:2 /views/task_slots/assign.ctp:2
 msgid "No"
@@ -9078,11 +9065,11 @@ msgstr "نعم"
 
 #: /views/task_slots/edit.ctp:9 /views/task_slots/view.ctp:7
 msgid "Task Slot"
-msgstr "فتحة المهمة"
+msgstr "حجز المهمة"
 
 #: /views/task_slots/edit.ctp:23
 msgid "Delete TaskSlot"
-msgstr "حذف المهام الكثير"
+msgstr "حذف حجز المهمة"
 
 #: /views/task_slots/index.ctp:10
 msgid "Task Id"
@@ -9096,53 +9083,53 @@ msgstr "تاريخ المهمة"
 #: /views/task_slots/index.ctp:12 /views/task_slots/view.ctp:19
 #: /views/tasks/view.ctp:55
 msgid "Task Start"
-msgstr "بدء المهمة"
+msgstr "بداية المهمة"
 
 #: /views/task_slots/index.ctp:13 /views/task_slots/view.ctp:24
 #: /views/tasks/view.ctp:56
 msgid "Task End"
-msgstr "إنهاء المهمة"
+msgstr "نهاية المهمة"
 
 #: /views/task_slots/index.ctp:16 /views/task_slots/view.ctp:39
 #: /views/tasks/view.ctp:59 /views/tasks/csv/index.ctp:11
 msgid "Approved By"
-msgstr "التي وافقت عليها"
+msgstr "تمت الموافقة عبر"
 
 #: /views/task_slots/index.ctp:65
 msgid "Add Task Slot"
-msgstr "إضافة فتحة العمل"
+msgstr "أضف حجز المهمة"
 
 #: /views/task_slots/view.ctp:29 /views/tasks/view.ctp:57
 msgid "Assigned To"
-msgstr "تعيين ل"
+msgstr "معيّن إلى"
 
 #: /views/task_slots/view.ctp:51
 msgid "Edit Task Slot"
-msgstr "فتحة تحرير العمل"
+msgstr "تعديل حجز المهمة"
 
 #: /views/task_slots/view.ctp:54
 msgid "Delete Task Slot"
-msgstr "حذف فتحة العمل"
+msgstr "حذف حجز المهمة"
 
 #: /views/tasks/edit.ctp:24
 msgid "This description will be visible to people assigned to the task."
-msgstr "هذا الوصف سيكون مرئيا للناس تعيينه للمهمة."
+msgstr "الشرح سيكون فقط معروض للأشخاص المعنيين بالمهمة."
 
 #: /views/tasks/edit.ctp:27
 msgid "Notes will only be visible administrators."
-msgstr "سوف تلاحظ أن تكون فقط للمسؤولين مرئية."
+msgstr "الملاحظات ستعرض فقط للمدراء."
 
 #: /views/tasks/edit.ctp:30
 msgid "If checked, assignments will not require separate admin approval."
-msgstr "إذا تم، سيكون لمهام لا تتطلب موافقة المشرف منفصلة."
+msgstr "إذا تم التعيين، المهمات لن تحتاج موافقة المدير."
 
 #: /views/tasks/edit.ctp:33
 msgid ""
 "If checked, volunteers will be able to sign themselves up; if not, an admin "
 "will have to assign people."
 msgstr ""
-"إذا تم، سيكون المتطوعين يكون قادرا على تسجيل أنفسهم؛ إذا لم يكن كذلك، سوف "
-"يكون المسير لتعيين شخص."
+"إذا تم التعيين، المتطوعون سيستطيعون التسجيل بأنفسهم، إذا لا، المدير يجب عليه "
+"تسجيل المتطوعين."
 
 #: /views/tasks/edit.ctp:45 /views/tasks/view.ctp:130
 msgid "List Tasks"
@@ -9150,48 +9137,48 @@ msgstr "قائمة المهام"
 
 #: /views/tasks/edit.ctp:49 /views/tasks/view.ctp:136
 msgid "Delete Task"
-msgstr "حذف المهام"
+msgstr "حذف المهمة"
 
 #: /views/tasks/index.ctp:14 /views/tasks/view.ctp:31
 msgid "Auto-Approve"
-msgstr "الموافقة تلقائيا"
+msgstr "قم بالسماح-آليا"
 
 #: /views/tasks/index.ctp:15 /views/tasks/view.ctp:36
 msgid "Allow Signup"
-msgstr "السماح بالاشتراك"
+msgstr "قم بالسماح بالتسجيل"
 
 #: /views/tasks/index.ctp:50;50 /views/tasks/view.ctp:140;140
 msgid "Add Slots"
-msgstr "إضافة فتحات"
+msgstr "أضف وقت محجوز"
 
 #: /views/tasks/index.ctp:64 /views/tasks/view.ctp:143
 msgid "Add Task"
-msgstr "إضافة مهمة"
+msgstr "أضف مهمة"
 
 #: /views/tasks/view.ctp:51
 msgid "Related Task Slots"
-msgstr "فتحات المهام ذات الصلة"
+msgstr "أوقات المهمات المرتبطة المحجوزة"
 
 #: /views/tasks/view.ctp:112
 msgid "Sign up"
-msgstr "التوقيع"
+msgstr "قم بالتسجيل"
 
 #: /views/tasks/view.ctp:133
 msgid "Edit Task"
-msgstr "تحرير العمل"
+msgstr "تعديل المهمّة"
 
 #: /views/tasks/csv/index.ctp:10
 msgid "Assignee"
-msgstr "المحال"
+msgstr "المسجلين"
 
 #: /views/team_events/attendance_change.ctp:2 /views/team_events/edit.ctp:2
 #: /views/team_events/view.ctp:2
 msgid "Team Events"
-msgstr "احداث الفريق"
+msgstr "أحداث الفريق"
 
 #: /views/team_events/attendance_change.ctp:20
 msgid "Start Time"
-msgstr "بدء التوقيت"
+msgstr "بداية الوقت"
 
 #: /views/team_events/attendance_change.ctp:24
 msgid "End Time"
@@ -9199,15 +9186,15 @@ msgstr "نهاية الوقت"
 
 #: /views/team_events/cron.ctp:2
 msgid "Team Event Attendance"
-msgstr "فريق حدث الحضور"
+msgstr "مواظبة حدث الفريق"
 
 #: /views/team_events/edit.ctp:15
 msgid "Edit Team Event"
-msgstr "تحرير الحدث فريق"
+msgstr "تعديل حدث الفريق"
 
 #: /views/team_events/view.ctp:101;101
 msgid "Edit Event"
-msgstr "تحرير الحدث"
+msgstr "تعديل الحدث"
 
 #: /views/team_events/view.ctp:104;104
 msgid "Delete Event"
@@ -9219,15 +9206,15 @@ msgstr "حدث جديد"
 
 #: /views/team_events/view.ctp:108
 msgid "Create a New Event"
-msgstr "إنشاء حدث جديد"
+msgstr "أضف حدث جديد"
 
 #: /views/teams/add_from_event.ctp:33
 msgid ""
 "The following players cannot be added to the roster. Hover your mouse over a "
 "name to see the reason why."
 msgstr ""
-"اللاعبون التالية لا يمكن أن تضاف إلى القائمة. تحوم الماوس فوق الاسم لمعرفة "
-"السبب."
+"هؤلاء اللاعبين لا يسمح بإضافتهم لقائمة اللاعبين. حرّك المؤشر على أحد الأسماء "
+"لمعرفة السبب."
 
 #: /views/teams/add_from_team.ctp:45 /views/teams/view.ctp:278
 #: /views/themed/wfdfu23/teams/view.ctp:274
@@ -9237,120 +9224,119 @@ msgid ""
 "this team until this is corrected. Hover your mouse over the %s to see the "
 "specific reason why."
 msgstr ""
-"إشعار: اللاعبون التالية غير مؤهلين للمشاركة في هذه القائمة حاليا. هذا هو "
-"عادة بسبب٪ ق. لا يتم السماح لهم للعب مع هذا الفريق حتى يتم تصحيح هذا. تحوم "
-"الماوس فوق٪ ليالي لرؤية سبب محدد لماذا."
+"ملاحظة: هؤلاء اللاعبين غير مسموح لهم حاليا للمشاركة في قائمة اللاعبين. هذا "
+"بسبب %s. لا يسمح لهم باللعب مع هذا الفريق حتى تحل هذه المشكلة. حرك المؤشر "
+"على %s لمعرفة السبب."
 
 #: /views/teams/add_from_team.ctp:48
 msgid ""
 "They can still be invited to join, but will not be allowed to accept the "
 "invitation or play with your team until this is resolved."
 msgstr ""
-"أنها ما زالت قادرة على توجيه الدعوة للانضمام، ولكن لن يسمح لقبول الدعوة أو "
-"اللعب مع فريقك حتى يتم حل هذا."
+"تسطيع دعوتهم للإنضمام، ولكن لن يسمح لهم بالموافقة أو اللعب في فريقك حتى تحل "
+"هذه المشكلة."
 
 #: /views/teams/add_from_team.ctp:52
 msgid "Invite"
-msgstr "دعوة"
+msgstr "قم بدعوة"
 
 #: /views/teams/add_player.ctp:33
 msgid ""
 "Or select a team from your history below to invite people from that roster."
-msgstr "أو حدد فريق من تاريخكم أدناه لدعوة الناس من تلك القائمة."
+msgstr "أو اختر فريق من الفرق السابقة في الأسفل لتدعو أشخاص من تلك القائمة."
 
 #: /views/teams/add_player.ctp:44
 msgid "Show roster"
-msgstr "عرض قائمة"
+msgstr "عرض قائمة اللاعبين"
 
 #: /views/teams/add_player.ctp:50
 msgid "Or select a recent event to add people that are registered."
-msgstr "أو اختر الحدث الأخير لإضافة الناس التي تم تسجيلها."
+msgstr "أو اختار حدث جديد من أجل إضافة الأشخاص المسجلين."
 
 #: /views/teams/add_player.ctp:61
 msgid "Show registrations"
-msgstr "تظهر التسجيلات"
+msgstr "عرض السجلّات"
 
 #: /views/teams/attendance.ctp:3;8
 msgid "Season Attendance"
-msgstr "الموسم الحضور"
+msgstr "مواظبة الموسم"
 
 #: /views/teams/attendance.ctp:13
 msgid "Week of"
-msgstr "أسبوع"
+msgstr "أسبوع ال"
 
 #: /views/teams/cron.ctp:2
 msgid "Rosters"
-msgstr "القوائم"
+msgstr "قوائم اللاعبين"
 
 #: /views/teams/cron.ctp:5
 msgid "%d reminders sent"
-msgstr " %d أرسلت مذكرات"
+msgstr "%d تم ارسالها"
 
 #: /views/teams/cron.ctp:8
 msgid "%d second reminders sent"
-msgstr "%d تذاكير ثانيه  أرسله"
+msgstr "%d تنبيهات ثانوية تم ارسالها"
 
 #: /views/teams/cron.ctp:11
 msgid "%d expired invitations/requests removed"
-msgstr "دعوات منتهية الصلاحية / طلبات إزالة %d"
+msgstr "%d دعوات/طلبات منتهية الصلاحية تم حذفها"
 
 #: /views/teams/cron.ctp:14
 msgid "%d have had reminders sent but have not yet expired"
-msgstr "%d وقد أرسلت رسائل تذكيرية اليهم ولكن لم تنته بعد"
+msgstr "%d لديهم تنبيهات مرسلة ولكن لم تنتهي بعد"
 
 #: /views/teams/cron.ctp:17
 msgid "No roster activity to report."
-msgstr "أي نشاط أن يقدم قائمة."
+msgstr "لا يوجد نشاطات لقائمة الفريق لإعلانها."
 
 #: /views/teams/edit.ctp:23
 msgid "A short name for your team, if you have one."
-msgstr "اسم قصير للفريق الخاص بك، إذا كان لديك واحدة."
+msgstr "اسم قصير لفريقك، اذا توفر."
 
 #: /views/teams/edit.ctp:69
 msgid "No preference"
-msgstr "أي تفضيل"
+msgstr "لا يوجد خيارات مفضّلة."
 
 #: /views/teams/edit.ctp:79
 msgid "Your team's website, if you have one."
-msgstr "موقع الفريق على الإنترنت الخاص بك، إذا كان لديك واحدة."
+msgstr "صفحة الفريق الرئيسية، إذا لديك واحدة."
 
 #: /views/teams/edit.ctp:86
 msgid ""
 "If selected, this team's Flickr slideshow will no longer be shown. This is "
 "for use if teams repeatedly violate this site's terms of service."
 msgstr ""
-"إذا المختارة، لن يتم عرض هذا الفريق فليكر عرض الشرائح. هذا هو للاستخدام إذا "
-"فرق تنتهك مرارا وتكرارا حيث هذا الموقع من الخدمة."
+"إذا تم اختياره، عرض صور فليكر للفريق لن تعرض. هذا الخيار مخصص للفرق اللتي "
+"تسيء استخدام خاصية عرض الصور."
 
 #: /views/teams/edit.ctp:89
 msgid ""
 "Your team has been banned from using the Flickr slideshow. Contact an "
 "administrator if you believe this was done in error or would like to request "
 "a review."
-msgstr ""
-"وقد حظرت فريقك من استخدام عرض الشرائح فليكر. اتصل بالمسؤول إذا كنت تعتقد أنه "
-"تم القيام بذلك في خطأ أو ترغب في طلب مراجعة."
+msgstr "تم منع فريقك من استخدام عرض فليكر. اتصل بمدير الموقع لاصلاح العطل."
 
 #: /views/teams/edit.ctp:93
 msgid ""
 "The URL for your photo set will be something like http://www.flickr.com/"
 "photos/abcdef/sets/12345678901234567/. abcdef is your user name."
 msgstr ""
-"وعنوان URL لمجموعة الصور الخاصة بك يكون شيء من هذا القبيل http://www.flickr."
-"com/photos/abcdef/sets/12345678901234567/. ABCDEF هو اسم المستخدم الخاص بك."
+"الوصلة لمجموعة صورك ستكون كهذا المثال "
+"http://www.flickr.com/photos/abcdef/sets/12345678901234567/. abcdef هو اسم "
+"المستخدم."
 
 #: /views/teams/edit.ctp:96
 msgid ""
 "The URL for your photo set will be something like http://www.flickr.com/"
 "photos/abcdef/sets/12345678901234567/. 12345678901234567 is your set number."
 msgstr ""
-"وعنوان URL لمجموعة الصور الخاصة بك يكون شيء من هذا القبيل http://www.flickr."
-"com/photos/abcdef/sets/12345678901234567/. 12345678901234567 هو رقم مجموعة "
-"الخاصة بك."
+"الوصلة لمجموعة صورك ستكون شيء كهذا المثال "
+"http://www.flickr.com/photos/abcdef/sets/12345678901234567/. "
+"12345678901234567 هم أرقام حسابك."
 
 #: /views/teams/edit.ctp:103
 msgid "Do NOT include the @; it will be automatically added for you."
-msgstr "لا تشمل @؛ وسوف تضاف تلقائيا بالنسبة لك."
+msgstr "لا تكتب @، سوف تضاف آليا لك."
 
 #: /views/teams/edit.ctp:109
 msgid "Home %s"
@@ -9358,7 +9344,7 @@ msgstr "الصفحة الرئيسية %s"
 
 #: /views/teams/edit.ctp:110
 msgid "Home %s, if applicable."
-msgstr "الصفحة الرئيسية %s ، إن وجدت."
+msgstr "الصفحة الرئيسية %s، اذ تم السماح."
 
 # مافهمت وش المعنى
 #: /views/teams/edit.ctp:112
@@ -9368,7 +9354,7 @@ msgstr "لا بيتs٪ s"
 
 #: /views/teams/index.ctp:7 /views/teams/letter.ctp:7
 msgid "List Teams"
-msgstr "قائمة فرق"
+msgstr "قائمة الفرق"
 
 #: /views/teams/join.ctp:3
 msgid "Join"
@@ -9376,105 +9362,104 @@ msgstr "انضم"
 
 #: /views/teams/join.ctp:7
 msgid "Join a Team"
-msgstr "الانضمام إلى فريق"
+msgstr "انضم إلى فريق"
 
 #: /views/teams/move.ctp:4
 msgid "Move"
-msgstr "تنقل"
+msgstr "تغيير"
 
 #: /views/teams/move.ctp:13
 msgid "Division to move this team to:"
-msgstr "تقسيم للانتقال إلى هذا الفريق:"
+msgstr "تغيير هذا الفريق إلى الفئة:"
 
 #: /views/teams/numbers.ctp:8;26
 msgid "Shirt Numbers"
-msgstr "أرقام قميص"
+msgstr "أرقام الجيرسي"
 
 #: /views/teams/numbers_ajax.ctp:6
 msgid "FAIL"
-msgstr "FAIL"
+msgstr "فشل"
 
 #: /views/teams/roster_add.ctp:6;11
 msgid "Roster %s"
-msgstr "قائمةs%"
+msgstr "قائمة الفريق %s"
 
 #: /views/teams/roster_add.ctp:14
 msgid "You are adding"
-msgstr "الذي تضيفه"
+msgstr "أنت تضيف"
 
 #: /views/teams/roster_add.ctp:16
 msgid "to the team"
-msgstr "للفريق"
+msgstr "إلى الفريق"
 
 #: /views/teams/roster_add.ctp:20
 msgid "You are inviting"
-msgstr "كنت دعوة"
+msgstr "انت تدعو"
 
 #: /views/teams/roster_add.ctp:22
 msgid "to join the team"
-msgstr "للانضمام للفريق"
+msgstr "للإنضمام للفريق"
 
 #: /views/teams/roster_add.ctp:25
 msgid ""
 "The player will have to accept your invitation before they are considered an "
 "active member of the team."
-msgstr "لاعب سوف تضطر إلى قبول دعوتك قبل أنها تعتبر عضوا فاعلا في الفريق."
+msgstr "يجب على اللاعب قبول دعوتك قبل أن يعتبر عضوا نشطا في الفريق."
 
 #: /views/teams/roster_add.ctp:29
 msgid ""
 "This player can still be invited to join, but will not be allowed to accept "
 "the invitation or play with your team until this is resolved."
 msgstr ""
-"لا يزال هذا اللاعب ستدعى للانضمام، ولكن لن يسمح لقبول الدعوة أو اللعب مع "
-"فريقك حتى يتم حل هذا."
+"بالإمكان حاليا دعوة هذا اللاعب للإنضمام، ولكن لن يسمح له بقبول الدعوة أو "
+"اللعب قبل ان تحل هذه المشكلة."
 
 #: /views/teams/roster_add.ctp:32 /views/teams/roster_request.ctp:16
 #: /views/teams/roster_role.ctp:19
 msgid "Possible roster roles are:"
-msgstr "قائمة الأدوار المحتملة هي:"
+msgstr "أدوار قائمة اللاعبين المحتملة هي:"
 
 #: /views/teams/roster_position.ctp:4;9
 msgid "Roster Position"
-msgstr "قائمة الموقع"
+msgstr "مركز قائمة اللاعبين"
 
 #: /views/teams/roster_position.ctp:12
 msgid "You are attempting to change player position for"
-msgstr "تحاول تغيير موقف لاعب ل"
+msgstr "أنت تريد تغيير مركز اللاعب ل"
 
 #: /views/teams/roster_position.ctp:14 /views/teams/roster_role.ctp:14
 msgid "on the team"
-msgstr "على الفريق"
+msgstr "في الفريق"
 
 #: /views/teams/roster_position.ctp:16
 msgid "Current position:"
-msgstr "الوضع الحالي:"
+msgstr "المركز الحالي:"
 
 #: /views/teams/roster_position.ctp:19
 msgid "Possible roster positions are:"
-msgstr "مواقف القائمة المحتملة هي:"
+msgstr "مراكز قائمة اللاعبين المحتملة هي:"
 
 #: /views/teams/roster_request.ctp:4;9
 msgid "Roster Request"
-msgstr "قائمة طلب"
+msgstr "طلب قائمة اللاعبين"
 
 #: /views/teams/roster_request.ctp:11
 msgid "You are requesting to join the team"
-msgstr "كنت تطلب الانضمام الى الفريق"
+msgstr "أنت تطالب بالإنضمام للفريق"
 
 #: /views/teams/roster_request.ctp:14
 msgid ""
 "A captain will have to approve your request before you are considered an "
 "active member of the team."
-msgstr ""
-"القائد سوف يضطر إلى الموافقة على طلبك قبل كنت تعتبر عضوا فاعلا في الفريق."
+msgstr "يجب على الكابتن ان يوافق على طلبك قبل أن تكون عضوا نشطا في الفريق."
 
 #: /views/teams/roster_role.ctp:4;9
 msgid "Roster Role"
-msgstr "قائمة دور"
+msgstr "دور قائمة اللاعبين"
 
 #: /views/teams/roster_role.ctp:12
 msgid "You are attempting to change the role for"
-msgstr "تحاول تغيير دور ل"
+msgstr "أنت تريد تغيير الدور ل"
 
 #: /views/teams/roster_role.ctp:16
 msgid "Current role:"
@@ -9482,47 +9467,47 @@ msgstr "الدور الحالي:"
 
 #: /views/teams/schedule.ctp:12
 msgid "Team Schedule"
-msgstr "الجدول فريق"
+msgstr "جدول الفريق"
 
 #: /views/teams/spirit.ctp:8
 msgid "Team Spirit"
-msgstr "روح الفريق الواحد"
+msgstr "حماس الفريق"
 
 #: /views/teams/statistics.ctp:7
 msgid "Team Statistics"
-msgstr "فريق الاحصائيات"
+msgstr "احصائيات الفريق"
 
 #: /views/teams/statistics.ctp:9
 msgid "Teams by Division"
-msgstr "فرق من شعبة"
+msgstr "فرق حسب الفئة"
 
 #: /views/teams/statistics.ctp:74
 msgid "Teams with too few players"
-msgstr "فرق مع عدد قليل جدا من اللاعبين"
+msgstr "فرق لديها عدد قليل من اللاعبين"
 
 #: /views/teams/statistics.ctp:111
 msgid "Top-rated Teams"
-msgstr "فرق الأعلى تصنيفا"
+msgstr "أكثر الفرق تقييما"
 
 #: /views/teams/statistics.ctp:143
 msgid "Lowest-rated Teams"
-msgstr "فرق أقل تصنيفا"
+msgstr "أقل الفرق تقييما"
 
 #: /views/teams/statistics.ctp:175
 msgid "Top Defaulting Teams"
-msgstr "اعلى الفرق المقصرة"
+msgstr "أكثر الفرق المنسحبة"
 
 #: /views/teams/statistics.ctp:208
 msgid "Top Non-score-submitting Teams"
-msgstr "أعلى فرق تقديم غير النتيجة،"
+msgstr "أكثر الفرق عدم تسجيل للنتائج"
 
 #: /views/teams/statistics.ctp:243
 msgid "Top Spirited Teams"
-msgstr "أعلى حماسي فرق"
+msgstr "أكثر الفرق حماسا"
 
 #: /views/teams/statistics.ctp:275
 msgid "Lowest Spirited Teams"
-msgstr "أدنى الفرق حماسا"
+msgstr "أقل الفرق حماسا"
 
 #: /views/teams/statistics.ctp:311
 msgid "Other years"
@@ -9530,57 +9515,56 @@ msgstr "سنوات أخرى"
 
 #: /views/teams/statistics.ctp:324
 msgid "Other leagues"
-msgstr "الدوريات الأخرى"
+msgstr "دوريات أخرى"
 
 #: /views/teams/tooltip.ctp:31
 msgid "Details & roster"
-msgstr "التفاصيل وقائمة"
+msgstr "التفاصيل وقائمة اللاعبين"
 
 #: /views/teams/unassigned.ctp:3
 msgid "Unassigned List"
-msgstr "قائمة غير المعينة"
+msgstr "قائمة الغير معيّنين"
 
 #: /views/teams/unassigned.ctp:7
 msgid "List Unassigned Teams"
-msgstr "قائمة فرق غير المعينة"
+msgstr "قائمة الفرق الغير معيّنة"
 
 #: /views/teams/view.ctp:47 /views/themed/wfdfu23/teams/view.ctp:47
 msgid "Home Field"
-msgstr "المنزل الميدان"
+msgstr "ملعب المضيف"
 
 #: /views/teams/view.ctp:60 /views/themed/wfdfu23/teams/view.ctp:60
 msgid "Roster Status"
-msgstr "الحالة القائمة"
+msgstr "حالة قائمة اللاعبين"
 
 #: /views/teams/view.ctp:69 /views/themed/wfdfu23/teams/view.ctp:69
 msgid "Track Attendance"
-msgstr "المسار الحضور"
+msgstr "متابعة الحضور"
 
 #: /views/teams/view.ctp:78 /views/themed/wfdfu23/teams/view.ctp:78
 msgid "Attendance Reminder"
-msgstr "تذكير الحضور"
+msgstr "تذكير بالحضور"
 
 #: /views/teams/view.ctp:83;106;129
 #: /views/themed/wfdfu23/teams/view.ctp:83;106;129
 msgid "disabled"
-msgstr "تعطيل"
+msgstr "غير مفعّل"
 
 #: /views/teams/view.ctp:87;110;133
 #: /views/themed/wfdfu23/teams/view.ctp:87;110;133
 msgid "day of game"
-msgstr "يوم من المباراة"
+msgstr "يوم المباراة"
 
 #: /views/teams/view.ctp:91;114;137
 #: /views/themed/wfdfu23/teams/view.ctp:91;114;137
 msgid "day before game"
-msgstr "قبل يوم من المباراة"
+msgstr "يوم قبل المباراة"
 
 # ترجمها تعقدت وباها
 #: /views/teams/view.ctp:95;118;141
 #: /views/themed/wfdfu23/teams/view.ctp:95;118;141
-#, fuzzy
 msgid "%d days before game"
-msgstr "قبل المباراة٪ d يوم"
+msgstr "%d أيام قبل المباراة"
 
 #: /views/teams/view.ctp:101 /views/themed/wfdfu23/teams/view.ctp:101
 msgid "Attendance Summary"
@@ -9588,15 +9572,15 @@ msgstr "ملخص الحضور"
 
 #: /views/teams/view.ctp:124 /views/themed/wfdfu23/teams/view.ctp:124
 msgid "Attendance Notification"
-msgstr "إعلام الحضور"
+msgstr "تذكير بالحضور"
 
 #: /views/teams/view.ctp:171 /views/themed/wfdfu23/teams/view.ctp:171
 msgid "Affiliated Team"
-msgstr "الفريق التابع"
+msgstr "الفريق المنتسب اليه"
 
 #: /views/teams/view.ctp:206 /views/themed/wfdfu23/teams/view.ctp:206
 msgid "Jersey Numbers"
-msgstr "أرقام جيرسي"
+msgstr "أرقام الجيرسي"
 
 #: /views/teams/view.ctp:236 /views/themed/wfdfu23/teams/view.ctp:235
 msgid "Position"
@@ -9604,11 +9588,11 @@ msgstr "المركز"
 
 #: /views/teams/view.ctp:254 /views/themed/wfdfu23/teams/view.ctp:250
 msgid "Date Joined"
-msgstr "تاريخ الاشتراك"
+msgstr "تاريخ الانضمام"
 
 #: /views/teams/view.ctp:303 /views/themed/wfdfu23/teams/view.ctp:298
 msgid "account inactive"
-msgstr "حساب غير نشط"
+msgstr "الحساب غير مفعّل"
 
 #: /views/teams/view.ctp:306 /views/themed/wfdfu23/teams/view.ctp:301
 msgid "not a member"
@@ -9616,45 +9600,44 @@ msgstr "ليس عضوا"
 
 #: /views/teams/view.ctp:309 /views/themed/wfdfu23/teams/view.ctp:304
 msgid "roster conflict"
-msgstr "الصراع القائمة"
+msgstr "تضارب في قائمة اللاعبين"
 
 #: /views/teams/view.ctp:312 /views/themed/wfdfu23/teams/view.ctp:307
 msgid "schedule conflict"
-msgstr "الصراع الجدول الزمني"
+msgstr "تضارب في الجدول"
 
 #: /views/teams/view.ctp:367 /views/themed/wfdfu23/teams/view.ctp:361
 msgid "Average Skill Rating"
-msgstr "متوسط ​​المهارة التصويت"
+msgstr "مستوى متوسط المهارة"
 
 #: /views/upload_types/edit.ctp:2;14
 msgid "Upload Type"
-msgstr "تحميل نوع"
+msgstr "نوع الرفع"
 
 #: /views/upload_types/index.ctp:2;7
 msgid "Upload Types"
-msgstr "تحميل أنواع"
+msgstr "أنواع الرفع"
 
 #: /views/upload_types/index.ctp:36 /views/upload_types/view.ctp:67
 msgid "New Upload Type"
-msgstr "نوع جديد تحميل"
+msgstr "نوع رفع جديد"
 
 # وش Uload
 #: /views/upload_types/view.ctp:2
-#, fuzzy
 msgid "Uload Types"
-msgstr "أنواع Uload"
+msgstr "أنواع الرفع"
 
 #: /views/upload_types/view.ctp:64
 msgid "Edit Upload Type"
-msgstr "تحرير نوع الرفع"
+msgstr "تعديل نوع الرفع"
 
 #: /views/upload_types/view.ctp:65
 msgid "Delete Upload Type"
-msgstr "حذف نوع الرفع"
+msgstr "احذف نوع الرفع"
 
 #: /views/upload_types/view.ctp:66
 msgid "List Upload Types"
-msgstr "أنواع قائمة الرفع"
+msgstr "قائمة انواع الرفع"
 
 #: /views/users/change_password.ctp:2 /views/users/create_account.ctp:2
 #: /views/users/reset_password.ctp:2
@@ -9663,31 +9646,31 @@ msgstr "المستخدمين"
 
 #: /views/users/change_password.ctp:10
 msgid "Change Password for"
-msgstr "تغيير كلمة السر ل"
+msgstr "تغيير كلمة المرور ل"
 
 #: /views/users/create_account.ctp:39
 msgid "Password"
-msgstr "كلمة السر"
+msgstr "كلمة المرور"
 
 #: /views/users/create_account.ctp:133
 msgid "Telephone Numbers"
-msgstr "أرقام الهاتف"
+msgstr "أرقام التلفون"
 
 #: /views/users/create_account.ctp:190
 msgid "Player and Skill Information"
-msgstr "لاعب والمهارة معلومات"
+msgstr "معلومات اللاعب والمهارة"
 
 #: /views/users/login.ctp:2;14
 msgid "Login"
-msgstr "دخول"
+msgstr "تسجيل الدخول"
 
 #: /views/users/reset_password.ctp:3
 msgid "Reset Password"
-msgstr "إعادة تعيين كلمة المرور"
+msgstr "تغيير كلمة المرور"
 
 #: /views/waivers/edit.ctp:21
 msgid "Full name of this waiver."
-msgstr "الاسم الكامل لهذا التنازل."
+msgstr "الاسم الكامل لهذا الإعفاء."
 
 #: /views/waivers/edit.ctp:32
 msgid ""
@@ -9697,11 +9680,11 @@ msgstr ""
 
 #: /views/waivers/edit.ctp:38
 msgid "Complete waiver text, HTML is allowed."
-msgstr "النص الكامل التنازل، ما سمح HTML."
+msgstr "قم بتعبئةنص الإعفاء، HTML مسموح."
 
 #: /views/waivers/edit.ctp:51
 msgid "Expiry Options"
-msgstr "خيارات انتهاء"
+msgstr "خيارات الإنتهاء"
 
 #: /views/waivers/edit.ctp:76 /views/waivers/index.ctp:56
 #: /views/waivers/view.ctp:70
@@ -9713,62 +9696,62 @@ msgid ""
 "Event waivers have no expiry options; they always expire after the event is "
 "done."
 msgstr ""
-"التنازلات الحدث ليس لديهم خيارات لانتهاء الصلاحية؛ أنها تنتهي دائما بعد "
-"الانتهاء من الحدث."
+"إعفاءات الاحداثات لا تحتوي خيارات تواريخ انتهاء، دائما ينتهون بعد انتهاء "
+"الحدث."
 
 #: /views/waivers/edit.ctp:91
 msgid "List Waivers"
-msgstr "الإعفاءات قائمة"
+msgstr "عرض الإعفاءات"
 
 #: /views/waivers/index.ctp:14 /views/waivers/view.ctp:44
 msgid "Expiry Type"
-msgstr "نوع الانتهاء"
+msgstr "نوع الإنتهاء"
 
 #: /views/waivers/index.ctp:15
 msgid "Valid For"
-msgstr "صالحة لل"
+msgstr "صالح لفترة"
 
 #: /views/waivers/index.ctp:83 /views/waivers/view.ctp:91
 msgid "Add Waiver"
-msgstr "إضافة التنازل"
+msgstr "أضف إعفاء"
 
 #: /views/waivers/review.ctp:4
 msgid "View Waiver"
-msgstr "عرض التنازل"
+msgstr "عرض الإعفاء"
 
 #: /views/waivers/review.ctp:21
 msgid "You have not accepted this waiver for the dates %s to %s."
-msgstr "هل لا تقبل هذا التنازل للتواريخ %s إلى %s."
+msgstr "لم تقم بقبول هذا الإعفاء بين تواريخ %s الى %s."
 
 #: /views/waivers/review.ctp:25
 msgid "You haven't accepted this waiver."
-msgstr "هل لا يقبل هذا التنازل."
+msgstr "لم تقم بقبول هذا الإعفاء."
 
 #: /views/waivers/review.ctp:29
 msgid ""
 "You may %s; if you choose not to, you may be prompted to do so at a later "
 "time."
-msgstr "يجوز لك %s؛ إذا اخترت عدم، قد تتم مطالبتك للقيام بذلك في وقت لاحق."
+msgstr "تستطيع %s، اذا فضلت غير ذلك، قد تسطيع عمله في وقت آخر."
 
 #: /views/waivers/review.ctp:30
 msgid "accept it now"
-msgstr "اقبل الآن"
+msgstr "اقبل الإعفاء الآن"
 
 #: /views/waivers/sign.ctp:4
 msgid "Sign Waiver"
-msgstr "علامة التنازل"
+msgstr "توقيع الإعفاء"
 
 #: /views/waivers/view.ctp:80
 msgid "List Waiver"
-msgstr "قائمة التنازل"
+msgstr "قائمة الإعفاءات"
 
 #: /views/waivers/view.ctp:84;87
 msgid "Edit Waiver"
-msgstr "تحرير التنازل"
+msgstr "تعديل الإعفاء"
 
 #: /webroot/test.php:88
 msgid "Debug setting does not allow access to this url."
-msgstr "وضع التصحيح لا تسمح بالوصول إلى هذا الرابط."
+msgstr "إعدادات التصحيحح (debug) لا تسمح لك بالدخول لهذه الوصلة."
 
 msgid "Field"
 msgstr ""
