@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-02-17 21:03-0500\n"
-"PO-Revision-Date: 2014-08-11 22:28-0400\n"
-"Last-Translator: Zuluru Admin <admin@zuluru.org>\n"
+"PO-Revision-Date: 2014-08-12 16:26-0400\n"
+"Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -227,6 +227,8 @@ msgstr ""
 #: /config/sport/ultimate.php:74
 msgid "know the basics, but you're sometimes behind the play, learned a bit about man defense strategies"
 msgstr ""
+"connait les bases, mais est parfois en retard sur le jeu, connaissance de "
+"base de la stratégie de défense d'homme à homme"
 
 #: /config/sport/ultimate.php:75
 msgid "can stay with the play and sometimes make the D, understand the basics of man & zone style defense strategies "
@@ -244,6 +246,9 @@ msgstr ""
 #: /config/sport/ultimate.php:77
 msgid "always think ahead of the play and can often make the D, proficient at both man/zone style defense strategies and maybe know a few more"
 msgstr ""
+"anticipe toujours le jeu et peut parfois effectuer une défense, compétent "
+"dans les deux styles de stratégies de défense (homme à homme et zone)et peut "
+"être quelques autres"
 
 #: /config/sport/ultimate.php:81
 msgid "are still learning the basic strategy, not quite sure where to go or when to cut"
@@ -588,19 +593,21 @@ msgstr "L'insigne est %s, non calculé, il ne peut donc pas être initialisé."
 
 #: /controllers/badges_controller.php:180
 msgid "This badge has no handler."
-msgstr ""
+msgstr "L'insigne n'a pas de meneur."
 
 #: /controllers/badges_controller.php:284
 msgid "Unrecognized badge category \"%s\"."
-msgstr ""
+msgstr "Catégorie de l'insigne méconnaissable \"%s\"."
 
 #: /controllers/badges_controller.php:290
 msgid "Badge has been initialized, and has been awarded %d times."
-msgstr ""
+msgstr "L'insigne a été initialisé et a été attribué %d fois."
 
 #: /controllers/badges_controller.php:391
 msgid "The following records reference this badge, so it cannot be deleted."
 msgstr ""
+"Les document suivants sont liés à l'insigne, ils ne peuvent donc pas être "
+"supprimés."
 
 #: /controllers/badges_controller.php:395;398
 #: /views/badges/edit.ctp:14
@@ -615,6 +622,8 @@ msgstr "catégorie"
 #: /controllers/categories_controller.php:127
 msgid "The following records reference this category, so it cannot be deleted."
 msgstr ""
+"Les documents suivants sont liés à cette catégorie, ils ne peuvent donc pas "
+"être supprimés."
 
 #: /controllers/categories_controller.php:131;134
 #: /views/badges/view.ctp:19
@@ -671,11 +680,11 @@ msgstr "ligue"
 
 #: /controllers/divisions_controller.php:531
 msgid "Successfully removed coordinator"
-msgstr ""
+msgstr "Coordinateur retiré avec succès"
 
 #: /controllers/divisions_controller.php:533
 msgid "Failed to remove coordinator!"
-msgstr ""
+msgstr "Le coordinateur n'a pu être retiré!"
 
 #: /controllers/divisions_controller.php:564
 #: /controllers/events_controller.php:389
@@ -686,7 +695,7 @@ msgstr ""
 #: /controllers/settings_controller.php:59
 #: /controllers/teams_controller.php:912
 msgid "The %s have been saved"
-msgstr ""
+msgstr "Le %s a été sauvegardé"
 
 #: /controllers/divisions_controller.php:564;573
 #: /views/leagues/cron.ctp:12
@@ -695,15 +704,17 @@ msgstr "équipes"
 
 #: /controllers/divisions_controller.php:639;1561
 msgid "Each team must have a unique initial seed."
-msgstr ""
+msgstr "Chaque équipe doit avoir un classement initial unique."
 
 #: /controllers/divisions_controller.php:641
 msgid "Initial seeds must start at 1 and not skip any."
-msgstr ""
+msgstr "Le classement doit commencer à 1 et n'en sauter aucun."
 
 #: /controllers/divisions_controller.php:684
 msgid "The following records reference this division, so it cannot be deleted."
 msgstr ""
+"Les documents suivants sont liés à la division, ils ne peuvent donc pas être "
+"supprimés."
 
 #: /controllers/divisions_controller.php:688;691
 #: /views/events/view.ctp:230
@@ -745,79 +756,86 @@ msgstr "Les changements à la grille horaire ont étés sauvegardé!"
 #: /controllers/divisions_controller.php:855
 msgid "Cannot generate standings for a division with no schedule."
 msgstr ""
+"Ne peut générer de classement pour une division qui n'a pas encore de grille "
+"horaire."
 
 #: /controllers/divisions_controller.php:934;1370
 msgid "This division does not support this report."
-msgstr ""
+msgstr "Cette division ne supporte pas ce rapport."
 
 #: /controllers/divisions_controller.php:1410
 msgid "There are currently no games to approve in this division."
-msgstr ""
+msgstr "Il n'y a présentement pas de match a approuvé dans cette division."
 
 #: /controllers/divisions_controller.php:1444
 msgid "Only playoff divisions can be initialized"
-msgstr ""
+msgstr "Seulement les divsions de séries éliminatoires peut être initialisées"
 
 #: /controllers/divisions_controller.php:1455
 msgid "does not have a unique affiliated team in the correct division"
-msgstr ""
+msgstr "n'a pas d'équipe affiliée unique dans la bonne division"
 
 #: /controllers/divisions_controller.php:1466
 msgid "Failed to update team rating"
-msgstr ""
+msgstr "Échec dans la mise à jour de la note d'équipe"
 
 #: /controllers/divisions_controller.php:1471
 msgid "Team ratings have been initialized."
-msgstr ""
+msgstr "Les notes d'équipe ont étés initialisés."
 
 #: /controllers/divisions_controller.php:1534
 msgid "There are already games finalized in this pool. Unable to proceed."
 msgstr ""
+"Il y a déjà des matchs finalisés dans ce bassin. Pas en mesure de procéder."
 
 #: /controllers/divisions_controller.php:1552
 msgid "There are currently no dependencies to initialize in this division."
-msgstr ""
+msgstr "Il n'y a pas de dépendences pour initialiser cette division."
 
 #: /controllers/divisions_controller.php:1597
 msgid "Not enough teams in the division to fulfill all scheduled seeds"
 msgstr ""
+"Il n'y a pas assez d'équipe dans cette division pour créer les grilles "
+"horaires"
 
 #: /controllers/divisions_controller.php:1640;1667;1680
 msgid "Failed to %s game dependency"
-msgstr ""
+msgstr "Échec dans %s dépendance des matchs"
 
 #: /controllers/divisions_controller.php:1667
 msgid "locate"
-msgstr ""
+msgstr "établir"
 
 #: /controllers/divisions_controller.php:1685
 msgid "Dependencies have been %s."
-msgstr ""
+msgstr "Dépendences ont étés %s."
 
 #: /controllers/divisions_controller.php:1706
 #: /views/schedules/type.ctp:24
 msgid "stage"
-msgstr ""
+msgstr "étape"
 
 #: /controllers/divisions_controller.php:1725
 msgid "There are currently no pools to delete in this stage."
-msgstr ""
+msgstr "Il n'y a présentement aucun bassin a supprimer à cette étape."
 
 #: /controllers/divisions_controller.php:1734
 msgid "%s were not deleted"
-msgstr ""
+msgstr "%s n'ont pas étés supprimés"
 
 #: /controllers/divisions_controller.php:1734
 msgid "Pools in this stage"
-msgstr ""
+msgstr "Bassins à cette étape"
 
 #: /controllers/divisions_controller.php:1749
 msgid "All pools in this stage"
-msgstr ""
+msgstr "Tous les bassins de cette étape"
 
 #: /controllers/events_controller.php:103
 msgid "You are not allowed to register for events until your account has been approved."
 msgstr ""
+"Vous n'avez pas la permission de vous inscrire à cet évènements avant que "
+"votre compte soit approuvé."
 
 #: /controllers/events_controller.php:149;190;229;232;262;275;278;288;322;341;406
 #: /controllers/preregistrations_controller.php:45;52;68
@@ -831,6 +849,8 @@ msgstr "évènement"
 #: /controllers/events_controller.php:327
 msgid "The following records reference this event, so it cannot be deleted."
 msgstr ""
+"Les documents suivants sont liés à cet évènements, ils ne peuvent donc pas "
+"être supprimés."
 
 #: /controllers/events_controller.php:331;334
 #: /views/events/connections.ctp:2
@@ -845,27 +865,27 @@ msgstr ""
 #: /views/team_events/attendance_change.ctp:12
 #: /views/team_events/view.ctp:16
 msgid "Event"
-msgstr ""
+msgstr "Évènement"
 
 #: /controllers/events_controller.php:389;392
 msgid "connections"
-msgstr ""
+msgstr "connections"
 
 #: /controllers/extensions_controller.php:56
 msgid "year"
-msgstr ""
+msgstr "année"
 
 #: /controllers/extensions_controller.php:65
 msgid "first season"
-msgstr ""
+msgstr "première session"
 
 #: /controllers/extensions_controller.php:209
 msgid "Unable to extract payment information from the text provided."
-msgstr ""
+msgstr "Ne peut extraire l'information de paiement du texte fourni."
 
 #: /controllers/extensions_controller.php:220
 msgid "Unable to extract valid payment information from the text provided."
-msgstr ""
+msgstr "Ne peut extraire l'information valide de paiement du texte fourni."
 
 #: /controllers/extensions_controller.php:231
 msgid "A registration in this email has already been marked as paid. All registrations must be unpaid before this can proceed."
@@ -878,15 +898,19 @@ msgstr ""
 #: /controllers/facilities_controller.php:110;122;139;143;181;191;194;207;252
 #: /controllers/fields_controller.php:115;133
 msgid "facility"
-msgstr ""
+msgstr "établissements"
 
 #: /controllers/facilities_controller.php:155
 msgid "You must first create at least one region for facilities to be located in."
 msgstr ""
+"Vous devez d'abord créer au moins une région pour y ajouter des "
+"établissements."
 
 #: /controllers/facilities_controller.php:257
 msgid "The following records reference this facility, so it cannot be deleted."
 msgstr ""
+"Les documents suivants sont liés à cet établissement, il ne peut donc pas "
+"être supprimé."
 
 #: /controllers/facilities_controller.php:261;264
 #: /views/elements/all/kickstart.ctp:71
@@ -895,47 +919,51 @@ msgstr ""
 #: /views/fields/edit.ctp:43
 #: /views/fields/view.ctp:10
 msgid "Facility"
-msgstr ""
+msgstr "Établissement"
 
 #: /controllers/fields_controller.php:203
 msgid "The following records reference this %s, so it cannot be deleted."
 msgstr ""
+"Les documents suivants sont liés à %s, il ne peut donc pas être supprimé."
 
 #: /controllers/franchises_controller.php:91
 #: /controllers/teams_controller.php:255
 msgid "letter"
-msgstr ""
+msgstr "lettre"
 
 #: /controllers/franchises_controller.php:123;134;150;154;167;177;180;188;200;226;233;282;289;349;356
 msgid "franchise"
-msgstr ""
+msgstr "franchise"
 
 #: /controllers/franchises_controller.php:205
 msgid "The following records reference this franchise, so it cannot be deleted."
 msgstr ""
+"Les documents suivants sont liés à cette franchise, elle ne peut donc pas "
+"être supprimée."
 
 #: /controllers/franchises_controller.php:216;219
 #: /controllers/components/event_type_team.php:91
 #: /views/franchises/add_owner.ctp:4
 #: /views/franchises/add_team.ctp:2
 msgid "Franchise"
-msgstr ""
+msgstr "Franchise"
 
 #: /controllers/franchises_controller.php:257
 msgid "That team is already part of this franchise"
-msgstr ""
+msgstr "L'équipe fait déjà partie de cette franchise"
 
 #: /controllers/franchises_controller.php:260
 msgid "You are not a captain, assistant captain or coach of the selected team"
 msgstr ""
+"Vous n'êtes pas capitaine, assistant capitaine ou entraîneur de cette équipe"
 
 #: /controllers/franchises_controller.php:268
 msgid "The selected team has been added to this franchise"
-msgstr ""
+msgstr "L'équipe sélectionné a été ajouté à la franchise"
 
 #: /controllers/franchises_controller.php:271
 msgid "Failed to add the selected team to this franchise"
-msgstr ""
+msgstr "Échec dans l'ajout de cette équipe à la franchise"
 
 #: /controllers/franchises_controller.php:296;309
 #: /controllers/games_controller.php:850;900;1216;1286;1383;1574;1710;1832;1992
@@ -943,27 +971,34 @@ msgstr ""
 #: /controllers/teams_controller.php:679;706;849;859;933;950;1037;1050;1116;1119;1148;1163;1166;1174;1206;1250;1266;1272;1284;1309;1316;1381;1388;1508;1515;1557;1569;1627;1649;1664;1671;1725;1730;1751;1779;1818;1844;2303
 #: /views/franchises/view.ctp:108
 msgid "team"
-msgstr ""
+msgstr "équipe"
 
 #: /controllers/franchises_controller.php:302
 msgid "That team is not part of this franchise"
-msgstr ""
+msgstr "L'équipe ne fait pas partie de cette franchise"
 
 #: /controllers/franchises_controller.php:314
 msgid "All teams must be members of at least one franchise. Before you can remove this team from this franchise, you must first add it to another one."
 msgstr ""
+"Toutes les équipes doivent être membres d'au moins une franchise. Avant de "
+"pouvoir retirer un équipe de la franchise, vous devez d'abord l'ajouter à "
+"une autre franchise."
 
 #: /controllers/franchises_controller.php:329;333;337
 msgid "The selected team has been removed from this franchise."
-msgstr ""
+msgstr "Les équipes sélectionnés ont étées retirées de la franchise."
 
 #: /controllers/franchises_controller.php:330
 msgid "As there were no other teams in the franchise, it has been deleted as well."
 msgstr ""
+"Étant donné qu'il n'y avait aucune autre équipe dans cette franchise, elle a "
+"aussi été supprimé."
 
 #: /controllers/franchises_controller.php:334
 msgid "There are no other teams in the franchise, but deletion of the franchise failed."
 msgstr ""
+"Il n'y a pas d'autres équipes dans la franchise, elle n'a toutefois pas pu "
+"être supprimé."
 
 #: /controllers/franchises_controller.php:340
 msgid "Failed to remove the selected team from this franchise."
@@ -971,15 +1006,15 @@ msgstr ""
 
 #: /controllers/game_slots_controller.php:52;68;226;255;260;270;285;312;325
 msgid "game slot"
-msgstr ""
+msgstr "Plage horaire de match"
 
 #: /controllers/game_slots_controller.php:121
 msgid "You must select at least one game slot!"
-msgstr ""
+msgstr "Vous devez sélectionner au moins une plage horraire!"
 
 #: /controllers/game_slots_controller.php:147
 msgid "Game end time of %s is before game start time of %s!"
-msgstr ""
+msgstr "La fin de la partie de %s est avant le début de la partie de %s!"
 
 #: /controllers/game_slots_controller.php:174
 msgid "Detected a pre-existing conflict with the game slot to be created at %s on %s at %s. Unable to continue. (There may be more conflicts; this is only the first one detected.)"
@@ -988,15 +1023,15 @@ msgstr ""
 #: /controllers/game_slots_controller.php:193;200;206
 #: /controllers/schedules_controller.php:482
 msgid "game slots"
-msgstr ""
+msgstr "Plages horaire de match"
 
 #: /controllers/game_slots_controller.php:211
 msgid "You must select at least one %s!"
-msgstr ""
+msgstr "Vous devez sélectionner au moins un %s!"
 
 #: /controllers/game_slots_controller.php:213;236
 msgid "You must select at least one division!"
-msgstr ""
+msgstr "Vous devez sélectionnez au moins une division!"
 
 #: /controllers/game_slots_controller.php:291
 msgid "This game slot has a game assigned to it and cannot be deleted."
@@ -1004,7 +1039,7 @@ msgstr ""
 
 #: /controllers/game_slots_controller.php:300;305
 msgid "Game slot"
-msgstr ""
+msgstr "Plage horaire de match"
 
 #: /controllers/game_slots_controller.php:329
 msgid "This game slot has no games associated with it."
@@ -1025,7 +1060,7 @@ msgstr ""
 
 #: /controllers/game_slots_controller.php:414
 msgid "incident data"
-msgstr ""
+msgstr "Données relatives à l'incident"
 
 #: /controllers/game_slots_controller.php:434
 msgid "Scores have been saved and game results posted."
@@ -1043,24 +1078,24 @@ msgstr ""
 
 #: /controllers/game_slots_controller.php:481
 msgid "scores"
-msgstr ""
+msgstr "résultats"
 
 #: /controllers/games_controller.php:140;196;238;254;293;331;412;430;448;480;564;567;595;606;738;761;844;862;894;948;1210;1233;1280;1324;1372;1409;1563;1602;1699;1734;1821;1853;1986;2058;2379;2397;2978;3000
 #: /views/games/cron.ctp:23
 msgid "game"
-msgstr ""
+msgstr "match"
 
 #: /controllers/games_controller.php:339
 msgid "You do not have permission to edit that game."
-msgstr ""
+msgstr "Vous n'avez pas la permission de modifier ce match."
 
 #: /controllers/games_controller.php:514
 msgid "score details"
-msgstr ""
+msgstr "détails des résultats"
 
 #: /controllers/games_controller.php:518
 msgid "Failed to save the score details!"
-msgstr ""
+msgstr "Échec - sauvergarde les détails des résultats!"
 
 #: /controllers/games_controller.php:527
 msgid "Invalid score detail id"
@@ -1073,29 +1108,29 @@ msgstr ""
 
 #: /controllers/games_controller.php:532
 msgid "score detail"
-msgstr ""
+msgstr "détails des résultats"
 
 #: /controllers/games_controller.php:615
 msgid "You are not on the roster of a team playing in this game."
-msgstr ""
+msgstr "Vous ne faites pas partie d'une des deux équipes pour ce match."
 
 #: /controllers/games_controller.php:624
 #: /controllers/people_controller.php:944
 #: /controllers/teams_controller.php:1216
 msgid "You are not allowed to edit that %s."
-msgstr ""
+msgstr "Vous ne pouvez pas modifier ce %s."
 
 #: /controllers/games_controller.php:624;641;686;689;697;715;721;728
 #: /controllers/people_controller.php:944;954;963;966;995
 #: /controllers/teams_controller.php:1216;1226;1235;1238;1274
 msgid "note"
-msgstr ""
+msgstr "note"
 
 #: /controllers/games_controller.php:641;728
 #: /controllers/people_controller.php:954;995
 #: /controllers/teams_controller.php:1226;1274
 msgid "The %s has been deleted"
-msgstr ""
+msgstr "Le %s a été supprimé"
 
 #: /controllers/games_controller.php:643;730
 #: /controllers/people_controller.php:956;997
@@ -1105,17 +1140,17 @@ msgstr ""
 #: /views/people/note.ctp:4
 #: /views/teams/note.ctp:4
 msgid "Note"
-msgstr ""
+msgstr "Note"
 
 #: /controllers/games_controller.php:646
 #: /controllers/people_controller.php:959
 #: /controllers/teams_controller.php:1231
 msgid "You entered no text, so no note was added."
-msgstr ""
+msgstr "Vous n'avez pas ajouter de texte, donc la note ne sera pas ajoutée."
 
 #: /controllers/games_controller.php:726
 msgid "You can only delete notes that you created."
-msgstr ""
+msgstr "Vous pouvez seulement supprimer les notes que vous avez créé."
 
 #: /controllers/games_controller.php:780
 msgid "If you are absolutely sure that you want to delete it anyway, %s. <b>This cannot be undone!</b>"
@@ -1127,7 +1162,7 @@ msgstr ""
 #: /views/elements/email/html/event_attendance_reminder.ctp:24;28
 #: /views/newsletters/send.ctp:24;25
 msgid "click here"
-msgstr ""
+msgstr "cliquez ici"
 
 #: /controllers/games_controller.php:791;836
 #: /views/divisions/spirit.ctp:238
@@ -1144,7 +1179,7 @@ msgstr ""
 #: /views/schedules/day.ctp:32
 #: /views/teams/spirit.ctp:12
 msgid "Game"
-msgstr ""
+msgstr "Match"
 
 #: /controllers/games_controller.php:820
 msgid "Game was deleted, but ratings were not reset"
@@ -1156,7 +1191,7 @@ msgstr ""
 
 #: /controllers/games_controller.php:873;962;1257;1358;2071;3051
 msgid "That team is not playing in this game."
-msgstr ""
+msgstr "Cette équipe ne fait pas partie de ce match."
 
 #: /controllers/games_controller.php:878;995;1262
 #: /controllers/team_events_controller.php:250
@@ -1171,7 +1206,7 @@ msgstr ""
 #: /views/people/participation.ctp:43;47
 #: /views/people/csv/participation.ctp:17;21
 msgid "player"
-msgstr ""
+msgstr "joueur"
 
 #: /controllers/games_controller.php:1000
 msgid "That person does not have an attendance record for this game."
@@ -1179,7 +1214,7 @@ msgstr ""
 
 #: /controllers/games_controller.php:1005
 msgid "That person is not on this team."
-msgstr ""
+msgstr "Cette personne ne fait pas partie de cette équipe."
 
 #: /controllers/games_controller.php:1026
 #: /controllers/mailing_lists_controller.php:220
@@ -1216,7 +1251,7 @@ msgstr ""
 #: /controllers/games_controller.php:1147
 #: /controllers/team_events_controller.php:394
 msgid "A captain"
-msgstr ""
+msgstr "Un capitaine"
 
 #: /controllers/games_controller.php:1330
 msgid "Dependencies for that game have not yet been resolved!"
@@ -1325,11 +1360,11 @@ msgstr ""
 
 #: /controllers/games_controller.php:2266
 msgid "a win for your team"
-msgstr ""
+msgstr "une victoire pour votre équipe"
 
 #: /controllers/games_controller.php:2268
 msgid "a default loss for your team"
-msgstr ""
+msgstr "une défaite par défault pour votre équipe"
 
 #: /controllers/games_controller.php:2270
 msgid "a %s-%s loss for your team"
@@ -1337,15 +1372,15 @@ msgstr ""
 
 #: /controllers/games_controller.php:2273
 msgid "a loss for your team"
-msgstr ""
+msgstr "une défaite pour votre équipe"
 
 #: /controllers/games_controller.php:2275
 msgid "a default win for your team"
-msgstr ""
+msgstr "une victoire par défault pour votre équipe"
 
 #: /controllers/games_controller.php:2277
 msgid "a %s-%s win for your team"
-msgstr ""
+msgstr "égalité"
 
 #: /controllers/games_controller.php:2280
 msgid "a tie"
@@ -1365,7 +1400,7 @@ msgstr ""
 
 #: /controllers/games_controller.php:2363
 msgid "game results"
-msgstr ""
+msgstr "résultats de match"
 
 #: /controllers/games_controller.php:2404
 msgid "You must provide a team ID."
@@ -1385,7 +1420,7 @@ msgstr ""
 
 #: /controllers/games_controller.php:2465;2469;2494;2507
 msgid "stats"
-msgstr ""
+msgstr "statistiques"
 
 #: /controllers/games_controller.php:2469
 msgid "The previously saved %s have been removed."
@@ -1459,7 +1494,7 @@ msgstr ""
 #: /views/leagues/summary.ctp:71
 #: /views/teams/statistics.ctp:14
 msgid "League"
-msgstr ""
+msgstr "Ligue"
 
 #: /controllers/leagues_controller.php:433
 #: /controllers/schedules_controller.php:963
@@ -1476,7 +1511,7 @@ msgstr ""
 
 #: /controllers/mailing_lists_controller.php:66;72;84;95;136;139;152;157;160;167;179;198
 msgid "mailing list"
-msgstr ""
+msgstr "liste de diffusion"
 
 #: /controllers/mailing_lists_controller.php:106
 #: /controllers/newsletters_controller.php:244
@@ -1496,7 +1531,7 @@ msgstr ""
 
 #: /controllers/mailing_lists_controller.php:188;191
 msgid "Mailing list"
-msgstr ""
+msgstr "Liste de diffusion"
 
 #: /controllers/mailing_lists_controller.php:234
 msgid "You are not subscribed to this mailing list."
@@ -1524,7 +1559,7 @@ msgstr ""
 
 #: /controllers/newsletters_controller.php:83;89;100;103;137;142;145;152;172;191;197;214;236;288
 msgid "newsletter"
-msgstr ""
+msgstr "bulletin d'information"
 
 #: /controllers/newsletters_controller.php:177
 msgid "The following records reference this newsletter, so it cannot be deleted."
@@ -1536,7 +1571,7 @@ msgstr ""
 #: /views/newsletters/send.ctp:2
 #: /views/newsletters/view.ctp:2
 msgid "Newsletter"
-msgstr ""
+msgstr "Bulletin d'information"
 
 #: /controllers/newsletters_controller.php:272
 msgid "Finished sending newsletters"
@@ -1563,7 +1598,7 @@ msgstr ""
 #: /controllers/people_controller.php:886
 #: /controllers/users_controller.php:134;137
 msgid "account"
-msgstr ""
+msgstr "Compte"
 
 #: /controllers/people_controller.php:903
 msgid "This person does not yet have a Drupal account, and so cannot be edited."
@@ -1576,7 +1611,7 @@ msgstr ""
 
 #: /controllers/people_controller.php:1019
 msgid "preferences"
-msgstr ""
+msgstr "préférences"
 
 #: /controllers/people_controller.php:1025
 msgid "Failed to save your preferences"
@@ -1610,7 +1645,7 @@ msgstr ""
 #: /controllers/people_controller.php:1152;1215
 #: /controllers/teams_controller.php:2650;2672;2717;2785;2829
 msgid "team captains."
-msgstr ""
+msgstr "capitaines d'équipe."
 
 #: /controllers/people_controller.php:1170
 msgid "This person is already not related to you."
