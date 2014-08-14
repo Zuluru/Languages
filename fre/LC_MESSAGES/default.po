@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-02-17 21:03-0500\n"
-"PO-Revision-Date: 2014-08-12 16:26-0400\n"
+"PO-Revision-Date: 2014-08-14 12:06-0400\n"
 "Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
@@ -890,10 +890,15 @@ msgstr "Ne peut extraire l'information valide de paiement du texte fourni."
 #: /controllers/extensions_controller.php:231
 msgid "A registration in this email has already been marked as paid. All registrations must be unpaid before this can proceed."
 msgstr ""
+"Une des inscriptions dans ce courriel a déjà été identifiées comme payé. "
+"Toutes les inscriptions doivent être identifiées comme non-payé avant que "
+"vous puissiez procéder."
 
 #: /controllers/extensions_controller.php:236
 msgid "A registration in this email already has an audit record, so the payment process must already have been fully handled."
 msgstr ""
+"L'inscription dans ce courriel contient déjà un dossier de vérification, "
+"alors le processus de paiement devrait déjà être entièrement traité."
 
 #: /controllers/facilities_controller.php:110;122;139;143;181;191;194;207;252
 #: /controllers/fields_controller.php:115;133
@@ -1002,7 +1007,7 @@ msgstr ""
 
 #: /controllers/franchises_controller.php:340
 msgid "Failed to remove the selected team from this franchise."
-msgstr ""
+msgstr "Échec - n'a pas pu supprimer l'équipe sélectionnée de la franchise."
 
 #: /controllers/game_slots_controller.php:52;68;226;255;260;270;285;312;325
 msgid "game slot"
@@ -1036,6 +1041,8 @@ msgstr "Vous devez sélectionnez au moins une division!"
 #: /controllers/game_slots_controller.php:291
 msgid "This game slot has a game assigned to it and cannot be deleted."
 msgstr ""
+"Un match est déjà assigné à cette plage de jeu, elle ne peut donc pas être "
+"supprimé."
 
 #: /controllers/game_slots_controller.php:300;305
 msgid "Game slot"
@@ -1043,20 +1050,22 @@ msgstr "Plage horaire de match"
 
 #: /controllers/game_slots_controller.php:329
 msgid "This game slot has no games associated with it."
-msgstr ""
+msgstr "Aucun match n'a été associé à cette plage de jeu."
 
 #: /controllers/game_slots_controller.php:334
 msgid "You can only enter scores for multiple games in \"competition\" divisions."
 msgstr ""
+"Vous ne pouvez inscrire des résultats pour des matchs multiples dans la "
+"division 'compétitive'."
 
 #: /controllers/game_slots_controller.php:338
 msgid "Games in this slot have already been finalized."
-msgstr ""
+msgstr "Les matchs de cette plage ont déjà étés finalisés."
 
 #: /controllers/game_slots_controller.php:344
 #: /controllers/games_controller.php:2078;2429
 msgid "That game has not yet occurred!"
-msgstr ""
+msgstr "Ce match ne s'est pas encore jouer!"
 
 #: /controllers/game_slots_controller.php:414
 msgid "incident data"
@@ -1064,12 +1073,12 @@ msgstr "Données relatives à l'incident"
 
 #: /controllers/game_slots_controller.php:434
 msgid "Scores have been saved and game results posted."
-msgstr ""
+msgstr "Les résultats ont étés sauvegardés and affichés."
 
 #: /controllers/game_slots_controller.php:463
 #: /controllers/games_controller.php:2343
 msgid "Your incident report details have been sent for handling."
-msgstr ""
+msgstr "Votre rapport d'incident à été envoyé pour traitement."
 
 #: /controllers/game_slots_controller.php:468
 #: /controllers/games_controller.php:2348
@@ -1104,7 +1113,7 @@ msgstr ""
 #: /controllers/games_controller.php:532
 #: /controllers/people_controller.php:2477;2490;2536
 msgid "Failed to delete %s"
-msgstr ""
+msgstr "Échec - n'a pas pu supprimer %s"
 
 #: /controllers/games_controller.php:532
 msgid "score detail"
@@ -1183,11 +1192,11 @@ msgstr "Match"
 
 #: /controllers/games_controller.php:820
 msgid "Game was deleted, but ratings were not reset"
-msgstr ""
+msgstr "Le match a été supprimé, mais le classement n'a pas été réinitialisé"
 
 #: /controllers/games_controller.php:833
 msgid "Game was deleted, but game slot was not cleared"
-msgstr ""
+msgstr "Le match a été supprimé, mais la plage de jeu n'a pas été effacé"
 
 #: /controllers/games_controller.php:873;962;1257;1358;2071;3051
 msgid "That team is not playing in this game."
@@ -1197,7 +1206,7 @@ msgstr "Cette équipe ne fait pas partie de ce match."
 #: /controllers/team_events_controller.php:250
 #: /controllers/teams_controller.php:1579
 msgid "That team does not have attendance tracking enabled."
-msgstr ""
+msgstr "Le suivi de présence pour cette équipe n'est pas disponible."
 
 #: /controllers/games_controller.php:909
 #: /controllers/mailing_lists_controller.php:208
@@ -1210,7 +1219,7 @@ msgstr "joueur"
 
 #: /controllers/games_controller.php:1000
 msgid "That person does not have an attendance record for this game."
-msgstr ""
+msgstr "Cette personne n'a pas de fiche de présence pour ce match."
 
 #: /controllers/games_controller.php:1005
 msgid "That person is not on this team."
@@ -1222,31 +1231,32 @@ msgstr "Cette personne ne fait pas partie de cette équipe."
 #: /controllers/team_events_controller.php:275
 #: /controllers/teams_controller.php:2177;2258
 msgid "The authorization code is invalid."
-msgstr ""
+msgstr "Le code d'autorisation est invalide."
 
 #: /controllers/games_controller.php:1035
 #: /controllers/team_events_controller.php:284
 msgid "You are not allowed to change this attendance record."
-msgstr ""
+msgstr "Vous n'avez pas la permission de modifier cette fiche de présence."
 
 #: /controllers/games_controller.php:1086
 msgid "That is not currently a valid attendance status for this player for this game."
 msgstr ""
+"Il n'y a pas de rapport de présence valide pour ce joueur pour ce match."
 
 #: /controllers/games_controller.php:1100
 #: /controllers/team_events_controller.php:347
 msgid "Failed to update the attendance status!"
-msgstr ""
+msgstr "Échec - n'a pas pu mettre à jour le statut de présence!"
 
 #: /controllers/games_controller.php:1107;1177
 #: /controllers/team_events_controller.php:354;424
 msgid "Failed to update the attendance comment!"
-msgstr ""
+msgstr "Échec - n'a pas pu mettre à jour le commentaire de présence!"
 
 #: /controllers/games_controller.php:1114;1182
 #: /controllers/team_events_controller.php:361;429
 msgid "Attendance has been updated to %s."
-msgstr ""
+msgstr "La présence à été mise à jour à %s."
 
 #: /controllers/games_controller.php:1147
 #: /controllers/team_events_controller.php:394
@@ -1259,23 +1269,27 @@ msgstr ""
 
 #: /controllers/games_controller.php:1335;1414;1608;1740;1859;2414
 msgid "That team did not play in that game!"
-msgstr ""
+msgstr "Cette équipe n'a pas participer à ce match!"
 
 #: /controllers/games_controller.php:1340;1419;1613;1745;1864;2083
 msgid "The score for that game has already been finalized."
-msgstr ""
+msgstr "Les résultats de ce match ont déjà étés finalisés."
 
 #: /controllers/games_controller.php:1345;1435;1632;1763;1882
 msgid "That team has already submitted a score for that game."
-msgstr ""
+msgstr "Cette équipe a déjà soumis un résultat pour ce match."
 
 #: /controllers/games_controller.php:1378;1569;1705;1827
 msgid "submitter"
-msgstr ""
+msgstr "déposant"
 
 #: /controllers/games_controller.php:1390;1581;1716;1838
 msgid "Someone else is currently updating the score for this game!\\n\\nIt's probably your opponent, try again right away."
 msgstr ""
+"Quelqu'un d'autre est présentement en train de faire la mise à jour du "
+"résultat de ce match!\\n"
+"\\n"
+"C'est probablement votre adversaire, veuillez ré-essayer."
 
 #: /controllers/games_controller.php:1453;1642;1770
 msgid "The saved score does not match yours.\\nSomeone else may have updated the score in the meantime.\\n\\nPlease refresh the page and try again."
@@ -4611,7 +4625,7 @@ msgstr ""
 
 #: /views/divisions/fields.ctp:170
 msgid "Average"
-msgstr ""
+msgstr "Dans la moyenne"
 
 #: /views/divisions/ratings.ctp:4;8
 msgid "Adjust Ratings"
@@ -10450,7 +10464,7 @@ msgstr ""
 
 #: /config/options.php:152
 msgid "Other"
-msgstr ""
+msgstr "Autre"
 
 #: /config/options.php:153
 msgid "Credit Redeemed"
@@ -10482,59 +10496,59 @@ msgstr ""
 
 #: /config/options.php:168
 msgid "Winter"
-msgstr ""
+msgstr "Hiver"
 
 #: /config/options.php:169
 msgid "Winter Indoor"
-msgstr ""
+msgstr "Hiver - intérieur"
 
 #: /config/options.php:170
 msgid "Spring"
-msgstr ""
+msgstr "Printemps"
 
 #: /config/options.php:171
 msgid "Spring Indoor"
-msgstr ""
+msgstr "Printemps - intérieur"
 
 #: /config/options.php:172
 msgid "Summer"
-msgstr ""
+msgstr "Été"
 
 #: /config/options.php:173
 msgid "Summer Indoor"
-msgstr ""
+msgstr "Été - intérieur"
 
 #: /config/options.php:174
 msgid "Fall"
-msgstr ""
+msgstr "Automne"
 
 #: /config/options.php:175
 msgid "Fall Indoor"
-msgstr ""
+msgstr "Automne - Intérieur"
 
 #: /config/options.php:192
 msgid "Captain"
-msgstr ""
+msgstr "Capitaine"
 
 #: /config/options.php:193
 msgid "Assistant captain"
-msgstr ""
+msgstr "Assistant capitaine"
 
 #: /config/options.php:194
 msgid "Non-playing coach"
-msgstr ""
+msgstr "Entraîneur qui ne joue pas"
 
 #: /config/options.php:195
 msgid "Regular player"
-msgstr ""
+msgstr "Joueur régulier"
 
 #: /config/options.php:196
 msgid "Substitute player"
-msgstr ""
+msgstr "Joueur remplaçant"
 
 #: /config/options.php:197
 msgid "Not on team"
-msgstr ""
+msgstr "Ne fait pas partie de l'équipe"
 
 #: /config/options.php:201
 msgid "Players are invited and must accept"
@@ -10566,7 +10580,7 @@ msgstr ""
 
 #: /config/options.php:215
 msgid "cancelled"
-msgstr ""
+msgstr "annulé"
 
 #: /config/options.php:216
 msgid "forfeit"
@@ -10574,19 +10588,19 @@ msgstr ""
 
 #: /config/options.php:226
 msgid "Nobody"
-msgstr ""
+msgstr "Personne"
 
 #: /config/options.php:227
 msgid "Everybody"
-msgstr ""
+msgstr "Tout le monde"
 
 #: /config/options.php:228
 msgid "Admins"
-msgstr ""
+msgstr "Administrateurs"
 
 #: /config/options.php:242
 msgid "Full"
-msgstr ""
+msgstr "Complet"
 
 #: /config/options.php:243
 msgid "Introductory"
@@ -10662,7 +10676,7 @@ msgstr ""
 
 #: /config/options.php:327
 msgid "Tournament"
-msgstr ""
+msgstr "Tournoi"
 
 #: /config/options.php:333
 msgid "Wager System"
@@ -10690,7 +10704,7 @@ msgstr ""
 
 #: /config/options.php:339
 msgid "Manual"
-msgstr ""
+msgstr "Manuel"
 
 #: /config/options.php:344
 msgid "No spirit questionnaire"
@@ -10726,7 +10740,7 @@ msgstr ""
 
 #: /controllers/divisions_controller.php:1658;1698
 msgid "update"
-msgstr ""
+msgstr "mise à jour"
 
 #: /controllers/games_controller.php:781
 msgid "The score for this game has already been finalized."
@@ -10766,7 +10780,7 @@ msgstr ""
 
 #: /controllers/teams_controller.php:2671
 msgid "This team"
-msgstr ""
+msgstr "Cette équipe"
 
 #: /controllers/components/lock.php:31
 msgid "newsletter delivery"
@@ -10811,22 +10825,22 @@ msgstr ""
 
 #: /controllers/components/spirit_team.php:23
 msgid "less than five minutes late"
-msgstr ""
+msgstr "retard de moins de cinq minutes"
 
 #: /controllers/components/spirit_team.php:27
 msgid "less than ten minutes late"
-msgstr ""
+msgstr "retard de moins de dix minutes"
 
 #: /controllers/components/spirit_team.php:31
 msgid "more than ten minutes late"
-msgstr ""
+msgstr "retard de plus de dix minutes"
 
 #: /controllers/components/spirit_team.php:37
 #: /controllers/components/spirit_ocua_team.php:29
 #: /controllers/components/spirit_wfdf.php:13
 #: /controllers/components/spirit_modified_wfdf.php:139
 msgid "Rules Knowledge"
-msgstr ""
+msgstr "Connaissance des règlements"
 
 #: /controllers/components/spirit_team.php:38
 #: /controllers/components/spirit_ocua_team.php:30
@@ -10883,7 +10897,7 @@ msgstr ""
 #: /controllers/components/spirit_wfdf.php:158
 #: /controllers/components/spirit_modified_wfdf.php:181
 msgid "Comments"
-msgstr ""
+msgstr "Commentaires"
 
 #: /controllers/components/spirit_team.php:102
 #: /controllers/components/spirit_ocua_team.php:102
@@ -10909,7 +10923,7 @@ msgstr ""
 #: /controllers/components/spirit_team.php:118;124;130;136
 #: /controllers/components/spirit_ocua_team.php:118;124;130;136
 msgid "Select one of the given options"
-msgstr ""
+msgstr "Sélectionner une des options"
 
 #: /controllers/components/spirit_ocua_team.php:9
 msgid "The modified Leaguerunner spirit survey, developed by the Ottawa Carleton Ultimate Association. Compared to the original Leaguerunner spirit survey, this one emphasizes enjoyment by adding more options there, while decreasing the number of timeliness options."
@@ -10921,32 +10935,32 @@ msgstr ""
 
 #: /controllers/components/spirit_ocua_team.php:18
 msgid "met expectations"
-msgstr ""
+msgstr "a répondu aux attentes"
 
 #: /controllers/components/spirit_ocua_team.php:23
 msgid "did not meet expectations"
-msgstr ""
+msgstr "n'a pas répondu aux attentes"
 
 #: /controllers/components/spirit_ocua_team.php:34;58
 msgid "exceptional"
-msgstr ""
+msgstr "Exceptionnel"
 
 #: /controllers/components/spirit_ocua_team.php:38;62
 #: /controllers/components/spirit_wfdf.php:27;56;85;114
 msgid "good"
-msgstr ""
+msgstr "Bon"
 
 #: /controllers/components/spirit_ocua_team.php:43;67
 msgid "below average"
-msgstr ""
+msgstr "en dessous de la moyenne"
 
 #: /controllers/components/spirit_ocua_team.php:47;71
 msgid "bad"
-msgstr ""
+msgstr "mauvais"
 
 #: /controllers/components/spirit_ocua_team.php:77
 msgid "Overall"
-msgstr ""
+msgstr "global"
 
 #: /controllers/components/spirit_ocua_team.php:78
 msgid "Ignoring the score and based on the opponents' spirit of the game, what was your overall assessment of the game?"
@@ -10954,19 +10968,19 @@ msgstr ""
 
 #: /controllers/components/spirit_ocua_team.php:82
 msgid "This was an exceptionally great game"
-msgstr ""
+msgstr "C'était un match exceptionnel"
 
 #: /controllers/components/spirit_ocua_team.php:86
 msgid "This was an enjoyable game"
-msgstr ""
+msgstr "C'était un match agréable"
 
 #: /controllers/components/spirit_ocua_team.php:91
 msgid "This was a mediocre game"
-msgstr ""
+msgstr "C'était un match médiocre"
 
 #: /controllers/components/spirit_ocua_team.php:95
 msgid "This was a very bad game"
-msgstr ""
+msgstr "C'était un très mauvais match"
 
 #: /controllers/components/spirit_wfdf.php:9
 msgid "The WFDF standard spirit survey."
@@ -10982,24 +10996,24 @@ msgstr ""
 
 #: /controllers/components/spirit_wfdf.php:23;52;81;110
 msgid "not so good"
-msgstr ""
+msgstr "Pas très bon"
 
 #: /controllers/components/spirit_wfdf.php:32;61;90;119
 msgid "very good"
-msgstr ""
+msgstr "Très bon"
 
 #: /controllers/components/spirit_wfdf.php:42
 #: /controllers/components/spirit_modified_wfdf.php:118
 msgid "Fouls"
-msgstr ""
+msgstr "Fautes"
 
 #: /controllers/components/spirit_wfdf.php:43
 msgid "Fouls and Body Contact"
-msgstr ""
+msgstr "Fautes et contacts physiques"
 
 #: /controllers/components/spirit_wfdf.php:44
 msgid "For example: They avoided fouling, contact, and dangerous plays."
-msgstr ""
+msgstr "Par exemple: Ils évitent les fautes, contacts et jeux dangeureux."
 
 #: /controllers/components/spirit_wfdf.php:71;72
 #: /controllers/components/spirit_modified_wfdf.php:34;35
@@ -11013,7 +11027,7 @@ msgstr ""
 #: /controllers/components/spirit_wfdf.php:100
 #: /controllers/components/spirit_modified_wfdf.php:55
 msgid "Attitude"
-msgstr ""
+msgstr "Attitude"
 
 #: /controllers/components/spirit_wfdf.php:101
 msgid "Positive Attitude and Self-Control"
@@ -11025,7 +11039,7 @@ msgstr ""
 
 #: /controllers/components/spirit_wfdf.php:129
 msgid "Comparison"
-msgstr ""
+msgstr "Comparaison"
 
 #: /controllers/components/spirit_wfdf.php:130
 msgid "Our Spirit compared to theirs"
@@ -11037,23 +11051,23 @@ msgstr ""
 
 #: /controllers/components/spirit_wfdf.php:135
 msgid "Our spirit was much better"
-msgstr ""
+msgstr "Notre esprit sportif était bien meilleur"
 
 #: /controllers/components/spirit_wfdf.php:139
 msgid "Our spirit was slightly better"
-msgstr ""
+msgstr "Notre esprit sportif était légèrement meilleur"
 
 #: /controllers/components/spirit_wfdf.php:143
 msgid "Our spirit was the same"
-msgstr ""
+msgstr "Notre esprit sportif était pareil"
 
 #: /controllers/components/spirit_wfdf.php:148
 msgid "Our spirit was slightly worse"
-msgstr ""
+msgstr "Notre esprit sportif était légèrement inférieur"
 
 #: /controllers/components/spirit_wfdf.php:152
 msgid "Our spirit was much worse"
-msgstr ""
+msgstr "Notre esprit sportif était bien inférieur"
 
 #: /controllers/components/spirit_modified_wfdf.php:9
 msgid "The Modified WFDF spirit survey was developed by the Waterloo Organization of Disc Sports to reflect league play rather than tournaments; some WFDF questions have been split, for example, and answers have been simplified from five to three. The survey answers are intended to reward good spirit rather than penalizing bad."
@@ -11061,7 +11075,7 @@ msgstr ""
 
 #: /controllers/components/spirit_modified_wfdf.php:13;14
 msgid "Respect"
-msgstr ""
+msgstr "Respect"
 
 #: /controllers/components/spirit_modified_wfdf.php:15
 msgid "They communicated objectively and without aggressive language. They were willing to believe calls were made in good faith. Were on time. Kept to time limits for discussions, time-outs, between points, etc."
@@ -11069,7 +11083,7 @@ msgstr ""
 
 #: /controllers/components/spirit_modified_wfdf.php:19;40;61;82;103;124;145;166
 msgid "Below Average"
-msgstr ""
+msgstr "En dessous de la moyenne"
 
 #: /controllers/components/spirit_modified_wfdf.php:23;44;65;86;107;128;149;170
 msgid "Average"
@@ -11077,7 +11091,7 @@ msgstr ""
 
 #: /controllers/components/spirit_modified_wfdf.php:28;49;70;91;112;133;154;175
 msgid "Above Average"
-msgstr ""
+msgstr "Au dessous de la moyenne"
 
 #: /controllers/components/spirit_modified_wfdf.php:36
 msgid "Players pointed out their own fouls. They corrected their own team player calls. In an important situation they admitted that the opponent was probably right. Avoided frequently calling non-obvious travels and picks."
@@ -11085,7 +11099,7 @@ msgstr ""
 
 #: /controllers/components/spirit_modified_wfdf.php:56
 msgid "Positive Attitude"
-msgstr ""
+msgstr "Attitude  positive"
 
 #: /controllers/components/spirit_modified_wfdf.php:57
 msgid "They introduced themselves to the opponent. They complimented the opponent for good plays.  Left a positive impression in an after-the-game Spirit Circle, etc."
@@ -11101,11 +11115,11 @@ msgstr ""
 
 #: /controllers/components/spirit_modified_wfdf.php:97
 msgid "Body Contact"
-msgstr ""
+msgstr "Contact physique"
 
 #: /controllers/components/spirit_modified_wfdf.php:98
 msgid "Avoiding Body Contact"
-msgstr ""
+msgstr "Éviter les contacts physiques"
 
 #: /controllers/components/spirit_modified_wfdf.php:99
 msgid "They were aware of other players' body location and movement and avoided dangerous plays."
@@ -11121,7 +11135,7 @@ msgstr ""
 
 #: /controllers/components/spirit_modified_wfdf.php:140
 msgid "Knowledge of the Rules"
-msgstr ""
+msgstr "Connaissance des règlements"
 
 #: /controllers/components/spirit_modified_wfdf.php:141
 msgid "They knew the rules and/or had the willingness to learn and teach them. They did not make unjustified calls."
@@ -11159,17 +11173,17 @@ msgstr ""
 #: /views/elements/divisions/details.ctp:75
 #: /views/events/view.ctp:99
 msgid "Co-ed"
-msgstr ""
+msgstr "mixte"
 
 #: /views/elements/divisions/details.ctp:75
 #: /views/events/view.ctp:99
 msgid "Mens"
-msgstr ""
+msgstr "Hommes"
 
 #: /views/elements/divisions/details.ctp:75
 #: /views/events/view.ctp:99
 msgid "Womens"
-msgstr ""
+msgstr "Femmes"
 
 #: /views/games/submit_status.ctp:34
 msgid "The score for this game has been confirmed as %s %d, %s %d."
@@ -11181,4 +11195,4 @@ msgstr ""
 
 #: /views/games/submit_status.ctp:47
 msgid "A score of %s %d, %s %d has been submitted for this game, but this has not been confirmed."
-msgstr ""
+msgstr "."
