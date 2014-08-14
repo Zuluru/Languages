@@ -9302,9 +9302,8 @@ msgstr "الصفحة الرئيسية %s، اذ تم السماح."
 
 # مافهمت وش المعنى
 #: /views/teams/edit.ctp:112
-#, fuzzy
 msgid "No home %s"
-msgstr "لا بيتs٪ s"
+msgstr "لا فريق مضيف %s"
 
 #: /views/teams/index.ctp:7 /views/teams/letter.ctp:7
 msgid "List Teams"
