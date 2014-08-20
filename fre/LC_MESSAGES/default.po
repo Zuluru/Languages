@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-02-17 21:03-0500\n"
-"PO-Revision-Date: 2014-08-19 09:01-0400\n"
-"Last-Translator: Philippe Lefebvre <philippe.lefebvre18@gmail.com>\n"
+"PO-Revision-Date: 2014-08-20 10:32-0400\n"
+"Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -1030,6 +1030,9 @@ msgstr "La fin de la partie de %s est avant le début de la partie de %s!"
 #: /controllers/game_slots_controller.php:174
 msgid "Detected a pre-existing conflict with the game slot to be created at %s on %s at %s. Unable to continue. (There may be more conflicts; this is only the first one detected.)"
 msgstr ""
+"A détecté un conflit déjà existant avec la plage horraire du match qui "
+"devait être créé à %s sur %s à %s. Ne peut continuer. (Il peut y avoir "
+"d'autres conflits; celui-ci est seulement le premier a avoir été détecté.)"
 
 #: /controllers/game_slots_controller.php:193;200;206
 #: /controllers/schedules_controller.php:482
@@ -1275,7 +1278,7 @@ msgstr "Un capitaine"
 
 #: /controllers/games_controller.php:1330
 msgid "Dependencies for that game have not yet been resolved!"
-msgstr ""
+msgstr "Les dépendances pour ce match n'ont pas encore été résolus!"
 
 #: /controllers/games_controller.php:1335;1414;1608;1740;1859;2414
 msgid "That team did not play in that game!"
@@ -1327,6 +1330,8 @@ msgstr ""
 #: /controllers/games_controller.php:1492;1665;1807;1943
 msgid "There was an error updating the box score.\\nPlease try again."
 msgstr ""
+"Il y a eu une erreur dans la mise à jour de la boîte de résultat.\\n"
+"Veuillez réessayer."
 
 #: /controllers/games_controller.php:1627
 msgid "You can't decrease the score below zero."
@@ -1334,36 +1339,41 @@ msgstr "Vous ne pouvez indiquer un pointage en dessous de zéro."
 
 #: /controllers/games_controller.php:1894
 msgid "You must indicate the play so that the box score will be accurate."
-msgstr ""
+msgstr "Vous devez indiquer le jeu pour que la boîte de résultat soit exact."
 
 #: /controllers/games_controller.php:1898
 msgid "Invalid play!"
-msgstr ""
+msgstr "Jeu invalide!"
 
 #: /controllers/games_controller.php:1916
 msgid "Game timer initialized."
-msgstr ""
+msgstr "Chronomètre de jeu initialisé."
 
 #: /controllers/games_controller.php:1920
 msgid "recorded"
-msgstr ""
+msgstr "enregistré"
 
 #: /controllers/games_controller.php:1953
 #: /controllers/people_controller.php:1223
 msgid "Failed to load the %s library! Contact your system administrator."
 msgstr ""
+"Chargement de %s bibliothèque échoué! Veuillez contacter votre "
+"administrateur de système."
 
 #: /controllers/games_controller.php:1959
 msgid "You have not authorized this site to tweet on your behalf. Configure this in the Profile Preferences page."
 msgstr ""
+"Vous n'avez pas autorisé ce site à diffuser sur Twitter en votre nom. "
+"Veuillez modifier la configuration dans la page de préférences de votre "
+"profil."
 
 #: /controllers/games_controller.php:1977
 msgid "Your message has been tweeted."
-msgstr ""
+msgstr "Votre message a été diffusé sur Twitter."
 
 #: /controllers/games_controller.php:1979
 msgid "Failed to send the tweet."
-msgstr ""
+msgstr "La diffusion sur Twitter à échoué."
 
 #: /controllers/games_controller.php:2088
 msgid "The opponent for that game has not been determined, so a score cannot yet be submitted."
@@ -1380,16 +1390,20 @@ msgstr ""
 #: /controllers/games_controller.php:2135
 msgid "ID for posted score does not match the saved ID."
 msgstr ""
+"L'identification du pointage affiché ne correspond pas à l'identification "
+"sauvegardé."
 
 #: /controllers/games_controller.php:2151
 msgid "There is already a spirit score submitted by your team for this game. To update this, use the \"edit\" link."
 msgstr ""
-"L'esprit du jeu a déjà été envoyé par votre équipe pour cette partie. Pour "
+"L'esprit sportif a déjà été envoyé par votre équipe pour cette partie. Pour "
 "le mettre à jour, utilisez le lien \"éditer\"."
 
 #: /controllers/games_controller.php:2153
 msgid "ID for posted spirit score does not match the saved ID."
 msgstr ""
+"L'identification pour l'esprit sportif affiché ne correspond pas à "
+"l'identification sauvegardé."
 
 #: /controllers/games_controller.php:2180
 msgid "You have tried to perform an invalid all-star nomination."
@@ -1406,7 +1420,7 @@ msgstr "une défaite par défault pour votre équipe"
 
 #: /controllers/games_controller.php:2270
 msgid "a %s-%s loss for your team"
-msgstr ""
+msgstr "une défaite de %s-%s pour votre équipe"
 
 #: /controllers/games_controller.php:2273
 msgid "a loss for your team"
@@ -1426,7 +1440,7 @@ msgstr "partie nulle"
 
 #: /controllers/games_controller.php:2281
 msgid "a %s-%s tie"
-msgstr ""
+msgstr "match nul de %s-%s"
 
 #: /controllers/games_controller.php:2284
 msgid "This score has been saved. Once your opponent has entered their score, it will be officially posted.<br/><br/>The score you have submitted indicates that this game was %s. If this is incorrect, you can edit the score to correct it."
@@ -1448,7 +1462,7 @@ msgstr "résultats de match"
 
 #: /controllers/games_controller.php:2404
 msgid "You must provide a team ID."
-msgstr ""
+msgstr "Vous devez fournir l'identification de l'équipe."
 
 #: /controllers/games_controller.php:2409
 msgid "That league does not have stat tracking enabled!"
@@ -1462,7 +1476,7 @@ msgstr ""
 
 #: /controllers/games_controller.php:2465
 msgid "Failed to delete previously saved %s"
-msgstr ""
+msgstr "N'a pas pu supprimé le %s sauvergardé précédemment"
 
 #: /controllers/games_controller.php:2465;2469;2494;2507
 msgid "stats"
@@ -1470,7 +1484,7 @@ msgstr "statistiques"
 
 #: /controllers/games_controller.php:2469
 msgid "The previously saved %s have been removed."
-msgstr ""
+msgstr "Le %s sauvegardé précédemment a été supprimé."
 
 #: /controllers/games_controller.php:2522
 msgid "You did not submit any stats. You can return to complete this at any time."
@@ -1480,7 +1494,7 @@ msgstr ""
 
 #: /controllers/games_controller.php:2615
 msgid "Game has already been finalized."
-msgstr ""
+msgstr "Le match a déja été finalisé."
 
 #: /controllers/games_controller.php:2677
 msgid "This score doesn't agree with the one your opponent submitted. Because of this, the score will not be posted until your coordinator approves it. Alternately, whichever captain made an error can edit their submission."
@@ -1493,6 +1507,7 @@ msgstr ""
 #: /controllers/games_controller.php:2752
 msgid "No score entry found for either team; cannot finalize this game."
 msgstr ""
+"Aucune des deux équipe n'a founi de résultat; ne peut finaliser ce match."
 
 #: /controllers/games_controller.php:2759
 msgid "Could not successfully save game results."
@@ -1520,7 +1535,7 @@ msgstr "Congé invalide"
 
 #: /controllers/holidays_controller.php:89
 msgid "Invalid id for holiday"
-msgstr ""
+msgstr "Identification invalide pour le congé"
 
 #: /controllers/holidays_controller.php:93
 msgid "Holiday deleted"
@@ -1533,6 +1548,8 @@ msgstr "Ce congé n'a pas été effacé"
 #: /controllers/leagues_controller.php:400
 msgid "The following records reference this league, so it cannot be deleted."
 msgstr ""
+"Les documents ci-dessous sont liés à cette ligue, elle ne peut donc pas être "
+"supprimée."
 
 #: /controllers/leagues_controller.php:404;407
 #: /views/divisions/view.ctp:20
@@ -1551,15 +1568,15 @@ msgstr "Ligue"
 #: /controllers/leagues_controller.php:433
 #: /controllers/schedules_controller.php:963
 msgid "This league has no divisions yet."
-msgstr ""
+msgstr "Cette ligue ne comporte pas encore de divisions."
 
 #: /controllers/leagues_controller.php:465
 msgid "This league has no games scheduled yet."
-msgstr ""
+msgstr "Les matchs n'ont pas encore été organisés pour cette ligue."
 
 #: /controllers/leagues_controller.php:619
 msgid "Cannot generate standings for a league with no schedule."
-msgstr ""
+msgstr "Ne peut produire de rang pour une ligue qui n'a pas de grille horaire."
 
 #: /controllers/mailing_lists_controller.php:66;72;84;95;136;139;152;157;160;167;179;198
 msgid "mailing list"
@@ -1570,7 +1587,7 @@ msgstr "liste de diffusion"
 #: /controllers/teams_controller.php:762;2534
 #: /controllers/components/can_register.php:60
 msgid "Failed to parse the rule"
-msgstr ""
+msgstr "Ne peut analyser la règle"
 
 #: /controllers/mailing_lists_controller.php:112
 #: /controllers/newsletters_controller.php:250
@@ -1580,6 +1597,8 @@ msgstr ""
 #: /controllers/mailing_lists_controller.php:184
 msgid "The following records reference this mailing list, so it cannot be deleted."
 msgstr ""
+"Les documents ci-dessous sont liés à la liste de diffusion, elle ne peut "
+"donc pas être supprimée."
 
 #: /controllers/mailing_lists_controller.php:188;191
 msgid "Mailing list"
@@ -1587,27 +1606,34 @@ msgstr "Liste de diffusion"
 
 #: /controllers/mailing_lists_controller.php:234
 msgid "You are not subscribed to this mailing list."
-msgstr ""
+msgstr "Vous n'êtes pas abonné à la liste de distribution."
 
 #: /controllers/mailing_lists_controller.php:247
 msgid "You have successfully unsubscribed from this mailing list. Note that you may still be on other mailing lists for this site, and some emails (e.g. roster, attendance and score reminders) cannot be opted out of."
 msgstr ""
+"Vous vous êtes désinscrit de la liste de distribution avec succès. Notez que "
+"vous pourriez encore être sur des listes de distribution de ce site et que "
+"certains courriels (liste, présence et rappel de résultat) sont obligatoires."
 
 #: /controllers/mailing_lists_controller.php:250
 msgid "There was an error unsubscribing you from this mailing list. Please try again soon, or contact your system administrator."
 msgstr ""
+"Il y a eu une erreur dans votre désincription de la liste de distribution. "
+"Veuillez réessayer sous peu ou contacter votre administrateur de système."
 
 #: /controllers/maps_controller.php:88
 msgid "That %s has not yet been laid out."
-msgstr ""
+msgstr "Le %s n'a pas encore été défini."
 
 #: /controllers/maps_controller.php:113;116
 msgid "%s layout"
-msgstr ""
+msgstr "%s disposition"
 
 #: /controllers/maps_controller.php:143
 msgid "Before using the layout editor, you must set the default latitude and longitude for your organization."
 msgstr ""
+"Avant d'utiliser l'éditeur de disposition, vous devez fixer la latitude et "
+"longitude par défault pour votre organisation."
 
 #: /controllers/newsletters_controller.php:83;89;100;103;137;142;145;152;172;191;197;214;236;288
 msgid "newsletter"
@@ -1616,6 +1642,8 @@ msgstr "bulletin d'information"
 #: /controllers/newsletters_controller.php:177
 msgid "The following records reference this newsletter, so it cannot be deleted."
 msgstr ""
+"Les documents ci-dessous sont liés à ce bulletin d'information, il ne peut "
+"donc pas être supprimé."
 
 #: /controllers/newsletters_controller.php:181;184
 #: /views/newsletters/delivery.ctp:2
@@ -1627,16 +1655,18 @@ msgstr "Bulletin d'information"
 
 #: /controllers/newsletters_controller.php:272
 msgid "Finished sending newsletters"
-msgstr ""
+msgstr "fini d'envoyer les bulletins d'information"
 
 #: /controllers/people_controller.php:313;468
 msgid "End date cannot precede start date"
-msgstr ""
+msgstr "La date de fin ne peut précéder la date de début"
 
 #: /controllers/people_controller.php:836
 #: /controllers/users_controller.php:98
 msgid "You must select at least one affiliate that you are interested in."
 msgstr ""
+"Vous devez sélectionner au moins un affilié pour lequel vous avez de "
+"l'intérêt."
 
 #: /controllers/people_controller.php:840
 #: /controllers/users_controller.php:102
@@ -1645,7 +1675,7 @@ msgstr ""
 
 #: /controllers/people_controller.php:863
 msgid "Your profile has been saved"
-msgstr ""
+msgstr "Votre profil a été sauvegardé"
 
 #: /controllers/people_controller.php:886
 #: /controllers/users_controller.php:134;137
@@ -1659,7 +1689,7 @@ msgstr ""
 #: /controllers/people_controller.php:993
 #: /controllers/teams_controller.php:1272
 msgid "You do not have a note on that %s."
-msgstr ""
+msgstr "Vous n'avez pas de commentaires pour ce %s."
 
 #: /controllers/people_controller.php:1019
 msgid "preferences"
@@ -1667,16 +1697,16 @@ msgstr "préférences"
 
 #: /controllers/people_controller.php:1025
 msgid "Failed to save your preferences"
-msgstr ""
+msgstr "Échec - n'a pas pu sauvegarder vos préférences"
 
 #: /controllers/people_controller.php:1046
 msgid "You can't add yourself as a relative!"
-msgstr ""
+msgstr "Vous ne pouvez vous ajouter vous même comme une personne apparentée!"
 
 #: /controllers/people_controller.php:1074;1152;1215
 #: /controllers/teams_controller.php:2610;2631;2650;2672;2691;2717;2735;2755;2785;2801;2829;2845
 msgid "Error sending email to %s."
-msgstr ""
+msgstr "Erreur dans l'envoie du courriel à %s."
 
 #: /controllers/people_controller.php:1107
 msgid "This person does not have an outstanding relative request for you."
@@ -1749,23 +1779,29 @@ msgstr ""
 
 #: /controllers/people_controller.php:1335
 msgid "Uploading of photos is disabled on this site."
-msgstr ""
+msgstr "Le téléchargement de photos est désactivé sur ce site."
 
 #: /controllers/people_controller.php:1342
 msgid "Your temp folder %s does not exist or is not writable."
-msgstr ""
+msgstr "Votre dossier temporaire %s n'existe pas ou n'est pas accessible."
 
 #: /controllers/people_controller.php:1344;1353;1383
 msgid "This system does not appear to be properly configured for photo uploads. Please contact your administrator to have them correct this."
 msgstr ""
+"Ce système ne semble pas être correctement configuré pour le téléchargement "
+"de photos. Veuillez contacter votre administrateur pour qu'ils puissent "
+"rectifier la situation."
 
 #: /controllers/people_controller.php:1351;1575
 msgid "Your uploads folder %s does not exist or is not writable."
 msgstr ""
+"Votre dossier de téléchargements %s n'existe pas ou n'est pas accessible."
 
 #: /controllers/people_controller.php:1364;1390;1618;1642
 msgid "There was an unexpected error uploading the file. Please try again."
 msgstr ""
+"Une erreur inattendue s'est produite lors de téléchargement du ficher. "
+"Veuillez réessayer."
 
 #: /controllers/people_controller.php:1373
 msgid "The selected photo is too large. Photos must be less than %s."
@@ -1773,28 +1809,29 @@ msgstr ""
 
 #: /controllers/people_controller.php:1377
 msgid "You must select a photo to upload"
-msgstr ""
+msgstr "Vous devez sélectionner une image a télécharger"
 
 #: /controllers/people_controller.php:1399
 msgid "Unexpected error uploading the file"
-msgstr ""
+msgstr "Une erreur innatendue est servenu lors du téléchargement du dossier"
 
 #: /controllers/people_controller.php:1445
 #: /controllers/teams_controller.php:1116
 msgid "The %s has been saved, but will not be visible until approved"
 msgstr ""
+"Le %s a été sauvegardé, mais il sera visible seulement une fois approuvé"
 
 #: /controllers/people_controller.php:1445
 msgid "photo"
-msgstr ""
+msgstr "image"
 
 #: /controllers/people_controller.php:1454
 msgid "Approval of photos is not required on this site."
-msgstr ""
+msgstr "L'approbation des images n'est pas requis sur ce site."
 
 #: /controllers/people_controller.php:1466
 msgid "There are no photos to approve."
-msgstr ""
+msgstr "Il n'y a pas d'images a approuver."
 
 #: /controllers/people_controller.php:1494;1526;1724;1769;1820;1985;2074;2085;2129;2140;2439;2466;2504;2569
 msgid "Error sending email to %s"
@@ -1807,11 +1844,11 @@ msgstr ""
 
 #: /controllers/people_controller.php:1538;1546;1697;1704;1715;1743;1750;1760
 msgid "document"
-msgstr ""
+msgstr "document"
 
 #: /controllers/people_controller.php:1550
 msgid "You do not have permission to access this document."
-msgstr ""
+msgstr "Vous n'avez pas la permission d'accéder à ce document."
 
 #: /controllers/people_controller.php:1577;1637
 msgid "This system does not appear to be properly configured for document uploads. Please contact your administrator to have them correct this."
@@ -1823,7 +1860,7 @@ msgstr ""
 
 #: /controllers/people_controller.php:1631
 msgid "You must select a document to upload"
-msgstr ""
+msgstr "Vous devez sélectionner un document a télécharger"
 
 #: /controllers/people_controller.php:1660
 msgid "Document saved, you will receive an email when it has been approved"
@@ -1839,7 +1876,7 @@ msgstr ""
 
 #: /controllers/people_controller.php:1715
 msgid "Approved %s"
-msgstr ""
+msgstr "%s approuvé"
 
 #: /controllers/people_controller.php:1728
 msgid "Failed to approve the document"
@@ -1847,7 +1884,7 @@ msgstr ""
 
 #: /controllers/people_controller.php:1760
 msgid "Updated %s"
-msgstr ""
+msgstr "%s mis à jour"
 
 #: /controllers/people_controller.php:1773
 msgid "Failed to update the document"
@@ -1859,7 +1896,7 @@ msgstr ""
 
 #: /controllers/people_controller.php:1883;1924
 msgid "Inactive %s"
-msgstr ""
+msgstr "%s inactif"
 
 #: /controllers/people_controller.php:1891;1932
 msgid "This badge must be earned, not granted."
@@ -1879,7 +1916,7 @@ msgstr ""
 
 #: /controllers/people_controller.php:1989
 msgid "Your nomination has been saved"
-msgstr ""
+msgstr "Votre nomination a été sauvegardé"
 
 #: /controllers/people_controller.php:1994
 msgid "Your badge assignment could not be saved. Please, try again."
@@ -1904,17 +1941,19 @@ msgstr ""
 #: /controllers/people_controller.php:2148
 #: /controllers/users_controller.php:73
 msgid "This system uses "
-msgstr ""
+msgstr "Ce système utilise "
 
 #: /controllers/people_controller.php:2161
 msgid "The following records reference this person, so it cannot be deleted."
 msgstr ""
+"Les dossiers ci-dessous sont liés à cette personne, elle ne peut donc pas "
+"être supprimée."
 
 #: /controllers/people_controller.php:2168;2172
 #: /views/leagues/participation.ctp:13
 #: /views/registrations/full_list.ctp:31
 msgid "Person"
-msgstr ""
+msgstr "Personne"
 
 #: /controllers/people_controller.php:2363
 msgid "You must select a disposition for this account"
@@ -1922,7 +1961,7 @@ msgstr ""
 
 #: /controllers/people_controller.php:2384
 msgid "That account has already been approved"
-msgstr ""
+msgstr "Le compte a déjà été approuvé"
 
 #: /controllers/people_controller.php:2425;2452
 msgid "Couldn't save new member activation"
@@ -1946,7 +1985,7 @@ msgstr ""
 
 #: /controllers/preregistrations_controller.php:130
 msgid "You must select an event!"
-msgstr ""
+msgstr "Vous devez sélectionner un évènement!"
 
 #: /controllers/preregistrations_controller.php:139;145
 msgid "Invalid id for preregistration"
@@ -1973,15 +2012,17 @@ msgstr ""
 #: /views/questionnaires/view.ctp:2;27;28;30
 #: /views/questions/view.ctp:55
 msgid "Questionnaire"
-msgstr ""
+msgstr "Questionnaire"
 
 #: /controllers/questions_controller.php:92;98;111;114;129;136;143;146;199
 msgid "question"
-msgstr ""
+msgstr "question"
 
 #: /controllers/questions_controller.php:204
 msgid "The following records reference this question, so it cannot be deleted."
 msgstr ""
+"Les documents ci-dessous sont liés à cette question, elle ne peut donc pas "
+"être supprimée."
 
 #: /controllers/questions_controller.php:208;211
 #: /views/elements/questionnaires/edit.ctp:4
@@ -1990,11 +2031,11 @@ msgstr ""
 #: /views/questions/index.ctp:79
 #: /views/questions/view.ctp:2;7;21
 msgid "Question"
-msgstr ""
+msgstr "Question"
 
 #: /controllers/regions_controller.php:58;64;77;80;94;99;102;110;122
 msgid "region"
-msgstr ""
+msgstr "région"
 
 #: /controllers/regions_controller.php:127
 msgid "The following records reference this region, so it cannot be deleted."
@@ -2006,31 +2047,31 @@ msgstr ""
 #: /views/fields/view.ctp:32
 #: /views/regions/edit.ctp:14
 msgid "Region"
-msgstr ""
+msgstr "Région"
 
 #: /controllers/registrations_controller.php:291
 msgid "Start date must be before end date!"
-msgstr ""
+msgstr "La date de début doit être avant la date de fin!"
 
 #: /controllers/registrations_controller.php:327;342;418;489;503;583;769;793;1192;1326;1347;1371;1435;1445;1451
 msgid "registration"
-msgstr ""
+msgstr "inscription"
 
 #: /controllers/registrations_controller.php:429
 msgid "Your preferences have been saved and your registration confirmed."
-msgstr ""
+msgstr "Vos préférences ont été sauvegardés et votre inscription confirmée."
 
 #: /controllers/registrations_controller.php:431
 msgid "Your preferences for this registration have been saved."
-msgstr ""
+msgstr "Vos préférences pour cette inscription ont été sauvergardés."
 
 #: /controllers/registrations_controller.php:442
 msgid "You have been added to the waiting list for this event."
-msgstr ""
+msgstr "Vous avez été ajouté à la liste d'attente de cet évènement."
 
 #: /controllers/registrations_controller.php:444
 msgid "Your registration for this event has been confirmed."
-msgstr ""
+msgstr "Votre inscription pour cet évènement a été confirmée."
 
 #: /controllers/registrations_controller.php:456;470;625;630;745;845;860;870;967;979;982;1086;1098;1101;1245;1257;1260;1274;1288;1298;1396;1411;1423
 msgid "Failed to perform additional registration-related operations."
