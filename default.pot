@@ -1170,18 +1170,32 @@ msgstr ""
 #: /controllers/games_controller.php:793;838
 #: /views/divisions/schedule.ctp:73
 #: /views/divisions/spirit.ctp:220
+#: /views/elements/help/index.ctp:38
 #: /views/elements/leagues/standings/tournament/pools.ctp:144
+#: /views/games/attendance_change.ctp:2
+#: /views/games/attendance.ctp:2
+#: /views/games/edit_boxscore.ctp:2
+#: /views/games/edit.ctp:2
 #: /views/games/edit.ctp:3
-#: /views/games/note.ctp:3
-#: /views/games/ratings_table.ctp:3
-#: /views/games/stats.ctp:3
-#: /views/games/submit_score.ctp:3
-#: /views/games/submit_stats.ctp:3
-#: /views/games/view.ctp:3
+#: /views/games/live_score.ctp:2
+#: /views/game_slots/submit_score.ctp:2
 #: /views/game_slots/view.ctp:25
+#: /views/games/note.ctp:2
+#: /views/games/note.ctp:3
+#: /views/games/ratings_table.ctp:2
+#: /views/games/ratings_table.ctp:3
+#: /views/games/stats.ctp:2
+#: /views/games/stats.ctp:3
+#: /views/games/submit_score.ctp:2
+#: /views/games/submit_score.ctp:3
+#: /views/games/submit_stats.ctp:2
+#: /views/games/submit_stats.ctp:3
+#: /views/games/view.ctp:2
+#: /views/games/view.ctp:3
 #: /views/leagues/schedule.ctp:77
 #: /views/schedules/day.ctp:32
 #: /views/teams/spirit.ctp:12
+#: /views/teams/statistics.ctp:214
 msgid "Game"
 msgid_plural "Games"
 msgstr[0] ""
@@ -6113,23 +6127,6 @@ msgstr ""
 #: /views/waivers/index.ctp:2;7
 #: /views/waivers/view.ctp:2
 msgid "Waivers"
-msgstr ""
-
-#: /views/elements/help/index.ctp:38
-#: /views/game_slots/submit_score.ctp:2
-#: /views/games/attendance.ctp:2
-#: /views/games/attendance_change.ctp:2
-#: /views/games/edit.ctp:2
-#: /views/games/edit_boxscore.ctp:2
-#: /views/games/live_score.ctp:2
-#: /views/games/note.ctp:2
-#: /views/games/ratings_table.ctp:2
-#: /views/games/stats.ctp:2
-#: /views/games/submit_score.ctp:2
-#: /views/games/submit_stats.ctp:2
-#: /views/games/view.ctp:2
-#: /views/teams/statistics.ctp:214
-msgid "Games"
 msgstr ""
 
 #: /views/elements/help/index.ctp:40
@@ -12324,7 +12321,7 @@ msgid "aggregate"
 msgstr ""
 
 #: /config/options.php:290
-msgid "Aggregates multiple badges, e.g. "5x""
+msgid "Aggregates multiple badges, e.g. \"5x\""
 msgstr ""
 
 #: /config/options.php:291
