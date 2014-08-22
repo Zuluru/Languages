@@ -1081,9 +1081,12 @@ msgid "scores"
 msgstr ""
 
 #: /controllers/games_controller.php:140;196;238;254;305;343;424;442;460;492;576;579;607;618;750;763;846;864;896;950;1212;1235;1282;1326;1374;1411;1565;1604;1701;1736;1823;1855;1988;2060;2389;2407;2992;3014
+#: /views/fields/bookings.ctp:67;89
 #: /views/games/cron.ctp:23
 msgid "game"
-msgstr ""
+msgid_plural "games"
+msgstr[0] ""
+msgstr[1] ""
 
 #: /controllers/games_controller.php:351
 msgid "You do not have permission to edit that game."
@@ -1175,11 +1178,14 @@ msgstr ""
 #: /views/games/submit_score.ctp:3
 #: /views/games/submit_stats.ctp:3
 #: /views/games/view.ctp:3
+#: /views/game_slots/view.ctp:25
 #: /views/leagues/schedule.ctp:77
 #: /views/schedules/day.ctp:32
 #: /views/teams/spirit.ctp:12
 msgid "Game"
-msgstr ""
+msgid_plural "Games"
+msgstr[0] ""
+msgstr[1] ""
 
 #: /controllers/games_controller.php:822
 msgid "Game was deleted, but ratings were not reset"
@@ -2009,8 +2015,11 @@ msgid "Start date must be before end date!"
 msgstr ""
 
 #: /controllers/registrations_controller.php:349;364;465;537;557;589;609;834;968;992;1366;1466;1489;1558;1567;1577;1590;1873
+#: /views/all/splash.ctp:54
 msgid "registration"
-msgstr ""
+msgid_plural "registration"
+msgstr[0] ""
+msgstr[1] ""
 
 #: /controllers/registrations_controller.php:456;1545
 msgid "A minimum deposit of $%s is required."
@@ -2619,6 +2628,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: /controllers/teams_controller.php:1905
+#: /views/elements/people/roster_role.ctp:59
 msgid "invitation"
 msgid_plural "invitations"
 msgstr[0] ""
@@ -4512,12 +4522,6 @@ msgstr ""
 #: /views/all/splash.ctp:491
 msgid "reduce your affiliations"
 msgstr ""
-
-#: /views/all/splash.ctp:54
-msgid "registration"
-msgid_plural "registration"
-msgstr[0] ""
-msgstr[1] ""
 
 #: /views/answers/activate.ctp:3
 #: /views/badges/activate.ctp:3
@@ -6434,10 +6438,6 @@ msgstr ""
 msgid "Pool %s"
 msgstr ""
 
-#: /views/elements/leagues/standings/tournament/pools.ctp:141
-msgid "Day"
-msgstr ""
-
 #: /views/elements/leagues/view/competition/heading.ctp:5
 #: /views/elements/leagues/view/ladder/heading.ctp:6
 #: /views/elements/leagues/view/rounds/heading.ctp:4
@@ -6626,10 +6626,6 @@ msgstr ""
 #: /views/elements/people/roster_role.ctp:52
 #: /views/leagues/csv/participation.ctp:35
 msgid "invited"
-msgstr ""
-
-#: /views/elements/people/roster_role.ctp:59
-msgid "invitation"
 msgstr ""
 
 #: /views/elements/people/roster_role.ctp:63
@@ -7130,12 +7126,21 @@ msgid "Event Id"
 msgstr ""
 
 #: /views/events/view.ctp:56
+#: /views/games/attendance.ctp:25
+#: /views/games/edit.ctp:80
+#: /views/games/note.ctp:57
+#: /views/games/stats.ctp:54
+#: /views/games/view.ctp:79
+#: /views/team_events/view.ctp:50
+#: /views/teams/edit.ctp:70
 msgid "Location"
 msgid_plural "Locations"
 msgstr[0] ""
 msgstr[1] ""
 
 #: /views/events/view.ctp:91
+#: /views/games/attendance.ctp:19
+#: /views/games/attendance_change.ctp:20
 msgid "Game Time"
 msgid_plural "Game Times"
 msgstr[0] ""
@@ -7360,6 +7365,8 @@ msgid "Bookings"
 msgstr ""
 
 #: /views/facilities/view.ctp:62
+#: /views/fields/tooltip.ctp:11
+#: /views/fields/view.ctp:72
 msgid "Surface"
 msgid_plural "Surfaces"
 msgstr[0] ""
@@ -7389,17 +7396,6 @@ msgstr ""
 
 #: /views/fields/bookings.ctp:63
 msgid "open"
-msgstr ""
-
-#: /views/fields/bookings.ctp:67;89
-msgid "game"
-msgid_plural "games"
-msgstr[0] ""
-msgstr[1] ""
-
-#: /views/fields/tooltip.ctp:11
-#: /views/fields/view.ctp:72
-msgid "Surface"
 msgstr ""
 
 #: /views/fields/tooltip.ctp:14
@@ -7676,27 +7672,6 @@ msgstr ""
 
 #: /views/game_slots/view.ctp:67
 msgid "Available to Divisions"
-msgstr ""
-
-#: /views/game_slots/view.ctp:25
-msgid "Game"
-msgid_plural "Games"
-msgstr[0] ""
-msgstr[1] ""
-
-#: /views/games/attendance.ctp:19
-#: /views/games/attendance_change.ctp:20
-msgid "Game Time"
-msgstr ""
-
-#: /views/games/attendance.ctp:25
-#: /views/games/edit.ctp:80
-#: /views/games/note.ctp:57
-#: /views/games/stats.ctp:54
-#: /views/games/view.ctp:79
-#: /views/team_events/view.ctp:50
-#: /views/teams/edit.ctp:70
-msgid "Location"
 msgstr ""
 
 #: /views/games/attendance.ctp:30
@@ -12208,10 +12183,6 @@ msgstr ""
 msgid "Escalated incident"
 msgstr ""
 
-#: /config/options.php:162
-msgid "Other"
-msgstr ""
-
 #: /config/options.php:168
 msgid "Winter"
 msgstr ""
@@ -12466,18 +12437,6 @@ msgstr ""
 
 #: /controllers/games_controller.php:781
 msgid "A score has already been submitted for this game."
-msgstr ""
-
-#: /controllers/games_controller.php:2269
-msgid "cancelled"
-msgstr ""
-
-#: /controllers/games_controller.php:2269
-msgid "forfeit"
-msgstr ""
-
-#: /controllers/games_controller.php:2269
-msgid "rescheduled"
 msgstr ""
 
 #: /controllers/schedules_controller.php:1071,1073
@@ -12801,10 +12760,6 @@ msgstr ""
 
 #: /controllers/components/spirit_modified_wfdf.php:19;40;61;82;103;124;145;166
 msgid "Below Average"
-msgstr ""
-
-#: /controllers/components/spirit_modified_wfdf.php:23;44;65;86;107;128;149;170
-msgid "Average"
 msgstr ""
 
 #: /controllers/components/spirit_modified_wfdf.php:28;49;70;91;112;133;154;175
