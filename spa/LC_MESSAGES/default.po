@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zuluru\n"
 "POT-Creation-Date: 2014-08-11 21:06-0400\n"
-"PO-Revision-Date: 2014-08-25 16:42-0400\n"
+"PO-Revision-Date: 2014-08-25 16:43-0400\n"
 "Last-Translator: Armando Ochoa <armando8ax@gmail.com>\n"
 "Language-Team: spa (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/spa/>\n"
@@ -4805,7 +4805,7 @@ msgstr "División coordinada"
 
 #: /views/all/splash.ctp:136
 msgid "Get your personal schedule in "
-msgstr "Obten tu horario personal"
+msgstr "Obten tu horario personal "
 
 #: /views/all/splash.ctp:141
 msgid " format or "
