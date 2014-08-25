@@ -2,15 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zuluru\n"
 "POT-Creation-Date: 2014-08-11 21:06-0400\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Greg Schmidt <admin@zuluru.org>\n"
-"Language-Team: \n"
-"Language: es_MX\n"
+"PO-Revision-Date: 2014-08-25 16:42-0400\n"
+"Last-Translator: Armando Ochoa <armando8ax@gmail.com>\n"
+"Language-Team: spa (generated) "
+"<http://translate.zuluru.org/projects/zuluru/default/spa/>\n"
+"Language: spa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.6.8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 1.10-dev\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: /app_controller.php:109
@@ -140,7 +141,7 @@ msgstr ""
 #: /config/schema/migrations/schema9.php:89
 #: /plugins/install/controllers/install_controller.php:430
 msgid "updated."
-msgstr "Actualizado"
+msgstr "actualizado."
 
 #: /config/sport/ultimate.php:45
 #, fuzzy
@@ -901,7 +902,7 @@ msgstr "¡Los cambios al calendario ha sido almacenados!"
 
 #: /controllers/divisions_controller.php:862
 msgid "Cannot generate standings for a division with no schedule."
-msgstr "No se pueden crear estadísticas para una división sin horarios"
+msgstr "No se pueden crear estadísticas para una división sin horarios."
 
 #: /controllers/divisions_controller.php:941;1379
 msgid "This division does not support this report."
@@ -1264,7 +1265,7 @@ msgstr "resultados"
 msgid "game"
 msgid_plural "games"
 msgstr[0] "juego"
-msgstr[1] ""
+msgstr[1] "juegos"
 
 #: /controllers/games_controller.php:351
 msgid "You do not have permission to edit that game."
@@ -1299,7 +1300,7 @@ msgstr "No estás en el roster de un equipo que participa en este juego."
 #: /controllers/people_controller.php:961
 #: /controllers/teams_controller.php:1284
 msgid "You are not allowed to edit that %s."
-msgstr "No tienes permitido editar esa %s. "
+msgstr "No tienes permitido editar esa %s."
 
 #: /controllers/games_controller.php:636;653;698;701;709;727;733;740
 #: /controllers/people_controller.php:961;971;980;983;1012
@@ -1593,7 +1594,7 @@ msgstr "una pérdida por inasistencia para tu equipo"
 
 #: /controllers/games_controller.php:2279
 msgid "a %s-%s loss for your team"
-msgstr "una pérdida por %s-%s para tu equipo."
+msgstr "una pérdida por %s-%s para tu equipo"
 
 #: /controllers/games_controller.php:2282
 msgid "a loss for your team"
@@ -1625,7 +1626,7 @@ msgstr ""
 "Este marcador se ha guardado. Una vez que tu oponente introduzca su "
 "marcador, será anunciado oficialmente.<br/><br/>El marcador que cargaste "
 "indica que este fue un juego %s. Si esto es incorrecto, puedes editar el "
-"marcador para corregirlo. "
+"marcador para corregirlo."
 
 #: /controllers/games_controller.php:2320
 msgid ""
@@ -1748,11 +1749,11 @@ msgstr "Esta liga no tiene divisiones todavía."
 
 #: /controllers/leagues_controller.php:478
 msgid "This league has no games scheduled yet."
-msgstr "Esta liga todavía no tiene juegos programados. "
+msgstr "Esta liga todavía no tiene juegos programados."
 
 #: /controllers/leagues_controller.php:635
 msgid "Cannot generate standings for a league with no schedule."
-msgstr "No puede generar una clasificación para una liga sin programación. "
+msgstr "No puede generar una clasificación para una liga sin programación."
 
 #: /controllers/mailing_lists_controller.php:66;72;84;95;136;139;152;157;160;167;179;198
 msgid "mailing list"
@@ -1781,7 +1782,7 @@ msgid ""
 "The following records reference this mailing list, so it cannot be deleted."
 msgstr ""
 "Los siguientes registros hacen referencia a esta lista de envío por lo que "
-"no pueden ser borrados. "
+"no pueden ser borrados."
 
 #: /controllers/mailing_lists_controller.php:188;191
 msgid "Mailing list"
@@ -2087,7 +2088,7 @@ msgid ""
 "Please contact your administrator to have them correct this."
 msgstr ""
 "Aparentemente este sistema no está configurado para subir documentos. Por "
-"favor ponte en contacto con tu administrador para que pueda corregir esto. "
+"favor ponte en contacto con tu administrador para que pueda corregir esto."
 
 #: /controllers/people_controller.php:1653
 msgid "The selected document is too large. Documents must be less than %s."
@@ -2100,8 +2101,7 @@ msgstr "Debes seleccionar un documento para subir"
 
 #: /controllers/people_controller.php:1686
 msgid "Document saved, you will receive an email when it has been approved"
-msgstr ""
-"Archivo guardado. Recibirás una notificación cuando haya sido aprobado."
+msgstr "Archivo guardado. Recibirás una notificación cuando haya sido aprobado"
 
 #: /controllers/people_controller.php:1689
 msgid "Failed to save your document"
@@ -2179,7 +2179,7 @@ msgstr "No hay insignias para aprobar."
 #: /controllers/people_controller.php:2176
 #: /controllers/users_controller.php:73
 msgid "This system uses "
-msgstr "Este sistema utiliza"
+msgstr "Este sistema utiliza "
 
 #: /controllers/people_controller.php:2189
 msgid "The following records reference this person, so it cannot be deleted."
@@ -2337,7 +2337,7 @@ msgstr "¡La fecha de inicio debe ser anterior a la fecha de conclusión!"
 msgid "registration"
 msgid_plural "registration"
 msgstr[0] "registro"
-msgstr[1] ""
+msgstr[1] "registros"
 
 #: /controllers/registrations_controller.php:456;1545
 msgid "A minimum deposit of $%s is required."
@@ -2470,7 +2470,7 @@ msgstr ""
 
 #: /controllers/registrations_controller.php:997;1371
 msgid "This registration is marked as %s."
-msgstr "Este registro esta marcado como %s. "
+msgstr "Este registro esta marcado como %s."
 
 #: /controllers/registrations_controller.php:1003;1377
 msgid ""
@@ -2584,7 +2584,7 @@ msgstr ""
 
 #: /controllers/schedules_controller.php:97
 msgid "Must currently have an even number of teams in your division. "
-msgstr "Debes tener un número par de equipos en tu división."
+msgstr "Debes tener un número par de equipos en tu división. "
 
 #: /controllers/schedules_controller.php:125
 msgid "You marked %s teams to exclude, that leaves %s."
@@ -2742,13 +2742,14 @@ msgstr "Esta ranura de tarea ya ha sido asignada."
 msgid ""
 "This person has a conflicting assignment:\\n\\n%s (%s) from %s to %s on %s"
 msgstr ""
-"Esta persona tiene un conflicto con su tarea: \\n\\n%s (%s) del %s al %s en "
-"%s "
+"Esta persona tiene un conflicto con su tarea: \\n"
+"\\n"
+"%s (%s) del %s al %s en %s"
 
 #: /controllers/task_slots_controller.php:296
 msgid "This person has a conflicting assignment: %s (%s) from %s to %s on %s"
 msgstr ""
-"Esta persona tiene un conflicto con su tarea: %s (%s)  del %s al %s  en %s."
+"Esta persona tiene un conflicto con su tarea: %s (%s)  del %s al %s  en %s"
 
 #: /controllers/task_slots_controller.php:329
 msgid "Error assigning the task slot"
@@ -2842,7 +2843,7 @@ msgstr ""
 "Este sistema crea equipos a través de un proceso de registro. La opción para "
 "crear equipos a través de Zuluru no esta habilitada. Si necesitas crear un "
 "equipo por cualquier razón (por ejemplo un equipo para ir de gira) por favor "
-"mandanos un correo electronico."
+"mandanos un correo electronico. "
 
 #: /controllers/teams_controller.php:1361
 msgid "The following records reference this team, so it cannot be deleted."
@@ -3054,7 +3055,7 @@ msgstr[1] ""
 msgid "invitation"
 msgid_plural "invitations"
 msgstr[0] "invitación"
-msgstr[1] ""
+msgstr[1] "invitaciones"
 
 #: /controllers/upload_types_controller.php:57;66;84;87;105;110;113;121;138
 msgid "upload type"
@@ -3433,7 +3434,7 @@ msgstr ""
 "Selecciona una franquisia existente para poder agregar este equipo. %s "
 "Solamente puedes agregar equipos a franquisias de las cuales seas dueño; si "
 "no eres el dueño, debes solicitar una transferencia de propiedad antes de "
-"registrar al equipo"
+"registrar al equipo."
 
 #: /controllers/components/event_type_team.php:104
 #: /views/divisions/fields.ctp:32;226 /views/teams/view.ctp:67
@@ -3443,7 +3444,7 @@ msgstr "Preferencias de región"
 
 #: /controllers/components/event_type_team.php:105
 msgid "Area of city where you would prefer to play."
-msgstr "Area de la ciudad donde preferirías jugar"
+msgstr "Area de la ciudad donde preferirías jugar."
 
 #: /controllers/components/event_type_team.php:114
 msgid "Open Roster"
@@ -3456,7 +3457,7 @@ msgid ""
 "captain can add players."
 msgstr ""
 "Si el roster es abierto, otros jugadores podrían solicitar unirse a tu "
-"equipo; de otra forma el capitán es el que agrega los jugadores"
+"equipo; de otra forma el capitán es el que agrega los jugadores."
 
 #: /controllers/components/event_type_team.php:123
 msgid "Attendance Tracking"
@@ -3499,7 +3500,7 @@ msgstr "Detalles para el cruzamiento"
 #: /controllers/components/league_type.php:797
 #: /controllers/components/league_type_tournament.php:934
 msgid "There are insufficient %s available to support the requested schedule."
-msgstr "No hay suficientes %s disponibles para soportar el horario solicitado"
+msgstr "No hay suficientes %s disponibles para soportar el horario solicitado."
 
 #: /controllers/components/league_type.php:917 /models/game.php:428
 msgid ""
@@ -3613,7 +3614,7 @@ msgid ""
 "Need %s weeks of gameslots, yet only %s are available. Add more gameslots."
 msgstr ""
 "Semanas necesarias %s de ranuras de juego, solo %s están disponibles aún. "
-"Agrega mas ranuras de juego. "
+"Agrega mas ranuras de juego."
 
 #: /controllers/components/league_type_roundrobin.php:267
 msgid "Had to stop with %s sets left to schedule: could not assign %s"
@@ -3852,7 +3853,7 @@ msgstr "de"
 
 #: /controllers/components/rule_compare.php:86
 msgid "NOT "
-msgstr "NO"
+msgstr "NO "
 
 #: /controllers/components/rule_has_document.php:28;38
 #, fuzzy
@@ -3924,7 +3925,7 @@ msgid ""
 msgstr ""
 "es un jugador regular para otro equipo que juega en la misma fecha, dicho "
 "equipo jugará en finales. Si el equipo de dicho jugador está en finales, es "
-"el único equipo al que este jugador podrá pertenecer "
+"el único equipo al que este jugador podrá pertenecer"
 
 #: /controllers/components/rule_tuc_playoffs.php:115
 msgid "cannot have more than 2 male subs"
@@ -4275,7 +4276,7 @@ msgstr ""
 
 #: /plugins/install/views/install/update.ctp:37
 msgid "Found %d table(s) to update."
-msgstr "Se encontraron %d tablas para actualizar. "
+msgstr "Se encontraron %d tablas para actualizar."
 
 #: /plugins/install/views/install/update.ctp:38
 msgid ""
