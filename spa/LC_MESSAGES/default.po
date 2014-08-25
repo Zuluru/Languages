@@ -5029,7 +5029,7 @@ msgid ""
 "have it"
 msgstr ""
 "Este premio es determinado en el momento, por lo que no hay registro de "
-"cuanta gente lo tiene."
+"cuanta gente lo tiene"
 
 #: /views/badges/index.ctp:99 /views/badges/view.ctp:114
 #: /views/people/nominate_badge.ctp:6
@@ -5177,7 +5177,7 @@ msgstr "Detalle de contacto"
 
 #: /views/contacts/edit.ctp:20
 msgid "The name of your contact."
-msgstr "El nombre de tu contacto"
+msgstr "El nombre de tu contacto."
 
 #: /views/contacts/edit.ctp:23
 msgid ""
