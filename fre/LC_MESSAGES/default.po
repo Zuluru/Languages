@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-08-11 21:06-0400\n"
-"PO-Revision-Date: 2014-08-25 10:35-0400\n"
-"Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
+"PO-Revision-Date: 2014-09-02 14:54-0400\n"
+"Last-Translator: Julie Dunn <maestro.ju@gmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -53,7 +53,7 @@ msgstr ""
 
 #: /app_controller.php:1387
 msgid "The search terms used are too general. Please be more specific."
-msgstr "La recherche est trop général. Soyez plus précis."
+msgstr "La recherche est trop générale. Soyez plus précis."
 
 #: /app_model.php:381
 msgid "Could not find validation handler %s for %s"
@@ -304,13 +304,12 @@ msgstr ""
 "base de la stratégie de défense d'homme à homme"
 
 #: /config/sport/ultimate.php:75
-#, fuzzy
 msgid ""
 "can stay with the play and sometimes make the D, understand the basics of "
 "man & zone style defense strategies"
 msgstr ""
 "peut suivre le jeu et parfois faire une défense, comprends les bases des "
-"stratégies défensives de zone et d'homme à homme "
+"stratégies défensives de zone et en marquage individuel"
 
 #: /config/sport/ultimate.php:76
 msgid ""
@@ -12967,7 +12966,9 @@ msgstr ""
 msgid ""
 "A score of %s %d, %s %d has been submitted for this game, but this has not "
 "been confirmed."
-msgstr "."
+msgstr ""
+"Un pointage de %s %d, %s %d a été soumis pour cette joute, mais n'a pas été "
+"confirmé."
 
 #~ msgid ""
 #~ "A registration in this email already has an audit record, so the payment "
