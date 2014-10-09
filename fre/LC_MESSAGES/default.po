@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-08-11 21:06-0400\n"
-"PO-Revision-Date: 2014-09-10 13:44-0400\n"
+"PO-Revision-Date: 2014-10-09 07:54-0400\n"
 "Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
@@ -1908,7 +1908,7 @@ msgstr "Échec - n'a pas pu sauvegarder vos préférences"
 
 #: /controllers/people_controller.php:1066
 msgid "You can't add yourself as a relative!"
-msgstr "Vous ne pouvez vous ajouter vous même comme une personne apparentée!"
+msgstr ""
 
 #: /controllers/people_controller.php:1075
 msgid "%s is already your relative."
@@ -1957,11 +1957,11 @@ msgstr ""
 
 #: /controllers/people_controller.php:1208
 msgid "You are not allowed to remove this relation."
-msgstr ""
+msgstr "Vous ne pouvez pas retirer cette relation."
 
 #: /controllers/people_controller.php:1214
 msgid "Failed to remove the relation!"
-msgstr ""
+msgstr "Échec - la relation n'a pas pu être supprimée!"
 
 #: /controllers/people_controller.php:1222
 msgid "Removed the relation."
@@ -1991,7 +1991,7 @@ msgstr ""
 
 #: /controllers/people_controller.php:1288;1302
 msgid "There was an error communicating with Twitter."
-msgstr ""
+msgstr "Une erreur s'est produite dans la communication avec Twitter."
 
 #: /controllers/people_controller.php:1311
 msgid "The callback was not confirmed by Twitter so we cannot continue."
@@ -2071,12 +2071,12 @@ msgstr "Il n'y a pas d'images a approuver."
 
 #: /controllers/people_controller.php:1520;1552;1751;1797;1848;2013;2102;2113;2157;2168;2467;2494;2532;2599
 msgid "Error sending email to %s"
-msgstr ""
+msgstr "Une erreur s'est produite lors de l'envoi du courriel à %s"
 
 #: /controllers/people_controller.php:1558;1594;1696;1717;1764;1811
 #: /controllers/upload_types_controller.php:39;51;77;99;132
 msgid "Document management is disabled on this site."
-msgstr ""
+msgstr "Le système de gestion des documents est désactivé sur ce site."
 
 #: /controllers/people_controller.php:1564;1572;1723;1730;1742;1770;1777;1788
 msgid "document"
@@ -2091,6 +2091,9 @@ msgid ""
 "This system does not appear to be properly configured for document uploads. "
 "Please contact your administrator to have them correct this."
 msgstr ""
+"Le système ne semble pas être configuré correctement pour permettre le "
+"téléchargement de documents. Veuillez contacter votre administrateur pour "
+"qu'il corrige la situation."
 
 #: /controllers/people_controller.php:1653
 msgid "The selected document is too large. Documents must be less than %s."
@@ -2102,11 +2105,11 @@ msgstr "Vous devez sélectionner un document a télécharger"
 
 #: /controllers/people_controller.php:1686
 msgid "Document saved, you will receive an email when it has been approved"
-msgstr ""
+msgstr "Document sauvegardé, vous recevrez un courriel suite à l'approbation"
 
 #: /controllers/people_controller.php:1689
 msgid "Failed to save your document"
-msgstr ""
+msgstr "Échec - document n'a pas pu être sauvegardé"
 
 #: /controllers/people_controller.php:1709
 msgid "There are no documents to approve."
@@ -2118,7 +2121,7 @@ msgstr "%s approuvé"
 
 #: /controllers/people_controller.php:1755
 msgid "Failed to approve the document"
-msgstr ""
+msgstr "Échec dans l'approbation du document"
 
 #: /controllers/people_controller.php:1788
 msgid "Updated %s"
@@ -2126,11 +2129,11 @@ msgstr "%s mis à jour"
 
 #: /controllers/people_controller.php:1801
 msgid "Failed to update the document"
-msgstr ""
+msgstr "Échec dans le téléchargement du document"
 
 #: /controllers/people_controller.php:1856
 msgid "You must select an badge!"
-msgstr ""
+msgstr "Vous devez sélectionner un badge!"
 
 #: /controllers/people_controller.php:1911;1952
 msgid "Inactive %s"
@@ -2163,6 +2166,8 @@ msgstr ""
 #: /controllers/people_controller.php:2024
 msgid "Your nomination could not be saved. Please, try again."
 msgstr ""
+"Votre nomination n'a pas pu être sauvegardée. Veuillez s’il-vous-plait "
+"réessayer."
 
 #: /controllers/people_controller.php:2036
 msgid "That person is not a member of this affiliate."
@@ -2207,7 +2212,7 @@ msgstr ""
 #: /controllers/people_controller.php:2335
 #: /views/elements/people/search_results.ctp:5
 msgid "No matches found!"
-msgstr ""
+msgstr "Aucun résultat trouvé!"
 
 #: /controllers/people_controller.php:2391
 msgid "You must select a disposition for this account"
@@ -2231,7 +2236,7 @@ msgstr ""
 
 #: /controllers/preregistrations_controller.php:95
 msgid "The preregistration has been saved"
-msgstr ""
+msgstr "Le préenregistrement a été sauvegardé"
 
 #: /controllers/preregistrations_controller.php:98
 msgid "The preregistration could not be saved. Please, try again."
@@ -2248,12 +2253,12 @@ msgstr ""
 #: /controllers/preregistrations_controller.php:150;153
 #: /views/events/index.ctp:175;218 /views/events/view.ctp:359
 msgid "Preregistration"
-msgstr ""
+msgstr "Préenregistrement"
 
 #: /controllers/prices_controller.php:55;58;77;82;85;93;109
 #: /controllers/registrations_controller.php:480
 msgid "price point"
-msgstr ""
+msgstr "prix"
 
 #: /controllers/prices_controller.php:114
 #, fuzzy
@@ -2268,16 +2273,18 @@ msgstr ""
 
 #: /controllers/prices_controller.php:129;132
 msgid "Price point"
-msgstr ""
+msgstr "Prix"
 
 #: /controllers/questionnaires_controller.php:90;105;118;121;135;142;149;152;203
 msgid "questionnaire"
-msgstr ""
+msgstr "questionnaire"
 
 #: /controllers/questionnaires_controller.php:208
 msgid ""
 "The following records reference this questionnaire, so it cannot be deleted."
 msgstr ""
+"Les dossiers ci-dessous sont liés à ce questionnaire, il ne peut donc pas "
+"être supprimé."
 
 #: /controllers/questionnaires_controller.php:212;215
 #: /views/events/view.ctp:341 /views/questionnaires/edit.ctp:2;14
@@ -2336,7 +2343,7 @@ msgstr "Un dépôt minimum de %s$ est nécessaire."
 
 #: /controllers/registrations_controller.php:458;1547
 msgid "This deposit exceeds the total cost of $%s."
-msgstr ""
+msgstr "Le dépôt excède le montant total de $%s."
 
 #: /controllers/registrations_controller.php:471
 msgid "Your preferences have been saved and your registration confirmed."
@@ -2456,7 +2463,7 @@ msgstr ""
 
 #: /controllers/registrations_controller.php:1013;1041;1129;1136;1151;1174;1178
 msgid "refund"
-msgstr ""
+msgstr "remboursement"
 
 #: /controllers/registrations_controller.php:1066;1165;1272
 #, fuzzy
@@ -2473,11 +2480,11 @@ msgstr "transfère"
 
 #: /controllers/registrations_controller.php:1114;1216;1323
 msgid "This payment has already been fully refunded."
-msgstr ""
+msgstr "Ce paiement a été remboursé en totalité."
 
 #: /controllers/registrations_controller.php:1118
 msgid "Only payments can be refunded."
-msgstr ""
+msgstr "Seulement les paiements peuvent être remboursés."
 
 #: /controllers/registrations_controller.php:1157
 msgid ""
@@ -2488,7 +2495,7 @@ msgstr ""
 
 #: /controllers/registrations_controller.php:1220
 msgid "Only payments can be credited."
-msgstr ""
+msgstr "Seulement les paiements peuvent être crédités."
 
 #: /controllers/registrations_controller.php:1264
 msgid "The %s could not be saved."
@@ -2496,7 +2503,7 @@ msgstr "Le %s n'a pas pu être sauvegardé."
 
 #: /controllers/registrations_controller.php:1327
 msgid "Only payments can be transferred."
-msgstr ""
+msgstr "Seulement les paiements peuvent être transférés."
 
 #: /controllers/registrations_controller.php:1334
 msgid "This user has no unpaid registrations to transfer the payment to."
@@ -2513,7 +2520,7 @@ msgstr "Échec - n'a pas pu mettre à jour le statut de présence!"
 
 #: /controllers/registrations_controller.php:1444
 msgid "Transferred $%0.2f"
-msgstr ""
+msgstr "$%0.2f transféré"
 
 #: /controllers/registrations_controller.php:1493
 #, fuzzy
@@ -2564,23 +2571,23 @@ msgstr "Le nombre d'équipes doit correspondre à %d."
 
 #: /controllers/schedules_controller.php:200
 msgid "Pool names cannot be empty."
-msgstr ""
+msgstr "Le nom du bassin ne peut être laissé vide."
 
 #: /controllers/schedules_controller.php:203
 msgid "Pool names can only include letters."
-msgstr ""
+msgstr "Le nom du bassin peut contenir seulement des lettres."
 
 #: /controllers/schedules_controller.php:206
 msgid "Pool names can be no longer than two letters."
-msgstr ""
+msgstr "Le nom du bassin ne peut être plus long que 2 lettres."
 
 #: /controllers/schedules_controller.php:210
 msgid "Pools cannot have less than 2 teams."
-msgstr ""
+msgstr "Les bassins ne peuvent contenir moins de 2 équipes."
 
 #: /controllers/schedules_controller.php:213
 msgid "Pools cannot have more than 11 teams."
-msgstr ""
+msgstr "Les bassins ne peuvent contenir plus de 11 équipes."
 
 #: /controllers/schedules_controller.php:360
 msgid "place teams"
@@ -2653,7 +2660,7 @@ msgstr ""
 
 #: /controllers/settings_controller.php:59
 msgid "settings"
-msgstr ""
+msgstr "paramètres"
 
 #: /controllers/settings_controller.php:69
 msgid "Failed to save the settings"
@@ -2666,7 +2673,7 @@ msgstr ""
 #: /controllers/task_slots_controller.php:107;137;218;221
 #: /controllers/tasks_controller.php:123;138;143;181;184;220;225;228;236;270
 msgid "task"
-msgstr ""
+msgstr "tâche"
 
 #: /controllers/task_slots_controller.php:123
 msgid ""
@@ -2706,7 +2713,7 @@ msgstr ""
 
 #: /controllers/task_slots_controller.php:339;401
 msgid "assignment"
-msgstr ""
+msgstr "affectation"
 
 #: /controllers/task_slots_controller.php:370;373
 msgid "This task slot has not been assigned."
@@ -2733,15 +2740,15 @@ msgstr ""
 #: /views/tasks/index.ctp:10 /views/tasks/view.ctp:8
 #: /views/tasks/csv/index.ctp:5
 msgid "Task"
-msgstr ""
+msgstr "Tâche"
 
 #: /controllers/team_events_controller.php:74;86;103;106;139;144;147;159;171;185;229
 msgid "team event"
-msgstr ""
+msgstr "évènement d'équipe"
 
 #: /controllers/team_events_controller.php:175;178
 msgid "Team event"
-msgstr ""
+msgstr "Évènement d'équipe"
 
 #: /controllers/team_events_controller.php:247
 msgid "That person does not have an attendance record for this event."
@@ -2771,11 +2778,11 @@ msgstr ""
 
 #: /controllers/teams_controller.php:916;926
 msgid "number"
-msgstr ""
+msgstr "numéro"
 
 #: /controllers/teams_controller.php:918;928
 msgid "numbers"
-msgstr ""
+msgstr "numéros"
 
 #: /controllers/teams_controller.php:1107
 msgid ""
@@ -2803,7 +2810,7 @@ msgstr ""
 #: /views/teams/statistics.ctp:78;115;147;179;212;247;279
 #: /views/teams/tooltip.ctp:30
 msgid "Team"
-msgstr ""
+msgstr "Équipe"
 
 #: /controllers/teams_controller.php:1403
 msgid "Cannot move a team to a different league"
