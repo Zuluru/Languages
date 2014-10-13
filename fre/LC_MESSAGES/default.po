@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-08-11 21:06-0400\n"
-"PO-Revision-Date: 2014-10-09 07:54-0400\n"
-"Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
+"PO-Revision-Date: 2014-10-13 16:34-0400\n"
+"Last-Translator: Philippe Lefebvre <philippe.lefebvre18@gmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -1908,7 +1908,7 @@ msgstr "Échec - n'a pas pu sauvegarder vos préférences"
 
 #: /controllers/people_controller.php:1066
 msgid "You can't add yourself as a relative!"
-msgstr ""
+msgstr "Tu ne peux t'ajouter comme parent!"
 
 #: /controllers/people_controller.php:1075
 msgid "%s is already your relative."
