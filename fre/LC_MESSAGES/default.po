@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-08-11 21:06-0400\n"
-"PO-Revision-Date: 2014-10-13 16:34-0400\n"
-"Last-Translator: Philippe Lefebvre <philippe.lefebvre18@gmail.com>\n"
+"PO-Revision-Date: 2014-10-14 12:47-0400\n"
+"Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -1912,7 +1912,7 @@ msgstr "Tu ne peux t'ajouter comme parent!"
 
 #: /controllers/people_controller.php:1075
 msgid "%s is already your relative."
-msgstr ""
+msgstr "%S est déjà identifié comme parent."
 
 #: /controllers/people_controller.php:1094;1172;1235
 #: /controllers/teams_controller.php:2720;2741;2760;2782;2801;2827;2845;2865;2895;2911;2939;2955
@@ -1924,11 +1924,12 @@ msgid ""
 "Added %s as relative; you will not have access to their information until "
 "they have approved this."
 msgstr ""
+"%s a été ajouté comme parent; vous n'aurez pas accès à leur information "
+"jusqu'à ce qu'il/elle ait accepté la demande."
 
 #: /controllers/people_controller.php:1104
-#, fuzzy
 msgid "Failed to add %s as relative."
-msgstr "Ne peut analyser la règle"
+msgstr "Ne peut ajouter %s comme parent."
 
 #: /controllers/people_controller.php:1127
 msgid "This person does not have an outstanding relative request for you."
@@ -1936,7 +1937,7 @@ msgstr ""
 
 #: /controllers/people_controller.php:1144
 msgid "You are not allowed to approve this relative request."
-msgstr ""
+msgstr "Vous n'avez pas la permission d'accepter cette demande de parenté."
 
 #: /controllers/people_controller.php:1151
 msgid "Failed to approve the relative request!"
@@ -2038,6 +2039,7 @@ msgstr ""
 #: /controllers/people_controller.php:1393
 msgid "The selected photo is too large. Photos must be less than %s."
 msgstr ""
+"La photo sélectionnée est trop grosse. Les photos doivent être moins de %s."
 
 #: /controllers/people_controller.php:1397
 msgid "You must select a photo to upload"
@@ -2045,7 +2047,7 @@ msgstr "Vous devez sélectionner une image a télécharger"
 
 #: /controllers/people_controller.php:1416 /views/people/photo_upload.ctp:15
 msgid "Supported formats are PNG, JPEG and GIF."
-msgstr ""
+msgstr "Les formats supportés sont PNG, JPEG et GIF."
 
 #: /controllers/people_controller.php:1425
 msgid "Unexpected error uploading the file"
@@ -2098,6 +2100,8 @@ msgstr ""
 #: /controllers/people_controller.php:1653
 msgid "The selected document is too large. Documents must be less than %s."
 msgstr ""
+"Le document sélectionné est trop gros. Les documents doivent être moins de "
+"%s."
 
 #: /controllers/people_controller.php:1657
 msgid "You must select a document to upload"
@@ -2141,19 +2145,19 @@ msgstr "%s inactif"
 
 #: /controllers/people_controller.php:1919;1960
 msgid "This badge must be earned, not granted."
-msgstr ""
+msgstr "Ce badge doit être mérité et non accordé."
 
 #: /controllers/people_controller.php:1966
 msgid "This player already has this badge"
-msgstr ""
+msgstr "Ce joueur possède déjà ce badge"
 
 #: /controllers/people_controller.php:1969
 msgid "This player has already been nominated for this badge"
-msgstr ""
+msgstr "Ce jouer a déjà été nominé pour ce badge"
 
 #: /controllers/people_controller.php:1993
 msgid "The badge has been assigned"
-msgstr ""
+msgstr "Ce badge a été attribué"
 
 #: /controllers/people_controller.php:2017
 msgid "Your nomination has been saved"
@@ -2161,7 +2165,7 @@ msgstr "Votre nomination a été sauvegardé"
 
 #: /controllers/people_controller.php:2022
 msgid "Your badge assignment could not be saved. Please, try again."
-msgstr ""
+msgstr "L'attribution de ce badge n'a pu être sauvegardé. Veuillez ré-essayer."
 
 #: /controllers/people_controller.php:2024
 msgid "Your nomination could not be saved. Please, try again."
@@ -2175,11 +2179,11 @@ msgstr ""
 
 #: /controllers/people_controller.php:2044
 msgid "Badges are not enabled on this site."
-msgstr ""
+msgstr "Les badges ne sont pas permis sur ce site."
 
 #: /controllers/people_controller.php:2061
 msgid "There are no badges to approve."
-msgstr ""
+msgstr "Il n'y a pas de badge à approuver."
 
 #: /controllers/people_controller.php:2176
 #: /controllers/users_controller.php:73
@@ -2198,9 +2202,8 @@ msgid "Person"
 msgstr "Personne"
 
 #: /controllers/people_controller.php:2291
-#, fuzzy
 msgid "Failed to parse the rule."
-msgstr "Ne peut analyser la règle"
+msgstr "Ne peut analyser la règle."
 
 #: /controllers/people_controller.php:2303
 msgid ""
@@ -2208,6 +2211,9 @@ msgid ""
 "which will return the expected results. See the \"rules engine\" help for "
 "suggestions."
 msgstr ""
+"La syntaxe de cette règle est valide. Toutefois, il est impossible de créer "
+"une requête qui donnera les résultats escomptés. Voir l'aide du 'moteur de "
+"règle' pour des suggestions."
 
 #: /controllers/people_controller.php:2335
 #: /views/elements/people/search_results.ctp:5
@@ -2224,15 +2230,15 @@ msgstr "Le compte a déjà été approuvé"
 
 #: /controllers/people_controller.php:2453;2480
 msgid "Couldn't save new member activation"
-msgstr ""
+msgstr "L'activation de ce nouveau membre n'a pu être sauvegardé"
 
 #: /controllers/people_controller.php:2582
 msgid "Couldn't save new member information"
-msgstr ""
+msgstr "L'information pour ce nouveau membre n'a pu être sauvegardé"
 
 #: /controllers/preregistrations_controller.php:84
 msgid "This player already has a preregistration for this event"
-msgstr ""
+msgstr "Ce joueur est déjà préenregistré pour cet évènement"
 
 #: /controllers/preregistrations_controller.php:95
 msgid "The preregistration has been saved"
@@ -2240,7 +2246,7 @@ msgstr "Le préenregistrement a été sauvegardé"
 
 #: /controllers/preregistrations_controller.php:98
 msgid "The preregistration could not be saved. Please, try again."
-msgstr ""
+msgstr "Le préenregistrement n'a pu être sauvegardé. Veuillez svp. réessayer."
 
 #: /controllers/preregistrations_controller.php:130
 msgid "You must select an event!"
@@ -2248,7 +2254,7 @@ msgstr "Vous devez sélectionner un évènement!"
 
 #: /controllers/preregistrations_controller.php:139;145
 msgid "Invalid id for preregistration"
-msgstr ""
+msgstr "Identification non valide pour préenregistrement"
 
 #: /controllers/preregistrations_controller.php:150;153
 #: /views/events/index.ctp:175;218 /views/events/view.ctp:359
@@ -2269,7 +2275,7 @@ msgstr ""
 
 #: /controllers/prices_controller.php:124
 msgid "You cannot delete the only price point on an event."
-msgstr ""
+msgstr "Vous ne pouvez pas supprimé le seul facteur de prix d'un évènement."
 
 #: /controllers/prices_controller.php:129;132
 msgid "Price point"
@@ -2362,9 +2368,8 @@ msgid "Your registration for this event has been confirmed."
 msgstr "Votre inscription pour cet évènement a été confirmée."
 
 #: /controllers/registrations_controller.php:615
-#, fuzzy
 msgid "You have no available credits."
-msgstr "Vous ne pouvez pas modifier ce %s."
+msgstr "Vous n'avez aucun crédit disponible."
 
 #: /controllers/registrations_controller.php:623;1022;1230;1237;1252;1264;1281;1285
 msgid "credit"
@@ -2382,26 +2387,23 @@ msgstr "La date limite pour faire le paiement est dépassée."
 
 #: /controllers/registrations_controller.php:657
 msgid "The event has filled up since you registered."
-msgstr ""
+msgstr "Cet évènement s'est rempli depuis votre inscription."
 
 #: /controllers/registrations_controller.php:717
-#, fuzzy
 msgid "There was an error redeeming the credit."
-msgstr "Erreur de mise à jour du pointage.\\nVeuillez essayer de nouveau."
+msgstr "Une erreur s'est produite dans l'échange de votre crédit."
 
 #: /controllers/registrations_controller.php:727
-#, fuzzy
 msgid "The credit has been applied to the chosen registration."
-msgstr "L'équipe sélectionné a été ajouté à la franchise"
+msgstr "Le crédit a été appliqué à l'inscription choisie."
 
 #: /controllers/registrations_controller.php:775
 msgid "Payment deadline has passed"
 msgstr "La date limite pour faire le paiement est dépassée"
 
 #: /controllers/registrations_controller.php:793
-#, fuzzy
 msgid "Filled up since you registered"
-msgstr "Échec - n'a pas pu sauvegarder vos préférences"
+msgstr "S'est rempli depuis votre inscription"
 
 #: /controllers/registrations_controller.php:803
 msgid "In a different affiliate"
@@ -2409,17 +2411,21 @@ msgstr ""
 
 #: /controllers/registrations_controller.php:810
 msgid "Deposit paid; balance must be paid off-line"
-msgstr ""
+msgstr "Dépôt payé; la balance doit être payé en personne"
 
 #: /controllers/registrations_controller.php:845
 msgid "You have already paid for this! Contact the office to arrange a refund."
 msgstr ""
+"Vous avez déjà payé. Veuillez contacter le bureau pour demander un "
+"remboursement."
 
 #: /controllers/registrations_controller.php:849
 msgid ""
 "This registration has already been cancelled. Cancelled records are kept on "
 "file for accounting purposes."
 msgstr ""
+"Cette inscription est déjà annulé. Les annulations sont gardés au dossier "
+"aux fins comptables."
 
 #: /controllers/registrations_controller.php:858
 msgid "You may only unregister from events that you have registered for!"
