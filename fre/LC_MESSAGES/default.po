@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-08-11 21:06-0400\n"
-"PO-Revision-Date: 2014-10-16 07:10-0400\n"
-"Last-Translator: Joëlle Matte <joellematte@hotmail.com>\n"
+"PO-Revision-Date: 2014-10-17 13:28-0400\n"
+"Last-Translator: Greg Schmidt <greg@trawna.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -1912,7 +1912,7 @@ msgstr "Tu ne peux t'ajouter comme parent!"
 
 #: /controllers/people_controller.php:1075
 msgid "%s is already your relative."
-msgstr "%S est déjà identifié comme parent."
+msgstr "%s est déjà identifié comme parent."
 
 #: /controllers/people_controller.php:1094;1172;1235
 #: /controllers/teams_controller.php:2720;2741;2760;2782;2801;2827;2845;2865;2895;2911;2939;2955
