@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-08-11 21:06-0400\n"
-"PO-Revision-Date: 2014-10-17 13:28-0400\n"
-"Last-Translator: Greg Schmidt <greg@trawna.com>\n"
+"PO-Revision-Date: 2014-10-21 19:17-0400\n"
+"Last-Translator: Joëlle Matte <joellematte@hotmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -2182,7 +2182,7 @@ msgstr ""
 
 #: /controllers/people_controller.php:2036
 msgid "That person is not a member of this affiliate."
-msgstr ""
+msgstr "Cette personne n'est pas membre de cette affiliation."
 
 #: /controllers/people_controller.php:2044
 msgid "Badges are not enabled on this site."
@@ -2229,7 +2229,7 @@ msgstr "Aucun résultat trouvé!"
 
 #: /controllers/people_controller.php:2391
 msgid "You must select a disposition for this account"
-msgstr ""
+msgstr "Vous devez choisir une disposition pour ce compte"
 
 #: /controllers/people_controller.php:2412
 msgid "That account has already been approved"
@@ -2437,10 +2437,12 @@ msgstr ""
 #: /controllers/registrations_controller.php:858
 msgid "You may only unregister from events that you have registered for!"
 msgstr ""
+"Vous pouvez seulement vous désinscrire à des événements auxquels vous êtes "
+"inscrit!"
 
 #: /controllers/registrations_controller.php:867
 msgid "Successfully unregistered from this event."
-msgstr ""
+msgstr "Vous vous êtes désinscrit de cet événement avec succès."
 
 #: /controllers/registrations_controller.php:900
 msgid ""
@@ -2456,6 +2458,11 @@ msgid ""
 "is updated, quoting order #<b>%s</b>, or you may not be allowed to be added "
 "to rosters, etc."
 msgstr ""
+"Votre paiement a été approuvé mais il y a eu un erreur dans la mise à jour "
+"de votre statut de paiement dans la base de données. Veuillez contacter "
+"l'administration pour vous assurer de la mise à jour de votre information en "
+"mentionnant la commande #<b>%s</b> ou vous pourriez ne pas être en mesure "
+"d'être ajouté à des alignements, etc."
 
 #: /controllers/registrations_controller.php:939
 msgid ""
@@ -2463,10 +2470,15 @@ msgid ""
 "office to ensure that your information is updated, quoting order #<b>%s</b>, "
 "or you may not be allowed to be added to rosters, etc."
 msgstr ""
+"il y a eu un erreur dans la mise à jour de l'enregistrement de votre "
+"paiement dans la base de données. Veuillez contacter l'administration pour "
+"vous assurer de la mise à jour de votre information en mentionnant la "
+"commande #<b>%s</b> ou vous pourriez ne pas être en mesure d'être ajouté à "
+"des alignements, etc."
 
 #: /controllers/registrations_controller.php:997;1371
 msgid "This registration is marked as %s."
-msgstr ""
+msgstr "Cet enregistrement est marqué comme %s."
 
 #: /controllers/registrations_controller.php:1003;1377
 msgid ""
