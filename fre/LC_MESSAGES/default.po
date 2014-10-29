@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-08-11 21:06-0400\n"
-"PO-Revision-Date: 2014-10-21 19:17-0400\n"
+"PO-Revision-Date: 2014-10-28 20:57-0400\n"
 "Last-Translator: Joëlle Matte <joellematte@hotmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
@@ -2485,15 +2485,16 @@ msgid ""
 "This registration is already paid in full; you may need to edit it manually "
 "to mark it as paid."
 msgstr ""
+"Cet enregistrement a déjà été complètement payé; vous devrez peut-être la "
+"modifier manuellement pour l'inscrire comme étant payé."
 
 #: /controllers/registrations_controller.php:1013;1041;1129;1136;1151;1174;1178
 msgid "refund"
 msgstr "remboursement"
 
 #: /controllers/registrations_controller.php:1066;1165;1272
-#, fuzzy
 msgid "Failed to update payment status."
-msgstr "Échec - n'a pas pu mettre à jour le statut de présence!"
+msgstr "Échec dans la mise à jour du statut de paiement."
 
 #: /controllers/registrations_controller.php:1074;1086;1110;1188;1212;1295;1319
 msgid "payment"
@@ -2533,37 +2534,40 @@ msgstr "Seulement les paiements peuvent être transférés."
 #: /controllers/registrations_controller.php:1334
 msgid "This user has no unpaid registrations to transfer the payment to."
 msgstr ""
+"Cet utilisateur n'a pas d'enregistrement non payé auquel transférer le "
+"paiement."
 
 #: /controllers/registrations_controller.php:1419
 msgid "Failed to mark the original registration as refunded."
 msgstr ""
 
 #: /controllers/registrations_controller.php:1436
-#, fuzzy
 msgid "Failed to update the payment status of the new registration."
-msgstr "Échec - n'a pas pu mettre à jour le statut de présence!"
+msgstr ""
+"Échec dans la mise à jour du statut de paiement de cette nouvelle "
+"inscription."
 
 #: /controllers/registrations_controller.php:1444
 msgid "Transferred $%0.2f"
 msgstr "$%0.2f transféré"
 
 #: /controllers/registrations_controller.php:1493
-#, fuzzy
 msgid "You cannot edit a registration once a payment has been made."
-msgstr "Votre inscription pour cet évènement a été confirmée."
+msgstr ""
+"Vous ne pouvez modifier un enregistrement une fois que le paiement a été "
+"fait."
 
 #: /controllers/registrations_controller.php:1657
 msgid "There are no unpaid registrations."
-msgstr ""
+msgstr "Il n'y a aucune inscription non payée."
 
 #: /controllers/registrations_controller.php:1678
 msgid "There are no unused credits."
-msgstr ""
+msgstr "Il n'y a aucun crédit non utilisé."
 
 #: /controllers/registrations_controller.php:1687
-#, fuzzy
 msgid "Waiting lists are not enabled on this site."
-msgstr "Le téléchargement de photos est désactivé sur ce site."
+msgstr "Les listes d'attente ne sont pas activées sur ce site."
 
 #: /controllers/registrations_controller.php:1717
 msgid "There is nobody on the waiting list for this event."
