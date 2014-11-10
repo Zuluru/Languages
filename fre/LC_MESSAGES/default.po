@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-08-11 21:06-0400\n"
-"PO-Revision-Date: 2014-10-28 20:57-0400\n"
-"Last-Translator: Joëlle Matte <joellematte@hotmail.com>\n"
+"PO-Revision-Date: 2014-11-10 12:00-0400\n"
+"Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -1933,7 +1933,7 @@ msgstr "Ne peut ajouter %s comme parent."
 
 #: /controllers/people_controller.php:1127
 msgid "This person does not have an outstanding relative request for you."
-msgstr ""
+msgstr "Cette personne n'a pas de demande en suspens pour vous."
 
 #: /controllers/people_controller.php:1144
 msgid "You are not allowed to approve this relative request."
@@ -1954,7 +1954,7 @@ msgstr "capitaines d'équipe."
 
 #: /controllers/people_controller.php:1190
 msgid "This person is already not related to you."
-msgstr ""
+msgstr "Cette personne ne fait déjà pas partie de votre famille."
 
 #: /controllers/people_controller.php:1208
 msgid "You are not allowed to remove this relation."
@@ -2274,7 +2274,6 @@ msgid "price point"
 msgstr "prix"
 
 #: /controllers/prices_controller.php:114
-#, fuzzy
 msgid "The following records reference this price, so it cannot be deleted."
 msgstr ""
 "Les dossiers ci-dessous sont liés à cette personne, elle ne peut donc pas "
@@ -2450,6 +2449,11 @@ msgid ""
 "office to ensure that your information is updated, quoting order #<b>%s</b>, "
 "or you may not be allowed to be added to rosters, etc."
 msgstr ""
+"Une erreur s'est produite lors de la mise à jour de l'enregistrement d'audit "
+"au sein de la base de données. Veuillez contacter le bureau afin de vous "
+"assurer que votre information ait été mise à jour, veuillez fournir le "
+"numéro de référence #<b>%s<\\b> pour vous permettre d'être ajouté à "
+"l'équipe, etc."
 
 #: /controllers/registrations_controller.php:925
 msgid ""
@@ -2518,6 +2522,10 @@ msgid ""
 "You can try again, or uncheck the \"Issue refund through online payment "
 "provider\" box and issue the refund manually."
 msgstr ""
+"Échec dans l'émission de votre remboursement. L'information concernant le "
+"remboursement n'a PAS pu être sauvegardé. Vous pouvez réessayer, ou décocher "
+"la case ''Émettre le remboursement en utilisant le service de paiement en "
+"ligne'' et émettez le remboursement de façon manuel."
 
 #: /controllers/registrations_controller.php:1220
 msgid "Only payments can be credited."
@@ -2539,7 +2547,7 @@ msgstr ""
 
 #: /controllers/registrations_controller.php:1419
 msgid "Failed to mark the original registration as refunded."
-msgstr ""
+msgstr "Échec, n'a pas pu identifier l'inscription originale comme remboursée."
 
 #: /controllers/registrations_controller.php:1436
 msgid "Failed to update the payment status of the new registration."
@@ -2574,25 +2582,26 @@ msgid "There is nobody on the waiting list for this event."
 msgstr "Il n'y a personne sur la liste d'attente de cet évènement."
 
 #: /controllers/registrations_controller.php:1866
-#, fuzzy
 msgid "Failed to update registration data."
-msgstr "Échec dans la mise à jour de la note d'équipe"
+msgstr "Échec dans la mise à jour de l'information d'inscription."
 
 #: /controllers/schedules_controller.php:88
 msgid "Cannot schedule games in a division with less than two teams."
 msgstr ""
+"Ne peut organiser des matchs pour une division qui compte moins de deux "
+"équipes."
 
 #: /controllers/schedules_controller.php:97
 msgid "Must currently have an even number of teams in your division. "
-msgstr ""
+msgstr "Vous avez présentement un nombre impair d'équipes dans votre division. "
 
 #: /controllers/schedules_controller.php:125
 msgid "You marked %s teams to exclude, that leaves %s."
-msgstr ""
+msgstr "Vous avez identifié %s équipes à exclure, il en reste donc %s."
 
 #: /controllers/schedules_controller.php:152
 msgid "Select the number of pools to add."
-msgstr ""
+msgstr "Selectionnez le nombre de bassin à ajouter."
 
 #: /controllers/schedules_controller.php:194
 msgid "Number of teams must add up to %d."
@@ -2624,21 +2633,24 @@ msgstr ""
 
 #: /controllers/schedules_controller.php:403
 msgid "Invalid qualifier %s."
-msgstr ""
+msgstr "%s de qualifié non valide."
 
 #: /controllers/schedules_controller.php:416
 msgid ""
 "You have selected %s and %s, but you cannot mix \"pool\"-type options with "
 "\"ordinal\"-type options; both could end up being the same team."
 msgstr ""
+"Vous avez sélectionné %s et %S, mais vous ne pouvez mélanger des options de "
+"type ''bassin'' ainsi que des options de type ''ordinal''; car c'est deux "
+"options pourraient ne représentés qu'une seule et même équipe."
 
 #: /controllers/schedules_controller.php:445
 msgid "You must select a qualifier for each slot."
-msgstr ""
+msgstr "Vous devez selectionner un qualifié pour chacun des crénaux."
 
 #: /controllers/schedules_controller.php:448
 msgid "You must select a unique qualifier for each slot."
-msgstr ""
+msgstr "Vous devez sélectionner un seul qualifié pour chacun des crénaux."
 
 #: /controllers/schedules_controller.php:476
 msgid "pools"
@@ -2646,46 +2658,49 @@ msgstr "bassins"
 
 #: /controllers/schedules_controller.php:500
 msgid "Select the type of game or games to add."
-msgstr ""
+msgstr "Sélectionnez le type de match(s) à ajouter."
 
 #: /controllers/schedules_controller.php:537;985
 msgid ""
 "Sorry, there are no %s available for your division. Check that %s have been "
 "allocated before attempting to proceed."
 msgstr ""
+"Désolé, il n'y a pas de %s disponible pour votre division. Vérifier si %s a "
+"bel et bien été alloué avant de procéder."
 
 #: /controllers/schedules_controller.php:646
-#, fuzzy
 msgid "This division is already fully scheduled on the selected date."
 msgstr "À ce jour, aucune partie n'a été prévue pour cette division."
 
 #: /controllers/schedules_controller.php:883
 msgid "Deleted games on the requested date."
-msgstr ""
+msgstr "Matchs effacés pour la date demandée."
 
 #: /controllers/schedules_controller.php:885
 msgid "Deleted games from the requested pool."
-msgstr ""
+msgstr "Matchs effacés du bassin demandé."
 
 #: /controllers/schedules_controller.php:902
 msgid "Failed to delete games on the requested date."
-msgstr ""
+msgstr "Échec - n'a pas pu effacer les matchs pour la date demandée."
 
 #: /controllers/schedules_controller.php:958
 msgid "Games rescheduled"
-msgstr ""
+msgstr "Les matchs ont été reportés"
 
 #: /controllers/schedules_controller.php:965
 msgid "Games were rescheduled, but failed to clear unused slots!"
 msgstr ""
+"Les matchs ont été reportés, mais un échec est survenu dans le dégagement "
+"des crénaux inutilisés!"
 
 #: /controllers/schedules_controller.php:1071
 msgid "%s games on the requested date."
-msgstr ""
+msgstr "%s matchs pour la date demandée."
 
 #: /controllers/schedules_controller.php:1073
 msgid "Failed to %s games on the requested date."
-msgstr ""
+msgstr "Échec dans %s des matchs pour la date demandée."
 
 #: /controllers/settings_controller.php:59
 msgid "settings"
@@ -2693,11 +2708,11 @@ msgstr "paramètres"
 
 #: /controllers/settings_controller.php:69
 msgid "Failed to save the settings"
-msgstr ""
+msgstr "Échec, n'a pas pu sauvegarder les paramètres"
 
 #: /controllers/task_slots_controller.php:68;148;153;156;164;177;197;200;208;211;349;352;360;363
 msgid "task slot"
-msgstr ""
+msgstr "Crénaux de tâche"
 
 #: /controllers/task_slots_controller.php:107;137;218;221
 #: /controllers/tasks_controller.php:123;138;143;181;184;220;225;228;236;270
@@ -2709,23 +2724,27 @@ msgid ""
 "The task slot(s) have been saved. You may create more similar task slots "
 "below."
 msgstr ""
+"Le créneau de tâche a été sauvergardé. Vous pouvez créer d'autres créneaux "
+"de tâches similaires."
 
 #: /controllers/task_slots_controller.php:125;129
 msgid "task slot(s)"
-msgstr ""
+msgstr "créneau de tâche"
 
 #: /controllers/task_slots_controller.php:182
 msgid ""
 "The following records reference this task slot, so it cannot be deleted."
 msgstr ""
+"Les documents suivants sont liés à ce créneau de tâche, il ne peut donc pas "
+"être supprimé."
 
 #: /controllers/task_slots_controller.php:186;189
 msgid "Task slot"
-msgstr ""
+msgstr "Créneau de tâche"
 
 #: /controllers/task_slots_controller.php:228;231
 msgid "This task slot has already been assigned."
-msgstr ""
+msgstr "Ce créneau de tâche a déjà été assigné."
 
 #: /controllers/task_slots_controller.php:287
 msgid ""
@@ -2734,7 +2753,7 @@ msgstr ""
 
 #: /controllers/task_slots_controller.php:296
 msgid "This person has a conflicting assignment: %s (%s) from %s to %s on %s"
-msgstr ""
+msgstr "Cette personne a un conflit d'horaire: %s (%s) de %s à %s au %s"
 
 #: /controllers/task_slots_controller.php:329
 msgid "Error assigning the task slot"
@@ -2758,11 +2777,13 @@ msgstr ""
 
 #: /controllers/task_slots_controller.php:401
 msgid "The %s has been approved"
-msgstr ""
+msgstr "Le %s a été approuvé"
 
 #: /controllers/tasks_controller.php:275
 msgid "The following records reference this task, so it cannot be deleted."
 msgstr ""
+"Les dossiers suivants sont liés à cette tâche, elle ne peut donc pas être "
+"supprimé."
 
 #: /controllers/tasks_controller.php:279;282 /views/people/view.ctp:616
 #: /views/task_slots/view.ctp:9 /views/tasks/edit.ctp:14
@@ -2781,7 +2802,7 @@ msgstr "Évènement d'équipe"
 
 #: /controllers/team_events_controller.php:247
 msgid "That person does not have an attendance record for this event."
-msgstr ""
+msgstr "Cette personne n'a pas de rapport de présence pour cet évènement."
 
 #: /controllers/team_events_controller.php:325
 msgid ""
@@ -2791,19 +2812,23 @@ msgstr ""
 
 #: /controllers/teams_controller.php:849
 msgid "Shirt numbers are not enabled on this system."
-msgstr ""
+msgstr "Les numéros de chandails ne sont disponible dans ce système."
 
 #: /controllers/teams_controller.php:875
 msgid "That player is not on this team."
-msgstr ""
+msgstr "Ce joueur ne fait pas partie de cette équipe."
 
 #: /controllers/teams_controller.php:880
 msgid "You do not have permission to set shirt numbers for this team."
 msgstr ""
+"Vous n'avez pas la permission de régler la fonction numéros de chandails "
+"pour cette équipe."
 
 #: /controllers/teams_controller.php:902
 msgid "You cannot set shirt numbers for someone not on this team."
 msgstr ""
+"Vous ne pouvez pas ajouter un numéro de chandail à une personne ne faisant "
+"pas partie de cette équipe."
 
 #: /controllers/teams_controller.php:916;926
 msgid "number"
@@ -2819,10 +2844,15 @@ msgid ""
 "through Zuluru is disabled. If you need a team created for some other reason "
 "(e.g. a touring team), please email "
 msgstr ""
+"Ce système crée les équipes à traver le processus d'inscription. La création "
+"d'équipe à travers Zuluru est désactivée. Si vous avez besoin de créer une "
+"équipe pour toute autre raison, veuillez nous contacter par courriel "
 
 #: /controllers/teams_controller.php:1361
 msgid "The following records reference this team, so it cannot be deleted."
 msgstr ""
+"Les documents suivants sont liés à cette équipe, elle ne peut donc pas être "
+"supprimée."
 
 #: /controllers/teams_controller.php:1370;1373
 #: /views/divisions/fields.ctp:26;229 /views/divisions/spirit.ctp:98
@@ -2843,11 +2873,11 @@ msgstr "Équipe"
 
 #: /controllers/teams_controller.php:1403
 msgid "Cannot move a team to a different league"
-msgstr ""
+msgstr "Ne peut bouger une équipe dans une ligue différente"
 
 #: /controllers/teams_controller.php:1407
 msgid "Destination division must have the same gender ratio"
-msgstr ""
+msgstr "La division d'accueil doit avoir le même ratio de sexe"
 
 #: /controllers/teams_controller.php:1415
 msgid "Team has been moved to %s"
@@ -2889,62 +2919,63 @@ msgstr ""
 
 #: /controllers/teams_controller.php:2060;2128
 msgid "This player is not on this team."
-msgstr ""
+msgstr "Ce joueur ne fait pas partie de cette équipe."
 
 #: /controllers/teams_controller.php:2069
 msgid ""
 "A player's role on a team cannot be changed until they have been approved on "
 "the roster."
 msgstr ""
+"Le rôle d'un joueur sur l'équipe ne peut être modifié avant qu'il soit "
+"accepté sur la liste de joueurs."
 
 #: /controllers/teams_controller.php:2079
 msgid "All teams must have at least one player as captain."
-msgstr ""
+msgstr "Chaque équipe doit avoir au moins un joueur identifié comme capitaine."
 
 #: /controllers/teams_controller.php:2089
 msgid "You do not have permission to set that role."
-msgstr ""
+msgstr "Vous n'avez pas la permission de donner ce rôle."
 
 #: /controllers/teams_controller.php:2141
 msgid "That is not a valid position."
-msgstr ""
+msgstr "Ce n'est pas une position valide."
 
 #: /controllers/teams_controller.php:2153
 msgid "Changed the player's position."
-msgstr ""
+msgstr "La position de ce joueur a été changé."
 
 #: /controllers/teams_controller.php:2157
 msgid "Failed to change the player's position."
-msgstr ""
+msgstr "La position de ce joueur n'a pas pu être changé."
 
 #: /controllers/teams_controller.php:2174
 msgid "This player is already on this team."
-msgstr ""
+msgstr "Ce joueur fait déjà partie de cette équipe."
 
 #: /controllers/teams_controller.php:2191
-#, fuzzy
 msgid "You must select a role for this player."
-msgstr "Vous devez sélectionner une image a télécharger"
+msgstr "Vous devez sélectionner un rôle pour ce joueur."
 
 #: /controllers/teams_controller.php:2219
 msgid "You are already on this team."
-msgstr ""
+msgstr "Vous faites déjà partie de cette équipe."
 
 #: /controllers/teams_controller.php:2241
 msgid "You are not allowed to request that role."
-msgstr ""
+msgstr "Vous n'avez pas la permission de demander ce rôle."
 
 #: /controllers/teams_controller.php:2268;2349
 msgid "This player has neither been invited nor requested to join this team."
-msgstr ""
+msgstr "Ce joueur n'a ni été invité, ni demandé de se joindre à l'équipe."
 
 #: /controllers/teams_controller.php:2273;2354
 msgid "This player has already been added to the roster."
-msgstr ""
+msgstr "Ce joueur a déjà été ajouté à la liste de joueurs."
 
 #: /controllers/teams_controller.php:2296
 msgid "You are not allowed to accept this roster %s."
-msgstr ""
+msgstr "Vous n'avez pas la permission d'accepter cette liste d'équipe %s."
 
 #: /controllers/teams_controller.php:2316
 msgid "You have accepted this roster %s."
@@ -12513,11 +12544,11 @@ msgstr ""
 
 #: /controllers/divisions_controller.php:1658;1698;1703
 msgid "reset"
-msgstr ""
+msgstr "Réinitialiser"
 
 #: /controllers/divisions_controller.php:1703
 msgid "resolved"
-msgstr ""
+msgstr "résolu"
 
 #: /controllers/divisions_controller.php:1658;1698
 msgid "update"
@@ -12533,11 +12564,11 @@ msgstr ""
 
 #: /controllers/schedules_controller.php:1071,1073
 msgid "Published"
-msgstr ""
+msgstr "Publié"
 
 #: /controllers/schedules_controller.php:1071,1073
 msgid "Unpublished"
-msgstr ""
+msgstr "Non publiés"
 
 #: /controllers/teams_controller.php:2671
 msgid "To be added to this team, this player must first"
@@ -12545,7 +12576,7 @@ msgstr ""
 
 #: /controllers/teams_controller.php:2671
 msgid "This player"
-msgstr ""
+msgstr "Ce joueur"
 
 #: /controllers/teams_controller.php:2671
 msgid "This team"
@@ -12621,25 +12652,25 @@ msgstr ""
 #: /controllers/components/spirit_team.php:42;66
 #: /controllers/components/spirit_wfdf.php:36;65;94;123
 msgid "excellent"
-msgstr ""
+msgstr "excellent"
 
 #: /controllers/components/spirit_team.php:47;71
 msgid "acceptable"
-msgstr ""
+msgstr "acceptable"
 
 #: /controllers/components/spirit_team.php:51;75
 #: /controllers/components/spirit_wfdf.php:19;48;77;106
 msgid "poor"
-msgstr ""
+msgstr "Faible"
 
 #: /controllers/components/spirit_team.php:55;79
 msgid "nonexistant"
-msgstr ""
+msgstr "inexistant"
 
 #: /controllers/components/spirit_team.php:61
 #: /controllers/components/spirit_ocua_team.php:53
 msgid "Sportsmanship"
-msgstr ""
+msgstr "Esprit sportif"
 
 #: /controllers/components/spirit_team.php:62
 #: /controllers/components/spirit_ocua_team.php:54
@@ -12649,7 +12680,7 @@ msgstr ""
 #: /controllers/components/spirit_team.php:85
 #: /controllers/components/spirit_modified_wfdf.php:160
 msgid "Enjoyment"
-msgstr ""
+msgstr "Plaisir"
 
 #: /controllers/components/spirit_team.php:86
 msgid ""
@@ -12912,7 +12943,7 @@ msgstr ""
 
 #: /controllers/components/spirit_modified_wfdf.php:76;77
 msgid "Emotional Management"
-msgstr ""
+msgstr "Gestion des émotions"
 
 #: /controllers/components/spirit_modified_wfdf.php:78
 msgid ""
