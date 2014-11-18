@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-08-11 21:06-0400\n"
-"PO-Revision-Date: 2014-11-10 12:00-0400\n"
-"Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
+"PO-Revision-Date: 2014-11-17 20:51-0400\n"
+"Last-Translator: Joëlle Matte <joellematte@hotmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -2809,6 +2809,8 @@ msgid ""
 "That is not currently a valid attendance status for this player for this "
 "event."
 msgstr ""
+"Ceci n'est pas un statut de présence actuellement valide pour ce joueur à "
+"cet événement."
 
 #: /controllers/teams_controller.php:849
 msgid "Shirt numbers are not enabled on this system."
@@ -2881,41 +2883,39 @@ msgstr "La division d'accueil doit avoir le même ratio de sexe"
 
 #: /controllers/teams_controller.php:1415
 msgid "Team has been moved to %s"
-msgstr ""
+msgstr "Cette équipe a été déplacée à %s"
 
 #: /controllers/teams_controller.php:1417
 msgid "Failed to move the team!"
-msgstr ""
+msgstr "Échec dans le déplacement de cette équipe!"
 
 #: /controllers/teams_controller.php:1443
 msgid "No similar division found to move this team to!"
-msgstr ""
+msgstr "Aucune division semblable où déplacer cette équipe n'a été trouvée!"
 
 #: /controllers/teams_controller.php:1497;1632
 msgid "This team has no games scheduled yet."
-msgstr ""
+msgstr "Cette équipe n'a aucune partie de prévue pour le moment."
 
 #: /controllers/teams_controller.php:1681
-#, fuzzy
 msgid "This division does not have a day of play selected."
-msgstr "Cette division ne supporte pas ce rapport."
+msgstr "Cette division n'a pas de jour de partie choisi."
 
 #: /controllers/teams_controller.php:1780;2454
 msgid "The roster deadline for this division has already passed."
-msgstr ""
+msgstr "La date limite pour l'alignement est déjà passée pour cette division."
 
 #: /controllers/teams_controller.php:1901
 msgid "%s been sent to"
-msgstr ""
+msgstr "%s a été envoyé à"
 
 #: /controllers/teams_controller.php:1905
-#, fuzzy
 msgid "Failed to send %s to"
-msgstr "La diffusion sur Twitter à échoué."
+msgstr "Échec dans l'envoi de %s à"
 
 #: /controllers/teams_controller.php:2021
 msgid "Failed to send invitation"
-msgstr ""
+msgstr "Échec dans l'envoi de l'invitation"
 
 #: /controllers/teams_controller.php:2060;2128
 msgid "This player is not on this team."
@@ -2979,35 +2979,36 @@ msgstr "Vous n'avez pas la permission d'accepter cette liste d'équipe %s."
 
 #: /controllers/teams_controller.php:2316
 msgid "You have accepted this roster %s."
-msgstr ""
+msgstr "Vous avez accepté cet alignement %s."
 
 #: /controllers/teams_controller.php:2327
 msgid "The database failed to save the acceptance of this roster %s."
 msgstr ""
+"La base de données n'a pas enregistré l'approbation de cet alignement %s."
 
 #: /controllers/teams_controller.php:2377
 msgid "You are not allowed to decline this roster %s."
-msgstr ""
+msgstr "Vous ne pouvez pas refuser cet alignement %s."
 
 #: /controllers/teams_controller.php:2386
 msgid "You have declined this roster %s."
-msgstr ""
+msgstr "Vous avez refusé cet alignement %s."
 
 #: /controllers/teams_controller.php:2400
 msgid "The database failed to save the removal of this roster %s."
-msgstr ""
+msgstr "La base de données n'as pas enregistré le retrait de cet alignement %s."
 
 #: /controllers/teams_controller.php:2494
 msgid "Sorry, this team is not open for new players to join."
-msgstr ""
+msgstr "Désolé, cette équipe n'est pas ouverte à l'ajout de joueurs."
 
 #: /controllers/teams_controller.php:2541
 msgid "Removed the player from the team."
-msgstr ""
+msgstr "Le joueur a été retiré de l'équipe."
 
 #: /controllers/teams_controller.php:2549
 msgid "Failed to remove the player from the team."
-msgstr ""
+msgstr "Échec dans le retrait de ce joueur de l'équipe."
 
 #: /controllers/teams_controller.php:2623
 msgid "Failed to set player to that state."
@@ -3018,35 +3019,42 @@ msgid ""
 "Your account is currently inactive. You must contact an administrator to "
 "reactivate it before you can be added to a team."
 msgstr ""
+"Votre compte est actuellement inactif. Vous devez contacter un "
+"administrateur pour le réactiver avant de pouvoir être ajouter à une équipe."
 
 #: /controllers/teams_controller.php:2633
 msgid ""
 "New players must be approved by an administrator before they can be added to "
 "a team; this normally happens within one business day."
 msgstr ""
+"Les nouveaux joueurs doivent être approuvés par un administrateur avant de "
+"pouvoir être ajoutés à une équipe; ceci se fait habituellement dans un jour "
+"ouvrable."
 
 #: /controllers/teams_controller.php:2636
 msgid ""
 "This player has not yet completed their profile.  Please contact this player "
 "directly to have them complete their profile."
 msgstr ""
+"Ce joueur n'a pas encore complété son profil. Veuillez s'il-vous-plait "
+"contacter ce joueur directement pour qu'il complète son profil."
 
 #: /controllers/teams_controller.php:2678;2691
 msgid "You are not allowed to invite someone to that role."
-msgstr ""
+msgstr "Vous n'avez pas l'autorisation d'inviter quelqu'un à ce rôle."
 
 #: /controllers/teams_controller.php:1901
 msgid "Invitation has"
 msgid_plural "Invitations have"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Invitation a"
+msgstr[1] "Invitations ont"
 
 #: /controllers/teams_controller.php:1905
 #: /views/elements/people/roster_role.ctp:59
 msgid "invitation"
 msgid_plural "invitations"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "invitation"
+msgstr[1] "invitations"
 
 #: /controllers/upload_types_controller.php:57;66;84;87;105;110;113;121;138
 msgid "upload type"
@@ -3063,15 +3071,15 @@ msgstr ""
 
 #: /controllers/users_controller.php:78
 msgid "You are already logged in!"
-msgstr ""
+msgstr "Vous êtes déjà connecté!"
 
 #: /controllers/users_controller.php:112
 msgid "THANK YOU"
-msgstr ""
+msgstr "MERCI"
 
 #: /controllers/users_controller.php:112
 msgid "for creating an account with %s."
-msgstr ""
+msgstr "d'avoir créé un compte avec %s."
 
 #: /controllers/users_controller.php:114
 msgid ""
@@ -3079,6 +3087,9 @@ msgid ""
 "before you will have full access to the site. However, you can log in and "
 "start exploring right away."
 msgstr ""
+"Votre compte a été créé. Il doit être approuvé par un administrateur avant "
+"que vous puissiez avoir un accès complet au site. Toutefois, vous pouvez "
+"vous connecter et commencer à explorer dès maintenant."
 
 #: /controllers/users_controller.php:173
 #, fuzzy
@@ -3092,16 +3103,15 @@ msgstr "Vous devez sélectionner un évènement!"
 
 #: /controllers/users_controller.php:184
 msgid "Select how to handle fields with errors in them."
-msgstr ""
+msgstr "Veuillez choisir comment gérer les champs en erreur."
 
 #: /controllers/users_controller.php:188
 msgid "Select a status for imported accounts."
 msgstr ""
 
 #: /controllers/users_controller.php:192
-#, fuzzy
 msgid "There was an error uploading the file."
-msgstr "Une erreur innatendue est servenu lors du téléchargement du dossier"
+msgstr "Une erreur est survenue lors du téléchargement du dossier."
 
 #: /controllers/users_controller.php:195
 msgid "Only import from CSV files is currently supported."
@@ -3113,63 +3123,76 @@ msgstr ""
 
 #: /controllers/users_controller.php:397
 msgid "user"
-msgstr ""
+msgstr "utilisateur"
 
 #: /controllers/users_controller.php:419
 msgid "The password has been updated"
-msgstr ""
+msgstr "Le mot de passe a été mis à jour"
 
 #: /controllers/users_controller.php:422
 msgid "The password could not be updated. Please, try again."
 msgstr ""
+"Le mot de passe n'a pas pu être mis à jour. Veuillez essayer de nouveau."
 
 #: /controllers/users_controller.php:437
 msgid "You are already logged in. Use the change password form instead."
 msgstr ""
+"Vous êtes déjà connecté. Veuillez plutôt utiliser le formulaire de "
+"changement de mot de passe."
 
 #: /controllers/users_controller.php:483
 msgid "The provided code is not valid!"
-msgstr ""
+msgstr "Le code fourni n'est pas valide!"
 
 #: /controllers/users_controller.php:486
 msgid "Your new password has been emailed to you."
-msgstr ""
+msgstr "Votre nouveau mot de passe vous a été envoyé par courriel."
 
 #: /controllers/users_controller.php:489
 msgid ""
 "There was an error emailing your new password to you, please try again. If "
 "you have continued problems, please contact the office."
 msgstr ""
+"Votre nouveau mot de passe n'a pas pu vous être envoyé par courriel, "
+"veuillez essayer de nouveau. Si vous avez des problèmes continus, veuillez "
+"contacter l'administration."
 
 #: /controllers/users_controller.php:524
 msgid "No matching accounts were found!"
-msgstr ""
+msgstr "Aucun compte correspondant n'a été trouvé!"
 
 #: /controllers/users_controller.php:529
 msgid "Your reset code has been emailed to you."
-msgstr ""
+msgstr "Votre code de réinitialisation vous a été envoyé par courriel."
 
 #: /controllers/users_controller.php:532
 msgid ""
 "There was an error emailing the reset code to you, please try again. If you "
 "have continued problems, please contact the office."
 msgstr ""
+"Votre code de réinitialisation n'a pas pu vous être envoyé par courriel, "
+"veuillez essayer de nouveau. Si vous avez des problèmes continus, veuillez "
+"contacter l'administration."
 
 #: /controllers/users_controller.php:537
 msgid ""
 "Multiple matching accounts were found for this email address; you will need "
 "to specify the user name."
 msgstr ""
+"Plusieurs comptes correspondants ont été trouvés pour cette adresse courriel;"
+" vous devez spécifier le nom d'utilisateur."
 
 #: /controllers/waivers_controller.php:60;66;79;82;99;113;116;124;139;158;165;219;225
 msgid "waiver"
-msgstr ""
+msgstr "renonciation"
 
 #: /controllers/waivers_controller.php:108 /views/waivers/edit.ctp:42
 msgid ""
 "This waiver has already been signed, so for legal reasons the text cannot be "
 "edited."
 msgstr ""
+"Le formulaire de renonciation a déjà été signé donc, pour des raisons "
+"légales, le texte ne peut être modifié."
 
 #: /controllers/waivers_controller.php:144
 msgid "The following records reference this waiver, so it cannot be deleted."
