@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-08-11 21:06-0400\n"
-"PO-Revision-Date: 2015-01-07 12:19-0400\n"
-"Last-Translator: Philippe Lefebvre <philippe.lefebvre18@gmail.com>\n"
+"PO-Revision-Date: 2015-01-08 08:38-0400\n"
+"Last-Translator: Simon Jomphe-Tremblay <sjomp103@gmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -3312,10 +3312,13 @@ msgid ""
 "an administrator. This normally happens in less than one business day, and "
 "often in just a few minutes."
 msgstr ""
+"Vous ne pouvez pas vous inscrire à cet événement jusqu'à ce que votre compte "
+"a été approuvé par un administrateur. Cela se produit normalement en moins "
+"d'un jour ouvrable, et souvent en quelques minutes."
 
 #: /controllers/components/can_register.php:184
 msgid "This event is for the opposite gender only."
-msgstr ""
+msgstr "Cet événement est pour le sexe opposé uniquement."
 
 #: /controllers/components/can_register.php:191
 msgid ""
@@ -3325,26 +3328,23 @@ msgstr ""
 
 #: /controllers/components/can_register.php:192
 msgid "continue with registration"
-msgstr ""
+msgstr "Poursuivre l'enregistrement"
 
 #: /controllers/components/can_register.php:195
 msgid "This event is already full."
-msgstr ""
+msgstr "Cet événement est déjà plein."
 
 #: /controllers/components/can_register.php:215;289;300
-#, fuzzy
 msgid "this event"
-msgstr "évènement"
+msgstr "Cet événement"
 
 #: /controllers/components/can_register.php:222
-#, fuzzy
 msgid "Registration for %s is not yet open."
-msgstr "Votre inscription pour cet évènement a été confirmée."
+msgstr ""
 
 #: /controllers/components/can_register.php:230
-#, fuzzy
 msgid "Registration for %s has closed."
-msgstr "Votre inscription pour cet évènement a été confirmée."
+msgstr ""
 
 #: /controllers/components/can_register.php:248
 msgid "You may register for %s."
@@ -3356,11 +3356,11 @@ msgstr ""
 
 #: /controllers/components/can_register.php:260;274
 msgid "You may register for this because there are no prerequisites."
-msgstr ""
+msgstr "Vous pouvez vous inscrire pour ceci car il n'y a aucun préalable."
 
 #: /controllers/components/event_type.php:79
 msgid "Failed to unregister from this event!"
-msgstr ""
+msgstr "Échec de l'annulation d'inscription à cet événement!"
 
 #: /controllers/components/event_type.php:289;304
 #, fuzzy
@@ -3370,7 +3370,7 @@ msgstr "Échec dans la mise à jour de la note d'équipe"
 #: /controllers/components/event_type_team.php:23
 #: /views/divisions/add_teams.ctp:34 /views/teams/edit.ctp:14
 msgid "Team Details"
-msgstr ""
+msgstr "Détails de l'équipe"
 
 #: /controllers/components/event_type_team.php:28
 #: /views/divisions/ratings.ctp:18 /views/divisions/seeds.ctp:18
@@ -3382,40 +3382,45 @@ msgstr ""
 #: /views/elements/leagues/view/rounds/heading.ctp:2
 #: /views/elements/leagues/view/tournament/heading.ctp:5
 msgid "Team Name"
-msgstr ""
+msgstr "Nom de l'équipe"
 
 #: /controllers/components/event_type_team.php:29 /views/teams/edit.ctp:20
 msgid "The full name of your team."
-msgstr ""
+msgstr "Nom complet de l'équipe"
 
 #: /controllers/components/event_type_team.php:37 /views/teams/view.ctp:30
 #: /views/themed/wfdfu23/teams/view.ctp:30
 msgid "Shirt Colour"
-msgstr ""
+msgstr "Couleurs des chandails"
 
 #: /controllers/components/event_type_team.php:38 /views/teams/edit.ctp:36
 msgid ""
 "Shirt colour of your team. If you don't have team shirts, pick 'light' or "
 "'dark'."
 msgstr ""
+"Couleurs des chandails de votre équipe. Dans la mesure où vous n'avez pas de "
+"couleur prédéterminée, veuillez choisir « pâle » ou « foncé »"
 
 #: /controllers/components/event_type_team.php:47
 msgid "Team ID"
-msgstr ""
+msgstr "Identifiant de l'équipe"
 
 #: /controllers/components/event_type_team.php:82
 msgid ""
 "This MUST be the same franchise that the regular-season team belongs to, or "
 "you will NOT be able to correctly set up your roster."
 msgstr ""
+"Ceci DOIT être la même franchise pour laquelle l'équipe de la saison-"
+"régulière fait partie, sinon vous NE pourrez PAS enregistrer correctement "
+"votre alignement."
 
 #: /controllers/components/event_type_team.php:84
 msgid "Create a new franchise"
-msgstr ""
+msgstr "Créer une nouvelle franchise"
 
 #: /controllers/components/event_type_team.php:85
 msgid "You may also choose to start a new franchise."
-msgstr ""
+msgstr "Vous pouvez aussi choisir de débuter une nouvelle franchise."
 
 #: /controllers/components/event_type_team.php:92
 msgid ""
@@ -3429,15 +3434,15 @@ msgstr ""
 #: /views/divisions/fields.ctp:32;226 /views/teams/view.ctp:67
 #: /views/themed/wfdfu23/teams/view.ctp:67
 msgid "Region Preference"
-msgstr ""
+msgstr "Préférence de région"
 
 #: /controllers/components/event_type_team.php:105
 msgid "Area of city where you would prefer to play."
-msgstr ""
+msgstr "Endroit dans la ville où vous préféreriez jouer."
 
 #: /controllers/components/event_type_team.php:114
 msgid "Open Roster"
-msgstr ""
+msgstr "Alignement ouvert"
 
 #: /controllers/components/event_type_team.php:115
 #: /views/divisions/add_teams.ctp:37 /views/teams/edit.ctp:135
@@ -3445,14 +3450,17 @@ msgid ""
 "If the team roster is open, others can request to join; otherwise, only the "
 "captain can add players."
 msgstr ""
+"Si l'alignement est de type ouvert, d'autres joueurs peuvent faire la "
+"demande de joindre l'équipe; sinon, seul le capitaine peut ajouter des "
+"joueurs."
 
 #: /controllers/components/event_type_team.php:123
 msgid "Attendance Tracking"
-msgstr ""
+msgstr "Suivi des présences"
 
 #: /controllers/components/event_type_team.php:125
 msgid "Would you like to enable attendance tracking for this team?"
-msgstr ""
+msgstr "Souhaitez-vous permettre le suivi des présences pour cette équipe?"
 
 #: /controllers/components/event_type_team.php:271
 #, fuzzy
@@ -3460,28 +3468,24 @@ msgid "Failed to add the team captain!"
 msgstr "Échec dans la mise à jour de la note d'équipe"
 
 #: /controllers/components/event_type_team.php:291
-#, fuzzy
 msgid "Failed to create the franchise!"
-msgstr "Ne peut analyser la règle"
+msgstr "Échec dans la création de la franchise!"
 
 #: /controllers/components/event_type_team.php:306
-#, fuzzy
 msgid "Failed to add the team to the requested franchise!"
-msgstr "Échec dans l'ajout de cette équipe à la franchise"
+msgstr "Échec dans l'ajout de cette équipe à la franchise!"
 
 #: /controllers/components/event_type_team.php:327
-#, fuzzy
 msgid "Failed to create the team record!"
-msgstr "Échec - n'a pas pu mettre à jour le commentaire de présence!"
+msgstr "Échec de création de la fiche d'équipe!"
 
 #: /controllers/components/event_type_team.php:367
-#, fuzzy
 msgid "Failed to remove the team record!"
-msgstr "Le gestionnaire n'a pas pu être supprimé!"
+msgstr "Échec de suppression de la fiche d'équipe!"
 
 #: /controllers/components/league_type.php:760
 msgid "crossover game"
-msgstr ""
+msgstr "Partie de croisement (\"crossover\")"
 
 #: /controllers/components/league_type.php:797
 #: /controllers/components/league_type_tournament.php:934
@@ -3499,7 +3503,7 @@ msgstr ""
 #: /controllers/components/league_type_roundrobin.php:126;152;174;234
 #: /controllers/components/league_type_tournament.php:405
 msgid "Must have two teams"
-msgstr ""
+msgstr "Doit avoir deux équipes"
 
 #: /controllers/components/league_type.php:1211
 msgid ""
@@ -3539,6 +3543,8 @@ msgid ""
 "The number of games before two teams can be scheduled to play each other "
 "again."
 msgstr ""
+"Le nombre de parties possibles avant que deux équipes puissent s'affronter à "
+"nouveau."
 
 #: /controllers/components/league_type_ratings_ladder.php:65
 #: /controllers/components/league_type_roundrobin.php:46
@@ -3555,16 +3561,16 @@ msgstr ""
 #: /controllers/components/league_type_roundrobin.php:131;157;179;239
 #: /controllers/components/league_type_tournament.php:410
 msgid "Must have even number of teams"
-msgstr ""
+msgstr "Le nombre d'équipes doit être un chiffre pair"
 
 #: /controllers/components/league_type_roundrobin.php:21
 #: /views/elements/leagues/standings/rounds/heading.ctp:5
 msgid "Current Round"
-msgstr ""
+msgstr "Ronde actuelle"
 
 #: /controllers/components/league_type_roundrobin.php:24
 msgid "New games will be scheduled in this round by default."
-msgstr ""
+msgstr "Les nouvelles parties seront planifiées dans cette ronde par défaut."
 
 #: /controllers/components/league_type_roundrobin.php:49
 msgid "full-division round-robin (%d teams, %d games over %d weeks)"
@@ -3753,7 +3759,7 @@ msgstr ""
 #: /controllers/components/league_type_tournament.php:271
 #: /views/games/edit.ctp:100 /views/games/view.ctp:91
 msgid "Round"
-msgstr ""
+msgstr "Ronde"
 
 #: /controllers/components/league_type_tournament.php:874
 msgid "Duplicate game id, check the scheduling algorithm"
@@ -3797,23 +3803,23 @@ msgstr ""
 
 #: /controllers/components/rule_compare.php:60
 msgid "less than"
-msgstr ""
+msgstr "moins que"
 
 #: /controllers/components/rule_compare.php:65
 msgid "less than or equal to"
-msgstr ""
+msgstr "moins ou égal que"
 
 #: /controllers/components/rule_compare.php:70
 msgid "greater than"
-msgstr ""
+msgstr "plus que"
 
 #: /controllers/components/rule_compare.php:75
 msgid "greater than or equal to"
-msgstr ""
+msgstr "plus ou égal que"
 
 #: /controllers/components/rule_compare.php:80;85 /views/people/view.ctp:357
 msgid "of"
-msgstr ""
+msgstr "de"
 
 #: /controllers/components/rule_compare.php:86
 msgid "NOT "
@@ -12847,11 +12853,11 @@ msgstr "C'était un très mauvais match"
 
 #: /controllers/components/spirit_wfdf.php:9
 msgid "The WFDF standard spirit survey."
-msgstr ""
+msgstr "Le sondage sur l'esprit sportif du WFDF."
 
 #: /controllers/components/spirit_wfdf.php:14
 msgid "Rules Knowledge and Use"
-msgstr ""
+msgstr "Connaissance des règlements et application"
 
 #: /controllers/components/spirit_wfdf.php:15
 msgid ""
@@ -12859,6 +12865,10 @@ msgid ""
 "misinterpret the rules. They kept to time limits. They were willing to teach "
 "and/or learn the rules."
 msgstr ""
+"Par exemple: Ils n'ont pas fait d'appels injustifiés. Ils n'ont pas "
+"intentionnellement mal interprété les règlements. Ils ont respecté les "
+"limites de temps. Ils étaient ouverts à apprendre et/ou enseigner les "
+"règlements."
 
 #: /controllers/components/spirit_wfdf.php:23;52;81;110
 msgid "not so good"
@@ -12900,7 +12910,7 @@ msgstr "Attitude"
 
 #: /controllers/components/spirit_wfdf.php:101
 msgid "Positive Attitude and Self-Control"
-msgstr ""
+msgstr "Attitude positive et contrôle de soi"
 
 #: /controllers/components/spirit_wfdf.php:102
 msgid ""
@@ -12916,13 +12926,16 @@ msgstr "Comparaison"
 
 #: /controllers/components/spirit_wfdf.php:130
 msgid "Our Spirit compared to theirs"
-msgstr ""
+msgstr "Notre esprit sportif comparé au leur"
 
 #: /controllers/components/spirit_wfdf.php:131
 msgid ""
 "How did our team compare to theirs with regards to rules knowledge, body "
 "contact, fair-mindedness, positive attitude and self-control?"
 msgstr ""
+"Comment se compare notre équipe à la leur en terme de connaissance des "
+"règlements, contact physique, ouverture d'esprit, attitude positive et "
+"contrôle de soi?"
 
 #: /controllers/components/spirit_wfdf.php:135
 msgid "Our spirit was much better"
@@ -12999,6 +13012,8 @@ msgid ""
 "Their reaction towards disagreements, successes, and mistakes was "
 "appropriately mature."
 msgstr ""
+"Leur réaction face aux désaccords, aux réussites et lors d'erreurs était "
+"suffisamment mature."
 
 #: /controllers/components/spirit_modified_wfdf.php:97
 msgid "Body Contact"
@@ -13013,16 +13028,20 @@ msgid ""
 "They were aware of other players' body location and movement and avoided "
 "dangerous plays."
 msgstr ""
+"Ils étaient conscients du positionnement des autres joueurs sur le terrain "
+"et évitaient les jeux dangereux."
 
 #: /controllers/components/spirit_modified_wfdf.php:119
 msgid "Avoiding Violations and Fouls"
-msgstr ""
+msgstr "Éviter les violations et les fautes"
 
 #: /controllers/components/spirit_modified_wfdf.php:120
 msgid ""
 "They tried to avoid fouls and violations. Their marks were legal. They did "
 "not commit off side violations, etc."
 msgstr ""
+"Ils essayaient d'éviter les fautes et les violations. Leurs marques étaient "
+"légales. Ils n'ont pas commis de violation de hors-jeu, etc."
 
 #: /controllers/components/spirit_modified_wfdf.php:140
 msgid "Knowledge of the Rules"
@@ -13033,6 +13052,8 @@ msgid ""
 "They knew the rules and/or had the willingness to learn and teach them. They "
 "did not make unjustified calls."
 msgstr ""
+"Ils connaissaient les règles et/ou ont eu la volonté de les apprendre et de "
+"les enseigner. Ils n'ont pas fait d'appels injustifiés."
 
 #: /controllers/components/spirit_modified_wfdf.php:161
 msgid "Encouraging Enjoyment of the Game"
@@ -13043,6 +13064,7 @@ msgid ""
 "They played the game in a way that made the game enjoyable for all those "
 "involved."
 msgstr ""
+"Ils ont joué la partie de façon à ce que celle-ci soit agréable pour tous."
 
 #: /views/affiliates/edit.ctp:14 /views/badges/edit.ctp:14
 #: /views/categories/edit.ctp:14 /views/events/edit.ctp:15
