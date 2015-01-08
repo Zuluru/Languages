@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-08-11 21:06-0400\n"
-"PO-Revision-Date: 2015-01-08 08:38-0400\n"
-"Last-Translator: Simon Jomphe-Tremblay <sjomp103@gmail.com>\n"
+"PO-Revision-Date: 2015-01-08 12:34-0400\n"
+"Last-Translator: Philippe Lefebvre <philippe.lefebvre18@gmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -3101,6 +3101,7 @@ msgstr ""
 "vous connecter et commencer à explorer dès maintenant."
 
 #: /controllers/users_controller.php:173
+#, fuzzy
 msgid "You must select at least one affiliate."
 msgstr "Vous devez sélectionner au moins une société."
 
@@ -3325,6 +3326,8 @@ msgid ""
 "This event is already full.  You may however %s to be put on a waiting list "
 "in case others drop out."
 msgstr ""
+"Cet événement est déjà complet. Cependant vous pouvez %s d'être placé dans "
+"la liste d'attente en cas où il y aurait une place de libéré."
 
 #: /controllers/components/can_register.php:192
 msgid "continue with registration"
@@ -3340,19 +3343,19 @@ msgstr "Cet événement"
 
 #: /controllers/components/can_register.php:222
 msgid "Registration for %s is not yet open."
-msgstr ""
+msgstr "Les inscriptions pour %s ne sont pas encore ouvertes."
 
 #: /controllers/components/can_register.php:230
 msgid "Registration for %s has closed."
-msgstr ""
+msgstr "Les inscriptions %s sont maintenant fermées."
 
 #: /controllers/components/can_register.php:248
 msgid "You may register for %s."
-msgstr ""
+msgstr "Vous pouvez vous inscrire à %s."
 
 #: /controllers/components/can_register.php:253;289;300
 msgid "To register for %s, you must %s."
-msgstr ""
+msgstr "Pour vous inscrire à %s, vous devez %s."
 
 #: /controllers/components/can_register.php:260;274
 msgid "You may register for this because there are no prerequisites."
@@ -3429,6 +3432,11 @@ msgid ""
 "added to, have the owner transfer ownership to you before registering this "
 "team."
 msgstr ""
+"Sélectionnez une franchise déjà existante pour ajouter cette équipe. %s Vous "
+"pouvez uniquement ajouter des équipes à une franchise qui vous appartient ; "
+"si vous ne possédez pas la franchise cette équipe devra aussi être ajoutée, "
+"demandez au propriétaire de vous transférer les droits avant d'inscrire "
+"cette équipe."
 
 #: /controllers/components/event_type_team.php:104
 #: /views/divisions/fields.ctp:32;226 /views/teams/view.ctp:67
@@ -3463,9 +3471,8 @@ msgid "Would you like to enable attendance tracking for this team?"
 msgstr "Souhaitez-vous permettre le suivi des présences pour cette équipe?"
 
 #: /controllers/components/event_type_team.php:271
-#, fuzzy
 msgid "Failed to add the team captain!"
-msgstr "Échec dans la mise à jour de la note d'équipe"
+msgstr "Impossible d'ajouter le capitaine de l'équipe!"
 
 #: /controllers/components/event_type_team.php:291
 msgid "Failed to create the franchise!"
@@ -3491,12 +3498,16 @@ msgstr "Partie de croisement (\"crossover\")"
 #: /controllers/components/league_type_tournament.php:934
 msgid "There are insufficient %s available to support the requested schedule."
 msgstr ""
+"Il n'y a pas suffisamment %s de disponible pour autoriser l'horaire demandé."
 
 #: /controllers/components/league_type.php:917 /models/game.php:428
+#, fuzzy
 msgid ""
 "A game slot chosen for this schedule has been allocated elsewhere in the "
 "interim. Please try again."
 msgstr ""
+"La plage horaire choisie a été déplacée autre part dans l’intervalle. "
+"Veuillez essayer de nouveau."
 
 #: /controllers/components/league_type.php:959
 #: /controllers/components/league_type_ratings_ladder.php:109
@@ -3510,14 +3521,17 @@ msgid ""
 "There are insufficient game slots available to complete this schedule. Check "
 "the %s for details."
 msgstr ""
+"Il n'y a pas suffisamment de plages horaire disponibles pour compléter "
+"l'horaire. Vérifiez le %s pour plus de détail."
 
 #: /controllers/components/league_type.php:1212
 msgid "%s Availability Report"
-msgstr ""
+msgstr "%s Rapport de disponibilité"
 
 #: /controllers/components/league_type_competition.php:37
+#, fuzzy
 msgid "single blank, unscheduled game"
-msgstr ""
+msgstr "espace blanc, partie pas planifiée"
 
 #: /controllers/components/league_type_competition.php:38
 #: /controllers/components/league_type_roundrobin.php:47
