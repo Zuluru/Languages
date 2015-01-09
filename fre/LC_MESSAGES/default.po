@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-08-11 21:06-0400\n"
-"PO-Revision-Date: 2015-01-09 11:52-0400\n"
-"Last-Translator: Simon Jomphe-Tremblay <sjomp103@gmail.com>\n"
+"PO-Revision-Date: 2015-01-09 12:29-0400\n"
+"Last-Translator: Philippe Lefebvre <philippe.lefebvre18@gmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -3549,8 +3549,9 @@ msgstr ""
 
 #: /controllers/components/league_type_ratings_ladder.php:40
 #: /views/leagues/summary.ctp:74
+#, fuzzy
 msgid "Games Before Repeat"
-msgstr ""
+msgstr "Partie Avant Répéter"
 
 #: /controllers/components/league_type_ratings_ladder.php:43
 msgid ""
@@ -3563,8 +3564,9 @@ msgstr ""
 #: /controllers/components/league_type_ratings_ladder.php:65
 #: /controllers/components/league_type_roundrobin.php:46
 #: /controllers/components/league_type_tournament.php:81
+#, fuzzy
 msgid "single blank, unscheduled game (2 teams, one %s)"
-msgstr ""
+msgstr "un seul trou, partie non planifiée (2 équipes, une %s)"
 
 #: /controllers/components/league_type_ratings_ladder.php:66
 msgid ""
@@ -3587,14 +3589,20 @@ msgid "New games will be scheduled in this round by default."
 msgstr "Les nouvelles parties seront planifiées dans cette ronde par défaut."
 
 #: /controllers/components/league_type_roundrobin.php:49
+#, fuzzy
 msgid "full-division round-robin (%d teams, %d games over %d weeks)"
 msgstr ""
+"division complète à la ronde / round-robin (%d équipes, %d partie sur %d "
+"semaines)"
 
 #: /controllers/components/league_type_roundrobin.php:50
+#, fuzzy
 msgid ""
 "half-division round-robin (%d teams, %d games over %d weeks).  2 pools (top, "
 "bottom) divided by team standings."
 msgstr ""
+"moitié de la division à la ronde / round-robin (%d équipes, %d parties sur %"
+"d semaines). Deux poules (haut/bas) divisé par le classement de l'équipe."
 
 #: /controllers/components/league_type_roundrobin.php:51
 msgid ""
@@ -3609,9 +3617,12 @@ msgid ""
 msgstr ""
 
 #: /controllers/components/league_type_roundrobin.php:250
+#, fuzzy
 msgid ""
 "Need %s weeks of gameslots, yet only %s are available. Add more gameslots."
 msgstr ""
+"Besoin de %s semaines de plage horaire, cependant seulement %s sont "
+"disponibles. Ajouter plus de plage horaire."
 
 #: /controllers/components/league_type_roundrobin.php:267
 msgid "Had to stop with %s sets left to schedule: could not assign %s"
@@ -3622,8 +3633,9 @@ msgid "Had to stop with %s sets left to schedule: no more game dates available"
 msgstr ""
 
 #: /controllers/components/league_type_tournament.php:40
+#, fuzzy
 msgid "single pool with all teams"
-msgstr ""
+msgstr "un seul bassin (pool) avec toutes les équipes"
 
 #: /controllers/components/league_type_tournament.php:42
 msgid "seeded split into %d pools"
@@ -3672,8 +3684,9 @@ msgid "round-robin with results from prior-stage matchups carried forward"
 msgstr ""
 
 #: /controllers/components/league_type_tournament.php:101
+#, fuzzy
 msgid "single game, winner take all"
-msgstr ""
+msgstr "une seule partie, le gagnant prend tout"
 
 #: /controllers/components/league_type_tournament.php:102
 msgid "\"home and home\" series"
