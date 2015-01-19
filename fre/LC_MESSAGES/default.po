@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2014-08-11 21:06-0400\n"
-"PO-Revision-Date: 2015-01-09 12:29-0400\n"
-"Last-Translator: Philippe Lefebvre <philippe.lefebvre18@gmail.com>\n"
+"PO-Revision-Date: 2015-01-19 16:04-0400\n"
+"Last-Translator: Simon Jomphe-Tremblay <sjomp103@gmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -3549,9 +3549,8 @@ msgstr ""
 
 #: /controllers/components/league_type_ratings_ladder.php:40
 #: /views/leagues/summary.ctp:74
-#, fuzzy
 msgid "Games Before Repeat"
-msgstr "Partie Avant Répéter"
+msgstr "Parties avant de répéter"
 
 #: /controllers/components/league_type_ratings_ladder.php:43
 msgid ""
@@ -3633,9 +3632,8 @@ msgid "Had to stop with %s sets left to schedule: no more game dates available"
 msgstr ""
 
 #: /controllers/components/league_type_tournament.php:40
-#, fuzzy
 msgid "single pool with all teams"
-msgstr "un seul bassin (pool) avec toutes les équipes"
+msgstr "Une poule unique avec toutes les équipes"
 
 #: /controllers/components/league_type_tournament.php:42
 msgid "seeded split into %d pools"
@@ -3659,7 +3657,7 @@ msgstr ""
 
 #: /controllers/components/league_type_tournament.php:73
 msgid "group of crossover games"
-msgstr ""
+msgstr "groupe de parties croisées"
 
 #: /controllers/components/league_type_tournament.php:85
 msgid ""
@@ -3690,7 +3688,7 @@ msgstr "une seule partie, le gagnant prend tout"
 
 #: /controllers/components/league_type_tournament.php:102
 msgid "\"home and home\" series"
-msgstr ""
+msgstr "Série \"domicile et domicile\""
 
 #: /controllers/components/league_type_tournament.php:106
 msgid "play-in game for 2nd and 3rd; 1st gets a bye to the finals"
@@ -3822,11 +3820,11 @@ msgstr ""
 
 #: /controllers/components/rule_and.php:57
 msgid " AND "
-msgstr ""
+msgstr " ET "
 
 #: /controllers/components/rule_attribute.php:27
 msgid "have a %s"
-msgstr ""
+msgstr "avoir un %s"
 
 #: /controllers/components/rule_compare.php:60
 msgid "less than"
@@ -3850,52 +3848,52 @@ msgstr "de"
 
 #: /controllers/components/rule_compare.php:86
 msgid "NOT "
-msgstr ""
+msgstr "PAS "
 
 #: /controllers/components/rule_has_document.php:28;38
 msgid "have uploaded the %s"
-msgstr ""
+msgstr "avoir téléchargé le %s"
 
 #: /controllers/components/rule_has_document.php:41
 msgid "wait until your %s is approved"
-msgstr ""
+msgstr "attendre jusqu'à ce que votre %s soit approuvé"
 
 #: /controllers/components/rule_has_document.php:79
 msgid "have the document"
-msgstr ""
+msgstr "avoir le document"
 
 #: /controllers/components/rule_league_team_count.php:78
 #: /controllers/components/rule_team_count.php:114
 msgid "have a team count"
-msgstr ""
+msgstr "avoir un nombre d'équipes"
 
 #: /controllers/components/rule_or.php:59
 msgid " OR "
-msgstr ""
+msgstr " OU "
 
 #: /controllers/components/rule_registered.php:42
 msgid "have previously registered for the"
-msgstr ""
+msgstr "se sont préalablement inscrits à/au"
 
 #: /controllers/components/rule_registered.php:42
 msgid "or"
-msgstr ""
+msgstr "ou"
 
 #: /controllers/components/rule_registered.php:72
 msgid "Registered"
-msgstr ""
+msgstr "Inscrit"
 
 #: /controllers/components/rule_signed_waiver.php:29;39
 msgid "have signed the %s waiver"
-msgstr ""
+msgstr "A signé la décharge de %s"
 
 #: /controllers/components/rule_signed_waiver.php:77
 msgid "have signed the waiver"
-msgstr ""
+msgstr "A signé la décharge"
 
 #: /controllers/components/rule_tuc_playoffs.php:21
 msgid "meets all playoff roster rules"
-msgstr ""
+msgstr "Répond à toutes les règles d'alignement en éliminatoires"
 
 #: /controllers/components/rule_tuc_playoffs.php:27
 msgid "does not have a unique affiliated team in the correct league"
@@ -3907,6 +3905,9 @@ msgid ""
 "same night. A player can only participate in a given night's playoffs with a "
 "single team"
 msgstr ""
+"est déjà inscrit dans l'alignement d'une autre équipe dont la partie "
+"éliminatoire se déroule la même soirée. Un joueur ne peut participer qu'à "
+"une seule partie éliminatoire lors d'une soirée donnée"
 
 #: /controllers/components/rule_tuc_playoffs.php:98
 msgid ""
@@ -3915,66 +3916,77 @@ msgid ""
 "is the only team from that night with which they can participate in the "
 "playoffs"
 msgstr ""
+"est un joueur régulier dans une autre équipe qui est inscrite aux "
+"éliminatoires. Si l'équipe régulière d'un joueur participe aux "
+"éliminatoires, celui-ci ne peut joindre aucune autre équipe pour la même "
+"soirée"
 
 #: /controllers/components/rule_tuc_playoffs.php:115
 msgid "cannot have more than 2 male subs"
-msgstr ""
+msgstr "interdis d'avoir plus de deux remplaçants hommes"
 
 #: /controllers/components/rule_tuc_playoffs.php:119
 msgid ""
 "cannot have male subs until at least 5 males from the regular-season roster "
 "are included"
 msgstr ""
+"interdis d'avoir des remplaçants hommes avant qu'au moins 5 joueurs "
+"masculins de l'alignement de la saison régulière soient ajoutés"
 
 #: /controllers/components/rule_tuc_playoffs.php:123
 msgid "cannot have more than 8 male players if subs are being used"
 msgstr ""
+"interdis d'avoir plus de 8 joueurs masculins si des remplaçants sont utilisés"
 
 #: /controllers/components/rule_tuc_playoffs.php:127
 msgid "cannot have more than 3 female subs"
-msgstr ""
+msgstr "interdis d'avoir plus de 3 remplaçantes"
 
 #: /controllers/components/rule_tuc_playoffs.php:131
 msgid ""
 "cannot have female subs until at least 3 females from the regular-season "
 "roster are included"
 msgstr ""
+"interdis d'avoir des remplaçantes avant qu'au moins 3 joueuses de "
+"l'alignement de la saison régulière soient ajoutées"
 
 #: /controllers/components/rule_tuc_playoffs.php:135
 msgid "cannot have more than 6 female players if subs are being used"
-msgstr ""
+msgstr "interdis d'avoir plus de 6 joueuses si des remplaçantes sont utilisées"
 
 #: /controllers/components/rule_tuc_playoffs.php:157
 msgid "meet the TUC playoff sub rule"
 msgstr ""
+"rencontre le règlement du TUC sur les remplaçants lors des éliminatoires"
 
 #: /controllers/components/spirit.php:45
 msgid "Spirit scores must be in the range 0-%s"
-msgstr ""
+msgstr "Les résultats d'esprit sportif doivent se situer entre 0-%s"
 
 #: /controllers/components/sport.php:22
 msgid "Game timer was already initialized."
-msgstr ""
+msgstr "La minuterie de la partie était déjà activée."
 
 #: /controllers/components/sport_ultimate.php:15
 msgid "Second half was already started."
-msgstr ""
+msgstr "La seconde demie était déjà entamée."
 
 #: /controllers/components/sport_ultimate.php:19
 msgid "This game apparently hasn't started yet."
-msgstr ""
+msgstr "Cette partie ne semble pas avoir commencé encore."
 
 #: /controllers/components/sport_ultimate.php:22
 msgid "The same team shouldn't pull to start both halves."
 msgstr ""
+"La même équipe ne peut pas faire le lancer d'engagement pour les deux demies."
 
 #: /models/game.php:261
 msgid "Winner of game %s"
-msgstr ""
+msgstr "Gagnant de la partie %s"
 
 #: /models/game.php:266
 msgid "Loser of game %s"
-msgstr ""
+msgstr "Perdant de la partie %s"
 
 #: /models/game.php:270 /models/pool.php:57
 msgid "%s seed"
@@ -3982,7 +3994,7 @@ msgstr ""
 
 #: /models/game.php:436
 msgid "Failed to save schedule changes!"
-msgstr ""
+msgstr "Erreur lors de l'enregistrement des changements à l'horaire!"
 
 #: /models/game.php:1113
 msgid "You cannot choose the \"---\" as the game time/place!"
