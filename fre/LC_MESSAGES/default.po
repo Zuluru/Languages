@@ -5,14 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2015-02-18 16:02-0500\n"
-"PO-Revision-Date: 2015-01-19 16:04-0400\n"
-"Last-Translator: Simon Jomphe-Tremblay <sjomp103@gmail.com>\n"
-"Language-Team: fre (generated) <http://translate.zuluru.org/projects/zuluru/"
-"default/fre/>\n"
+"PO-Revision-Date: 2015-02-19 12:14-0400\n"
+"Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
+"Language-Team: fre (generated) "
+"<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
+"Language: fre\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fre\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 1.10-dev\n"
 
@@ -1201,6 +1201,8 @@ msgstr "Vous devez sélectionnez au moins une division!"
 #: /controllers/game_slots_controller.php:281
 msgid "You cannot select indoor %s in conjunction with sunset end times!"
 msgstr ""
+"Vous ne pouvez sélectionner les %s des parties à l'intérieur en vous basant "
+"sur l'heure du coucher du soleil!"
 
 #: /controllers/game_slots_controller.php:362
 msgid "This game slot has a game assigned to it and cannot be deleted."
@@ -1388,7 +1390,6 @@ msgid "You are not allowed to change this attendance record."
 msgstr "Vous n'avez pas la permission de modifier cette fiche de présence."
 
 #: /controllers/games_controller.php:1093
-#, fuzzy
 #| msgid ""
 #| "That is not currently a valid attendance status for this player for this "
 #| "game."
@@ -1396,7 +1397,7 @@ msgid ""
 "That is not currently a valid attendance status for this person for this "
 "game."
 msgstr ""
-"Il n'y a pas de rapport de présence valide pour ce joueur pour ce match."
+"Il n'y a pas de rapport de présence valide pour cette personne pour ce match."
 
 #: /controllers/games_controller.php:1107
 #: /controllers/team_events_controller.php:414
@@ -1415,10 +1416,9 @@ msgstr "La présence à été mise à jour à %s."
 
 #: /controllers/games_controller.php:1150
 #: /controllers/team_events_controller.php:457
-#, fuzzy
 #| msgid "A captain"
 msgid "A coach or captain"
-msgstr "Un capitaine"
+msgstr "Un(e) entraineur(e) ou un(e) capitaine"
 
 #: /controllers/games_controller.php:1334
 msgid "Dependencies for that game have not yet been resolved!"
@@ -1495,22 +1495,19 @@ msgid "Game timer initialized."
 msgstr "Chronomètre de jeu initialisé."
 
 #: /controllers/games_controller.php:1921
-#, fuzzy
 #| msgid "Updated %s"
 msgid "Game update #%s:"
-msgstr "%s mis à jour"
+msgstr "Mise à jour de la partie #%s:"
 
 #: /controllers/games_controller.php:1924
-#, fuzzy
 #| msgid "Our spirit was the same"
 msgid "to start the game"
-msgstr "Notre esprit sportif était pareil"
+msgstr "Pour débuter la partie"
 
 #: /controllers/games_controller.php:1926
-#, fuzzy
 #| msgid "game slot"
 msgid "game started"
-msgstr "Plage horaire de match"
+msgstr "Partie débutée"
 
 #: /controllers/games_controller.php:1931
 msgid "recorded"
@@ -1675,7 +1672,6 @@ msgid "Game has already been finalized."
 msgstr "Le match a déja été finalisé."
 
 #: /controllers/games_controller.php:2696
-#, fuzzy
 #| msgid ""
 #| "This score doesn't agree with the one your opponent submitted. Because of "
 #| "this, the score will not be posted until your coordinator approves it. "
@@ -1688,8 +1684,8 @@ msgid ""
 msgstr ""
 "Le pointage ne coordonne pas avec celui que votre adversaire a envoyé. Pour "
 "cette raison, le pointage ne sera pas affiché avant que le coordonnateur de "
-"la ligue l'approuve. Cependant, le capitaine ayant commis l'erreur lors de "
-"l'envoie peut modifier son pointage."
+"la ligue l'approuve. Cependant, l'entraineur(e) ou le/la capitaine ayant "
+"commis l'erreur lors de l'envoie peut modifier son pointage."
 
 #: /controllers/games_controller.php:2771
 msgid "No score entry found for either team; cannot finalize this game."
@@ -1769,10 +1765,9 @@ msgstr "liste de diffusion"
 #: /controllers/people_controller.php:2547
 #: /controllers/teams_controller.php:767;2685
 #: /controllers/components/can_register.php:253
-#, fuzzy
 #| msgid "Failed to parse the rule"
 msgid "Failed to parse the rule: %s"
-msgstr "Ne peut analyser la règle"
+msgstr "Ne peut analyser la règle: %s"
 
 #: /controllers/mailing_lists_controller.php:117
 #: /controllers/newsletters_controller.php:255
@@ -1873,10 +1868,9 @@ msgstr "Vous devez sélectionner un affilié qui vous intéresse."
 
 #: /controllers/people_controller.php:997
 #: /controllers/users_controller.php:153
-#, fuzzy
 #| msgid "You must select an badge!"
 msgid "You have selected an invalid group."
-msgstr "Vous devez sélectionner un badge!"
+msgstr "Vous avez sélectionné un groupe non valide."
 
 #: /controllers/people_controller.php:1022
 msgid "Your profile has been saved"
@@ -1903,22 +1897,20 @@ msgstr "Échec - n'a pas pu sauvegarder vos préférences"
 #: /controllers/people_controller.php:1205
 #: /views/elements/people/confirmation.ctp:73
 msgid "profile"
-msgstr ""
+msgstr "profil"
 
 #: /controllers/people_controller.php:1245
 msgid "new profile"
-msgstr ""
+msgstr "nouveau profil"
 
 #: /controllers/people_controller.php:1247
 #: /controllers/users_controller.php:222
-#, fuzzy
 #| msgid "Your message has been tweeted."
 msgid "Your account has been created."
-msgstr "Votre message a été diffusé sur Twitter."
+msgstr "Votre compte a été créé."
 
 #: /controllers/people_controller.php:1248
 #: /controllers/users_controller.php:223
-#, fuzzy
 #| msgid ""
 #| "Your account has been created. It must be approved by an administrator "
 #| "before you will have full access to the site. However, you can log in and "
@@ -1927,9 +1919,8 @@ msgid ""
 "It must be approved by an administrator before you will have full access to "
 "the site."
 msgstr ""
-"Votre compte a été créé. Il doit être approuvé par un administrateur avant "
-"que vous puissiez avoir un accès complet au site. Toutefois, vous pouvez "
-"vous connecter et commencer à explorer dès maintenant."
+"Il doit être approuvé par un administrateur avant que vous puissiez avoir un "
+"accès complet au site."
 
 #: /controllers/people_controller.php:1283
 #, fuzzy
@@ -1947,7 +1938,6 @@ msgid "Error sending email to %s."
 msgstr "Erreur dans l'envoie du courriel à %s."
 
 #: /controllers/people_controller.php:1318
-#, fuzzy
 #| msgid ""
 #| "Added %s as relative; you will not have access to their information until "
 #| "they have approved this."
@@ -1955,14 +1945,13 @@ msgid ""
 "Linked %s as relative; you will not have access to their information until "
 "they have approved this."
 msgstr ""
-"%s a été ajouté comme parent; vous n'aurez pas accès à leur information "
-"jusqu'à ce qu'il/elle ait accepté la demande."
+"%s a été lié comme parent; vous n'aurez pas accès à leur information jusqu'à "
+"ce qu'il/elle ait accepté la demande."
 
 #: /controllers/people_controller.php:1321
-#, fuzzy
 #| msgid "Failed to add %s as relative."
 msgid "Failed to link %s as relative."
-msgstr "Ne peut ajouter %s comme parent."
+msgstr "Ne peut lié %s comme parent."
 
 #: /controllers/people_controller.php:1344
 msgid "This person does not have an outstanding relative request for you."
@@ -1982,10 +1971,9 @@ msgstr "Demande de parenté acceptée."
 
 #: /controllers/people_controller.php:1389;1452
 #: /controllers/teams_controller.php:2801;2868;2938;2982
-#, fuzzy
 #| msgid "team captains."
 msgid "team coaches/captains."
-msgstr "capitaines d'équipe."
+msgstr "capitaines/entraineurs(es) d'équipe."
 
 #: /controllers/people_controller.php:1407
 msgid "This person is already not related to you."
@@ -2194,16 +2182,14 @@ msgid "This badge must be earned, not granted."
 msgstr "Ce badge doit être mérité et non accordé."
 
 #: /controllers/people_controller.php:2183
-#, fuzzy
 #| msgid "This player already has this badge"
 msgid "This person already has this badge"
-msgstr "Ce joueur possède déjà ce badge"
+msgstr "Cette personne possède déjà ce badge"
 
 #: /controllers/people_controller.php:2186
-#, fuzzy
 #| msgid "This player has already been nominated for this badge"
 msgid "This person has already been nominated for this badge"
-msgstr "Ce joueur a déjà été nominé pour ce badge"
+msgstr "Cette personne a déjà été nommé pour ce badge"
 
 #: /controllers/people_controller.php:2210
 msgid "The badge has been assigned"
@@ -2242,10 +2228,9 @@ msgstr ""
 "être supprimée."
 
 #: /controllers/people_controller.php:2408
-#, fuzzy
 #| msgid "You cannot delete the only price point on an event."
 msgid "You cannot delete the only administrator."
-msgstr "Vous ne pouvez pas supprimé le seul facteur de prix d'un évènement."
+msgstr "Vous ne pouvez pas supprimé le seul administrateur."
 
 #: /controllers/people_controller.php:2414;2416
 #: /views/leagues/participation.ctp:13 /views/registrations/credits.ctp:11
@@ -2255,25 +2240,24 @@ msgstr "Personne"
 
 #: /controllers/people_controller.php:2425
 msgid "Administrators cannot act as other administrators"
-msgstr ""
+msgstr "Les administrateurs ne peuvent agir pour d'autres administrateurs"
 
 #: /controllers/people_controller.php:2427
 msgid "Managers cannot act as other managers"
-msgstr ""
+msgstr "Les gestionnaires ne peuvent agir pour d'autres gestionnaires"
 
 #: /controllers/people_controller.php:2431;2434
-#, fuzzy
 #| msgid "You are not allowed to edit that %s."
 msgid "You are now acting as %s"
-msgstr "Vous ne pouvez pas modifier ce %s."
+msgstr "Vous agissez maintenant en tant que %s"
 
 #: /controllers/people_controller.php:2431
 msgid "yourself"
-msgstr ""
+msgstr "vous"
 
 #: /controllers/people_controller.php:2449
 msgid "There is nobody else you can act as."
-msgstr ""
+msgstr "Vous ne pouvez agir au nom de personne d'autre."
 
 #: /controllers/people_controller.php:2559
 msgid ""
@@ -2304,7 +2288,7 @@ msgstr "L'activation de ce nouveau membre n'a pu être sauvegardé"
 
 #: /controllers/people_controller.php:2776 /views/settings/profile.ctp:3
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: /controllers/people_controller.php:2779
 #, fuzzy
@@ -2314,24 +2298,24 @@ msgstr "Compte"
 
 #: /controllers/people_controller.php:2783
 msgid "%s %s Activation for %s"
-msgstr ""
+msgstr "%s %s Activé pour %s"
 
 #: /controllers/people_controller.php:2903
 msgid "Couldn't save new member information"
 msgstr "L'information pour ce nouveau membre n'a pu être sauvegardé"
 
 #: /controllers/people_controller.php:2944
-#, fuzzy
 #| msgid "You cannot delete the only price point on an event."
 msgid ""
 "You cannot delete the only parent of a child with history in the system."
-msgstr "Vous ne pouvez pas supprimé le seul facteur de prix d'un évènement."
+msgstr ""
+"Vous ne pouvez pas supprimé le seul parent d'un enfant aillant un historique "
+"dans le système."
 
 #: /controllers/preregistrations_controller.php:84
-#, fuzzy
 #| msgid "This player already has a preregistration for this event"
 msgid "This person already has a preregistration for this event"
-msgstr "Ce joueur est déjà préenregistré pour cet évènement"
+msgstr "Cette personne est déjà préenregistrée pour cet évènement"
 
 #: /controllers/preregistrations_controller.php:95
 msgid "The preregistration has been saved"
@@ -2499,10 +2483,11 @@ msgid "Deposit paid; balance must be paid off-line"
 msgstr "Dépôt payé; la balance doit être payé en personne"
 
 #: /controllers/registrations_controller.php:829
-#, fuzzy
 #| msgid "Registration for %s is not yet open."
 msgid "Registration for this is open, but payments are not being accepted yet"
-msgstr "Les inscriptions pour %s ne sont pas encore ouvertes."
+msgstr ""
+"Les inscriptions sont ouvertes, mais les paiements ne sont pas encore "
+"acceptés"
 
 #: /controllers/registrations_controller.php:864
 msgid "You have already paid for this! Contact the office to arrange a refund."
@@ -2899,7 +2884,6 @@ msgid "That person does not have an attendance record for this event."
 msgstr "Cette personne n'a pas de rapport de présence pour cet évènement."
 
 #: /controllers/team_events_controller.php:400
-#, fuzzy
 #| msgid ""
 #| "That is not currently a valid attendance status for this player for this "
 #| "event."
@@ -2907,8 +2891,8 @@ msgid ""
 "That is not currently a valid attendance status for this person for this "
 "event."
 msgstr ""
-"Ceci n'est pas un statut de présence actuellement valide pour ce joueur à "
-"cet événement."
+"Ceci n'est pas un statut de présence actuellement valide pour cette personne "
+"à cet événement."
 
 #: /controllers/teams_controller.php:849
 msgid "Shirt numbers are not enabled on this system."
@@ -3032,10 +3016,11 @@ msgstr ""
 "accepté sur la liste de joueurs."
 
 #: /controllers/teams_controller.php:2099
-#, fuzzy
 #| msgid "All teams must have at least one player as captain."
 msgid "All teams must have at least one player as coach or captain."
-msgstr "Chaque équipe doit avoir au moins un joueur identifié comme capitaine."
+msgstr ""
+"Chaque équipe doit avoir au moins un joueur identifié comme entraineur(e)ou "
+"capitaine."
 
 #: /controllers/teams_controller.php:2109
 msgid "You do not have permission to set that role."
@@ -3054,16 +3039,14 @@ msgid "Failed to change the player's position."
 msgstr "La position de ce joueur n'a pas pu être changé."
 
 #: /controllers/teams_controller.php:2194
-#, fuzzy
 #| msgid "This player is already on this team."
 msgid "This person is already on this team."
-msgstr "Ce joueur fait déjà partie de cette équipe."
+msgstr "Cette personne fait déjà partie de cette équipe."
 
 #: /controllers/teams_controller.php:2211
-#, fuzzy
 #| msgid "You must select a role for this player."
 msgid "You must select a role for this person."
-msgstr "Vous devez sélectionner un rôle pour ce joueur."
+msgstr "Vous devez sélectionner un rôle pour cette personne."
 
 #: /controllers/teams_controller.php:2239
 msgid "You are already on this team."
@@ -3074,17 +3057,17 @@ msgid "You are not allowed to request that role."
 msgstr "Vous n'avez pas la permission de demander ce rôle."
 
 #: /controllers/teams_controller.php:2289;2371
-#, fuzzy
 #| msgid ""
 #| "This player has neither been invited nor requested to join this team."
 msgid "This person has neither been invited nor requested to join this team."
-msgstr "Ce joueur n'a ni été invité, ni demandé de se joindre à l'équipe."
+msgstr ""
+"Cette personne n'a pas été invitée et n'a pas demandée à se joindre à "
+"l'équipe."
 
 #: /controllers/teams_controller.php:2294;2376
-#, fuzzy
 #| msgid "This player has already been added to the roster."
 msgid "This person has already been added to the roster."
-msgstr "Ce joueur a déjà été ajouté à la liste de joueurs."
+msgstr "Cette personne a déjà été ajoutée à la liste de joueurs."
 
 #: /controllers/teams_controller.php:2317
 msgid "You are not allowed to accept this roster %s."
@@ -3146,7 +3129,6 @@ msgstr ""
 "ouvrable."
 
 #: /controllers/teams_controller.php:2677
-#, fuzzy
 #| msgid ""
 #| "This player has not yet completed their profile.  Please contact this "
 #| "player directly to have them complete their profile."
@@ -3154,18 +3136,17 @@ msgid ""
 "This person has not yet completed their profile.  Please contact them "
 "directly to have them complete their profile."
 msgstr ""
-"Ce joueur n'a pas encore complété son profil. Veuillez s'il-vous-plait "
-"contacter ce joueur directement pour qu'il complète son profil."
+"Cette personne n'a pas encore complétée son profil. Veuillez s'il-vous-plait "
+"la contacter directement pour qu'elle complète son profil."
 
 #: /controllers/teams_controller.php:2719;2732
 msgid "You are not allowed to invite someone to that role."
 msgstr "Vous n'avez pas l'autorisation d'inviter quelqu'un à ce rôle."
 
 #: /controllers/teams_controller.php:2823
-#, fuzzy
 #| msgid "team captains."
 msgid "team ccoaches/aptains."
-msgstr "capitaines d'équipe."
+msgstr "entraineurs(es)/capitaines d'équipe."
 
 #: /controllers/teams_controller.php:1913
 msgid "Invitation has"
@@ -3212,11 +3193,11 @@ msgstr "d'avoir créé un compte avec %s."
 
 #: /controllers/users_controller.php:224
 msgid "However, you can log in and start exploring right away."
-msgstr ""
+msgstr "Toutefois, vous pouvez ouvrir votre session et commencer à explorer."
 
 #: /controllers/users_controller.php:227
 msgid "Please proceed with entering your next child's details below."
-msgstr ""
+msgstr "Veuillez entrer les détails concernant votre enfant ci-dessous."
 
 #: /controllers/users_controller.php:293
 #, fuzzy
