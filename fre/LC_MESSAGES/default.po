@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2015-02-18 16:02-0500\n"
-"PO-Revision-Date: 2015-02-19 12:14-0400\n"
+"PO-Revision-Date: 2015-02-27 15:57-0400\n"
 "Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
@@ -1923,10 +1923,9 @@ msgstr ""
 "accès complet au site."
 
 #: /controllers/people_controller.php:1283
-#, fuzzy
 #| msgid "You can't add yourself as a relative!"
 msgid "You can't link yourself as a relative!"
-msgstr "Tu ne peux t'ajouter comme parent!"
+msgstr "Tu ne peux t'ajouter toi-même comme parent!"
 
 #: /controllers/people_controller.php:1292
 msgid "%s is already your relative."
@@ -2291,7 +2290,6 @@ msgid "Profile"
 msgstr "Profil"
 
 #: /controllers/people_controller.php:2779
-#, fuzzy
 #| msgid "account"
 msgid "Account"
 msgstr "Compte"
@@ -2660,6 +2658,8 @@ msgid ""
 "This division's \"schedule type\" is set to \"none\", so no games can be "
 "added."
 msgstr ""
+"Il n'y a aucun \"type d'horraire\" d'assigné pour cette division, les "
+"parties ne peuvent donc pas être ajoutées."
 
 #: /controllers/schedules_controller.php:92
 msgid "Cannot schedule games in a division with less than two teams."
@@ -3002,7 +3002,6 @@ msgid "Failed to send invitation"
 msgstr "Échec dans l'envoi de l'invitation"
 
 #: /controllers/teams_controller.php:2072;2148
-#, fuzzy
 #| msgid "That person is not on this team."
 msgid "This person is not on this team."
 msgstr "Cette personne ne fait pas partie de cette équipe."
@@ -3270,7 +3269,6 @@ msgid "No matching accounts were found!"
 msgstr "Aucun compte correspondant n'a été trouvé!"
 
 #: /controllers/users_controller.php:635
-#, fuzzy
 #| msgid ""
 #| "Your account is currently inactive, please contact an administrator to "
 #| "reactivate it."
@@ -3278,8 +3276,8 @@ msgid ""
 "This account has no email address associated with it. Please contact an "
 "administrator to assist you."
 msgstr ""
-"Votre compte est présentement inactif, svp. contacter un administrateur pour "
-"le réactiver."
+"Aucune adresse courriel n'est assigner à ce compte. Svp. contacter un "
+"administrateur pour vous aider."
 
 #: /controllers/users_controller.php:639
 msgid "Your reset code has been emailed to you."
@@ -3334,10 +3332,11 @@ msgid "You have already accepted this waiver"
 msgstr "Vous avez déjà accepté ce formulaire"
 
 #: /controllers/waivers_controller.php:220
-#, fuzzy
 #| msgid "You are not allowed to accept this roster %s."
 msgid "You are not allowed to accept this waiver on behalf of another person."
-msgstr "Vous n'avez pas la permission d'accepter cette liste d'équipe %s."
+msgstr ""
+"Vous n'avez pas la permission d'accepter cette décharge pour une autre "
+"personne."
 
 #: /controllers/waivers_controller.php:230
 msgid "Waiver signed."
@@ -3354,10 +3353,10 @@ msgstr ""
 "formulaire."
 
 #: /controllers/components/can_register.php:109
-#, fuzzy
 #| msgid "This player already has a preregistration for this event"
 msgid "Only players are allowed to register for this type of event."
-msgstr "Ce joueur est déjà préenregistré pour cet évènement"
+msgstr ""
+"Seulement les joueurs ont la permission de s'inscrire à ce type d'évènement."
 
 #: /controllers/components/can_register.php:121
 msgid "You have already registered and paid for this event."
@@ -3489,9 +3488,8 @@ msgid "Failed to unregister from this event!"
 msgstr "Échec de l'annulation d'inscription à cet événement!"
 
 #: /controllers/components/event_type.php:296;317
-#, fuzzy
 msgid "Failed to update badge information!"
-msgstr "Échec dans la mise à jour de la note d'équipe"
+msgstr "Échec dans la mise à jour du badge d'information!"
 
 #: /controllers/components/event_type_team.php:23
 #: /views/divisions/add_teams.ctp:34 /views/teams/edit.ctp:14
@@ -3577,7 +3575,6 @@ msgstr "Alignement ouvert"
 
 #: /controllers/components/event_type_team.php:115
 #: /views/divisions/add_teams.ctp:37 /views/teams/edit.ctp:140
-#, fuzzy
 #| msgid ""
 #| "If the team roster is open, others can request to join; otherwise, only "
 #| "the captain can add players."
@@ -3586,8 +3583,8 @@ msgid ""
 "coach or captain can add players."
 msgstr ""
 "Si l'alignement est de type ouvert, d'autres joueurs peuvent faire la "
-"demande de joindre l'équipe; sinon, seul le capitaine peut ajouter des "
-"joueurs."
+"demande de se joindre à l'équipe; sinon, seul l'entraineur(e) ou le "
+"capitaine peuvent ajouter des joueurs."
 
 #: /controllers/components/event_type_team.php:123
 msgid "Attendance Tracking"
@@ -3628,13 +3625,12 @@ msgstr ""
 "Il n'y a pas suffisamment %s de disponible pour autoriser l'horaire demandé."
 
 #: /controllers/components/league_type.php:920 /models/game.php:437
-#, fuzzy
 msgid ""
 "A game slot chosen for this schedule has been allocated elsewhere in the "
 "interim. Please try again."
 msgstr ""
-"La plage horaire choisie a été déplacée autre part dans l’intervalle. "
-"Veuillez essayer de nouveau."
+"La plage horaire choisie a été alloué à une autre équipe. Veuillez essayer "
+"de nouveau."
 
 #: /controllers/components/league_type.php:962
 #: /controllers/components/league_type_ratings_ladder.php:109
@@ -3656,9 +3652,8 @@ msgid "%s Availability Report"
 msgstr "%s Rapport de disponibilité"
 
 #: /controllers/components/league_type_competition.php:37
-#, fuzzy
 msgid "single blank, unscheduled game"
-msgstr "espace blanc, partie pas planifiée"
+msgstr "espace blanc, partie non planifiée"
 
 #: /controllers/components/league_type_competition.php:38
 #: /controllers/components/league_type_roundrobin.php:47
@@ -3666,6 +3661,8 @@ msgid ""
 "set of blank unscheduled games for all teams in a division (%d teams, %d "
 "games, one day)"
 msgstr ""
+"ensemble de parties non-organisés pour toutes les équipes d'une division (%d "
+"équipes, %d parties, une journée)"
 
 #: /controllers/components/league_type_competition.php:39
 #: /controllers/components/league_type_roundrobin.php:48
@@ -3673,6 +3670,8 @@ msgid ""
 "set of randomly scheduled games for all teams in a division (%d teams, %d "
 "games, one day)"
 msgstr ""
+"ensemble des parties organisés alléatoirement pour toutes les équipes d'une "
+"division (%d équipes, %d partie, une journée)"
 
 #: /controllers/components/league_type_ratings_ladder.php:40
 #: /views/leagues/summary.ctp:74
@@ -3690,14 +3689,15 @@ msgstr ""
 #: /controllers/components/league_type_ratings_ladder.php:65
 #: /controllers/components/league_type_roundrobin.php:46
 #: /controllers/components/league_type_tournament.php:81
-#, fuzzy
 msgid "single blank, unscheduled game (2 teams, one %s)"
-msgstr "un seul trou, partie non planifiée (2 équipes, une %s)"
+msgstr "espace blanc, partie non planifiée (2 équipes, une %s)"
 
 #: /controllers/components/league_type_ratings_ladder.php:66
 msgid ""
 "set of ratings-scheduled games for all teams (%d teams, %d games, one day)"
 msgstr ""
+"ensemble des parties organisées par classement pour toutes les équipes (%d "
+"équipes, %d parties, une journée)"
 
 #: /controllers/components/league_type_ratings_ladder.php:114
 #: /controllers/components/league_type_roundrobin.php:131;157;179;239
@@ -3715,40 +3715,42 @@ msgid "New games will be scheduled in this round by default."
 msgstr "Les nouvelles parties seront planifiées dans cette ronde par défaut."
 
 #: /controllers/components/league_type_roundrobin.php:49
-#, fuzzy
 msgid "full-division round-robin (%d teams, %d games over %d weeks)"
 msgstr ""
-"division complète à la ronde / round-robin (%d équipes, %d partie sur %d "
+"division complète à la ronde / round-robin (%d équipes, %d parties sur %d "
 "semaines)"
 
 #: /controllers/components/league_type_roundrobin.php:50
-#, fuzzy
 msgid ""
 "half-division round-robin (%d teams, %d games over %d weeks).  2 pools (top, "
 "bottom) divided by team standings."
 msgstr ""
 "moitié de la division à la ronde / round-robin (%d équipes, %d parties sur %"
-"d semaines). Deux poules (haut/bas) divisé par le classement de l'équipe."
+"d semaines). Deux bassins (haut/bas) divisé par le classement de l'équipe."
 
 #: /controllers/components/league_type_roundrobin.php:51
 msgid ""
 "half-division round-robin (%d teams, %d games over %d weeks).  2 pools (top/"
 "bottom) divided by rating."
 msgstr ""
+"moitié de division à la ronde / round-robin (%d équipes, %d parties sur %d "
+"semaines). Deux bassins (haut/bas) divisé par évaluation."
 
 #: /controllers/components/league_type_roundrobin.php:52
 msgid ""
 "half-division round-robin (%d teams, %d games over %d weeks).  2 even "
 "(interleaved) pools divided by team standings."
 msgstr ""
+"moitié de la division à la ronde / round-robin (%d équipes, %d parties sur %"
+"d semaines). Deux moitiés (entrelacé) bassins divisés basé sur le classement "
+"de l'équipe."
 
 #: /controllers/components/league_type_roundrobin.php:250
-#, fuzzy
 msgid ""
 "Need %s weeks of gameslots, yet only %s are available. Add more gameslots."
 msgstr ""
 "Besoin de %s semaines de plage horaire, cependant seulement %s sont "
-"disponibles. Ajouter plus de plage horaire."
+"disponibles. Ajouter plus de plages horaires."
 
 #: /controllers/components/league_type_roundrobin.php:267
 msgid "Had to stop with %s sets left to schedule: could not assign %s"
@@ -3760,11 +3762,11 @@ msgstr ""
 
 #: /controllers/components/league_type_tournament.php:40
 msgid "single pool with all teams"
-msgstr "Une poule unique avec toutes les équipes"
+msgstr "Un bassin unique avec toutes les équipes"
 
 #: /controllers/components/league_type_tournament.php:42
 msgid "seeded split into %d pools"
-msgstr ""
+msgstr "tête de classement divisé en %d bassins"
 
 #: /controllers/components/league_type_tournament.php:58
 msgid "snake seeded split into %d pools of %d teams"
@@ -3809,9 +3811,8 @@ msgid "round-robin with results from prior-stage matchups carried forward"
 msgstr ""
 
 #: /controllers/components/league_type_tournament.php:101
-#, fuzzy
 msgid "single game, winner take all"
-msgstr "une seule partie, le gagnant prend tout"
+msgstr "une seule partie, le gagnant gagne tout"
 
 #: /controllers/components/league_type_tournament.php:102
 msgid "\"home and home\" series"
@@ -3819,7 +3820,7 @@ msgstr "Série \"domicile et domicile\""
 
 #: /controllers/components/league_type_tournament.php:106
 msgid "play-in game for 2nd and 3rd; 1st gets a bye to the finals"
-msgstr ""
+msgstr "Partie pour 2ème et 3ème; 1er a un laisser-passer pour les finals"
 
 #: /controllers/components/league_type_tournament.php:110
 msgid "bracket with semi-finals, finals and 3rd place"
@@ -3950,6 +3951,7 @@ msgid ""
 "There is currently a %s in progress. If unsuccessful, it will expire in 15 "
 "minutes."
 msgstr ""
+"Il y a présentement un %s. S'il ne réussit pas, il expirera dans 15 minutes."
 
 #: /controllers/components/rule_and.php:17
 msgid "Components of AND rules must be separated by commas."
@@ -3971,7 +3973,7 @@ msgstr "Échec - n'a pas pu supprimer %s"
 
 #: /controllers/components/rule_compare.php:25
 msgid "Did not find a space in \"%s\""
-msgstr ""
+msgstr "N'a pas trouvé d'espace dans '%s'"
 
 #: /controllers/components/rule_compare.php:30
 #, fuzzy
@@ -4017,10 +4019,9 @@ msgstr ""
 #: /controllers/components/rule_member_type.php:16;26;35;39;44
 #: /controllers/components/rule_signed_waiver.php:19
 #: /controllers/components/rule_team_count.php:30;39;47;51;56
-#, fuzzy
 #| msgid "Invalid %s"
 msgid "Invalid date: %s"
-msgstr "Non valide %s"
+msgstr "Date non valide: %s"
 
 #: /controllers/components/rule_has_document.php:36;46
 msgid "have uploaded the %s"
@@ -4049,7 +4050,7 @@ msgstr " OU "
 
 #: /controllers/components/rule_registered.php:20
 msgid "Cannot locate %d of the specified events"
-msgstr ""
+msgstr "Ne peut localiser le %d des évènements spécifiés"
 
 #: /controllers/components/rule_registered.php:47
 msgid "have previously registered for the"
@@ -4163,10 +4164,9 @@ msgstr ""
 "La même équipe ne peut pas faire le lancer d'engagement pour les deux demies."
 
 #: /controllers/components/user_cache.php:67
-#, fuzzy
 #| msgid "You do not have permission to access that page."
 msgid "You do not have permission to act as that person."
-msgstr "Vous n'avez pas la permission d'accéder à cette page."
+msgstr "Vous n'avez pas la permission d'agir au nom de cette personne."
 
 #: /models/game.php:270
 msgid "Winner of game %s"
@@ -4178,7 +4178,7 @@ msgstr "Perdant de la partie %s"
 
 #: /models/game.php:279 /models/pool.php:57
 msgid "%s seed"
-msgstr ""
+msgstr "%s classement"
 
 #: /models/game.php:445
 msgid "Failed to save schedule changes!"
@@ -4198,11 +4198,11 @@ msgstr ""
 
 #: /models/game.php:1180
 msgid "Team %s was scheduled twice in the same time slot!"
-msgstr ""
+msgstr "L'équipe %s a deux parties d'organisé pour la même plage horaire!"
 
 #: /models/game.php:1193
 msgid "Team %s was scheduled twice on the same day!"
-msgstr ""
+msgstr "L'équipe %s a deux parties d'oragnisé pour la même journée!"
 
 #: /models/game.php:1196
 msgid "Team %s was scheduled on different days!"
@@ -4211,6 +4211,8 @@ msgstr ""
 #: /models/game.php:1202
 msgid "Team %s was scheduled in overlapping time slots!"
 msgstr ""
+"L'équipe %s a deux parties d'organisé dans des plages horaires qui se "
+"chevauchent!"
 
 #: /models/game.php:1205
 msgid "Team %s was scheduled on %s at different facilities!"
@@ -4218,7 +4220,7 @@ msgstr ""
 
 #: /models/game.php:1211
 msgid "Team %s was selected more than once!"
-msgstr ""
+msgstr "L'équipe %s a été selectionné plus d'une fois!"
 
 #: /models/game.php:1229
 msgid "You cannot choose the \"---\" as the seed!"
@@ -4246,81 +4248,88 @@ msgstr ""
 
 #: /models/game.php:1315
 msgid "Winner of game %s was selected more than once!"
-msgstr ""
+msgstr "Le gagnant de la partie %s a été selectionné plus d'une fois!"
 
 #: /models/game.php:1338
 msgid "Loser of game %s was selected more than once!"
-msgstr ""
+msgstr "Le perdant de la partie %s a été selectionné plus d'une fois!"
 
 #: /models/game.php:1379
 msgid ""
 "You have scheduled teams from different divisions against each other (%s vs %"
 "s), but not checked the box allowing cross-division games."
 msgstr ""
+"Vous avez organisé une partie avec des équipes provenant de divisions "
+"différentes (%s v %s), mais vous n'avez pas coché la case qui permet les "
+"parties inter-divisons."
 
 #: /models/game.php:1386
 msgid ""
 "You have scheduled a game between %s and %s in a game slot not available to "
 "them."
 msgstr ""
+"Vous avez organisé une partie entre %s et %s dans une plage horaire qui "
+"n'est pas disponible pour eux."
 
 #: /models/game.php:1435
-#, fuzzy
 msgid "Failed to update field preference stats!"
-msgstr "Échec - n'a pas pu mettre à jour le statut de présence!"
+msgstr "Échec - n'a pas pu mettre à jour les préférences face aux terrains!"
 
 #: /models/game.php:1452
 msgid "Saved schedule changes, but failed to clear unused slots!"
 msgstr ""
+"Les parties organisées ont été sauvegardé, mais n'a pas pu effacer les "
+"plages inutilisés!"
 
 #: /models/price.php:153
-#, fuzzy
 msgid "day"
 msgid_plural "days"
-msgstr[0] "jours"
+msgstr[0] "jour"
 msgstr[1] "jours"
 
 #: /models/price.php:159
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "heure"
+msgstr[1] "heures"
 
 #: /models/price.php:163
 msgid "minute"
 msgid_plural "minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "minute"
+msgstr[1] "minutes"
 
 #: /models/registration.php:88 /views/events/view.ctp:182;208
 msgid "Deposit"
-msgstr ""
+msgstr "Dépôt"
 
 #: /models/registration.php:90
 msgid "Remaining balance"
-msgstr ""
+msgstr "La balance restante"
 
 #: /plugins/install/controllers/install_controller.php:57
 msgid "Installation files deleted successfully."
-msgstr ""
+msgstr "Dossiers d'installation effacer avec succès."
 
 #: /plugins/install/controllers/install_controller.php:60
 msgid "Could not delete installation files."
-msgstr ""
+msgstr "N'a pas pu effacer les dossiers d'installation."
 
 #: /plugins/install/controllers/install_controller.php:132
 msgid "Installation: Welcome"
-msgstr ""
+msgstr "Installation: Bienvenue"
 
 #: /plugins/install/controllers/install_controller.php:145
 msgid "Step 1: Basic settings"
-msgstr ""
+msgstr "Étape 1: Réglages de base"
 
 #: /plugins/install/controllers/install_controller.php:165
 msgid ""
 "Basic settings saved. Please review install.php for any advanced setting "
 "changes."
 msgstr ""
+"Réglages de base sauvegardés. Veuillez svp. vérifier install.php pour tout "
+"changement de réglages avancés."
 
 #: /plugins/install/controllers/install_controller.php:168
 msgid "Could not write install.php file."
@@ -4328,11 +4337,11 @@ msgstr ""
 
 #: /plugins/install/controllers/install_controller.php:184
 msgid "Step 2: Database configuration"
-msgstr ""
+msgstr "Étape 2: Configuration de la base de données"
 
 #: /plugins/install/controllers/install_controller.php:207;232;382
 msgid "Could not connect to database."
-msgstr ""
+msgstr "N'a pas pu se connecter à la base de données."
 
 #: /plugins/install/controllers/install_controller.php:212
 msgid "Could not write database.php file."
@@ -4340,19 +4349,19 @@ msgstr ""
 
 #: /plugins/install/controllers/install_controller.php:224
 msgid "Step 3: Build database"
-msgstr ""
+msgstr "Étape 3: Créer la base de données"
 
 #: /plugins/install/controllers/install_controller.php:261
 msgid "Installation completed successfully"
-msgstr ""
+msgstr "L'instalation a été complétée avec succès"
 
 #: /plugins/install/controllers/install_controller.php:309
 msgid "Update database"
-msgstr ""
+msgstr "Mise à jour de la base de données"
 
 #: /plugins/install/controllers/install_controller.php:325
 msgid "Database is already up to date."
-msgstr ""
+msgstr "La base de données a déjà été mise à jour."
 
 #: /plugins/install/controllers/install_controller.php:391
 msgid "Failed to perform pre-processing on database"
@@ -4360,12 +4369,12 @@ msgstr ""
 
 #: /plugins/install/views/install/data.ctp:14
 msgid "Click here to build your database"
-msgstr ""
+msgstr "Cliquez ici pour créer votre base de données"
 
 #: /plugins/install/views/install/finish.ctp:13
 #: /plugins/install/views/install/update.ctp:19
 msgid "Failed to write to %s"
-msgstr ""
+msgstr "N'a pas pu écrire à %s"
 
 #: /plugins/install/views/install/finish.ctp:14
 #: /plugins/install/views/install/update.ctp:20
@@ -4409,14 +4418,16 @@ msgstr ""
 #: /plugins/install/views/install/index.ctp:39
 msgid "Installation cannot continue as minimum requirements are not met."
 msgstr ""
+"L'installation ne peut continuer étant donné que les exigences de base ne "
+"sont pas recontrés."
 
 #: /plugins/install/views/install/update.ctp:7
 msgid "The following table(s) were updated:"
-msgstr ""
+msgstr "Le(s) tableau(x) suivant(s) ont été(s) mis à jour:"
 
 #: /plugins/install/views/install/update.ctp:16
 msgid "Failed to complete the update!"
-msgstr ""
+msgstr "N'a pas pu compléter la mise à jour!"
 
 #: /plugins/install/views/install/update.ctp:35
 #: /views/elements/version_check.ctp:8
@@ -4448,15 +4459,15 @@ msgstr ""
 
 #: /plugins/install/views/install/update.ctp:40
 msgid "Click here to proceed with database updates."
-msgstr ""
+msgstr "Cliquez ici pour procéder avec les mises à jour de la base de données."
 
 #: /plugins/install/views/layouts/install.ctp:5
 msgid "Zuluru"
-msgstr ""
+msgstr "Zuluru"
 
 #: /plugins/install/views/layouts/install.ctp:21
 msgid "Install Zuluru"
-msgstr ""
+msgstr "Installer Zuluru"
 
 #: /plugins/tiny_mce/views/helpers/tiny_mce.php:85
 msgid "Invalid TinyMCE configuration preset %s"
@@ -4472,7 +4483,7 @@ msgstr ""
 #: /views/affiliates/add_manager.ctp:6 /views/affiliates/index.ctp:52;52
 #: /views/affiliates/view.ctp:73;73 /views/elements/all/kickstart.ctp:42;42
 msgid "Add Manager"
-msgstr ""
+msgstr "Ajouter un gestionnaire"
 
 #: /views/affiliates/add_manager.ctp:10
 #: /views/divisions/add_coordinator.ctp:10
@@ -4484,15 +4495,15 @@ msgstr ""
 #: /views/questions/add.ctp:4 /views/teams/add_from_event.ctp:8
 #: /views/teams/add_from_team.ctp:8 /views/teams/add_player.ctp:10
 msgid "Add %s"
-msgstr ""
+msgstr "Ajouter %s"
 
 #: /views/affiliates/add_manager.ctp:10
 msgid "Manager"
-msgstr ""
+msgstr "Gestionnaire"
 
 #: /views/affiliates/add_manager.ctp:14
 msgid "Current Managers:"
-msgstr ""
+msgstr "Gestionnaires actuels:"
 
 #: /views/affiliates/add_manager.ctp:22
 msgid ""
@@ -4502,7 +4513,7 @@ msgstr ""
 
 #: /views/affiliates/add_manager.ctp:29
 msgid "Add as manager"
-msgstr ""
+msgstr "Ajouter en tant que gestionnaire"
 
 #: /views/affiliates/edit.ctp:4 /views/badges/edit.ctp:4
 #: /views/categories/edit.ctp:4 /views/contacts/edit.ctp:4
@@ -4518,7 +4529,7 @@ msgstr ""
 #: /views/upload_types/edit.ctp:4 /views/users/create_account.ctp:3
 #: /views/waivers/edit.ctp:4
 msgid "Create"
-msgstr ""
+msgstr "Créer"
 
 #: /views/affiliates/edit.ctp:7 /views/affiliates/index.ctp:49;49
 #: /views/affiliates/view.ctp:47;47;70;76 /views/badges/edit.ctp:7
@@ -4562,7 +4573,7 @@ msgstr ""
 #: /views/upload_types/view.ctp:48 /views/waivers/edit.ctp:7
 #: /views/waivers/index.ctp:71;71 /views/waivers/view.ctp:84;87
 msgid "Edit"
-msgstr ""
+msgstr "Éditer"
 
 #: /views/affiliates/edit.ctp:25 /views/affiliates/select.ctp:12
 #: /views/badges/edit.ctp:60 /views/categories/edit.ctp:31
@@ -4604,7 +4615,7 @@ msgstr ""
 #: /views/users/change_password.ctp:19 /views/users/reset_password.ctp:19
 #: /views/waivers/edit.ctp:92 /views/waivers/sign.ctp:39
 msgid "Submit"
-msgstr ""
+msgstr "Soumettre"
 
 #: /views/affiliates/edit.ctp:29 /views/affiliates/view.ctp:66
 msgid "List Affiliates"
@@ -4646,7 +4657,7 @@ msgstr ""
 #: /views/upload_types/index.ctp:28 /views/upload_types/view.ctp:52
 #: /views/waivers/edit.ctp:98 /views/waivers/index.ctp:74;74
 msgid "Delete"
-msgstr ""
+msgstr "Supprimer"
 
 #: /views/affiliates/edit.ctp:33
 msgid "Delete Affiliate"
@@ -4693,7 +4704,7 @@ msgstr ""
 #: /views/newsletters/index.ctp:78;78 /views/newsletters/view.ctp:48;48
 #: /views/regions/edit.ctp:41;41 /views/tasks/edit.ctp:53;53
 msgid "New"
-msgstr ""
+msgstr "Nouveau"
 
 #: /views/affiliates/index.ctp:3 /views/affiliates/view.ctp:66
 #: /views/badges/index.ctp:3 /views/categories/index.ctp:3
@@ -4710,7 +4721,7 @@ msgstr ""
 #: /views/upload_types/index.ctp:3 /views/waivers/index.ctp:3
 #: /views/waivers/view.ctp:80
 msgid "List"
-msgstr ""
+msgstr "Liste"
 
 #: /views/affiliates/index.ctp:10 /views/affiliates/view.ctp:10
 #: /views/badges/view.ctp:49 /views/categories/index.ctp:10
@@ -4731,16 +4742,16 @@ msgstr ""
 #: /views/themed/wfdfu23/teams/view.ctp:246 /views/upload_types/index.ctp:11
 #: /views/waivers/index.ctp:11 /views/waivers/view.ctp:17
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 #: /views/affiliates/index.ctp:12 /views/badges/view.ctp:24
 #: /views/waivers/index.ctp:13 /views/waivers/view.ctp:39
 msgid "Active"
-msgstr ""
+msgstr "Actif"
 
 #: /views/affiliates/index.ctp:13 /views/affiliates/view.ctp:18
 msgid "Managers"
-msgstr ""
+msgstr "Gestionnaires"
 
 #: /views/affiliates/index.ctp:15 /views/affiliates/view.ctp:25
 #: /views/badges/index.ctp:23 /views/categories/index.ctp:11
@@ -4776,7 +4787,7 @@ msgstr ""
 #: /views/teams/unassigned.ctp:17 /views/upload_types/index.ctp:12
 #: /views/upload_types/view.ctp:26 /views/waivers/index.ctp:16
 msgid "Actions"
-msgstr ""
+msgstr "Actions"
 
 #: /views/affiliates/index.ctp:28 /views/badges/view.ctp:26
 #: /views/divisions/view.ctp:46 /views/elements/divisions/details.ctp:124
@@ -4791,7 +4802,7 @@ msgstr ""
 #: /views/themed/wfdfu23/teams/view.ctp:85 /views/waivers/index.ctp:42
 #: /views/waivers/view.ctp:41
 msgid "Yes"
-msgstr ""
+msgstr "Oui"
 
 #: /views/affiliates/index.ctp:28 /views/badges/view.ctp:26
 #: /views/divisions/view.ctp:46 /views/elements/divisions/details.ctp:124
@@ -4807,12 +4818,12 @@ msgstr ""
 #: /views/themed/wfdfu23/teams/view.ctp:85 /views/waivers/index.ctp:42
 #: /views/waivers/view.ctp:41
 msgid "No"
-msgstr ""
+msgstr "Non"
 
 #: /views/affiliates/index.ctp:37 /views/people/approve.ctp:282
 #: /views/people/statistics.ctp:86 /views/people/view.ctp:284
 msgid "None"
-msgstr ""
+msgstr "Aucun"
 
 #: /views/affiliates/index.ctp:45;45 /views/affiliates/view.ctp:4;43;43
 #: /views/badges/index.ctp:67;67 /views/badges/view.ctp:4
@@ -4840,7 +4851,7 @@ msgstr ""
 #: /views/upload_types/index.ctp:26 /views/upload_types/view.ctp:4;46
 #: /views/waivers/index.ctp:68;68 /views/waivers/view.ctp:4
 msgid "View"
-msgstr ""
+msgstr "Voir"
 
 #: /views/affiliates/index.ctp:70 /views/badges/index.ctp:126
 #: /views/badges/view.ctp:130 /views/categories/index.ctp:59
@@ -4854,7 +4865,7 @@ msgstr ""
 #: /views/teams/tooltip.ctp:66 /views/waivers/index.ctp:87
 #: /views/waivers/view.ctp:91
 msgid "Add"
-msgstr ""
+msgstr "Ajouter"
 
 #: /views/affiliates/index.ctp:70
 msgid "Add Affiliate"
@@ -4862,7 +4873,7 @@ msgstr ""
 
 #: /views/affiliates/select.ctp:3
 msgid "Select"
-msgstr ""
+msgstr "Sélectionner"
 
 #: /views/affiliates/select.ctp:9
 msgid ""
@@ -4881,26 +4892,26 @@ msgstr ""
 #: /views/people/index.ctp:28 /views/people/view.ctp:22
 #: /views/users/create_account.ctp:155
 msgid "User Name"
-msgstr ""
+msgstr "Nom d'utilisateur"
 
 #: /views/affiliates/view.ctp:23 /views/people/participation.ctp:32
 #: /views/people/csv/participation.ctp:5 /views/registrations/report.ctp:62
 #: /views/registrations/csv/report.ctp:10
 msgid "First Name"
-msgstr ""
+msgstr "Prénom"
 
 #: /views/affiliates/view.ctp:24 /views/people/participation.ctp:33
 #: /views/people/csv/participation.ctp:6 /views/registrations/report.ctp:63
 #: /views/registrations/csv/report.ctp:11
 msgid "Last Name"
-msgstr ""
+msgstr "Nom"
 
 #: /views/affiliates/view.ctp:50;50
 #: /views/elements/divisions/details.ctp:13;13
 #: /views/elements/questionnaires/edit_question.ctp:28
 #: /views/franchises/view.ctp:106
 msgid "Remove"
-msgstr ""
+msgstr "Retirer"
 
 #: /views/affiliates/view.ctp:70;76 /views/events/index.ctp:77
 #: /views/leagues/index.ctp:60
@@ -4914,7 +4925,7 @@ msgstr ""
 #: /views/all/splash.ctp:2 /views/games/ratings_table.ctp:38
 #: /views/schedules/day.ctp:48
 msgid "Home"
-msgstr ""
+msgstr "Acceuil"
 
 #: /views/all/splash.ctp:13;17;21;25
 msgid "There are %d new %s."
@@ -4922,15 +4933,15 @@ msgstr ""
 
 #: /views/all/splash.ctp:14
 msgid "accounts to approve"
-msgstr ""
+msgstr "comptes à approuver"
 
 #: /views/all/splash.ctp:18
 msgid "profile photos to approve"
-msgstr ""
+msgstr "photos de profil à approuver"
 
 #: /views/all/splash.ctp:22
 msgid "uploaded documents to approve"
-msgstr ""
+msgstr "documents téléchargés à approuver"
 
 #: /views/all/splash.ctp:26
 msgid "badge nominations to approve"
@@ -4942,11 +4953,11 @@ msgstr ""
 
 #: /views/all/splash.ctp:55;112
 msgid "Click here"
-msgstr ""
+msgstr "Cliquer ici"
 
 #: /views/all/splash.ctp:76
 msgid "My"
-msgstr ""
+msgstr "Mon"
 
 #: /views/all/splash.ctp:230
 msgid ""
@@ -4955,7 +4966,7 @@ msgstr ""
 
 #: /views/all/splash.ctp:232
 msgid "remove this restriction"
-msgstr ""
+msgstr "retirer la restriction"
 
 #: /views/all/splash.ctp:233
 msgid "select a different affiliate to view"
@@ -5009,7 +5020,7 @@ msgstr[1] "inscriptions"
 #: /views/questionnaires/index.ctp:43 /views/questions/activate.ctp:3
 #: /views/questions/index.ctp:47
 msgid "Deactivate"
-msgstr ""
+msgstr "Désactiver"
 
 #: /views/answers/deactivate.ctp:3 /views/badges/deactivate.ctp:3
 #: /views/badges/index.ctp:86
@@ -5019,7 +5030,7 @@ msgstr ""
 #: /views/questionnaires/index.ctp:48 /views/questions/deactivate.ctp:3
 #: /views/questions/index.ctp:52
 msgid "Activate"
-msgstr ""
+msgstr "Activer"
 
 #: /views/badges/edit.ctp:2;64 /views/badges/index.ctp:2
 #: /views/badges/view.ctp:2 /views/people/nominate.ctp:2
@@ -5027,7 +5038,7 @@ msgstr ""
 #: /views/people/nominate_badge_reason.ctp:2 /views/people/view.ctp:527
 #: /views/teams/view.ctp:262 /views/themed/wfdfu23/teams/view.ctp:262
 msgid "Badges"
-msgstr ""
+msgstr "Badges"
 
 #: /views/badges/edit.ctp:21
 msgid "The full name of the badge, to be used as title text on the icon."
@@ -5094,7 +5105,7 @@ msgstr ""
 
 #: /views/badges/index.ctp:21
 msgid "Awarded"
-msgstr ""
+msgstr "Décerné"
 
 #: /views/badges/index.ctp:56 /views/divisions/stats.ctp:16
 #: /views/elements/questionnaires/view.ctp:47 /views/events/view.ctp:241
@@ -5160,7 +5171,7 @@ msgstr ""
 #: /views/teams/index.ctp:77 /views/teams/join.ctp:41
 #: /views/teams/unassigned.ctp:39
 msgid "previous"
-msgstr ""
+msgstr "précédent"
 
 #: /views/badges/index.ctp:134 /views/badges/view.ctp:98
 #: /views/contacts/index.ctp:69 /views/elements/people/search_results.ctp:99
@@ -5173,34 +5184,34 @@ msgstr ""
 #: /views/teams/index.ctp:79 /views/teams/join.ctp:43
 #: /views/teams/unassigned.ctp:41
 msgid "next"
-msgstr ""
+msgstr "prochain"
 
 #: /views/badges/tooltip.ctp:9
 msgid "Awarded to"
-msgstr ""
+msgstr "Décerné à"
 
 #: /views/badges/tooltip.ctp:10
 msgid "people"
-msgstr ""
+msgstr "personne"
 
 #: /views/badges/tooltip.ctp:14 /views/divisions/tooltip.ctp:33;35
 #: /views/elements/divisions/actions.ctp:33
 #: /views/elements/leagues/actions.ctp:29 /views/games/view.ctp:468
 #: /views/leagues/tooltip.ctp:28;40 /views/teams/tooltip.ctp:51
 msgid "Details"
-msgstr ""
+msgstr "détails"
 
 #: /views/badges/view.ctp:29 /views/games/view.ctp:497
 msgid "Visibility"
-msgstr ""
+msgstr "visibilité"
 
 #: /views/badges/view.ctp:40
 msgid "This badge has been awarded to:"
-msgstr ""
+msgstr "Ce badge a été décerné à:"
 
 #: /views/badges/view.ctp:50
 msgid "For"
-msgstr ""
+msgstr "Pour"
 
 #: /views/badges/view.ctp:123
 msgid "Edit Badge"
@@ -5215,7 +5226,7 @@ msgstr ""
 #: /views/categories/edit.ctp:2;35 /views/categories/index.ctp:2;7
 #: /views/categories/view.ctp:2
 msgid "Categories"
-msgstr ""
+msgstr "Catégories"
 
 #: /views/categories/edit.ctp:39 /views/categories/view.ctp:76
 msgid "Delete Category"
@@ -5227,17 +5238,17 @@ msgstr ""
 
 #: /views/categories/view.ctp:25
 msgid "Related Tasks"
-msgstr ""
+msgstr "Tâches reliés"
 
 #: /views/categories/view.ctp:30 /views/tasks/edit.ctp:36
 #: /views/tasks/index.ctp:12 /views/tasks/view.ctp:42
 #: /views/tasks/csv/index.ctp:6
 msgid "Reporting To"
-msgstr ""
+msgstr "Se rapporte à"
 
 #: /views/categories/view.ctp:70
 msgid "List Categories"
-msgstr ""
+msgstr "Liste de catégories"
 
 #: /views/categories/view.ctp:73
 msgid "Edit Category"
@@ -5271,7 +5282,7 @@ msgstr ""
 #: /views/people/index.ctp:31 /views/settings/email.ctp:3
 #: /views/tasks/csv/index.ctp:12
 msgid "Email"
-msgstr ""
+msgstr "Courriel"
 
 #: /views/contacts/index.ctp:52;52
 msgid "Edit Contact"
