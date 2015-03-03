@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2015-02-18 16:02-0500\n"
-"PO-Revision-Date: 2015-02-27 15:57-0400\n"
+"PO-Revision-Date: 2015-03-03 13:03-0400\n"
 "Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
@@ -23,7 +23,8 @@ msgstr "Vous n'avez pas la permission d'accéder à cette page."
 #: /app_controller.php:115
 msgid "You must login to access full site functionality."
 msgstr ""
-"Veuillez ouvrir une session pour accéder à toutes les fonctions du site."
+"Veuillez ouvrir une session pour accéder à toutes les fonctionnalités du "
+"site."
 
 #: /app_controller.php:140
 msgid ""
@@ -53,7 +54,7 @@ msgstr ""
 
 #: /app_controller.php:1569
 msgid "The search terms used are too general. Please be more specific."
-msgstr "La recherche est trop générale. Soyez plus précis."
+msgstr "La recherche est trop générale. Soyez plus précis s'il-vous-plait."
 
 #: /app_model.php:420
 msgid "Could not find validation handler %s for %s"
@@ -151,7 +152,7 @@ msgid ""
 "Compared to other players of the same sex as you, would you consider "
 "yourself:"
 msgstr ""
-"Lorsque vous vous comparez à des joueurs du même sexe, vous vous considérez "
+"En comparaison avec d'autres joueurs du même sexe, vous vous considérez "
 "comme étant:"
 
 #: /config/sport/ultimate.php:55
@@ -164,7 +165,7 @@ msgstr "Plus lent que la majorité"
 
 #: /config/sport/ultimate.php:57
 msgid "Average speed"
-msgstr "Vitesse moyenne"
+msgstr "De vitesse moyenne"
 
 #: /config/sport/ultimate.php:58
 msgid "Faster than most"
@@ -499,7 +500,8 @@ msgstr ""
 
 #: /config/sport/ultimate.php:132
 msgid "not do much because you don't know all the rules yet"
-msgstr "t'abstenir parce que tu ne connais pas encore tous les règlements"
+msgstr ""
+"vous abstenir parce que vous ne connaissez pas encore tous les règlements"
 
 #: /config/sport/ultimate.php:133
 msgid ""
@@ -557,7 +559,7 @@ msgstr "Non valide %s"
 #: /controllers/affiliates_controller.php:45;58;61;72;78;81;88;97;116;123;165
 #: /controllers/game_slots_controller.php:85
 msgid "affiliate"
-msgstr "affilié"
+msgstr "membre"
 
 #: /controllers/affiliates_controller.php:58;78
 #: /controllers/badges_controller.php:315;336
@@ -628,7 +630,7 @@ msgstr ""
 msgid ""
 "The following records reference this affiliate, so it cannot be deleted."
 msgstr ""
-"Les dossiers suivants sont liés à cet affilié, il ne peut donc pas être "
+"Les dossiers suivants sont liés à ce membre, il ne peut donc pas être "
 "supprimé."
 
 #: /controllers/affiliates_controller.php:106
@@ -2519,7 +2521,7 @@ msgid ""
 msgstr ""
 "Une erreur s'est produite lors de la mise à jour de l'enregistrement d'audit "
 "au sein de la base de données. Veuillez contacter le bureau afin de vous "
-"assurer que votre information ait été mise à jour, veuillez fournir le "
+"assurer que votre information ait été mise à jour. Veuillez fournir le "
 "numéro de référence #<b>%s<\\b> pour vous permettre d'être ajouté à "
 "l'équipe, etc."
 
@@ -3199,14 +3201,12 @@ msgid "Please proceed with entering your next child's details below."
 msgstr "Veuillez entrer les détails concernant votre enfant ci-dessous."
 
 #: /controllers/users_controller.php:293
-#, fuzzy
 msgid "You must select at least one affiliate."
-msgstr "Vous devez sélectionner au moins une société."
+msgstr "Vous devez sélectionner au moins un membre."
 
 #: /controllers/users_controller.php:297
-#, fuzzy
 msgid "You must select an affiliate."
-msgstr "Vous devez sélectionner un évènement!"
+msgstr "Vous devez sélectionner un membre."
 
 #: /controllers/users_controller.php:304
 msgid "Select how to handle fields with errors in them."
@@ -3510,7 +3510,7 @@ msgstr "Nom de l'équipe"
 
 #: /controllers/components/event_type_team.php:29 /views/teams/edit.ctp:20
 msgid "The full name of your team."
-msgstr "Nom complet de l'équipe"
+msgstr "Nom complet de l'équipe."
 
 #: /controllers/components/event_type_team.php:37 /views/teams/view.ctp:30
 #: /views/themed/wfdfu23/teams/view.ctp:30
@@ -3523,7 +3523,7 @@ msgid ""
 "'dark'."
 msgstr ""
 "Couleurs des chandails de votre équipe. Dans la mesure où vous n'avez pas de "
-"couleur prédéterminée, veuillez choisir « pâle » ou « foncé »"
+"couleur prédéterminée, veuillez choisir « pâle » ou « foncé »."
 
 #: /controllers/components/event_type_team.php:47
 msgid "Team ID"
@@ -3966,26 +3966,23 @@ msgid "have a %s"
 msgstr "avoir un %s"
 
 #: /controllers/components/rule_compare.php:16
-#, fuzzy
 #| msgid "Failed to delete %s"
 msgid "Failed to parse left side of \"%s\": %s"
-msgstr "Échec - n'a pas pu supprimer %s"
+msgstr "Échec - n'a pas pu faire l'analyse de \"%s\": %s"
 
 #: /controllers/components/rule_compare.php:25
 msgid "Did not find a space in \"%s\""
 msgstr "N'a pas trouvé d'espace dans '%s'"
 
 #: /controllers/components/rule_compare.php:30
-#, fuzzy
 #| msgid "Could not find validation handler %s for %s"
 msgid "Did not find a valid comparison operator in \"%s\""
-msgstr "N'a pas pu trouver la confirmation du meneur %s pour %s"
+msgstr "N'a pas pu trouver un opérateur de comparaison valide dans \"%s\""
 
 #: /controllers/components/rule_compare.php:39
-#, fuzzy
 #| msgid "Failed to parse the rule"
 msgid "Failed to parse right side of \"%s\": %s"
-msgstr "Ne peut analyser la règle"
+msgstr "Ne peut analyser le côté droit de \"%s\": %s"
 
 #: /controllers/components/rule_compare.php:61
 msgid "less than"
@@ -4043,6 +4040,7 @@ msgstr "avoir un nombre d'équipes"
 #: /controllers/components/rule_or.php:17
 msgid "Components of OR rules must be separated by commas."
 msgstr ""
+"Les composantes d'une règle de OU doivent être séparées par des virgules."
 
 #: /controllers/components/rule_or.php:60
 msgid " OR "
@@ -4186,15 +4184,16 @@ msgstr "Erreur lors de l'enregistrement des changements à l'horaire!"
 
 #: /models/game.php:1138
 msgid "You cannot choose the \"---\" as the game time/place!"
-msgstr ""
+msgstr "Vous ne pouvez choisir le \"---\" comme le temps/lieu de la partie!"
 
 #: /models/game.php:1151
 msgid "Game slot at %s on %s was selected more than once!"
 msgstr ""
+"La plage horaire de partie à %s le %s a été selectionné plus d'une fois!"
 
 #: /models/game.php:1162
 msgid "You cannot choose the \"---\" as the team!"
-msgstr ""
+msgstr "Vous ne pouvez pas le \"---\" pour l'équipe!"
 
 #: /models/game.php:1180
 msgid "Team %s was scheduled twice in the same time slot!"
@@ -4224,7 +4223,7 @@ msgstr "L'équipe %s a été selectionné plus d'une fois!"
 
 #: /models/game.php:1229
 msgid "You cannot choose the \"---\" as the seed!"
-msgstr ""
+msgstr "Vous ne pouvez choisir le \"---\"  pour le classement!"
 
 #: /models/game.php:1246
 msgid "Seed %s was scheduled twice in the same time slot!"
@@ -5004,7 +5003,6 @@ msgid "reduce your affiliations"
 msgstr ""
 
 #: /views/all/splash.ctp:54;111
-#, fuzzy
 #| msgid "registration"
 #| msgid_plural "registration"
 msgid "registration"
@@ -5421,10 +5419,9 @@ msgid "Home score"
 msgstr ""
 
 #: /views/divisions/approve_scores.ctp:77
-#, fuzzy
 #| msgid "Failed to add the team captain!"
 msgid "email coaches and captains"
-msgstr "Impossible d'ajouter le capitaine de l'équipe!"
+msgstr "Envoyer un courriel aux entraineur(e)s et aux capitaines"
 
 #: /views/divisions/approve_scores.ctp:83;85
 msgid "Away score"
@@ -6018,9 +6015,8 @@ msgid "You have no open facilities. "
 msgstr ""
 
 #: /views/elements/all/kickstart.ctp:95
-#, fuzzy
 msgid "View Facility"
-msgstr "Établissement"
+msgstr "Voir l'établissement"
 
 #: /views/elements/all/kickstart.ctp:98
 msgid "Edit Facility"
@@ -6047,16 +6043,14 @@ msgid "membership"
 msgstr ""
 
 #: /views/elements/all/kickstart.ctp:180
-#, fuzzy
 #| msgid "team event"
 msgid "an event"
-msgstr "évènement d'équipe"
+msgstr "un évènement"
 
 #: /views/elements/all/kickstart.ctp:184
-#, fuzzy
 #| msgid "Registered"
 msgid "Register for"
-msgstr "Inscrit"
+msgstr "S'inscrire pour"
 
 #: /views/elements/divisions/actions.ctp:33
 msgid "View Division Details"
@@ -6177,9 +6171,8 @@ msgstr ""
 
 #: /views/elements/divisions/details.ctp:159
 #: /views/elements/spirit/view/basic.ctp:7
-#, fuzzy
 msgid "Most spirited player"
-msgstr "Joueur remplaçant"
+msgstr "Joueur ayant le meilleur esprit sportif"
 
 #: /views/elements/divisions/register.ctp:3
 msgid "Register to play in this division:"
@@ -6223,10 +6216,9 @@ msgstr ""
 #: /views/elements/email/html/attendance_summary.ctp:9
 #: /views/elements/email/text/attendance_reminder.ctp:10
 #: /views/elements/email/text/attendance_summary.ctp:7
-#, fuzzy
 #| msgid "Other years"
 msgid "they wear %s"
-msgstr "Autres années"
+msgstr "Ils portent %s"
 
 #: /views/elements/email/html/attendance_reminder.ctp:45
 msgid "set your attendance in advance"
@@ -6238,9 +6230,8 @@ msgstr ""
 
 #: /views/elements/email/html/registration_opening.ctp:8
 #: /views/elements/email/html/reservation_expired.ctp:9
-#, fuzzy
 msgid "pay for this registration"
-msgstr "inscription"
+msgstr "payer pour cette inscription"
 
 #: /views/elements/email/html/registration_opening.ctp:12
 #: /views/elements/email/html/registration_waiting.ctp:9
@@ -6490,10 +6481,9 @@ msgid "Advanced Users"
 msgstr ""
 
 #: /views/elements/help/index.ctp:8 /views/teams/tooltip.ctp:26
-#, fuzzy
 #| msgid "Captain"
 msgid "Coaches/Captains"
-msgstr "Capitaine"
+msgstr "Entraineur(e)s / Capitaines"
 
 #: /views/elements/help/index.ctp:13
 msgid "Administrators"
@@ -6550,11 +6540,10 @@ msgstr ""
 #: /views/games/ratings_table.ctp:2 /views/games/stats.ctp:2
 #: /views/games/submit_score.ctp:2 /views/games/submit_stats.ctp:2
 #: /views/games/view.ctp:2 /views/teams/statistics.ctp:214
-#, fuzzy
 #| msgid "Game"
 #| msgid_plural "Games"
 msgid "Games"
-msgstr "Match"
+msgstr "Parties"
 
 #: /views/elements/help/index.ctp:40
 msgid "Schedules"
@@ -6607,10 +6596,9 @@ msgid "captains guide"
 msgstr ""
 
 #: /views/elements/help/guide/administrator/players.ctp:6
-#, fuzzy
 #| msgid "settings"
 msgid "User Settings"
-msgstr "paramètres"
+msgstr "paramètres d'utilisateur"
 
 #: /views/elements/help/registration_payments/edit/mark_refunded.ctp:2
 msgid ""
@@ -6628,10 +6616,9 @@ msgid ""
 msgstr ""
 
 #: /views/elements/help/rules/rules/attribute.ctp:36
-#, fuzzy
 #| msgid "or"
 msgid "for"
-msgstr "ou"
+msgstr "pour"
 
 #: /views/elements/help/settings/feature/uls.ctp:1
 msgid ""
@@ -6718,9 +6705,8 @@ msgid "Reset schedule dependencies"
 msgstr ""
 
 #: /views/elements/leagues/schedule/view_header.ctp:21;21
-#, fuzzy
 msgid "Edit Week"
-msgstr "Modifier la décharge"
+msgstr "Modifier la semaine"
 
 #: /views/elements/leagues/schedule/view_header.ctp:24;24
 msgid "Delete Week"
@@ -7034,21 +7020,19 @@ msgid "Badge comment"
 msgstr ""
 
 #: /views/elements/people/confirmation.ctp:25
-#, fuzzy
 #| msgid "invitation"
 #| msgid_plural "invitations"
 msgid "Confirmation"
-msgstr "invitation"
+msgstr "Confirmation"
 
 #: /views/elements/people/confirmation.ctp:33
 msgid "profile information for %s"
 msgstr ""
 
 #: /views/elements/people/confirmation.ctp:35
-#, fuzzy
 #| msgid "Player and Skill Information"
 msgid "your profile information"
-msgstr "Information concernant le joueur et ses habiletés"
+msgstr "information concernant votre profil"
 
 #: /views/elements/people/confirmation.ctp:37
 msgid ""
@@ -7071,7 +7055,6 @@ msgid "inches"
 msgstr ""
 
 #: /views/elements/people/confirmation.ctp:73
-#, fuzzy
 #| msgid "Updated %s"
 msgid "Update %s"
 msgstr "%s mis à jour"
@@ -7176,9 +7159,8 @@ msgstr ""
 #: /views/elements/people/search_results.ctp:57
 #: /views/elements/teams/actions.ctp:107 /views/people/tooltip.ctp:68
 #: /views/people/view.ctp:329
-#, fuzzy
 msgid "Edit Note"
-msgstr "Note"
+msgstr "Modifier la note"
 
 #: /views/elements/people/search_results.ctp:105 /views/people/index.ctp:106
 msgid "Download"
@@ -7509,19 +7491,17 @@ msgid "Registration Events List"
 msgstr ""
 
 #: /views/events/index.ctp:169;215 /views/events/view.ctp:352
-#, fuzzy
 msgid "Add price"
-msgstr "Ajouter une décharge"
+msgstr "Ajouter un prix"
 
 #: /views/events/index.ctp:169;215 /views/events/view.ctp:352
 msgid "Add a new price point"
 msgstr ""
 
 #: /views/events/index.ctp:176;176
-#, fuzzy
 #| msgid "event"
 msgid "Clone Event"
-msgstr "évènement"
+msgstr "cloner l'évènement"
 
 #: /views/events/index.ctp:182;225 /views/events/view.ctp:364
 #: /views/registrations/waiting.ctp:3;8 /views/settings/registration.ctp:100
@@ -7588,29 +7568,24 @@ msgid "Registration  Closes"
 msgstr ""
 
 #: /views/events/view.ctp:164
-#, fuzzy
 msgid "Reservations"
-msgstr "inscription"
+msgstr "Réservations"
 
 #: /views/events/view.ctp:199
-#, fuzzy
 msgid "Registration Options"
-msgstr "inscription"
+msgstr "Options d'inscription"
 
 #: /views/events/view.ctp:202
-#, fuzzy
 msgid "Option"
-msgstr "Options d'expiration"
+msgstr "Option"
 
 #: /views/events/view.ctp:204
-#, fuzzy
 msgid "Registration Closes"
-msgstr "inscription"
+msgstr "La période d'inscription est fermée"
 
 #: /views/events/view.ctp:205
-#, fuzzy
 msgid "Reservations?"
-msgstr "inscription"
+msgstr "Réservations?"
 
 #: /views/events/view.ctp:247;289
 msgid "Register now!"
@@ -7825,9 +7800,8 @@ msgid "Closed Facilities List"
 msgstr ""
 
 #: /views/facilities/index.ctp:20
-#, fuzzy
 msgid "Facilities List"
-msgstr "Établissement"
+msgstr "Liste des établissements"
 
 #: /views/facilities/index.ctp:33
 msgid "map of all %s"
@@ -7920,12 +7894,11 @@ msgid "Bookings"
 msgstr ""
 
 #: /views/facilities/view.ctp:36
-#, fuzzy
 #| msgid "poor"
 msgid "Sport"
 msgid_plural "Sports"
-msgstr[0] "Faible"
-msgstr[1] "Faible"
+msgstr[0] "Sport"
+msgstr[1] "Sports"
 
 #: /views/facilities/view.ctp:90
 msgid "Surface"
@@ -8123,16 +8096,14 @@ msgid "%s Selection"
 msgstr ""
 
 #: /views/game_slots/add.ctp:124
-#, fuzzy
 #| msgid "a tie"
 msgid "Start time"
-msgstr "partie nulle"
+msgstr "Heure de début"
 
 #: /views/game_slots/add.ctp:125
-#, fuzzy
 #| msgid "This game has not yet started."
 msgid "Time for games to start."
-msgstr "Cette partie n'a pas encore commencé."
+msgstr "L'heure du début des parties."
 
 #: /views/game_slots/add.ctp:128
 msgid "Slot length"
@@ -8155,10 +8126,9 @@ msgid ""
 msgstr ""
 
 #: /views/game_slots/add.ctp:138
-#, fuzzy
 #| msgid "a tie"
 msgid "End time"
-msgstr "partie nulle"
+msgstr "Heure de fin"
 
 #: /views/game_slots/add.ctp:140
 msgid ""
@@ -8398,9 +8368,8 @@ msgid "them"
 msgstr ""
 
 #: /views/games/edit.ctp:175;176 /views/games/view.ctp:290;291
-#, fuzzy
 msgid "no"
-msgstr "note"
+msgstr "non"
 
 #: /views/games/edit.ctp:179 /views/games/view.ctp:294
 #: /views/registrations/view.ctp:110
@@ -8512,10 +8481,9 @@ msgid "Timeouts taken"
 msgstr ""
 
 #: /views/games/stat_sheet.ctp:57 /views/teams/stat_sheet.ctp:41
-#, fuzzy
 #| msgid "Spring Indoor"
 msgid "Starting end"
-msgstr "Printemps - intérieur"
+msgstr "Le point de départ"
 
 #: /views/games/stat_sheet.ctp:118 /views/teams/stat_sheet.ctp:82
 msgid "Game Notes"
@@ -8896,10 +8864,9 @@ msgstr ""
 #: /views/leagues/csv/participation.ctp:105
 #: /views/people/csv/rule_search.ctp:86
 #: /views/registrations/csv/full_list.ctp:120
-#, fuzzy
 #| msgid "Contact"
 msgid "Contact %s"
-msgstr "Contact"
+msgstr "Contact %s"
 
 #: /views/mailing_lists/edit.ctp:2;14 /views/mailing_lists/view.ctp:2
 #: /views/newsletters/view.ctp:20
@@ -9496,9 +9463,8 @@ msgid "Relative"
 msgstr ""
 
 #: /views/people/link_relative.ctp:20
-#, fuzzy
 msgid "Link as relative"
-msgstr "Ajouter une décharge"
+msgstr "Lier comme parent"
 
 #: /views/people/list_new.ctp:3;7
 msgid "New Accounts"
@@ -9589,9 +9555,8 @@ msgid ""
 msgstr ""
 
 #: /views/people/preferences.ctp:28
-#, fuzzy
 msgid "Always Send Attendance Reminder Emails"
-msgstr "Rappel de présence"
+msgstr "Il faut toujours envoyer des courriels de rappel de présence"
 
 #: /views/people/preferences.ctp:31
 msgid ""
@@ -9601,9 +9566,10 @@ msgid ""
 msgstr ""
 
 #: /views/people/preferences.ctp:32
-#, fuzzy
 msgid "NOTE: This applies only to teams with attendance tracking enabled."
-msgstr "Le suivi de présence pour cette équipe n'est pas disponible."
+msgstr ""
+"NOTE: Ceci s'applique seulement aux équipes dont le suivi de présence a été "
+"activé."
 
 #: /views/people/preferences.ctp:38;54;70;96
 msgid "use system default"
@@ -9711,9 +9677,8 @@ msgid "find all inactive users (not currently on any team)"
 msgstr ""
 
 #: /views/people/search.ctp:26
-#, fuzzy
 msgid "Change password"
-msgstr "Modifier le mot de passe de"
+msgstr "Changer le mot de passe"
 
 #: /views/people/statistics.ctp:3 /views/registrations/statistics.ctp:3
 #: /views/teams/statistics.ctp:3
@@ -9721,10 +9686,9 @@ msgid "Statistics"
 msgstr ""
 
 #: /views/people/statistics.ctp:9
-#, fuzzy
 #| msgid "Team Statistics"
 msgid "People Statistics"
-msgstr "Statistiques de l'équipe"
+msgstr "Statistiques des joueurs"
 
 #: /views/people/statistics.ctp:11
 msgid "People by Account Status"
@@ -9796,10 +9760,9 @@ msgid "Zuluru Id"
 msgstr ""
 
 #: /views/people/view.ctp:40
-#, fuzzy
 #| msgid "Login"
 msgid "Last Login"
-msgstr "Connexion"
+msgstr "Dernière connexion"
 
 #: /views/people/view.ctp:46
 msgid "IP Address"
@@ -9903,9 +9866,8 @@ msgid "you"
 msgstr ""
 
 #: /views/people/view.ctp:518
-#, fuzzy
 msgid "Link a relative"
-msgstr "Ajouter une décharge"
+msgstr "Lier un parent"
 
 #: /views/people/view.ctp:560
 msgid "Allstar Nominations"
@@ -10026,9 +9988,8 @@ msgid "List Preregistrations"
 msgstr ""
 
 #: /views/preregistrations/add_to_event.ctp:29
-#, fuzzy
 msgid "Add preregistration"
-msgstr "inscription"
+msgstr "Ajouter une pré-inscription"
 
 #: /views/preregistrations/index.ctp:87
 msgid "New Preregistration"
@@ -10057,9 +10018,8 @@ msgid "Questionnaires"
 msgstr ""
 
 #: /views/questionnaires/index.ctp:7
-#, fuzzy
 msgid "Questionnaires List"
-msgstr "Questionnaire"
+msgstr "Liste des questionnaires"
 
 #: /views/questionnaires/index.ctp:7
 msgid "Deactivated Questionnaires List"
@@ -10101,9 +10061,8 @@ msgid "Add an answer to this question"
 msgstr ""
 
 #: /views/questions/index.ctp:7
-#, fuzzy
 msgid "Questions List"
-msgstr "Question"
+msgstr "Liste des questions"
 
 #: /views/questions/index.ctp:7
 msgid "Deactivated Questions List"
@@ -10246,9 +10205,8 @@ msgid ""
 msgstr ""
 
 #: /views/registrations/checkout.ctp:193
-#, fuzzy
 msgid "Reregister"
-msgstr "inscription"
+msgstr "Ré-inscription"
 
 #: /views/registrations/checkout.ctp:212
 msgid ""
@@ -10339,11 +10297,10 @@ msgid "Apply the credit now"
 msgstr ""
 
 #: /views/registrations/redeem.ctp:26;50
-#, fuzzy
 msgid "Are you sure you want to apply this credit? This cannot be undone."
 msgstr ""
-"Êtes-vous absolument certain de vouloir supprimer, %s <b>Cette action sera "
-"définitive!</b>"
+"Êtes-vous certain de vouloir appliqué ce crédit à cette transaction? Vous ne "
+"pouvez pas retourner en arrière."
 
 #: /views/registrations/redeem.ctp:29
 msgid "You have the following credits to redeem:"
@@ -10445,10 +10402,9 @@ msgid "Unpaid Registrations"
 msgstr ""
 
 #: /views/registrations/unpaid.ctp:12
-#, fuzzy
 #| msgid "Person"
 msgid "Person / Event"
-msgstr "Personne"
+msgstr "Personne / évènement"
 
 #: /views/registrations/unpaid.ctp:43 /views/registrations/waiting.ctp:29
 msgid "Are you sure you want to delete this registration?"
@@ -10740,18 +10696,16 @@ msgstr ""
 #: /views/settings/profile.ctp:9 /views/settings/registration.ctp:9
 #: /views/settings/scoring.ctp:9 /views/settings/team.ctp:9
 #: /views/settings/user.ctp:9
-#, fuzzy
 msgid "Use default"
-msgstr "détails des résultats"
+msgstr "Utilisation par défault"
 
 #: /views/settings/email.ctp:21
 msgid "Sender"
 msgstr ""
 
 #: /views/settings/email.ctp:28
-#, fuzzy
 msgid "Admin name"
-msgstr "L'administrateur peut mettre à jour"
+msgstr "Nom de l'administrateur"
 
 #: /views/settings/email.ctp:29
 msgid ""
@@ -10812,9 +10766,8 @@ msgid "The name this application will be known as to your users."
 msgstr ""
 
 #: /views/settings/feature.ctp:36
-#, fuzzy
 msgid "Enable affiliates"
-msgstr "affilié"
+msgstr "Activer les membres"
 
 #: /views/settings/feature.ctp:39
 msgid "Allow configuration of multiple affiliated organizations."
@@ -10841,18 +10794,16 @@ msgid ""
 msgstr ""
 
 #: /views/settings/feature.ctp:66
-#, fuzzy
 msgid "Handle registration"
-msgstr "inscription"
+msgstr "s'occuper des inscriptions"
 
 #: /views/settings/feature.ctp:69
 msgid "Enable or disable processing of registrations."
 msgstr ""
 
 #: /views/settings/feature.ctp:76
-#, fuzzy
 msgid "Handle Spirit of the Game"
-msgstr "Notre esprit sportif était pareil"
+msgstr "s'occuper de l'esprit sportif de la partie"
 
 #: /views/settings/feature.ctp:79
 msgid ""
@@ -10885,18 +10836,16 @@ msgid "To use this, you need to separately install the PDFize plugin."
 msgstr ""
 
 #: /views/settings/feature.ctp:118
-#, fuzzy
 msgid "Enable badges"
-msgstr "Activé"
+msgstr "Activer les badges"
 
 #: /views/settings/feature.ctp:121
 msgid "Enable or disable the awarding and display of badges."
 msgstr ""
 
 #: /views/settings/feature.ctp:128
-#, fuzzy
 msgid "Handle contacts"
-msgstr "contact"
+msgstr "s'occuper des contacts"
 
 #: /views/settings/feature.ctp:131
 msgid ""
@@ -10970,9 +10919,8 @@ msgid "Your organization's full name."
 msgstr ""
 
 #: /views/settings/organization.ctp:38
-#, fuzzy
 msgid "Short name"
-msgstr "Tournoi"
+msgstr "surnom"
 
 #: /views/settings/organization.ctp:39
 msgid "Your organization's abbreviated name or acronym."
@@ -11023,9 +10971,8 @@ msgid "Location and Mapping"
 msgstr ""
 
 #: /views/settings/organization.ctp:122
-#, fuzzy
 msgid "Latitude"
-msgstr "Attitude"
+msgstr "Latitude"
 
 #: /views/settings/organization.ctp:123
 msgid ""
@@ -11114,14 +11061,12 @@ msgid "Common Options"
 msgstr ""
 
 #: /views/settings/payment.ctp:32
-#, fuzzy
 msgid "Payment implementation"
-msgstr "a répondu aux attentes"
+msgstr "Mise en application des paiements"
 
 #: /views/settings/payment.ctp:46
-#, fuzzy
 msgid "Options"
-msgstr "Options d'expiration"
+msgstr "Options"
 
 #: /views/settings/payment.ctp:48
 msgid ""
@@ -11215,9 +11160,8 @@ msgid "Street address"
 msgstr ""
 
 #: /views/settings/profile.ctp:99
-#, fuzzy
 msgid "Home phone"
-msgstr "Terrain à domicile"
+msgstr "Numéro de téléphone à la maison"
 
 #: /views/settings/profile.ctp:108
 msgid "Work phone"
@@ -11385,9 +11329,8 @@ msgid "Spirit Scores"
 msgstr ""
 
 #: /views/settings/scoring.ctp:59
-#, fuzzy
 msgid "Spirit questions"
-msgstr "question"
+msgstr "Questions d'esprit sportif"
 
 #: /views/settings/scoring.ctp:62
 msgid "Default type of spirit questions to use when creating a new league."
@@ -11442,9 +11385,8 @@ msgid ""
 msgstr ""
 
 #: /views/settings/scoring.ctp:128
-#, fuzzy
 msgid "Incident reports"
-msgstr "Données relatives à l'incident"
+msgstr "Rapports d'incident"
 
 #: /views/settings/scoring.ctp:131
 msgid ""
@@ -11473,14 +11415,12 @@ msgid ""
 msgstr ""
 
 #: /views/settings/team.ctp:21
-#, fuzzy
 msgid "Team Features"
-msgstr "Horaire pour l'équipe"
+msgstr "Vestige de l'équipe"
 
 #: /views/settings/team.ctp:27
-#, fuzzy
 msgid "Handle franchises"
-msgstr "franchise"
+msgstr "s'occuper des franchises"
 
 #: /views/settings/team.ctp:30
 msgid "Enable or disable linking of teams through franchises."
@@ -11507,9 +11447,8 @@ msgid ""
 msgstr ""
 
 #: /views/settings/team.ctp:57
-#, fuzzy
 msgid "Attendance tracking"
-msgstr "Notification de présence"
+msgstr "Suivi des présences"
 
 #: /views/settings/team.ctp:60
 msgid ""
@@ -11526,9 +11465,8 @@ msgid "Enable or disable attachment of URLs to team and franchise records."
 msgstr ""
 
 #: /views/settings/team.ctp:77
-#, fuzzy
 msgid "Flickr"
-msgstr "cliquez ici"
+msgstr "Flickr"
 
 #: /views/settings/team.ctp:80
 msgid "Enable or disable attachment of Flickr slideshows to team records."
@@ -11545,7 +11483,6 @@ msgid ""
 msgstr ""
 
 #: /views/settings/team.ctp:94
-#, fuzzy
 msgid "Home field"
 msgstr "Terrain à domicile"
 
@@ -11556,9 +11493,8 @@ msgid ""
 msgstr ""
 
 #: /views/settings/team.ctp:106 /views/teams/edit.ctp:115
-#, fuzzy
 msgid "Facility preference"
-msgstr "Échec - n'a pas pu sauvegarder vos préférences"
+msgstr "Préférences d'établissements"
 
 #: /views/settings/team.ctp:109
 msgid ""
@@ -11567,9 +11503,8 @@ msgid ""
 msgstr ""
 
 #: /views/settings/team.ctp:116
-#, fuzzy
 msgid "Region preference"
-msgstr "préférences"
+msgstr "préférences de régions"
 
 #: /views/settings/team.ctp:119
 msgid ""
@@ -11649,18 +11584,16 @@ msgid ""
 msgstr ""
 
 #: /views/settings/user.ctp:60
-#, fuzzy
 msgid "Photos"
-msgstr "image"
+msgstr "Images"
 
 #: /views/settings/user.ctp:63
 msgid "Enable or disable the option for people to upload profile photos."
 msgstr ""
 
 #: /views/settings/user.ctp:70
-#, fuzzy
 msgid "Approve photos"
-msgstr "%s approuvé"
+msgstr "Images approuvées"
 
 #: /views/settings/user.ctp:73
 msgid ""
@@ -11678,9 +11611,8 @@ msgid ""
 msgstr ""
 
 #: /views/settings/user.ctp:90
-#, fuzzy
 msgid "Handle document uploads"
-msgstr "Vous devez sélectionner un document a télécharger"
+msgstr "s'occuper du téléchargement de documents"
 
 #: /views/settings/user.ctp:93
 msgid ""
@@ -11697,18 +11629,16 @@ msgid "Allow people to attach notes to other people, teams, games and %s."
 msgstr ""
 
 #: /views/settings/user.ctp:110
-#, fuzzy
 msgid "Enable tasks"
-msgstr "Activé"
+msgstr "Activer les tâches"
 
 #: /views/settings/user.ctp:113
 msgid "Enable or disable the management and assignment of tasks."
 msgstr ""
 
 #: /views/settings/user.ctp:120
-#, fuzzy
 msgid "Dog questions"
-msgstr "question"
+msgstr "Questions concernant les chiens"
 
 #: /views/settings/user.ctp:123
 msgid "Enable or disable questions and options about dogs."
@@ -11862,10 +11792,9 @@ msgid "Team Events"
 msgstr ""
 
 #: /views/team_events/add_dates.ctp:11
-#, fuzzy
 #| msgid "Team event"
 msgid "Team Event Dates"
-msgstr "Évènement d'équipe"
+msgstr "Dates d'évènement d'équipe"
 
 #: /views/team_events/attendance_change.ctp:20
 msgid "Start Time"
@@ -11888,10 +11817,9 @@ msgid "This is a repeating event"
 msgstr ""
 
 #: /views/team_events/edit.ctp:42
-#, fuzzy
 #| msgid "met expectations"
 msgid "Event Repetition Details"
-msgstr "a répondu aux attentes"
+msgstr "Détails d'évènement répétitif"
 
 #: /views/team_events/view.ctp:101;101
 msgid "Edit Event"
@@ -11949,9 +11877,8 @@ msgid "Invite"
 msgstr ""
 
 #: /views/teams/add_player.ctp:25
-#, fuzzy
 msgid "Add to team"
-msgstr "Ne fait pas partie de l'équipe"
+msgstr "Ajouter à l'équipe"
 
 #: /views/teams/add_player.ctp:33
 msgid ""
@@ -12034,9 +11961,8 @@ msgid "No home %s"
 msgstr ""
 
 #: /views/teams/edit.ctp:118
-#, fuzzy
 msgid "Select your preferred facilities"
-msgstr "Échec - n'a pas pu sauvegarder vos préférences"
+msgstr "Sélectionner votre premier choix d'établissement"
 
 #: /views/teams/edit.ctp:131
 msgid "No preference"
@@ -12104,14 +12030,12 @@ msgid "FAIL"
 msgstr ""
 
 #: /views/teams/roster_add.ctp:2
-#, fuzzy
 msgid "Addition"
-msgstr "Position"
+msgstr "Addition"
 
 #: /views/teams/roster_add.ctp:2
-#, fuzzy
 msgid "Invitation"
-msgstr "inscription"
+msgstr "Invitation"
 
 #: /views/teams/roster_add.ctp:6;11
 msgid "Roster %s"
@@ -12263,9 +12187,8 @@ msgid "Home Field"
 msgstr "Terrain à domicile"
 
 #: /views/teams/view.ctp:54 /views/themed/wfdfu23/teams/view.ctp:54
-#, fuzzy
 msgid "Facility Preference"
-msgstr "Échec - n'a pas pu sauvegarder vos préférences"
+msgstr "Préférences d'établissements"
 
 #: /views/teams/view.ctp:73 /views/themed/wfdfu23/teams/view.ctp:73
 msgid "Roster Status"
@@ -12395,7 +12318,6 @@ msgid ""
 msgstr ""
 
 #: /views/users/create_account.ctp:11
-#, fuzzy
 #| msgid ""
 #| "Your account has been created. It must be approved by an administrator "
 #| "before you will have full access to the site. However, you can log in and "
@@ -12404,9 +12326,8 @@ msgid ""
 "Your account will be placed on hold until approved by an administrator. Once "
 "approved, you will have full access to the system."
 msgstr ""
-"Votre compte a été créé. Il doit être approuvé par un administrateur avant "
-"que vous puissiez avoir un accès complet au site. Toutefois, vous pouvez "
-"vous connecter et commencer à explorer dès maintenant."
+"Votre compte restera inactif jusqu'à ce qu'il soit approuvé par un "
+"administrateur . Une fois approuvé, vous aurez un accès complèt au système."
 
 #: /views/users/create_account.ctp:14
 msgid ""
@@ -12427,26 +12348,23 @@ msgid "follow these instructions"
 msgstr ""
 
 #: /views/users/create_account.ctp:47
-#, fuzzy
 #| msgid "You are not allowed to change this attendance record."
 msgid "You will be able to change these later, if required."
-msgstr "Vous n'avez pas la permission de modifier cette fiche de présence."
+msgstr "Vous pourrez y faire des modifications plus tard, si nécessaire."
 
 #: /views/users/create_account.ctp:152
-#, fuzzy
 #| msgid "Reset Password"
 msgid "User Name and Password"
-msgstr "Réinitialiser le mot de passe"
+msgstr "Nom d'utilisateur et mot de passe"
 
 #: /views/users/create_account.ctp:309
 msgid "Child Profile"
 msgstr ""
 
 #: /views/users/create_account.ctp:362
-#, fuzzy
 #| msgid "Couldn't save new member information"
 msgid "Submit and save your information"
-msgstr "L'information pour ce nouveau membre n'a pu être sauvegardé"
+msgstr "Soumettre et sauvegarder votre information"
 
 #: /views/users/create_account.ctp:363
 msgid "Save your information and add another child"
@@ -12533,16 +12451,14 @@ msgid "View Waiver"
 msgstr "Consulter la décharge"
 
 #: /views/waivers/review.ctp:11
-#, fuzzy
 #| msgid "You have accepted this roster %s."
 msgid "You accepted this waiver at %s on %s"
-msgstr "Vous avez accepté cet alignement %s."
+msgstr "Vous avez accepté cette décharge à %s le %s"
 
 #: /views/waivers/review.ctp:13
-#, fuzzy
 #| msgid "You have already accepted this waiver"
 msgid "You most recently accepted this waiver at %s on %s"
-msgstr "Vous avez déjà accepté ce formulaire"
+msgstr "Vous avez, plus récemment, accepté cette décharge à %s le %s"
 
 #: /views/waivers/review.ctp:16
 msgid "covering the dates %s to %s"
@@ -12856,10 +12772,9 @@ msgid "Successor"
 msgstr ""
 
 #: /config/features.php:221
-#, fuzzy
 #| msgid "Average"
 msgid "Alternate"
-msgstr "Dans la moyenne"
+msgstr "Remplaçant"
 
 #: /config/features.php:225
 msgid "Private"
@@ -13807,7 +13722,7 @@ msgstr "Créer %s"
 
 #: /views/badges/index.ctp:7
 msgid "Deactivated Badges"
-msgstr ""
+msgstr "Badges désactivés"
 
 #: /views/elements/divisions/details.ctp:75 /views/events/view.ctp:99
 msgid "Co-ed"
