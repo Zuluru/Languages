@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"POT-Creation-Date: 2015-03-03 15:47-0500\n"
+"POT-Creation-Date: 2015-03-05 15:23-0500\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
@@ -1510,6 +1510,7 @@ msgstr ""
 
 #: /controllers/mailing_lists_controller.php:117
 #: /controllers/newsletters_controller.php:255
+#: /views/elements/help/rules/mailing_lists.ctp:25
 msgid "The syntax of the mailing list rule is valid, but it is not possible to build a query which will return the expected results. See the \"rules engine\" help for suggestions."
 msgstr ""
 
@@ -3070,6 +3071,7 @@ msgid "There are insufficient game slots available to complete this schedule. Ch
 msgstr ""
 
 #: /controllers/components/league_type.php:1215
+#: /views/elements/help/divisions/index.ctp:22
 msgid "%s Availability Report"
 msgstr ""
 
@@ -3340,18 +3342,22 @@ msgid "Failed to parse right side of \"%s\": %s"
 msgstr ""
 
 #: /controllers/components/rule_compare.php:61
+#: /views/elements/help/rules/rules/compare.ctp:9
 msgid "less than"
 msgstr ""
 
 #: /controllers/components/rule_compare.php:66
+#: /views/elements/help/rules/rules/compare.ctp:10
 msgid "less than or equal to"
 msgstr ""
 
 #: /controllers/components/rule_compare.php:71
+#: /views/elements/help/rules/rules/compare.ctp:11
 msgid "greater than"
 msgstr ""
 
 #: /controllers/components/rule_compare.php:76
+#: /views/elements/help/rules/rules/compare.ctp:12
 msgid "greater than or equal to"
 msgstr ""
 
@@ -3492,6 +3498,14 @@ msgstr ""
 
 #: /controllers/components/user_cache.php:67
 msgid "You do not have permission to act as that person."
+msgstr ""
+
+#: /views/all/splash.ctp:2
+#: /views/divisions/slots.ctp:44
+#: /views/games/ratings_table.ctp:38
+#: /views/leagues/slots.ctp:48
+#: /views/schedules/day.ctp:48
+msgid "Home"
 msgstr ""
 
 #: /models/game.php:270
@@ -3868,6 +3882,7 @@ msgstr ""
 #: /views/divisions/edit.ctp:11
 #: /views/elements/all/kickstart.ctp:39;39;98
 #: /views/elements/divisions/actions.ctp:61
+#: /views/elements/help/people/skill_level.ctp:3
 #: /views/elements/leagues/actions.ctp:55
 #: /views/elements/people/search_results.ctp:65
 #: /views/elements/questionnaires/edit_question.ctp:27
@@ -5025,6 +5040,7 @@ msgstr ""
 #: /views/divisions/status.ctp:2
 #: /views/divisions/view.ctp:2
 #: /views/elements/help/index.ctp:43
+#: /views/elements/help/guide/administrator/leagues.ctp:17
 #: /views/leagues/stats.ctp:2
 #: /views/leagues/view.ctp:89
 #: /views/people/view.ctp:539
@@ -5297,6 +5313,7 @@ msgstr ""
 
 #: /views/divisions/fields.ctp:4;8
 #: /views/elements/divisions/actions.ctp:94
+#: /views/elements/help/divisions/index.ctp:20
 msgid "%s Distribution Report"
 msgstr ""
 
@@ -5698,6 +5715,7 @@ msgid "Preliminary rounds"
 msgstr ""
 
 #: /views/divisions/standings.ctp:95
+#: /views/elements/help/schedules/add/tournament/schedule_type.ctp:10
 #: /views/leagues/standings.ctp:68
 msgid "Playoff brackets"
 msgstr ""
@@ -6091,6 +6109,7 @@ msgstr ""
 #: /views/elements/divisions/register.ctp:6
 #: /views/elements/events/list.ctp:14
 #: /views/elements/help/index.ctp:19;32
+#: /views/elements/help/guide/administrator/registration.ctp:26;35
 #: /views/events/index.ctp:51
 #: /views/events/view.ctp:2;306;367;371;373
 #: /views/registrations/add_payment.ctp:2
@@ -6124,6 +6143,11 @@ msgstr ""
 #: /views/elements/email/html/account_new.ctp:7;9
 #: /views/elements/email/html/password_new.ctp:5
 #: /views/elements/email/html/password_reset.ctp:4
+#: /views/elements/help/divisions/edit/rating_calculator/krach.ctp:7;8
+#: /views/elements/help/divisions/edit/rating_calculator/rpi.ctp:7
+#: /views/elements/help/divisions/edit/rating_calculator/rri.ctp:7;8
+#: /views/elements/help/divisions/edit/rating_calculator/sagarin.ctp:7
+#: /views/elements/help/divisions/edit/rating_calculator/usau_college.ctp:7
 msgid "here"
 msgstr ""
 
@@ -6522,12 +6546,14 @@ msgid "People"
 msgstr ""
 
 #: /views/elements/help/index.ctp:30
+#: /views/elements/help/guide/administrator/registration.ctp:8
 #: /views/events/edit.ctp:2
 #: /views/questionnaires/view.ctp:34
 msgid "Events"
 msgstr ""
 
 #: /views/elements/help/index.ctp:35
+#: /views/elements/help/guide/administrator/registration.ctp:16
 #: /views/people/view.ctp:712
 #: /views/waivers/edit.ctp:2
 #: /views/waivers/index.ctp:2;7
@@ -6540,6 +6566,7 @@ msgid "Schedules"
 msgstr ""
 
 #: /views/elements/help/index.ctp:41
+#: /views/elements/help/guide/administrator/leagues.ctp:12
 #: /views/leagues/edit.ctp:2
 #: /views/leagues/index.ctp:2;10
 #: /views/leagues/participation.ctp:2
@@ -6558,6 +6585,7 @@ msgid "and"
 msgstr ""
 
 #: /views/elements/help/index.ctp:46
+#: /views/elements/help/guide/administrator/fields.ctp:14
 #: /views/facilities/edit.ctp:2
 #: /views/facilities/index.ctp:2
 #: /views/facilities/view.ctp:2
@@ -6570,7 +6598,121 @@ msgid "Rules Engine"
 msgstr ""
 
 #: /views/elements/help/index.ctp:50
+#: /views/elements/help/guide/administrator/players.ctp:44
+#: /views/elements/help/guide/administrator/registration.ctp:5;35
 msgid "Configuration"
+msgstr ""
+
+#: /views/elements/help/divisions/add_teams.ctp:1
+msgid "If you are coordinating a division which will have one or more \"hat\" teams (assembled from players who have siged up individually), you may want to make use of the \"add teams\" option. This will create up to eight teams at a time, with common settings. You provide the names of the teams that you want to create, leaving extra name fields blank (you must remove the default values) if you are creating less than eight. You must also indicate whether rosters will be open or closed, as well as some attendance tracking details (see below)."
+msgstr ""
+
+#: /views/elements/help/divisions/add_teams.ctp:3
+msgid "When you click \"submit\", the requested teams will be created with the specified settings. Rosters will be blank, and shirt colours will be assigned based on a pre-set rotation of common colours (%s)."
+msgstr ""
+
+#: /views/elements/help/divisions/add_teams.ctp:6
+msgid "You can change this list of colours by adjusting the \"automatic_team_colours\" setting through config/features_custom.php"
+msgstr ""
+
+#: /views/elements/help/divisions/approve_scores.ctp:1
+msgid "The Approve Scores page shows coordinators a list of past games which have not yet been finalized and allows them to be edited."
+msgstr ""
+
+#: /views/elements/help/divisions/approve_scores.ctp:2
+msgid "This is most commonly required when the coaches or captains submit scores that do not match. In this case, there is also an \"email captains\" link on this page which will allow you to easily contact the coaches, captains and assistants from both teams; they can then edit their score submission, which will allow the game to be automatically finalized."
+msgstr ""
+
+#: /views/elements/help/divisions/approve_scores.ctp:3
+msgid "Games which have had one score submitted will typically be automatically finalized by the system after a set time; if this option is turned off, coordinators may need to use this page to finalize such games."
+msgstr ""
+
+#: /views/elements/help/divisions/edit.ctp:1
+msgid "The \"edit division\" page is used to update details of your division. Only coordinators have permission to edit division details."
+msgstr ""
+
+#: /views/elements/help/divisions/edit.ctp:2
+msgid "Divisions are initially set up and configured by a system administrator, so coordinators should only make changes to these settings in extreme circumstances, and they should inform the administrator of any such changes. However, it's useful to understand the meanings of the various settings for your division."
+msgstr ""
+
+#: /views/elements/help/divisions/edit.ctp:4
+msgid "The \"create division\" page is essentially identical to this page."
+msgstr ""
+
+#: /views/elements/help/divisions/emails.ctp:1
+msgid "As a convenience for coordinators, there is a page providing the email addresses of all coaches and captains in the division. This page includes the names and emails in text format, suitable for copy-and-paste, and also as a \"mailto\" link. Note that, due to external limitations, the link may not work correctly in divisions with a large number of coaches and captains."
+msgstr ""
+
+#: /views/elements/help/divisions/fields.ctp:2
+msgid "The %s Distribution Report is used by coordinators over the course of the season to ensure that %s and time slots are being assigned to teams in a balanced way. There are typically some %s or time slots that are preferred over others, and this report helps to ensure that everyone gets their fair share of these preferred options."
+msgstr ""
+
+#: /views/elements/help/divisions/fields.ctp:7
+msgid "The report summarizes all %s at a single facility at the same time. If the league in question has games in more than one region, sub-totals are also provided for each region."
+msgstr ""
+
+#: /views/elements/help/divisions/fields.ctp:11
+msgid "By default, the report includes all games, published or not, but sometimes during the scheduling process it is useful to be able to eliminate the games currently being scheduled from the totals, so there is a link at the top of the report to include only published games."
+msgstr ""
+
+#: /views/elements/help/divisions/roster_add.ctp:1
+msgid "Coordinators have the ability to manage rosters of teams in their divisions. Use of this for anything other than \"hat\" teams should be limited to special circumstances."
+msgstr ""
+
+#: /views/elements/help/divisions/roster_add.ctp:2
+msgid "Note that these extra permissions <strong>do not</strong> apply when dealing with teams that the coordinator themself is on the roster of. This is primarily to prevent accidental circumvention of normal rostering rules."
+msgstr ""
+
+#: /views/elements/help/divisions/roster_add.ctp:5
+msgid "In addition to the %s of managing rosters, coordinators have an extra option. The \"add player\" page will include a drop-down with a list of recent registration events. If you select one of these, you will be given a list of all people who registered for this event, less those who are already on a roster of another team in this league. This is intended for use with \"individuals for teams\" registrations, where people who signed up for hat teams can be quickly added to rosters."
+msgstr ""
+
+#: /views/elements/help/divisions/roster_add.ctp:6
+msgid "standard methods"
+msgstr ""
+
+#: /views/elements/help/divisions/slots.ctp:2
+msgid "The %s Availability Report is used by coordinators over the course of the season to assist in ensuring that premier %s and time slots are being fully utilized."
+msgstr ""
+
+#: /views/elements/help/divisions/slots.ctp:7
+msgid "After selecting a date for which you want to see the report, it will show a list of all game slots available to this division, and whether or not they are assigned. If assigned, it will show home and away teams%s."
+msgstr ""
+
+#: /views/elements/help/divisions/slots.ctp:8
+msgid ", and the regional preference of the home team"
+msgstr ""
+
+#: /views/elements/help/divisions/slots.ctp:11
+msgid "You can also access this report for a particular date through direct links on the division schedule."
+msgstr ""
+
+#: /views/elements/help/divisions/spirit.ctp:1
+msgid "The spirit report is used to track spirit ratings through the season. Coordinators should review this regularly, and take any necessary steps if trends are identified."
+msgstr ""
+
+#: /views/elements/help/divisions/spirit.ctp:2
+msgid "This report is divided into three sections. First is a season summary, showing the average score received by each team. Second is a distribution showing how many teams fall into each score range. Finally, there is a list of all spirit reports received for all games, including any comments that may have been submitted by the coaches and captains."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/current_round.ctp:1
+msgid "This indicates what round games are currently happening in. This is for round robin leagues that are small enough to allow every team to play every other team more than once."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/current_round.ctp:2
+msgid "This setting is applicable only to round robin leagues."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/double_booking.ctp:1
+msgid "If the \"double booking\" flag is set for the division, you will have the option, when adding games or editing schedules, to put multiple games in the same game slot."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/double_booking.ctp:2
+msgid "Most commonly, this is used by sports where multiple teams are competing at the same time with each getting an individual result unrelated to the scores of the other teams, such as a race."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/double_booking.ctp:3
+msgid "Note that this disables sanity checks on the schedule, thereby allowing you to put as many games as you want on the same field at the same time, so you will need to double-check your schedules manually."
 msgstr ""
 
 #: /views/elements/help/divisions/edit/double_booking.ctp:6;8
@@ -6578,9 +6720,507 @@ msgstr ""
 msgid "edit the division"
 msgstr ""
 
-#: /views/elements/help/games/personal_feed.ctp:2
+#: /views/elements/help/divisions/edit/double_booking.ctp:10
+#: /views/elements/help/divisions/edit/exclude_teams.ctp:9
+msgid "If you never need this option, %s and turn it off."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/exclude_teams.ctp:1
+msgid "If the \"exclude teams\" flag is set for the division, you will have the option, when adding games, to select teams that you don't want to include in the generated schedule."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/exclude_teams.ctp:2
+msgid "You may want to do this because you have an un-even number of teams in your division, or if some teams may have bye weeks."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/games_before_repeat.ctp:1
+msgid "This indicates how many games must pass before two teams will be scheduled against each other again. For example, if this is set to 4, teams that played each other in game 1 would not be able to meet in games 2, 3, 4 or 5, but could have a rematch in game 6."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/games_before_repeat.ctp:2
+msgid "This setting is applicable only to ladder divisions."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/name.ctp:1
+msgid "The name of the division is used to differentiate it from other divisions within the same league. Common naming schemes include tier numbering or names based on the level of play."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/name.ctp:2
+msgid "Do not include the league name in the division name, as it will be added automatically for you in the various displays."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/name.ctp:3
+msgid "If there is only one division in a league, common practice is to leave the division name blank."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator.ctp:1
+msgid "The ratings calculator chosen for the division will affect how team ratings are calculated."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/schedule_type.ctp:1
+msgid "The schedule type chosen for the division will affect the options you have when adding games to the schedule, and how standings are calculated as the season progresses."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/krach.ctp:1
+msgid "Ken's Ratings for American College Hockey is a system devised by Ken Butler to correct shortcomings in the RPI algorithm. It is commonly applied to NCAA hockey, and is the basis for the RRI system."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/krach.ctp:2
+msgid "With the KRACH system, ratings are re-calculated on a daily basis, taking into account the strength of each team's schedule. For example, if your first game was a loss to a low-ranked team who later prove themselves to have been initially under-estimated, the penalty for that loss will be reduced as the season progresses."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/krach.ctp:4
+#: /views/elements/help/divisions/edit/rating_calculator/rpi.ctp:4
+#: /views/elements/help/divisions/edit/rating_calculator/rri.ctp:4
+#: /views/elements/help/divisions/edit/rating_calculator/sagarin.ctp:4
+#: /views/elements/help/divisions/edit/rating_calculator/usau_college.ctp:4
+msgid "NOTE: For ratings to be re-calculated, you MUST have a daily cron job set up as described in the README file."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/krach.ctp:6
+#: /views/elements/help/divisions/edit/rating_calculator/rri.ctp:6
+msgid "Details are %s and %s."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/manual.ctp:1
+msgid "The manual calculator is intended for use solely with \"competition\" divisions."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/manual.ctp:2
+msgid "It is unclear at the time of writing what options may need to be supported for entry, comparison and ranking, so for now the game rating must be manually calculated and entered as the score."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/manual.ctp:3
+msgid "Note that low ratings are considered better; for example, enter \"1\" for the team that finished first, \"2\" for the team that finished second, etc."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/modified_elo.ctp:1
+msgid "The Modified Elo calculator is an older variant, retained primarily for backward compatibility. It has been found to have shortcomings when used for Ultimate. It is not recommended for use in new leagues."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/modified_elo.ctp:3
+msgid "This uses a modified Elo system, similar to the one used for %s, with several modifications:"
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/modified_elo.ctp:4
+msgid "international soccer"
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/modified_elo.ctp:8
+msgid "all games are equally weighted"
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/modified_elo.ctp:9
+msgid "score differential bonus adjusted for Ultimate patterns (a 3 point win in soccer is a much bigger deal than in Ultimate)"
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/modified_elo.ctp:10
+msgid "no bonus given for home-%s advantage"
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/none.ctp:1
+msgid "Use this setting for divisions that will have no games scheduled, for round-robin leagues where you have no interest in ratings, or for placeholders where you're not sure yet what type the division will be."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/rpi.ctp:1
+msgid "The Rating Percentage Index is a simple system for rating teams based on their winning percentage, their opponents' winning percentage, and their opponents' opponents' winning percentage. It is commonly applied to NCAA basketball and baseball."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/rpi.ctp:2
+msgid "With the RPI system, ratings are re-calculated on a daily basis, taking into account the strength of each team's schedule."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/rpi.ctp:6
+#: /views/elements/help/divisions/edit/rating_calculator/sagarin.ctp:6
+#: /views/elements/help/divisions/edit/rating_calculator/usau_college.ctp:6
+msgid "Details are %s."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/rri.ctp:1
+msgid "Rodney's Ranking Index was developed by Rodney Jacobson for use by USA Ultimate (formerly the UPA) in their tournament score reporter. It is based on college hockey's KRACH algorithm."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/rri.ctp:2
+msgid "With the RRI system, ratings are re-calculated on a daily basis, taking into account the strength of each team's schedule. For example, if your first game was a loss to a low-ranked team who later prove themselves to have been initially under-estimated, the penalty for that loss will be reduced as the season progresses."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/sagarin.ctp:1
+msgid "Jeff Sagarin's ratings are commonly used for NCAA football and basketball. His exact algorithm is not published, but approximations have been determined. This implementation uses one such approximation."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/sagarin.ctp:2
+msgid "With the Sagarin-like system, ratings are re-calculated on a daily basis, taking into account the strength of each team's schedule. For example, if your first game was a loss to a low-ranked team who later prove themselves to have been initially under-estimated, the penalty for that loss will be reduced as the season progresses."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/usau_college.ctp:1
+msgid "USA Ultimate developed their current College ranking system to replace the RRI system. It is not clear what weakness in RRI was being addressed with this change."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/usau_college.ctp:2
+msgid "With the USA Ultimate College system, ratings are re-calculated on a daily basis, taking into account the strength of each team's schedule. For example, if your first game was a loss to a low-ranked team who later prove themselves to have been initially under-estimated, the penalty for that loss will be reduced as the season progresses."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/wager.ctp:1
+msgid "The Wager ratings calculator is the current recommended choice."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/wager.ctp:2
+msgid "This uses a wagering system, where the final score determines the total amount of the pot. It's based around a winning score of 15 points and tweaked to produce the same ratings change for similar point differentials for higher/lower final scores."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/wager.ctp:3
+msgid "Each team contributes a percentage of the pot based on their expected chance to win. The losing team always takes away the same number of rating points as their game points, while the winning team takes away the remainder."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/wager.ctp:4
+msgid "Thus, the point differential change amounts to:"
+msgstr ""
+
+#: /views/elements/help/divisions/edit/rating_calculator/wager.ctp:5
+msgid "total_pot - loser_score - winner_wager"
+msgstr ""
+
+#: /views/elements/help/divisions/edit/schedule_type/competition.ctp:1
+msgid "The \"competition\" schedule type is used for anything where several teams are given a score based on their own performance, unrelated to anything that the other teams do. Teams may compete at the same time or not. The winner is the team with the highest (or lowest) score. Examples include many track & field events, golf, etc."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/schedule_type/competition.ctp:2
+msgid "Divisions using the \"competition\" schedule type MUST use the \"manual\" rating calculator. This is not enforced in the code, as this is an experimental feature expected to change, but standings are unlikely to work correctly if any other calculator is selected."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/schedule_type/none.ctp:1
+msgid "Use this setting for divisions that will have no games scheduled, or for placeholders where you're not sure yet what type the division will be."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/schedule_type/ratings_ladder.ctp:1
+msgid "This is the recommended choice for large divisions (16 teams or more), divisions where there is a large variation in team skill levels, or divisions where there are not enough games in the season for every team to play every other team."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/schedule_type/ratings_ladder.ctp:2
+msgid "Division standings are based on team ratings, with rating points either transferred from the loser of a game to the winner, or regularly recalculated based on all known results."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/schedule_type/ratings_ladder.ctp:3
+msgid "NOTE: If you use this schedule type, be sure not to select the \"none\" rating calculator."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/schedule_type/roundrobin.ctp:1
+msgid "This is the recommended choice for small divisions (6 teams or less), or divisions where all teams are theoretically equal in skill level and there are enough games in the season for every team to play every other team. There is also a scheduling option for round robin divisions which essentially splits the division in half, if there are only enough games for each team to play half of the other teams."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/schedule_type/roundrobin.ctp:2
+msgid "Division standings are based on win/loss record."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/schedule_type/tournament.ctp:1
+msgid "This is for running tournaments that are unrelated to any \"regular season\" division. Scheduling options presented will be based on the number of teams in the tournament."
+msgstr ""
+
+#: /views/elements/help/divisions/edit/schedule_type/tournament.ctp:2
+msgid "It can also be used for tournament-style playoff scheduling for divisions where teams might opt not to participate in the playoffs. This should not be used when playoffs are part of the normal division schedule."
+msgstr ""
+
+#: /views/elements/help/events/connections.ctp:1
+msgid "The \"manage connections\" page is used to define logical connections between your events."
+msgstr ""
+
+#: /views/elements/help/events/edit/alternate.ctp:1
+msgid "Use this to define the list of events which should be considered as alternatives to this event. Any events listed as alternates will be shown in the \"You may alternately be interested in...\" area when viewing an event to register for."
+msgstr ""
+
+#: /views/elements/help/events/edit/alternate.ctp:2
+msgid "Alternates are always bi-directional, so adding event Y as an alternate to X will also add event X as an alternate to Y."
+msgstr ""
+
+#: /views/elements/help/events/edit/alternate.ctp:3
+msgid "Note that other events associated with the same division, if any, will automatically be included there and don't need to be included in this list."
+msgstr ""
+
+#: /views/elements/help/events/edit/predecessor.ctp:1
+msgid "Use this to define the list of events which should be considered as predecessors to this event. Predecessor connections are used for sending invitation emails, as well as for generation of the various retention reports."
+msgstr ""
+
+#: /views/elements/help/events/edit/predecessor.ctp:2
+#: /views/elements/help/events/edit/successorto.ctp:2
+msgid "For any given event, the list of predecessors is typically the same as the list of events that it is a successor to, but this is not always the case, so the two lists must be maintained separately."
+msgstr ""
+
+#: /views/elements/help/events/edit/predecessorto.ctp:1
+msgid "Use this to define the list of events which this event should be considered as a predecessor to. Predecessor connections are used for sending invitation emails, as well as for generation of the various retention reports."
+msgstr ""
+
+#: /views/elements/help/events/edit/predecessorto.ctp:2
+#: /views/elements/help/events/edit/successor.ctp:2
+msgid "For any given event, the list of successors is typically the same as the list of events that it is a predecessor to, but this is not always the case, so the two lists must be maintained separately."
+msgstr ""
+
+#: /views/elements/help/events/edit/successor.ctp:1
+msgid "Use this to define the list of events which should be considered as successors to this event. Successor connections are used in generation of the various retention reports."
+msgstr ""
+
+#: /views/elements/help/events/edit/successorto.ctp:1
+msgid "Use this to define the list of events which this event should be considered as a successor to. Successor connections are used in generation of the various retention reports."
+msgstr ""
+
+#: /views/elements/help/facilities/edit.ctp:1
+msgid "The \"edit facility\" page is used to update details of your facilities."
+msgstr ""
+
+#: /views/elements/help/facilities/edit.ctp:2
+msgid "The \"create facility\" page is essentially identical to this page."
+msgstr ""
+
+#: /views/elements/help/facilities/edit/biking_directions.ctp:1
+msgid "There are often details, such as bike paths, dedicated bike lanes or a flatter route, which combine to make the optimal cycling route different from the optimal driving route. Enter any such details here."
+msgstr ""
+
+#: /views/elements/help/facilities/edit/biking_directions.ctp:2
+#: /views/elements/help/facilities/edit/driving_directions.ctp:4
+#: /views/elements/help/facilities/edit/parking_details.ctp:2
+#: /views/elements/help/facilities/edit/public_instructions.ctp:6
+#: /views/elements/help/facilities/edit/site_instructions.ctp:2
+#: /views/elements/help/facilities/edit/sponsor.ctp:2
+#: /views/elements/help/facilities/edit/transit_directions.ctp:2
+#: /views/elements/help/facilities/edit/washrooms.ctp:2
+msgid "If you leave this field blank, it will not be shown on the facility view page."
+msgstr ""
+
+#: /views/elements/help/facilities/edit/code.ctp:1
+msgid "The facility code is a three-letter abbreviation used to reference the facility in a more concise manner in many displays where using the full name results in hard-to-read formatting."
+msgstr ""
+
+#: /views/elements/help/facilities/edit/driving_directions.ctp:1
+msgid "In large cities, this is typically used for providing tips on good routes to get to the neighbourhood (e.g. \"From the west, take Highway 99 and exit at Main St. N.\")."
+msgstr ""
+
+#: /views/elements/help/facilities/edit/driving_directions.ctp:2
+msgid "In smaller cities, this is more often used for pointing out any neighbourhood quirks, such as one-way streets, which might not be obvious from a quick glance at the map."
+msgstr ""
+
+#: /views/elements/help/facilities/edit/driving_directions.ctp:3
+msgid "Remember that people can get specific driving directions through the Google Maps interface on the \"view map\" page."
+msgstr ""
+
+#: /views/elements/help/facilities/edit/is_open.ctp:2
+msgid "A facility should be marked as \"open\" as long as any %s at the facility is potentially in use. Only close a facility when it is no longer available."
+msgstr ""
+
+#: /views/elements/help/facilities/edit/location_street.ctp:1
+msgid "Provide the address of the facility. This address will be used to generate driving directions from Google Maps, so it must be the street address, not the mailing address if they differ."
+msgstr ""
+
+#: /views/elements/help/facilities/edit/name.ctp:2
+msgid "The name should be descriptive of the facility in general (e.g. the name of the school or complex where the %s are found)."
+msgstr ""
+
+#: /views/elements/help/facilities/edit/parking_details.ctp:1
+msgid "Enter any special notes about parking here. This might include pointers to handy spots to park, areas that the neighbourhood has requested not be used for street parking, or warnings about commonly-missed bylaws."
+msgstr ""
+
+#: /views/elements/help/facilities/edit/public_instructions.ctp:2
+msgid "Use this area for any general instructions that don't fall under other categories. Exmples might include %s setup notes, presence of playgrounds for those with children, etc."
+msgstr ""
+
+#: /views/elements/help/facilities/edit/site_instructions.ctp:1
+msgid "Site instructions are only visible to people logged into %s. This is where any confidential information, such as emergency facility contact numbers, combinations for parking locks, etc. should go."
+msgstr ""
+
+#: /views/elements/help/facilities/edit/sponsor.ctp:1
+msgid "Looking for a way to score some \"team deals\" at local eateries, or generate a little extra revenue? You can \"sell\" sponsorship of facilities to local businesses, and put their ads here."
+msgstr ""
+
+#: /views/elements/help/facilities/edit/transit_directions.ctp:1
+msgid "Wherever possible, provide pertinent information for public transit users. This might include route numbers and timing, stop locations, or optimized route options."
+msgstr ""
+
+#: /views/elements/help/facilities/edit/washrooms.ctp:1
+msgid "If the facility has washroom facilities, they can be detailed here. This can also be used to explicitly point out a lack of washroom facilities."
+msgstr ""
+
+#: /views/elements/help/fields/edit.ctp:2
+msgid "The \"edit %s\" page is used to update details of your %s."
+msgstr ""
+
+#: /views/elements/help/fields/edit.ctp:7
+msgid "The \"create %s\" page is essentially identical to this page."
+msgstr ""
+
+#: /views/elements/help/fields/edit/is_open.ctp:2
+msgid "Typically, a %s should be marked as \"open\" if it is in use by a current or upcoming league. By \"closing\" %s not currently in use, the %s list will only display those facilities that players might need to travel to, making it easier for them to find relevant information."
+msgstr ""
+
+#: /views/elements/help/fields/edit/num.ctp:2
+msgid "When there are multiple %s at a single facility, the individual %s are distinguished by \"number\". This might be as simple as \"1\", \"2\" and \"3\", it might be \"East\" and \"West\", or (particularly at large multi-use facilities) it might be something more like \"Soccer 1 North\"."
+msgstr ""
+
+#: /views/elements/help/fields/edit/num.ctp:7
+msgid "As this is used in a number of displays, it should be kept as succinct as possible, without loss of specificity. For example, \"Soccer1N\" might be sufficient instead of \"Soccer 1 North\". One common scheme is to number %s starting with the %s closest to the parking lot or entrance. Remember that players can always refer to the %s layout diagram if they are in doubt."
+msgstr ""
+
+#: /views/elements/help/games/date_time_format.ctp:7
+msgid "By default, this system formats 8PM as %s, and today as either %s or %s (depending on the context). %s to change these settings to something that suits you better (e.g. many people prefer 12 hour format to 24 hour)."
+msgstr ""
+
+#: /views/elements/help/games/date_time_format.ctp:8
+#: /views/elements/people/ical_links.ctp:15
+msgid "Edit your preferences"
+msgstr ""
+
+#: /views/elements/help/games/date_time_format.ctp:11
+msgid "You can change the system defaults and/or add new options by altering the order of and/or adding to the date_formats, day_formats and time_formats values in config/options.php."
+msgstr ""
+
+#: /views/elements/help/games/personal_feed.ctp:1
+msgid "iCal is a standardized format for exchanging schedule information between applications. %s supports iCal output in a variety of ways, but perhaps the most useful is the \"Personal Feed\"."
+msgstr ""
+
+#: /views/elements/help/games/personal_feed.ctp:3
+msgid "If you %s to enable this, you will be able to have iCal, Google Calendar and others automatically pull your schedule, from week to week, season to season, and year to year, and keep you informed of all of your upcoming games."
+msgstr ""
+
+#: /views/elements/help/games/personal_feed.ctp:4
 #: /views/elements/help/games/reminder_emails.ctp:3
 msgid "edit your preferences"
+msgstr ""
+
+#: /views/elements/help/games/personal_feed.ctp:6
+msgid "To add your personal feed to iCal, copy the link from the iCal logo at the bottom of the main %s page. Then, go to the Calendar menu in iCal, pick Subscribe, and paste in the link."
+msgstr ""
+
+#: /views/elements/help/games/personal_feed.ctp:7
+msgid "To add your personal feed to Google Calendar, just click the \"Add to Google Calendar\" link at the bottom of the main page."
+msgstr ""
+
+#: /views/elements/help/games/recent_and_upcoming.ctp:1
+msgid "The \"Recent and Upcoming Schedule\" section of the %s home page provides a timely snapshot of the most important events on your schedule."
+msgstr ""
+
+#: /views/elements/help/games/recent_and_upcoming.ctp:2
+msgid "Recently played games will be listed, with results where known. If you are a coach or captain, you will be able to enter scores for games here, with the \"Submit\" link. If you've entered an incorrect score, you can change it with the \"Edit score\" button, until the game is finalized."
+msgstr ""
+
+#: /views/elements/help/games/recent_and_upcoming.ctp:3
+msgid "Upcoming games will also be listed. Opponent names and shirt colours are shown for quick reference, and you can click on team names to see their details and roster. A location code is also given; hovering over that will show the full name, and clicking on it will take you to a page with full details, including a further link to a Google map."
+msgstr ""
+
+#: /views/elements/help/games/recent_and_upcoming.ctp:5
+msgid "Also shown will be recent and upcoming team events (if there are any)%s."
+msgstr ""
+
+#: /views/elements/help/games/recent_and_upcoming.ctp:6
+msgid ", and any tasks assigned to you"
+msgstr ""
+
+#: /views/elements/help/games/recent_and_upcoming.ctp:8
+msgid "All upcoming items will have an iCal link next to them, which you can use to import the details into any software that works with the iCal format (including Outlook, iCal, Google Calendar and others)."
+msgstr ""
+
+#: /views/elements/help/games/reminder_emails.ctp:2
+msgid "When a team is using attendance tracking and enables reminder emails, by default these reminders will only be sent to players who have not yet indicated their attendance. If you would like to get a reminder of the game location and time even if you have set your attendance in advance, %s to enable this option."
+msgstr ""
+
+#: /views/elements/help/games/edit/double_booking.ctp:1
+msgid "If the \"Allow double-booking\" box is checked, you will be allowed to schedule multiple games in a single game slot."
+msgstr ""
+
+#: /views/elements/help/games/edit/double_booking.ctp:2
+msgid "This is only an option for leagues with the \"competition\" schedule type, as it is not applicable to most sports."
+msgstr ""
+
+#: /views/elements/help/games/edit/double_header.ctp:1
+msgid "If the \"Allow double-headers\" box is checked, you will be allowed to schedule the same team in more than one game slot, though the system will still ensure that all such games are at the same facility and not in overlapping times."
+msgstr ""
+
+#: /views/elements/help/games/edit/double_header.ctp:2
+msgid "If this box is not checked, the system will ensure that you have not scheduled the same team more than once."
+msgstr ""
+
+#: /views/elements/help/games/edit/double_header.ctp:3
+msgid "Checks are still done to make sure that the same game slot is not booked more than once."
+msgstr ""
+
+#: /views/elements/help/games/edit/publish.ctp:2
+msgid "Schedules are typically created unpublished, to allow the coordinator a chance to make any required adjustments (e.g. if a particular team needs to play on a specific %s or at a specific time, or if there is a team matchup that needs to be guaranteed) before people see them and start making plans."
+msgstr ""
+
+#: /views/elements/help/games/edit/publish.ctp:6
+msgid "If games are published, they will be visible to everyone; otherwise, they will be visible only to admins and coordinators, where they will be highlighted so it's obvious that they aren't yet published."
+msgstr ""
+
+#: /views/elements/help/games/edit/publish.ctp:7
+msgid "A day's games can be published during the creation or edit process by checking the \"publish\" box, or with the \"publish\" link from the league schedule page."
+msgstr ""
+
+#: /views/elements/help/games/edit/start_date.ctp:1
+msgid "You will be given a list of dates for which this league has available game slots; select the date to schedule games on. If you are creating games across multiple days, this will be the date of the first game."
+msgstr ""
+
+#: /views/elements/help/guide/advanced.ctp:1
+msgid "Advanced User Guide"
+msgstr ""
+
+#: /views/elements/help/guide/advanced.ctp:2
+msgid "Pop-ups"
+msgstr ""
+
+#: /views/elements/help/guide/advanced.ctp:4
+msgid "To make it easier and faster to find the details you are looking for, %s includes pop-ups in a number of areas. Currently, anywhere that you see a player, team or %s name, you can hover your mouse over it, and you will get a pop-up box with additional details and links about that person, team or %s. To make it disappear, just move your mouse away!"
+msgstr ""
+
+#: /views/elements/help/guide/advanced.ctp:8
+msgid "Smart phones do not support the concept of \"hovering\", so if %s detects that you are running on a smart phone, a %s \"pop-up\" icon will be visible to the left of these items. Clicking that icon will bring up the pop-up, and clicking it again will hide it."
+msgstr ""
+
+#: /views/elements/help/guide/advanced.ctp:11
+msgid "Note that the content of all pop-ups is loaded from the server on demand, so it may take a second or two for the pop-up to appear."
+msgstr ""
+
+#: /views/elements/help/guide/captain.ctp:1
+msgid "Coach/Captain Guide"
+msgstr ""
+
+#: /views/elements/help/guide/captain.ctp:2
+msgid "So, you want to be a coach or captain? %s includes many tools and features to make this often thankless job much easier."
+msgstr ""
+
+#: /views/elements/help/guide/captain.ctp:34
+msgid "Responsibilities"
+msgstr ""
+
+#: /views/elements/help/guide/captain.ctp:36
+msgid "As a coach or captain, you should familiarize yourself with the details of your league and division. %s has many options for how%s standings are calculated, playoffs are scheduled, etc. Knowing which options are in play for your team is important."
+msgstr ""
+
+#: /views/elements/help/guide/captain.ctp:37
+msgid " spirit scores are collected,"
+msgstr ""
+
+#: /views/elements/help/guide/captain.ctp:40
+msgid "You should also know who is coordinating your division. Coordinators are listed on the \"division view\" page. These are the people responsible for setting your schedule,%s etc. They do their best, but things do sometimes slip through the cracks, and you need to know who to contact in these cases."
+msgstr ""
+
+#: /views/elements/help/guide/captain.ctp:41
+msgid " handling spirit issues,"
+msgstr ""
+
+#: /views/elements/help/guide/coordinator.ctp:1
+msgid "Coordinator Guide"
+msgstr ""
+
+#: /views/elements/help/guide/coordinator.ctp:2
+msgid "%s provides a number of tools to make a coordinator's job go smoothly, but the number of options can be overwhelming at first. This guide will walk you through both the common and infrequent tasks, and help you to ensure that things go smoothly for the coaches, captains and players in your divisions."
+msgstr ""
+
+#: /views/elements/help/guide/coordinator.ctp:3
+msgid "Division coordinator is a position of power and responsibility, so this guide also suggests guidelines for behaviour."
+msgstr ""
+
+#: /views/elements/help/guide/new_user.ctp:1
+msgid "New User Guide"
+msgstr ""
+
+#: /views/elements/help/guide/new_user.ctp:3
+msgid "For a new user, %s can be a little overwhelming. This guide will help you through the most important things to get you started. After that, you may be interested in the %s, and if you plan on running a team, the %s is a useful resource."
 msgstr ""
 
 #: /views/elements/help/guide/new_user.ctp:5
@@ -6588,24 +7228,1312 @@ msgid "advanced users guide"
 msgstr ""
 
 #: /views/elements/help/guide/new_user.ctp:6
-#: /views/elements/help/teams/joining_teams.ctp:10
+#: /views/elements/help/teams/joining_teams.ctp:16
 msgid "captains guide"
+msgstr ""
+
+#: /views/elements/help/guide/new_user.ctp:9
+msgid "User Account and Profile"
+msgstr ""
+
+#: /views/elements/help/guide/new_user.ctp:11
+msgid "Some features of %s (e.g. schedules and standings) are available for anyone to use. However, to participate in the %s, you must have a user account on the system."
+msgstr ""
+
+#: /views/elements/help/guide/new_user.ctp:16
+msgid "You are already logged in to the system, so it seems that you've successfully taken care of this step. For the record, your user name is '%s' and your ID number is %s."
+msgstr ""
+
+#: /views/elements/help/guide/new_user.ctp:20
+msgid "If you don't already have an account, %s to get yourself set up."
+msgstr ""
+
+#: /views/elements/help/guide/new_user.ctp:21;25;38
+msgid "follow these directions"
+msgstr ""
+
+#: /views/elements/help/guide/new_user.ctp:24
+msgid "This site manages user accounts through %s. If you don't already have an account, %s to get yourself set up."
+msgstr ""
+
+#: /views/elements/help/guide/new_user.ctp:32
+msgid "Next, each person must have their completed profile approved by an administrator."
+msgstr ""
+
+#: /views/elements/help/guide/new_user.ctp:37
+msgid "To complete your profile, %s"
+msgstr ""
+
+#: /views/elements/help/guide/new_user.ctp:40
+msgid "and will not be until you have completed it"
+msgstr ""
+
+#: /views/elements/help/guide/new_user.ctp:42
+msgid "but this should happen soon"
+msgstr ""
+
+#: /views/elements/help/guide/new_user.ctp:47
+msgid "Your profile has not yet been approved, %s. Until then, you can continue to use the site, but may be limited in some areas."
+msgstr ""
+
+#: /views/elements/help/guide/new_user.ctp:50
+msgid "Your profile has been approved, so you should be free to access all features of the site."
+msgstr ""
+
+#: /views/elements/help/guide/new_user.ctp:54
+msgid "Your profile is currently %s, so you can continue to use the site, but may be limited in some areas. To have this changed, contact %s."
+msgstr ""
+
+#: /views/elements/help/guide/new_user.ctp:61
+msgid "After you have created your account and completed your profile, it is normally approved within one business day, often sooner, but you can use most features of the site while you are waiting for this."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/fields.ctp:1
+msgid "Administrator Guide: %s Management"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/fields.ctp:3
+msgid "%s management is fairly straight-forward. %s are handled in a hierarchical structure."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/fields.ctp:7
+#: /views/regions/edit.ctp:2;33
+#: /views/regions/index.ctp:2;7
+#: /views/regions/view.ctp:2
+msgid "Regions"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/fields.ctp:9
+msgid "Your organization will have one or more regions, which you manage through the %s -> Regions area. Examples might be North, South, East, Central, or named after neighbourhoods or political areas."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/fields.ctp:12
+msgid "Distinct regions are primarily useful if you want to support teams with regional preferences."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/fields.ctp:16
+msgid "Each region will have one or more facilities. A facility is generally any park, school, stadium, etc. where you have procured one or more %s."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/fields.ctp:20
+msgid "Each facility is also given a name three-letter code. For example, \"Maple Grove Park\" might be abbreviated as MGP or MAP."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/fields.ctp:24
+msgid "Each facility will have one or more %s. A %s is the space where a single game can take place."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/fields.ctp:29
+msgid "If you use a single large \"%s\" to host more than one game at a time, then that must be configured as multiple %s."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/fields.ctp:33
+msgid "Layouts"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/fields.ctp:35
+msgid "%s includes a %s layout viewer and editor integrated with Google Maps. When you are viewing or editing a %s, other %s at that facility will also be shown. Clicking the marker for a %s will \"activate\" that %s; in the viewer it will show details about that %s, and in the editor it will change which %s you are editing. In the editor, you can drag %s around by their marker, and adjust their size and angle with buttons to the right."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/fields.ctp:39
+msgid "Parking and Entrances"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/fields.ctp:41
+msgid "The editor also includes \"add parking\" and \"add entrance\" buttons. Click these, then click on the map to add a parking or entrance marker. These markers can be dragged around like %s, and can be deleted by simply clicking on them and confirming the deletion. Parking and entrance markers are facility-wide; you do not need to set up parking and entrances separately for each %s."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/fields.ctp:46
+msgid "Open and Closed %s and Facilities"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/fields.ctp:50
+msgid "For historical purposes, once a game has been scheduled at a %s, that %s cannot be deleted from the system. Similarly, once a %s has been added to a facility, that facility cannot be deleted. However, there are times when you no longer wish a %s or facility to show up in the %s. When this happens, you can close %s or facilities."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/fields.ctp:52
+msgid "facility list"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/fields.ctp:56
+msgid "By closing a %s, you are temporarily removing it from circulation. It will no longer show up on the \"other %s\" list or the layout map for %s at that facility, and you will not be able to add game slots for it. Facilities with no open %s will not show up on the %s list or the %s."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/fields.ctp:58
+#: /views/facilities/index.ctp:32
+msgid "map of all %s"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/fields.ctp:61
+msgid "By closing a facility, you are essentially permanently removing it, and all of its %s, from circulation. It will no longer show up on the map of all %s or the %s list. This should be done when a facility is permanently closed or permits are lost or dropped. Closing a facility also closes all associated %s. Closed facilities can be re-opened, but its %s will need to be re-opened individually."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/leagues.ctp:1
+msgid "Administrator Guide: League Management"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/leagues.ctp:3
+msgid "Structure"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/leagues.ctp:4
+msgid "Before starting to set up your leagues, it's important to understand the structure %s is expecting. Following this structure will mean that %s is optimized to work with you; trying to impose a different structure may result in some awkwardness as you try to do the unexpected."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/leagues.ctp:5
+msgid "Each year has one or more seasons. Each season has one or more leagues. Each league has one or more divisions. Each division has a number of teams."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/leagues.ctp:6
+msgid "Note that, although you may have an identical league in multiple seasons, or in the same season from year to year, in %s these are set up as different leagues. Similarly, although the same group of people might play under the same team name in more than one league, each instance of this will be a separate team. %s retains all past history and makes it available to those who look for it; players can scroll back through their past team history to relive glory days or remind themselves of old rivalries."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/leagues.ctp:8
+msgid "Seasons"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/leagues.ctp:9
+msgid "A season is a period of time during which all of the games in a league will take place."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/leagues.ctp:10
+msgid "In practice, seasons are rather roughly defined, and may have some small overlap with each other. For example, if you have leagues that run from March through May, May through August, and September through December, then March to May might be your spring season, May to August might be summer, and September to December might be fall."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/leagues.ctp:13
+msgid "A league is a group of divisions, collected together for display and logistics purposes."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/leagues.ctp:14
+msgid "There is no absolute rule to determine which divisions comprise each league. One very general rule is that any group of divisions that share \"substantial similarities\" might be grouped in a league. Alternately, if there is a reasonable chance of a team being moved from one division to another, either during a season or between seasons (e.g. teams being promoted or demoted based on performance, or shuffled for geographic or scheduling purposes), then those divisions should be in the same league. Yet another view is that if it is reasonable for a given individual to be on a team in each of two divisions, then those divisions should <strong>not</strong> be in the same league."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/leagues.ctp:15
+msgid "There may be more than one way of grouping divisions into leagues, you should use whatever is most logical for your organization. For example, if you have divisions for Juniors, Adults and \"Masters\" on each of Monday, Tuesday and Wednesday, you might set this up as Monday, Tuesday and Wednesday leagues, each with a Juniors, Adults and Masters division, or it might make more sense to have Juniors, Adults and Masters leagues, each with a Monday, Tuesday and Wednesday division."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/leagues.ctp:18
+msgid "A division is a group of teams who will be scheduled to play against each other."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/leagues.ctp:20
+msgid "Setup"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/leagues.ctp:22
+msgid "Once you have decided on your structure, start by creating the first league. There are only a handful of settings for leagues, which are shared by all divisions in that league. Once you have created the league, use the %s \"add division\" link from the league list to set up the first division."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/leagues.ctp:26
+msgid "Once you have one league and one division set up, you can often use the %s \"clone league\" or %s \"clone division\" links from the league list to very quickly set up a new league or division, with defaults all taken from the first. This way, you often need to change only one or two settings, or even just the name, rather than go through the entire setup again and again. When a new league or division is created this way, there is no link to the original; it is only used to find initial default settings. This means that if you make changes to the original, those changes are not automatically copied to the clone, but must be made manually (if they apply). However, this also means that you can use this clone process for almost all such setup, without fear that settings will inadvertently be altered at some later date by someone changing the original. By the time you have completed your first year of operation, you should have templates for almost every league and division you will ever offer, which you can continue to clone and be confident that the chance of something being configured incorrectly are extremely slim."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/leagues.ctp:30
+msgid "Roster Rules"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/leagues.ctp:31
+msgid "If desired, you can add rules that must be met before a player can be added to the roster of a team in a particular division. Most commonly, this is used to enforce age or gender limits, confirm membership, or block people from joining more than one team, but there are other uses as well. See the help for the \"roster rule\" field for more information; setting up rules is currently a little bit complex, but there are examples provided that will cover most normal situations."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/leagues.ctp:33
+msgid "Registration Interaction"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/leagues.ctp:35
+msgid "The optional %s has hooks which allow it to create teams directly in the correct divisions. If registrations are not enabled on your system, coaches and captains will manually create teams, which will be placed in the \"Unassigned Teams\" list (found under the Teams menu). It will be your responsibility to manually move each of these teams into the appropriate division."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/leagues.ctp:36
+#: /views/elements/help/teams/edit.ctp:5
+msgid "registration system"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:1
+msgid "Administrator Guide: Player Management"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:3
+msgid "New Players"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:5
+msgid "When people create accounts on your site, you will need to approve their profiles. This step is in place to avoid people creating duplicate or fraudulent accounts. (Note that this is not the case if the \"Automatically approve new user accounts\" feature is enabled on the %s page.)"
 msgstr ""
 
 #: /views/elements/help/guide/administrator/players.ctp:6
 msgid "User Settings"
 msgstr ""
 
-#: /views/elements/help/registration_payments/edit/mark_refunded.ctp:2
+#: /views/elements/help/guide/administrator/players.ctp:9
+msgid "If there are new accounts to be approved, there will be an \"approve new accounts\" option under the People menu. Selecting this will give you a list of the new accounts, with options to view, edit%s or approve each. Any account detected as likely a duplicate is highlighted in this list."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:10
+msgid ", delete"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:12
+msgid "Deleting directly through this list should be done only in the case of immediately obviously fraudulent accounts. Otherwise, handle everyone through the approve page."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:13
+msgid "If there are no possible duplicates detected, the approve page will show the user's profile details and offer options to approve them or silently delete them."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:14
+msgid "If possible duplicates are detected, the approve page will show the list of possibilities. Duplicate accounts should be avoided whenever possible, as they can cause problems in registration and disrupt historical information. Possible matches are based on names, email addresses, addresses, phone numbers and birth dates, so false matches are made from time to time, and care must be taken to determine if it is a true duplicate. The user's profile details are shown, and by clicking on any of the possible duplicates, you will see the two matched up side-by-side. In addition to the two basic resolution options, you will have the option to delete the new user as a duplicate of any of the options, or to merge the new information backwards into the old record."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:15
+msgid "Apart from the \"Delete silently\" option, the user will always receive an email from the system informing them of the result."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:17
+#: /views/people/approve_badges.ctp:41
+#: /views/people/approve_documents.ctp:19
+#: /views/people/approve_photos.ctp:16
+#: /views/people/list_new.ctp:19
+#: /views/people/view.ctp:785
+#: /views/tasks/view.ctp:107
+#: /views/upload_types/view.ctp:50
+msgid "Approve"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:18
+msgid "This will be the most common option. It accepts the account as-is and emails the user to let them know."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:20
+msgid "Delete Silently"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:21
+msgid "This is the same as deleting the user from the \"new accounts\" list. No notification is sent to the user, so this should not be used in the case of duplicates."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:23
+msgid "Delete as Duplicate"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:24
+msgid "This option is now rarely used, as the \"merge\" tends to produce better results. It is retained for occasional situations where it may be preferable. This option does the same database processing as the silent deletion, but also sends an email to the addresses on both the new and old accounts reminding them of the user name on the old account. It is then up to the user to remember or reset the password for that account."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:26
+msgid "Merge Backwards"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:27
+msgid "By merging backwards, the new account information (user name, password, contact information, etc.) is written into the old record, then the new record is deleted. If they have registered for anything or been added to any teams in the meantime, those records are also adjusted. This process retains all historical information (team history, registrations, etc.), while allowing the user to log in with their newly chosen credentials."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:29
+msgid "Roles"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:30
+msgid "Once approved, users can be promoted to greater levels of authority by editing the \"accout type\" in their profile. The account types available to you will depend on system settings. The possible options are:"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:32
+msgid "Parent: Someone who has a child that plays in your leagues."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:33
+msgid "Player: A typical player."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:34
+msgid "Coach: Someone who coaches one or more teams that they don't play on."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:35
+msgid "Volunteer: A more advanced user who can be given special access to limited areas of the system. For example, only volunteers can be given the \"Division Coordinator\" role, or assigned Tasks (if this feature is enabled)."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:36
+msgid "Official: Someone empowered by the organization to act as an in-game official."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:37
+msgid "Manager: A more advanced user who has access to almost every area of the system. Managers cannot edit global system configuration. If the affiliates feature is enabled, they cannot create or edit affiliates, and they will only have manager-level access to specific affiliates; in this situation, they can be thought of as \"local administrators\"."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:38
+msgid "Administrator: A super-user with the authority to access any area of the system. The only limitation placed on administrators is that they do not have permission to violate roster rules and deadlines for team that they are on; if this is required, another administrator will have to do it instead. Note that this only prevents accidental violations, as administrators have sufficient access to create another path to maliciously circumvent these rules if they want to."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:41
+msgid "Multiple account types can be selected for each user, if they will be filling multiple roles. For example, if your organization offers both adult and youth leagues, someone might be both a Parent and a Player. Alternately, many organizations draw volunteers from the ranks of their players, or coaches from among the parents, so such people would have both applicable types checked."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:43
+#: /views/settings/user.ctp:60
+msgid "Photos"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:44
+msgid "People have the option of uploading a photo to the site. Before being made public, photos may need to be approved by an administrator, depending on the \"Approve photos\" setting under %s -> %s -> %s."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:44
+#: /views/elements/help/guide/administrator/registration.ctp:5;35
+#: /views/settings/email.ctp:2
+#: /views/settings/feature.ctp:2
+#: /views/settings/organization.ctp:2
+#: /views/settings/payment.ctp:2
+#: /views/settings/profile.ctp:2
+#: /views/settings/registration.ctp:2
+#: /views/settings/scoring.ctp:2
+#: /views/settings/team.ctp:2
+#: /views/settings/user.ctp:2
+msgid "Settings"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:44
+#: /views/settings/user.ctp:3
+msgid "User"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:45
+msgid "If there are new photos to be approved, there will be an \"approve new photos\" option under the People menu. Selecting this will give you a list of the new photos, with options to approve or delete each."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:46
+msgid "The following warning is shown on the photo upload page, and only photos that adhere to this should be approved:"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/players.ctp:47
+msgid "To be approved, a photo must be of you and only you (e.g. no logos or shots of groups or your pet or your car) and must clearly show your face. Photos may not include nudity or depiction of any activity that is illegal or otherwise contrary to the spirit of the sport."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:1
+msgid "Administrator Guide: Registration"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:3
+msgid "Registration is an optional feature of %s. It can be disabled completely through the %s page. If it is disabled, you will be responsible for manually managing and tracking all registrations and payments, so even if you are not doing online payments, using the registration system will typically save you time and reduce problems. This guide will help you understand how to use the registration system to best effect."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:5
+msgid "Features"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:9
+msgid "The registration system is based around a set of \"registration events\" that you define. An event is anything that a user might register for. Common events include annual memberships, spots for teams in leagues or tournaments, roster spots on \"hat\" teams, training clinics, and social events."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:10
+msgid "(Developer's note: I've never really liked the term \"event\" for this. If you can think of a better one, please let me know!)"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:12
+msgid "Rules"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:13
+msgid "If desired, you can add rules that must be met before a user can register for a particular event. Most commonly, this is used to enforce age limits or ensure that pre-requisites are met, but there are other uses as well. See the help for the \"register rule\" field for more information; setting up rules is currently a little bit complex, but there are examples provided that will cover most normal situations."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:14
+msgid "There are also \"rule-like\" settings which allow you to put a limit on how many people can register for it (e.g. if there are limited team spots available), enforce gender limits, and indicate whether an individual may register for an event more than once (e.g. purchasing multiple tickets to a social event)."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:17
+msgid "You will typically want everyone to accept a waiver of liability before participating in games that you offer. You can optionally require that the user accept a click-through waiver before registering or joining a team by using the %s rule."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:19
+#: /views/questionnaires/edit.ctp:44
+#: /views/questionnaires/index.ctp:2
+#: /views/questionnaires/view.ctp:29
+#: /views/questions/view.ctp:25
+msgid "Questionnaires"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:20
+msgid "If desired, you can define a questionnaire that will be used during registration. Questionnaires are built from a set of questions that you also define. Questions can be multiple-choice, groups of checkboxes, or allow text entry. Each question can require a response or be optional. Many questionnaires might use the same question, and many events might use the same questionnaire; you do not need to create a new copy of an existing questionnaire for every new event."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:21
+msgid "Some event types (e.g. anything for team registration) will have some questions automatically added to the questionnaire, for team name, etc., so you don't need to add those manually."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:23
+#: /views/registrations/credits.ctp:2
+#: /views/registrations/full_list.ctp:4
+#: /views/registrations/report.ctp:4
+#: /views/registrations/statistics.ctp:2
+#: /views/registrations/summary.ctp:2
+#: /views/registrations/unpaid.ctp:2
+#: /views/registrations/view.ctp:2
+#: /views/registrations/waiting.ctp:2
+msgid "Registrations"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:25
+msgid "Once a registration event has opened, people will (hopefully!) start registering for it. You can access summaries and details of these registrations, including questionnaire answers, through the %s page, or the %s."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:26
+#: /views/people/statistics.ctp:3
+#: /views/registrations/statistics.ctp:3
+#: /views/teams/statistics.ctp:3
+msgid "Statistics"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:27
+msgid "events list"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:29
+msgid "If the event has a cost associated with it, people may pay either online or offline."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:31
+#: /views/settings/payment.ctp:3
+msgid "Online Payments"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:33
+msgid "%s supports multiple online payment providers, so if you choose to accept online payments, you have some options in who you want to deal with. Currently, you can enable only a single provider; there is no way to give the user a choice of who they want to pay you through. If you enable online payments in the %s page, you will also need to enter the account credentials provided to you by the provider."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:38
+msgid "Offline Payments"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:39
+msgid "Online payment providers do take a piece of every payment for their trouble, so some organizations opt to only collect money manually. Even if you have online payments enabled, there will always be some percentage who prefer to pay by cheque. You may also have some events where cash is collected \"at the door\". In any of these situations, you will need to manually edit the individual registrations to mark them as paid, along with any notes you care to add (e.g. cheque number)."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:41
+msgid "Pre-registrations"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/registration.ctp:42
+msgid "In certain situations, you may want to allow certain individuals to register for an event before the general public is able to, or after the event has officially closed. For example, someone who will be away for an entire registration period might request permission to register before they leave, and if someone drops out of a full registration after the closing date, you might have a waiting list and want to ensure that the first person on the list gets in. You don't want to change the open or close date, because this allows anyone to register, instead of just the people you want. To allow this, you can add a \"pre-registration\" for a user, allowing them to register normally outside of the public date range; the process for them is exactly the same as it would be otherwise, including any required questionnaire and/or waiver, and acceptance of online payments. Note that adding a pre-registration does <strong>not</strong> allow someone to violate the register rule or caps."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:1
+msgid "Administrator Guide: Site Setup and Configuration"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:2
+msgid "If you are reading this page, you have successfully installed %s. Congratulations!"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:3
+msgid "%s is built to be highly flexible, which means that it can handle almost any situation you throw at it, but there's a number of things that need to be correctly configured to make it happen. %s configuration is split into three main areas."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:5
+msgid "Config Files"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:6
+msgid "There are a number of things about the system which will never change under normal usage. These are stored in system configuration files, typically found under the %s folder."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:7
+msgid "First, there are a number of settings where defaults are either standard or easily calculated, which are saved to %s. This file includes comments describing the use of these settings, so you can generally edit it with confidence. Be sure to save a backup before starting, especially if you are unfamiliar with PHP syntax, as a missing quote or comma in this file can completely break your %s installation."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:8
+msgid "Second, you can control the options available in some other configuration pages, as well as certain aspects of system behaviour. %s defines most of the contents for drop-down selections throughout the system. You can alter these options (add new options, remove unwanted ones, or change wording) by creating a file called %s. (This is preferable to directly editing the %s file, as any such changes might be lost if you update your version of %s.) Similarly, you can alter some system behaviour by creating %s, containing overrides of selected values from %s. Note that, in both cases, you need only put the values you want to change in these files; they don't need (and shouldn't contain) copies of all settings."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:10
+msgid "System Configuration"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:11
+msgid "You will have several options under the Configuration menu. At the very least, you will have a Settings sub-menu (with Organization, Features, Email, Team, User, Profile and Scoring) and Holidays. If you have enabled the registration feature, you will also have Settings -> Registration, and if you've enabled online payments, you'll also see Settings -> Payment. If you have enabled the affiliate or document upload features, you will also have options for configuring these. When you first install your system, you should go through and set these all up according to your particular needs. Details about each option are included on the settings pages, and not reiterated here"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:13
+msgid "The Settings -> Organization page is used to define such values as your organization's name, acronym, address, and some key dates."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:14
+msgid "Settings -> Features is used to turn various optional features (registration, franchises, annotations, how to handle roster requests, etc.) on and off."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:15
+msgid "The Settings -> Email page configures some important email addresses used by the system to communicate with users and administrators."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:16
+msgid "The Settings -> Team page allows you to turn various team-specific options on and off."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:17
+msgid "Settings -> User is used to change options related to how user accounts are handled, while Settings -> Profile is used to set which profile fields you want to track for your users (and can set some to be admin-only if there is no good reason for your users to be changing them once they are initially set)."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:18
+msgid "Use the Settings -> Scoring page to configure how the system handles certain score submission situations, and to set up some default values for creating new leagues."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:19
+msgid "If you have enabled Registration on the Settings -> Features page, you then use the Settings -> Registration page to set up certain aspects of how the registration system will work."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:20
+msgid "If you have enabled Online Payments on the Settings -> Registration page, you then use the Settings -> Payments page to define any applicable taxes and configure login credentials for your selected third-party payment provider."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:21
+msgid "If you have enabled Affiliates on the Settings -> Features page, you then use the Affiliates area to set up your various affiliates, including optionally assigning managers to each."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:22
+msgid "If you have enabled Document Uploads on the Settings -> Features page, you then use the Upload types area to define which documents people are allowed to upload."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:23
+msgid "Finally, use the Holidays page to define the list of dates that will be skipped over when creating game slots and season attendance projections."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:26
+msgid "Note that some settings (e.g. the TinyMCE WYSIWYG editor and the Emogrifier email formatter) have additional system requirements. These requirements are noted at these settings. Enabling them without first ensuring that the requirements are satisfied may cause system instability."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:28
+msgid "Leagues and Registrations"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:30
+msgid "The settings above are all long-term settings; they primarily affect how the site presents itself as a whole. However, most organizations will have a variety of options for play. You might have some leagues that are co-ed and some single-gender. You might have leagues that happen on different nights or in different seasons or which cater to different skill levels. You might have small leagues and large leagues with different scheduling requirements. All of these variables are handled through the configuration of %s and, if enabled, %s."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:31
+msgid "leagues and divisions"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:35
+msgid "Daily Maintenance"
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:36
+msgid "There are a number of daily maintenance tasks which the system can take care of for you automatically. This includes things like reminding players of upcoming games or unanswered roster invitations, reminding coaches and captains of games they haven't submitted scores for, opening upcoming leagues, closing past leagues, etc."
+msgstr ""
+
+#: /views/elements/help/guide/administrator/setup.ctp:37
+msgid "To handle all of this, you should set up an automated daily task, using the UNIX/Linux \"cron\" functionality, or the Windows Scheduler. Details of a sample cron task are in the main %s %s file, and something very similar can be used for Windows."
+msgstr ""
+
+#: /views/elements/help/leagues/edit.ctp:1
+msgid "The \"edit league\" page is used to update details of your league. Only coordinators have permission to edit league details."
+msgstr ""
+
+#: /views/elements/help/leagues/edit.ctp:2
+msgid "The \"create league\" page is essentially identical to this page."
+msgstr ""
+
+#: /views/elements/help/leagues/edit/name.ctp:1
+msgid "The name of the league should be sufficient to uniquely identify it from all other leagues happening in the same year."
+msgstr ""
+
+#: /views/elements/help/leagues/edit/name.ctp:2
+msgid "Do not include the year or season in the name, as these will be added automatically for you in the various displays."
+msgstr ""
+
+#: /views/elements/help/leagues/edit/sotg_questions.ctp:3
+msgid "Following are the various spirit questionnaire options, with a short description and preview of each."
+msgstr ""
+
+#: /views/elements/help/people/photo_upload.ctp:2
+msgid "The %s page will allow you to upload a photo of yourself, further personalizing your profile, and making it easier for coaches and captains to recognize you for all-star nominations and roster recruiting. Note that your photo is never visible to anyone outside the site, only to logged-in members of the club."
+msgstr ""
+
+#: /views/elements/help/people/photo_upload.ctp:3
+#: /views/elements/help/people/preferences.ctp:3
+#: /views/elements/help/people/skill_level.ctp:3
+msgid "My Profile"
+msgstr ""
+
+#: /views/elements/help/people/photo_upload.ctp:3
+#: /views/people/photo_upload.ctp:4;8
+msgid "Upload Photo"
+msgstr ""
+
+#: /views/elements/help/people/preferences.ctp:2
+msgid "On the %s page, you can set a number of options which change the way the site works for you."
+msgstr ""
+
+#: /views/elements/help/people/preferences.ctp:3
+#: /views/people/preferences.ctp:2;9
+#: /views/registrations/register.ctp:4
+msgid "Preferences"
+msgstr ""
+
+#: /views/elements/help/people/searching.ctp:1
+msgid "By default, name matches are exact. That is, searching for \"Steve\" will match only Steve, not Steven or Stephen. If you're not sure what form the person uses, you can use * as a \"wildcard\". For example, \"Ste*\" will match Steve, Steven, Stephen, Stephanie, or anything else starting with Ste."
+msgstr ""
+
+#: /views/elements/help/people/searching.ctp:2
+msgid "Wildcards can also be helpful if you're not sure how to spell someone's last name. For example, married women may be listed in the system with a hyphenated last name, but you might know them by their maiden name, in which case \"Smith*\" would match not only Smith, Smithers and Smitherman, but also Smith-Jones, etc. Wildcards can also appear at the beginning or in the middle, so \"*Smith*\" would additionally match Jones-Smith, etc., and \"T*om*son\" would match Thompson, Tompson or Thomson."
+msgstr ""
+
+#: /views/elements/help/people/searching.ctp:3
+msgid "If you only know the person's first or last name, you can enter only that, but expect more results. Entering both names, if you know them, will provide a much smaller result set."
+msgstr ""
+
+#: /views/elements/help/people/searching.ctp:4
+msgid "Searches are NOT case-sensitive, so searching for \"smith\", \"Smith\" or \"SMITH\" will all give the same results."
+msgstr ""
+
+#: /views/elements/help/people/skill_level.ctp:2
+msgid "When you first create a %s profile, you set your skill level by answering a short questionnaire. Many players then just leave this alone, and it becomes increasingly inaccurate; we get better with experience, but we slow down as we age. It is recommended to revisit this questionnaire every year or two, so that your skill level remains an accurate representation of your abilities. The questionnaire is accessed through the %s page, in the \"Player and Skill Information\" section."
+msgstr ""
+
+#: /views/elements/help/people/skill_level.ctp:6
+msgid "There is a misconception in some areas that your skill level in some way affects your team's standings or the way that you move up and down the ladder. This is <strong>not</strong> the case. Average team skill levels may be used, in the absence of any other data (such as previous season results or other personal knowledge of the team), to determine the initial placement of a team. However, this is generally immaterial in a round-robin league, and will very quickly be corrected in a ladder league, so there is no benefit to falsifying your skill level."
+msgstr ""
+
+#: /views/elements/help/registration/introduction.ctp:1
+msgid "%s uses a registration system, through which you sign up for various \"events\". Each event will have an open and close date, which indicate the window during which you can register for that event. Some events may be free, most will have a cost associated with them. Some organizations will have an annual membership that you must register for before anything else. Other events may allow you to create a team, join a \"hat\" team, or sign up for a clinic or social event. The options available to you will depend on what your organization offers."
+msgstr ""
+
+#: /views/elements/help/registration/wizard.ctp:1
+msgid "Every registration event may have a rule defined that determines who is allowed to register. These rules can look at your gender, age, registration history, and other factors."
+msgstr ""
+
+#: /views/elements/help/registration/wizard.ctp:3
+msgid "The %s attempts to simplify the registration process by only showing you options that you are qualified to register for."
+msgstr ""
+
+#: /views/elements/help/registration/wizard.ctp:4
+#: /views/elements/help/teams/joining_teams.ctp:6
+msgid "registration wizard"
+msgstr ""
+
+#: /views/elements/help/registration_payments/edit/mark_refunded.ctp:1
 msgid "Check the \"mark this registration as refunded\" box if the registration should be considered fully refunded. This may remove associated team records, invalidate other registrations that the user has and/or open up registration spots for others."
 msgstr ""
 
-#: /views/elements/help/registration_payments/edit/mark_refunded.ctp:3
+#: /views/elements/help/registration_payments/edit/mark_refunded.ctp:2
 msgid "You typically do not want to check this if you are issuing a partial refund, e.g. if a team drops out part way through a season and you need their game results to remain for other team standings to be correct."
+msgstr ""
+
+#: /views/elements/help/rules/mailing_lists.ctp:1
+msgid "There are two important points to note in regard to using the rules engine for mailing lists."
+msgstr ""
+
+#: /views/elements/help/rules/mailing_lists.ctp:2
+msgid "Relative Dates"
+msgstr ""
+
+#: /views/elements/help/rules/mailing_lists.ctp:4
+msgid "%s's mailing lists are unlike traditional mailing lists, in that membership is dynamic. Every time a newsletter is sent, the rule for inclusion on the mailing list is re-evaluated and a new list of people to send to is generated. When setting up mailing list rules that involve dates, then, it is usually preferable to use relative dates rather than absolute. For example:"
+msgstr ""
+
+#: /views/elements/help/rules/mailing_lists.ctp:9
+msgid "will find all men who are Masters age this year, but this would need to be updated annually. If you instead use:"
+msgstr ""
+
+#: /views/elements/help/rules/mailing_lists.ctp:14
+msgid "this will always find all men who are Masters age in whatever year the newsletter is being sent. This allows you to set up the mailing list once and re-use it for years without modification."
+msgstr ""
+
+#: /views/elements/help/rules/mailing_lists.ctp:16
+msgid "%s uses the PHP strtotime function. For more details of options you can use, see PHP's %s, in particular the Relative Formats page."
+msgstr ""
+
+#: /views/elements/help/rules/mailing_lists.ctp:18
+msgid "Supported Date and Time Formats"
+msgstr ""
+
+#: /views/elements/help/rules/mailing_lists.ctp:21
+msgid "Impossible Queries and Workarounds"
+msgstr ""
+
+#: /views/elements/help/rules/mailing_lists.ctp:22
+msgid "For optimal performance, when used with mailing lists, the rules engine generates a database query for each rule. However, for technical reasons, it is not always possible to generate a query that will do what you want. In particular, the %s and %s rules cannot be used to find players who are not on any teams. For example, if you try to send a newsletter to a mailing list that has:"
+msgstr ""
+
+#: /views/elements/help/rules/mailing_lists.ctp:24
+msgid "you will get the following error message:"
+msgstr ""
+
+#: /views/elements/help/rules/mailing_lists.ctp:26
+msgid "Fortunately, there is a simple workaround. Simply negate the rule:"
+msgstr ""
+
+#: /views/elements/help/rules/rules.ctp:1
+msgid "The following rules are available for use in the rules engine. Note that rule names are accepted in upper, lower or mixed case, but arguments to rules are generally case-specific."
+msgstr ""
+
+#: /views/elements/help/rules/rules/and.ctp:2
+#: /views/elements/help/rules/rules/compare.ctp:2
+#: /views/elements/help/rules/rules/has_document.ctp:2
+#: /views/elements/help/rules/rules/not.ctp:1
+#: /views/elements/help/rules/rules/or.ctp:2
+#: /views/elements/help/rules/rules/registered.ctp:1
+#: /views/elements/help/rules/rules/signed_waiver.ctp:2
+msgid "Type: Boolean"
+msgstr ""
+
+#: /views/elements/help/rules/rules/and.ctp:3
+msgid "The %s rule accepts a comma-separated list of two or more other rules, returning <em>true</em> if all of them are true, <em>false</em> otherwise."
+msgstr ""
+
+#: /views/elements/help/rules/rules/and.ctp:4
+#: /views/elements/help/rules/rules/attribute.ctp:50
+#: /views/elements/help/rules/rules/compare.ctp:15
+#: /views/elements/help/rules/rules/constant.ctp:3
+#: /views/elements/help/rules/rules/format_date.ctp:4
+#: /views/elements/help/rules/rules/has_document.ctp:4
+#: /views/elements/help/rules/rules/league_team_count.ctp:5
+#: /views/elements/help/rules/rules/member_type.ctp:11
+#: /views/elements/help/rules/rules/not.ctp:4
+#: /views/elements/help/rules/rules/or.ctp:4
+#: /views/elements/help/rules/rules/registered.ctp:3
+#: /views/elements/help/rules/rules/signed_waiver.ctp:5
+#: /views/elements/help/rules/rules/team_count.ctp:11
+msgid "Example:"
+msgstr ""
+
+#: /views/elements/help/rules/rules/and.ctp:10
+msgid "will return <em>true</em> if the player is male and was born on or before Dec 31, %s (i.e. is a male masters player in %s), <em>false</em> otherwise."
+msgstr ""
+
+#: /views/elements/help/rules/rules/and.ctp:17
+msgid "will return <em>true</em> if the player is female and was born on or before Dec 31, %s (i.e. is a female masters player in %s), <em>false</em> otherwise."
+msgstr ""
+
+#: /views/elements/help/rules/rules/attribute.ctp:1
+#: /views/elements/help/rules/rules/constant.ctp:1
+#: /views/elements/help/rules/rules/format_date.ctp:2
+#: /views/elements/help/rules/rules/league_team_count.ctp:1
+#: /views/elements/help/rules/rules/member_type.ctp:2
+#: /views/elements/help/rules/rules/team_count.ctp:2
+msgid "Type: Data"
+msgstr ""
+
+#: /views/elements/help/rules/rules/attribute.ctp:2
+msgid "The %s rule extracts information from the player record and returns it. The name of the attribute to be returned must be in lower case and enclosed in quotes."
+msgstr ""
+
+#: /views/elements/help/rules/rules/attribute.ctp:3
+msgid "The most common attributes to use in comparisons are %s and %s, but any field name in the \"people\" table is an option."
+msgstr ""
+
+#: /views/elements/help/rules/rules/attribute.ctp:4
+msgid "The complete list is as follows. Where there is a limited list of options, they are given in parentheses; note that these are case-sensitive."
 msgstr ""
 
 #: /views/elements/help/rules/rules/attribute.ctp:36
 msgid "for"
+msgstr ""
+
+#: /views/elements/help/rules/rules/attribute.ctp:52
+msgid "will return either %s or %s."
+msgstr ""
+
+#: /views/elements/help/rules/rules/compare.ctp:3
+msgid "The %s rule accepts two other rules, separated by a comparison operator, and returns the result of performing a boolean comparison of the results of executing the two rules."
+msgstr ""
+
+#: /views/elements/help/rules/rules/compare.ctp:4
+msgid "The comparison operator must have whitespace on both sides of it."
+msgstr ""
+
+#: /views/elements/help/rules/rules/compare.ctp:5
+msgid "Possible comparison operators are:"
+msgstr ""
+
+#: /views/elements/help/rules/rules/compare.ctp:7
+msgid "test for equality"
+msgstr ""
+
+#: /views/elements/help/rules/rules/compare.ctp:8
+msgid "test for inequality"
+msgstr ""
+
+#: /views/elements/help/rules/rules/compare.ctp:14
+msgid "Note that comparisons are done in a case-sensitive fashion."
+msgstr ""
+
+#: /views/elements/help/rules/rules/compare.ctp:17
+msgid "will return <em>true</em> if the player is male, <em>false</em> otherwise."
+msgstr ""
+
+#: /views/elements/help/rules/rules/compare.ctp:19
+msgid "will <strong>always</strong> return <em>false</em>, because the \"gender\" attribute is always capitalized."
+msgstr ""
+
+#: /views/elements/help/rules/rules/compare.ctp:21
+msgid "will return <em>true</em> if the player was born on or after Jan 1, %s (i.e. is a junior player in %s), <em>false</em> otherwise."
+msgstr ""
+
+#: /views/elements/help/rules/rules/compare.ctp:23
+msgid "will return <em>true</em> if the player does <strong>not</strong> have a paid membership that covers Apr 1, %s, <em>false</em> otherwise."
+msgstr ""
+
+#: /views/elements/help/rules/rules/constant.ctp:2
+msgid "The %s rule simply returns it's argument. It is most frequently invoked by simply specifying a quoted string."
+msgstr ""
+
+#: /views/elements/help/rules/rules/constant.ctp:7
+msgid "All of these will return the string %s"
+msgstr ""
+
+#: /views/elements/help/rules/rules/format_date.ctp:3
+msgid "The %s rule accepts a date in an arbitrary format and reformats into a standard YYYY-MM-DD format useful for comparisons."
+msgstr ""
+
+#: /views/elements/help/rules/rules/format_date.ctp:6
+msgid "would return <strong>%s-06-01</strong>"
+msgstr ""
+
+#: /views/elements/help/rules/rules/has_document.ctp:3
+msgid "The %s rule accepts an upload type id and a YYYY-MM-DD formatted date, separated by a comma, and returns true if the player has an approved document of the specified type valid on the date indicated."
+msgstr ""
+
+#: /views/elements/help/rules/rules/has_document.ctp:5
+msgid "If upload type 1 is a \"junior waiver\", then"
+msgstr ""
+
+#: /views/elements/help/rules/rules/has_document.ctp:7
+msgid "would return true if the person has a junior waiver approved for a date range that encompasses June 1, %s, false otherwise."
+msgstr ""
+
+#: /views/elements/help/rules/rules/league_team_count.ctp:2
+msgid "The %s rule accepts a comma-separated list of league ids and returns a count of how many teams the player is/was on that play/played in those leagues."
+msgstr ""
+
+#: /views/elements/help/rules/rules/league_team_count.ctp:3
+msgid "By default, only teams where the player is listed as a captain, assistant captain or regular player, and is accepted on the roster, are counted. You can also include teams where the player is listed as a substitute by including '%s' anywhere in the league id list."
+msgstr ""
+
+#: /views/elements/help/rules/rules/league_team_count.ctp:4
+msgid "Note that this looks at all divisions within the specified leagues."
+msgstr ""
+
+#: /views/elements/help/rules/rules/league_team_count.ctp:7
+msgid "would return the number of teams playing in league #123 that the player is on."
+msgstr ""
+
+#: /views/elements/help/rules/rules/league_team_count.ctp:9
+msgid "would return the number of teams playing in leagues #123 or 124 that the player is on."
+msgstr ""
+
+#: /views/elements/help/rules/rules/league_team_count.ctp:11
+msgid "would return the number of teams playing in leagues #123 or 124 that the player is on, even as a substitute."
+msgstr ""
+
+#: /views/elements/help/rules/rules/member_type.ctp:3
+msgid "The %s rule accepts a YYYY-MM-DD formatted date and returns a string describing the highest membership in effect for the player on that date. It can also accept date ranges in three forms:"
+msgstr ""
+
+#: /views/elements/help/rules/rules/member_type.ctp:5
+msgid "YYYY-MM-DD,YYYY-MM-DD: Looks for the highest membership in effect at any time between the dates specified (inclusive)"
+msgstr ""
+
+#: /views/elements/help/rules/rules/member_type.ctp:6
+msgid "YYYY-MM-DD: Looks for the highest membership in effect at any time up to and including the date specified (equivalent to 0000-00-00,YYYY-MM-DD)"
+msgstr ""
+
+#: /views/elements/help/rules/rules/member_type.ctp:7
+msgid "YYYY-MM-DD: Looks for the highest membership in effect at any time starting from the date specified (equivalent to YYYY-MM-DD,9999-12-31)"
+msgstr ""
+
+#: /views/elements/help/rules/rules/member_type.ctp:9
+#: /views/elements/help/rules/rules/team_count.ctp:9
+msgid "The date specification must be enclosed in quotes."
+msgstr ""
+
+#: /views/elements/help/rules/rules/member_type.ctp:10
+msgid "Currently, the possible member types are \"none\" (they do not have a membership in effect on the given date), \"intro\" or \"full\". The membership type and valid dates are determined from the configuration of the membership events that the player has registered <strong>and paid</strong> for."
+msgstr ""
+
+#: /views/elements/help/rules/rules/member_type.ctp:13
+msgid "would return one of <strong>none</strong>, <strong>intro</strong> or <strong>full</strong>, depending on the membership registration spanning June 1 of this year (if any) found in the player's history."
+msgstr ""
+
+#: /views/elements/help/rules/rules/member_type.ctp:15
+msgid "would return one of <strong>none</strong>, <strong>intro</strong> or <strong>full</strong>, depending on the membership registrations up to and including June 1 of this year (if any) found in the player's history."
+msgstr ""
+
+#: /views/elements/help/rules/rules/member_type.ctp:17
+msgid "would return one of <strong>none</strong>, <strong>intro</strong> or <strong>full</strong>, depending on the membership registrations covering the 5 years up to and including June 1 of this year (if any) found in the player's history."
+msgstr ""
+
+#: /views/elements/help/rules/rules/not.ctp:2
+msgid "The NOT rule accepts one rule, returning <em>true</em> if that rule is false, <em>true</em> otherwise."
+msgstr ""
+
+#: /views/elements/help/rules/rules/not.ctp:3
+msgid "Note that this is infrequently used, as most rules are built using %s, which supports negation via the != operator."
+msgstr ""
+
+#: /views/elements/help/rules/rules/not.ctp:6
+msgid "will return <em>false</em> if the person has registered for event #123, <em>true</em> otherwise."
+msgstr ""
+
+#: /views/elements/help/rules/rules/or.ctp:3
+msgid "The %s rule accepts a comma-separated list of two or more other rules, returning <em>true</em> if at least one of them is true, <em>false</em> otherwise."
+msgstr ""
+
+#: /views/elements/help/rules/rules/or.ctp:15
+msgid "will return <em>true</em> if the player is male and was born on or before Dec 31, or is female and was born on or before Dec 31, %s (i.e. is a gender-specific masters player in %s), <em>false</em> otherwise."
+msgstr ""
+
+#: /views/elements/help/rules/rules/registered.ctp:2
+msgid "The %s rule accepts a comma-separated list of integers and returns true if the user has registered for at least one of them. Payment status is NOT checked, in order to allow people to register for multiple items and pay all at once."
+msgstr ""
+
+#: /views/elements/help/rules/rules/registered.ctp:5
+msgid "will return <em>true</em> if the person has registered for event #123, <em>false</em> otherwise."
+msgstr ""
+
+#: /views/elements/help/rules/rules/registered.ctp:7
+msgid "will return <em>true</em> if the person has registered for at least one of events #1, 12 or 123, <em>false</em> otherwise."
+msgstr ""
+
+#: /views/elements/help/rules/rules/signed_waiver.ctp:3
+msgid "The %s rule accepts a series of one or more waiver IDs and a YYYY-MM-DD formatted date, separated by commas, and returns true if the player has a signed one of the specified waivers covering the date indicated."
+msgstr ""
+
+#: /views/elements/help/rules/rules/signed_waiver.ctp:4
+msgid "Note that the order of waiver IDs is important; if the person has not signed any of the waivers, they will be directed to the <em>first</em> one in the list."
+msgstr ""
+
+#: /views/elements/help/rules/rules/signed_waiver.ctp:6
+msgid "If waiver type 1 is a \"membership waiver\", then"
+msgstr ""
+
+#: /views/elements/help/rules/rules/signed_waiver.ctp:8
+msgid "would return <em>true</em> if the person has signed the membership waiver for a date range that encompasses June 1, %s, <em>false</em> otherwise."
+msgstr ""
+
+#: /views/elements/help/rules/rules/signed_waiver.ctp:9
+msgid "If waiver type 2 is an \"event waiver\", then"
+msgstr ""
+
+#: /views/elements/help/rules/rules/signed_waiver.ctp:11
+msgid "would return <em>true</em> if the person has signed either the membership waiver OR the event waiver for a date range that encompasses June 1, %s, <em>false</em> (and directing them to the event waiver) otherwise."
+msgstr ""
+
+#: /views/elements/help/rules/rules/team_count.ctp:3
+msgid "The %s rule accepts a YYYY-MM-DD formatted date and returns a count of how many teams the player is/was on that play/played in leagues that are/were open on this date. It can also accept date ranges in three forms:"
+msgstr ""
+
+#: /views/elements/help/rules/rules/team_count.ctp:5
+msgid "YYYY-MM-DD,YYYY-MM-DD: Counts teams that played at any time between the dates specified (inclusive)"
+msgstr ""
+
+#: /views/elements/help/rules/rules/team_count.ctp:6
+msgid "YYYY-MM-DD: Counts teams that played at any time up to and including the date specified (equivalent to 0000-00-00,YYYY-MM-DD)"
+msgstr ""
+
+#: /views/elements/help/rules/rules/team_count.ctp:7
+msgid "YYYY-MM-DD: Counts teams that played at any time starting from the date specified (equivalent to YYYY-MM-DD,9999-12-31)"
+msgstr ""
+
+#: /views/elements/help/rules/rules/team_count.ctp:10
+msgid "By default, only teams where the player is listed as a captain, assistant captain or regular player, and is accepted on the roster, are counted. You can also include teams where the player is listed as a substitute by including 'include_subs' after the date."
+msgstr ""
+
+#: /views/elements/help/rules/rules/team_count.ctp:13
+msgid "would return the number of teams playing in the summer of %s that the player is on."
+msgstr ""
+
+#: /views/elements/help/rules/rules/team_count.ctp:15
+msgid "would return the number of teams that played in the summer of %s or before that the player is on."
+msgstr ""
+
+#: /views/elements/help/rules/rules/team_count.ctp:17
+msgid "would return the number of teams that played in the 5 year span up to and including June 1 of this year that the player is on."
+msgstr ""
+
+#: /views/elements/help/rules/rules/team_count.ctp:19
+msgid "would return the number of teams playing in the summer of %s that the player is on, even as a substitute."
+msgstr ""
+
+#: /views/elements/help/schedules/add.ctp:1
+msgid "To add games to a schedule, you select the type of schedule to create, whether to publish games, and whether double-headers are allowed."
+msgstr ""
+
+#: /views/elements/help/schedules/delete.ctp:1
+msgid "Occasionally, you may need to wipe out an entire day's worth of games from the schedule. To do this, simply use the \"delete day\" link for that day on the division schedule. You will be required to confirm your request; take this opportunity to double-check that the date is correct and the number of games to be deleted is what you expect. You will also be given an additional warning if the games you are deleting have been published."
+msgstr ""
+
+#: /views/elements/help/schedules/edit.ctp:1
+msgid "Schedules are edited on a day-by-day basis with the \"Edit Day\" link from the league schedule. This link is only available for days that have at least one game that is not yet finalized."
+msgstr ""
+
+#: /views/elements/help/schedules/edit.ctp:2
+msgid "Editing the schedule for a day is a simple matter of selecting which teams will play in each game, and in which game slot."
+msgstr ""
+
+#: /views/elements/help/schedules/edit.ctp:3
+msgid "Note that the automatic scheduler is focused on generating quality matchups, and essentially distributes game slots randomly. Changing the %s or timeslot for a game in order to ensure an even distribution of \"premium\" %s or times over the course of the season is expected and encouraged. Changing the %s or timeslot for a game in order to accomodate a special request is acceptable, provided that meeting this request does not cause hardship for other teams. Changing the matchup generated by the system should be done only in extreme cases (e.g. to accomodate an especially urgent special request or to correct an exceptional situation)."
+msgstr ""
+
+#: /views/elements/help/schedules/edit.ctp:4
+msgid "Any schedule edits must preferably be made before publishing the schedule, or else clearly communicated to all involved coaches and captains with enough notice that they can reasonably be expected to be able to reach all players on their roster."
+msgstr ""
+
+#: /views/elements/help/schedules/playoffs.ctp:2
+msgid "For all divisions except those with the \"tournament\" schedule type, you have the option to create a playoff schedule. Start from the %s \"Add Games\" page, look for the \"create a playoff schedule\" link. This will take you through the normal \"add games\" process, but with the applicable tournament scheduling options (based on the number of teams in the division)."
+msgstr ""
+
+#: /views/elements/help/schedules/playoffs.ctp:5
+msgid "Note that you can do this <strong>at any time</strong>. Suggested practice is to schedule <strong>and publish</strong> the playoffs at the <strong>beginning</strong> of the season, preferably as soon as all of the teams are placed in the division. This way, players know exactly what form the playoffs will be taking (e.g. for a 8 team league, it's immediately clear whether it's a two-week playoff where only the top 4 teams compete for the championship, or a three-week playoff where everyone has a shot)."
+msgstr ""
+
+#: /views/elements/help/schedules/publish.ctp:1
+msgid "If a schedule has been created or edited but not yet published, it can be published with the \"Publish\" link on the league schedule."
+msgstr ""
+
+#: /views/elements/help/schedules/publish.ctp:2
+msgid "Days that have at least one game that has not yet been finalized can also be hidden with the Unpublish link."
+msgstr ""
+
+#: /views/elements/help/schedules/reschedule.ctp:1
+msgid "As much as we hate to admit it, there are circumstances outside our control. Sometimes, these circumstances will result in all games for a particular day being unplayable. In ladder divisions, these games can typically just be deleted and similar matchups may be scheduled in the near future. For round-robin divisions, and sometimes for ladders, you want to preserve the matchups and just move the games to a date in the future. To do this, use the \"reschedule\" option from the division schedule."
+msgstr ""
+
+#: /views/elements/help/schedules/reschedule.ctp:2
+msgid "When you request to reschedule, you will be given a list of possible dates. Only those with available game slots are shown, to prevent conflicts. As with adding new games, you have the option to publish the rescheduled games immediately, or leave them unpublished so you can make adjustments first."
+msgstr ""
+
+#: /views/elements/help/schedules/reschedule.ctp:3
+msgid "Note that %s and time assignments are <strong>not</strong> preserved through a reschedule. If there are any such assignments that need to be preserved, you will need to edit the resulting schedule once the reschedule process has completed."
+msgstr ""
+
+#: /views/elements/help/schedules/add/schedule_type.ctp:1
+msgid "The options you have for what type of games to schedule depend on the schedule type of the league. Each option will indicate how many teams, %s and days will be involved."
+msgstr ""
+
+#: /views/elements/help/schedules/add/schedule_type/ratings_ladder.ctp:1
+#: /views/elements/help/schedules/add/schedule_type/roundrobin.ctp:1
+#: /views/elements/help/schedules/add/tournament/schedule_type.ctp:2
+msgid "Single blank, unscheduled game"
+msgstr ""
+
+#: /views/elements/help/schedules/add/schedule_type/ratings_ladder.ctp:2
+#: /views/elements/help/schedules/add/schedule_type/roundrobin.ctp:2
+#: /views/elements/help/schedules/add/tournament/schedule_type.ctp:3
+msgid "Creates a single game on a chosen date. No teams or %s are assigned."
+msgstr ""
+
+#: /views/elements/help/schedules/add/schedule_type/ratings_ladder.ctp:3
+msgid "Set of ratings-scheduled games for all teams"
+msgstr ""
+
+#: /views/elements/help/schedules/add/schedule_type/ratings_ladder.ctp:4
+msgid "Creates enough games to schedule the entire ladder on a chosen date. Teams are assigned according to the ladder algorithm and %s assigned according to settings."
+msgstr ""
+
+#: /views/elements/help/schedules/add/schedule_type/ratings_ladder.ctp:5
+msgid "For divisions with games at diverse facilities or times (e.g. anything where players are likely to have to make different plans for transportation, child care, etc. depending on where/when they are scheduled to play), common usage is to schedule the first two games of the season immediately, then schedule game three once results from game one have been received, etc., so that players always have at least a week to make plans."
+msgstr ""
+
+#: /views/elements/help/schedules/add/schedule_type/ratings_ladder.ctp:6
+msgid "For divisions where this is not a concern, it can be preferable to wait until results from game one have been received before scheduling game two, etc. This will allow the ladder to reshape itself more quickly, providing slightly better matchups on average."
+msgstr ""
+
+#: /views/elements/help/schedules/add/schedule_type/ratings_ladder.ctp:7
+msgid "Scheduling three games in advance should be avoided whenever possible. It is marginally acceptable in the middle of the season, when the ladder has achieved some level of stability but before the final playoff standings are being locked in."
+msgstr ""
+
+#: /views/elements/help/schedules/add/schedule_type/roundrobin.ctp:3
+msgid "Set of blank unscheduled games for all teams in a division"
+msgstr ""
+
+#: /views/elements/help/schedules/add/schedule_type/roundrobin.ctp:4
+msgid "Creates enough blank games to schedule the entire division on a chosen date. No teams or %s are assigned."
+msgstr ""
+
+#: /views/elements/help/schedules/add/schedule_type/roundrobin.ctp:5
+msgid "Set of randomly scheduled games for all teams in a division"
+msgstr ""
+
+#: /views/elements/help/schedules/add/schedule_type/roundrobin.ctp:6
+msgid "Creates enough games to schedule the entire division on a chosen date. Teams are assigned randomly and %s assigned according to settings."
+msgstr ""
+
+#: /views/elements/help/schedules/add/schedule_type/roundrobin.ctp:7
+msgid "Full-division round-robin"
+msgstr ""
+
+#: /views/elements/help/schedules/add/schedule_type/roundrobin.ctp:8
+msgid "Creates enough games, over a series of weeks, to schedule each team in the division against each other team once. %s are assigned according to settings."
+msgstr ""
+
+#: /views/elements/help/schedules/add/schedule_type/roundrobin.ctp:9
+msgid "Half-division round-robin, with 2 pools (top, bottom) divided by team standings."
+msgstr ""
+
+#: /views/elements/help/schedules/add/schedule_type/roundrobin.ctp:10
+msgid "Creates enough games, over a series of weeks, to schedule each team in the top half of the division against each other team in the top half, and the same for the bottom half. \"Top half\" is determined based on team win/loss records. %s are assigned according to settings."
+msgstr ""
+
+#: /views/elements/help/schedules/add/schedule_type/roundrobin.ctp:11
+msgid "Half-division round-robin, with 2 pools (top/bottom) divided by rating."
+msgstr ""
+
+#: /views/elements/help/schedules/add/schedule_type/roundrobin.ctp:12
+msgid "Creates enough games, over a series of weeks, to schedule each team in the top half of the division against each other team in the top half, and the same for the bottom half. \"Top half\" is determined based on team ratings. %s are assigned according to settings."
+msgstr ""
+
+#: /views/elements/help/schedules/add/schedule_type/roundrobin.ctp:13
+msgid "Half-division round-robin, with 2 even (interleaved) pools divided by team standings."
+msgstr ""
+
+#: /views/elements/help/schedules/add/schedule_type/roundrobin.ctp:14
+msgid "Creates enough games, over a series of weeks, to schedule each team in each of two even pools formed from the division against each other team in the same pool. One pool consists of the teams in first, third, fifth, etc. and the other pool consists of the teams in second, fourth, sixth, etc. %s are assigned according to settings."
+msgstr ""
+
+#: /views/elements/help/schedules/add/tournament/pools.ctp:1
+msgid "Before scheduling games for a tournament, you need to define the pools that teams will be placed in. Depending on the number of teams in the division, you will be given various options to split the division into brackets."
+msgstr ""
+
+#: /views/elements/help/schedules/add/tournament/pools.ctp:2
+msgid "Seeded splits"
+msgstr ""
+
+#: /views/elements/help/schedules/add/tournament/pools.ctp:3
+msgid "Choose the number of pools to split the teams into. You will be given the opportunity to specify the name and number of teams for each pool. The split will put the top few teams (however many you ask for) in the first pool, the next few in the second pool, and so on. Seeded split is only available for the first stage of a tournament."
+msgstr ""
+
+#: /views/elements/help/schedules/add/tournament/pools.ctp:4
+msgid "Snake seeded splits"
+msgstr ""
+
+#: /views/elements/help/schedules/add/tournament/pools.ctp:5
+msgid "Choose the number of pools to split the teams into. You will be given the opportunity to specify the name for each pool. The snake will put the first team into the first pool, second team into the second pool, etc. until all pools have one team. It will then put the next team into the last pool and work its way back to the first pool, repeating the \"cross and back\" process until there are no more teams to distribute. Snake seeded split is only available for the first stage of a tournament."
+msgstr ""
+
+#: /views/elements/help/schedules/add/tournament/pools.ctp:6
+msgid "Re-seeded power pools"
+msgstr ""
+
+#: /views/elements/help/schedules/add/tournament/pools.ctp:7
+msgid "For the second and following stages of a tournament, you will be given the chance to set up \"power pools\", whereby you redistribute the teams based on their performance in the first stage (which is typically a round-robin). You can place teams into power pools based on their position in a particular pool (e.g. \"first place in pool A\") or their position relative to other pools (e.g. \"the first place team with the best record\")."
+msgstr ""
+
+#: /views/elements/help/schedules/add/tournament/schedule_type.ctp:1
+msgid "Once the first set of pools is set up, you will want to generate a schedule for each bracket. Once each pool has games scheduled, it will ask you to set up more pools, then schedule games for those pools, and so on until your schedule is complete."
+msgstr ""
+
+#: /views/elements/help/schedules/add/tournament/schedule_type.ctp:4
+msgid "Set of blank unscheduled games for all teams in the division"
+msgstr ""
+
+#: /views/elements/help/schedules/add/tournament/schedule_type.ctp:5
+msgid "Creates enough games to schedule the entire division on a chosen date. No teams or %s are assigned."
+msgstr ""
+
+#: /views/elements/help/schedules/add/tournament/schedule_type.ctp:6
+msgid "Round-robin"
+msgstr ""
+
+#: /views/elements/help/schedules/add/tournament/schedule_type.ctp:7
+msgid "Creates games scheduling each team in the division against each other team once."
+msgstr ""
+
+#: /views/elements/help/schedules/add/tournament/schedule_type.ctp:8
+msgid "Round-robin with results from prior-stage matchups carried forward"
+msgstr ""
+
+#: /views/elements/help/schedules/add/tournament/schedule_type.ctp:9
+msgid "Creates games scheduling each team in the division against each other team once, except that any games which would match up two teams that have already played are replaced by \"dummy\" records which are automatically filled in when dependencies for the pool are initialized. This option is not available in the first stage of a tournament."
+msgstr ""
+
+#: /views/elements/help/schedules/add/tournament/schedule_type.ctp:11
+msgid "You will generally also be given a variety of playoff bracket options, depending on the size of the pool. Brackets will automatically generate all required games to lead to an eventual champion, typically with options regarding whether or not to also create placement games (3rd, 5th, etc.)."
+msgstr ""
+
+#: /views/elements/help/schedules/playoffs/initialize.ctp:1
+msgid "Once all regular season results have been received and the final standings are determined, use the \"Initialize Schedule Dependencies\" link from the division schedule page to replace all of the \"nth seed\" placeholders in the schedule with the correct teams."
+msgstr ""
+
+#: /views/elements/help/schedules/playoffs/initialize.ctp:2
+msgid "This initialize process can be run any number of times, in case something happens to alter the standings after it is run the first time (e.g. a previously confirmed score is disputed)."
+msgstr ""
+
+#: /views/elements/help/schedules/playoffs/reset.ctp:1
+msgid "If you have initialized the schedule dependencies for the playoffs and need to completely remove them (rather than just recalculate them), use the \"Reset Schedule Dependencies\" link from the division schedule page."
+msgstr ""
+
+#: /views/elements/help/settings/email/emogrifier.ctp:1
+msgid "Emogrifier is a pre-processor for converting CSS definitions into inline styles, useful for improving the rendering results of email in various email clients."
+msgstr ""
+
+#: /views/elements/help/settings/email/emogrifier.ctp:2
+msgid "To use this, download emogrifier.php from %s and place it in %s."
+msgstr ""
+
+#: /views/elements/help/settings/email/emogrifier.ctp:6
+msgid "The Emogrifier library also requires that the DOM and MBSTRING extensions be enabled in your PHP installation. You do%s have the DOM extension, and do%s have the MBSTRING extension."
+msgstr ""
+
+#: /views/elements/help/settings/email/emogrifier.ctp:7;8
+#: /views/schedules/confirm.ctp:40
+msgid "NOT"
+msgstr ""
+
+#: /views/elements/help/settings/email/emogrifier.ctp:10
+msgid "Place your email styles in email.css in your web root folder."
+msgstr ""
+
+#: /views/elements/help/settings/feature/pdfize.ctp:1
+msgid "PDFize is a plugin that wraps the dompdf library to enable conversion of HTML to PDF. Using it with <?php echo ZULURU; ?> requires custom installation."
+msgstr ""
+
+#: /views/elements/help/settings/feature/pdfize.ctp:2
+#: /views/elements/help/settings/feature/tiny_mce.ctp:2
+msgid "One way to install this is something along these lines:"
+msgstr ""
+
+#: /views/elements/help/settings/feature/tiny_mce.ctp:1
+msgid "TinyMCE is a popular JavaScript WYSIWYG HTML editor. Using it with %s requires a third-party CakePHP plugin, with a couple of modifications."
+msgstr ""
+
+#: /views/elements/help/settings/feature/tiny_mce.ctp:10
+msgid "You will need to make sure that the %s folder is available through your web server, and that %s has the correct URL in the beforeRender function."
+msgstr ""
+
+#: /views/elements/help/settings/feature/tiny_mce.ctp:13
+msgid "Lastly, edit %s and replace"
+msgstr ""
+
+#: /views/elements/help/settings/feature/tiny_mce.ctp:15;50
+msgid "with"
+msgstr ""
+
+#: /views/elements/help/settings/feature/tiny_mce.ctp:48
+msgid "to set up %s's expected themes, and"
+msgstr ""
+
+#: /views/elements/help/settings/feature/tiny_mce.ctp:59
+msgid "to ensure that true and false configuration values are set as JavaScript booleans instead of strings."
+msgstr ""
+
+#: /views/elements/help/settings/feature/twitter.ctp:1
+msgid "To enable Twitter integration, you must first install two support libraries into %s."
+msgstr ""
+
+#: /views/elements/help/settings/feature/twitter.ctp:3
+msgid "From %s you need %s (renamed to %s) and %s."
+msgstr ""
+
+#: /views/elements/help/settings/feature/twitter.ctp:8
+msgid "From %s you need %s (renamed to %s)."
+msgstr ""
+
+#: /views/elements/help/settings/feature/twitter.ctp:13
+msgid "After this, you must set the Consumer Key and Consumer Secret values. You can obtain standard Zuluru values for these by contacting %s, or you can acquire your own. If you want your own consumer values, log in to Twitter, then go to the %s, click \"Create a new application\", and follow the steps."
+msgstr ""
+
+#: /views/elements/help/settings/feature/twitter.ctp:15
+msgid "Twitter \"My Applications\" page"
 msgstr ""
 
 #: /views/elements/help/settings/feature/uls.ctp:1
@@ -6616,12 +8544,209 @@ msgstr ""
 msgid "To use ULS, you must first perform steps along these lines:"
 msgstr ""
 
-#: /views/elements/help/teams/edit.ctp:4
-msgid "registration system"
+#: /views/elements/help/teams/edit.ctp:1
+msgid "The \"edit team\" page is used to update details of your team. Only coaches and captains have permission to edit team details."
 msgstr ""
 
-#: /views/elements/help/teams/edit.ctp:7;7
+#: /views/elements/help/teams/edit.ctp:4
+msgid "Since this system uses the %s, teams are created during the registration process with some default values that you might want to alter."
+msgstr ""
+
+#: /views/elements/help/teams/edit.ctp:8;8
 msgid "Registration Help"
+msgstr ""
+
+#: /views/elements/help/teams/edit.ctp:11
+msgid "The \"create team\" page is essentially identical to this page."
+msgstr ""
+
+#: /views/elements/help/teams/joining_teams.ctp:1
+msgid "In order to play, you need to be on the roster of a team. There may be a few options for you here:"
+msgstr ""
+
+#: /views/elements/help/teams/joining_teams.ctp:5
+msgid "Check the %s to see if there are any \"Individuals for Teams\" events available. Registering for one of these will reserve you a spot on a \"hat\" team. Note that hat teams are typically not set up until the league is almost ready to start, so don't be surprised if you don't show up on a roster right away."
+msgstr ""
+
+#: /views/elements/help/teams/joining_teams.ctp:10
+msgid "Check the %s for the %s icon indicating \"open roster\" teams who are accepting requests. Note that the prevalence and etiquette of this option may vary from one organization to another."
+msgstr ""
+
+#: /views/elements/help/teams/joining_teams.ctp:11
+msgid "team list"
+msgstr ""
+
+#: /views/elements/help/teams/joining_teams.ctp:15
+msgid "Create your own team. More information about creating and managing teams is in the %s."
+msgstr ""
+
+#: /views/elements/help/teams/joining_teams.ctp:19
+msgid "Your organization may also have forums where you can post messages looking for a team, or read messages from captains looking to fill out their roster."
+msgstr ""
+
+#: /views/elements/help/teams/my_teams.ctp:1
+msgid "The \"My Teams\" section of the %s home page provides a list of the teams you are on, limited to leagues that are either ongoing, closed recently, or will open soon."
+msgstr ""
+
+#: /views/elements/help/teams/my_teams.ctp:2
+msgid "Clicking the team name will take you to the team details and roster page."
+msgstr ""
+
+#: /views/elements/help/teams/my_teams.ctp:3
+msgid "To change your role on the team, including removing yourself from the roster, click on the role currently listed in parentheses after the team name. Note that you can typically only demote yourself through this method; promoting players to greater levels of responsibility must be done by a coach or captain."
+msgstr ""
+
+#: /views/elements/help/teams/my_teams.ctp:5
+msgid "Along with the team name and your role, there will always be %s \"Schedule\" and %s \"Standings\" links."
+msgstr ""
+
+#: /views/elements/help/teams/my_teams.ctp:10
+msgid "If attendance tracking is enabled for the team, there will be an %s \"Attendance Report\" link here that will show you the a summary of attendance for the team across the entire season."
+msgstr ""
+
+#: /views/elements/help/teams/my_teams.ctp:14
+msgid "If you are a coach or captain of the team, there will be an %s \"Edit\" link here that will allow you to edit the team details."
+msgstr ""
+
+#: /views/elements/help/teams/my_teams.ctp:18
+msgid "If you are a coach or captain of the team, and the roster deadline has not yet passed, there will be an %s \"Add Player\" link here that will allow you to add players through a variety of means."
+msgstr ""
+
+#: /views/elements/help/teams/roster_add.ctp:2
+msgid "Once you have %s your team, you need to fill your roster. If you have created a team with an open roster, players can request to join, and you either accept or decline them. However, most teams are created with a roster in mind, and let's face it, if the other players were as organized as you are, they'd be captains instead. So, rather than hoping that all of the players eventually figure out how to request to join the team, most captains will proactively add them instead."
+msgstr ""
+
+#: /views/elements/help/teams/roster_add.ctp:7
+msgid "To get started, look for the %s \"Add Player\" links. This page will give you two options."
+msgstr ""
+
+#: /views/elements/help/teams/roster_add.ctp:11
+msgid "For brand new teams, you'll probably be stuck doing a bunch of individual searches (see below). Click \"Add to team\" in the search results, and you will be asked what role the player should have."
+msgstr ""
+
+#: /views/elements/help/teams/roster_add.ctp:12
+msgid "For teams where some of the players have played with you before, you can save yourself time by selecting a team from your history. When you click \"Show roster\", it will give you a list of all the people from that team who are not already on your new team, allowing you to select those you want to add."
+msgstr ""
+
+#: /views/elements/help/teams/roster_add.ctp:13
+msgid "When you \"add\" someone, it will send them an invitation which they must accept before they are considered to be on your team. They will still show up on your roster, but highlighted so that you know they haven't yet accepted. Unaccepted invitations will expire after a couple of weeks (though a warning email is sent first), in which case it is as if the player had never been on your roster."
+msgstr ""
+
+#: /views/elements/help/teams/roster_add.ctp:14
+msgid "Regardless of which method you use to add players, in some situations you will see a warning that the person is currently ineligible to be added to the team, with a description of why. You may still invite the player to join the team, but they will not be able to accept until the problem is resolved."
+msgstr ""
+
+#: /views/elements/help/teams/roster_role.ctp:1
+msgid "There are times when you will want to promote players (e.g. from player to assistant captain, or from substitute to player), demote players (e.g. from assistant captain to player, or from player to substitute), or remove players entirely from your roster. To update anyone's role on the team, go to the \"team view\" page, and click the player's current role (e.g. \"Regular player\"). You will be presented with a list of options for the player's new role on the team."
+msgstr ""
+
+#: /views/elements/help/teams/roster_role.ctp:3
+msgid "A change of role does not require any confirmation from the player%s."
+msgstr ""
+
+#: /views/elements/help/teams/roster_role.ctp:4
+msgid ", though an email will be sent to the player informing them of the change"
+msgstr ""
+
+#: /views/elements/help/teams/roster_role.ctp:7
+msgid "Anyone may use this feature to demote themselves, though the last coach or captain on a team cannot do so. Only coaches, captains and assistant captains may promote players, and nobody can promote someone to a role higher than their own."
+msgstr ""
+
+#: /views/elements/help/teams/edit/facility.ctp:2
+msgid "Selecting a facility does not guarantee that you will play there, it simply increases your chances. You cannot select a specific %s at a facility, only the facility itself."
+msgstr ""
+
+#: /views/elements/help/teams/edit/facility.ctp:5
+msgid "Drag individual facilities up and down so that your top choice is first in the list. If there is somewhere that you really don't want to play, select all facilities and put that one last."
+msgstr ""
+
+#: /views/elements/help/teams/edit/name.ctp:2
+msgid "Team names are initially set during the %s process. However, they can be changed at any time. If you change your team name, it's a good idea to inform your league coordinator, so they don't get confused when doing scheduling."
+msgstr ""
+
+#: /views/elements/help/teams/edit/name.ctp:5
+msgid "Team names are required to be unique in a particular league, but you can use the same name from season to season or if the same group is playing in different leagues during the same season (e.g. on different nights)."
+msgstr ""
+
+#: /views/elements/help/teams/edit/open_roster.ctp:2
+msgid "Team rosters can be either open or closed. Team rosters typically default to closed, but the desired option can be selected by a coach or captain in the %s page."
+msgstr ""
+
+#: /views/elements/help/teams/edit/open_roster.ctp:3;3
+#: /views/elements/help/teams/edit/track_attendance.ctp:4;4
+msgid "edit team"
+msgstr ""
+
+#: /views/elements/help/teams/edit/open_roster.ctp:5
+msgid "Players can always be invited to join a team by a coach or captain. Invitations must be accepted by the player before they are officially added to the roster."
+msgstr ""
+
+#: /views/elements/help/teams/edit/open_roster.ctp:8
+msgid "When a player is invited to join a team, an email is sent to the player with links and instructions on how to proceed."
+msgstr ""
+
+#: /views/elements/help/teams/edit/open_roster.ctp:10
+msgid "If a team's roster is open, players may additionally request to join the team. Requests must be accepted by a coach or captain before the player is officially added to the roster."
+msgstr ""
+
+#: /views/elements/help/teams/edit/open_roster.ctp:13
+msgid "When a player requests to join a team, an email is sent to all coaches and captains with links and instructions on how to proceed."
+msgstr ""
+
+#: /views/elements/help/teams/edit/region_preference.ctp:1
+msgid "By setting a region preference, you indicate to the system that this is the region in which you would prefer your games to happen. Note that there is no guarantee of this; external factors like %s availability and the preferences of other teams may limit how often you are able to play in your preferred region. It is likely, however, that this will increase the number of games you play in this region at least somewhat."
+msgstr ""
+
+#: /views/elements/help/teams/edit/shirt_colour.ctp:2
+msgid "Shirt colour can be whatever you want, but if you pick a common colour you'll get a properly-coloured shirt icon next to your team name in various displays. Examples include %s, %s and %s. If you have two options, list them both. For example, \"%s\" will show like this: %s. If you get the \"unknown\" shirt %s, this means that your colour is not supported."
+msgstr ""
+
+#: /views/elements/help/teams/edit/shirt_colour.ctp:10
+msgid "Additional shirt colours can be added simply by placing appropriately-named icons in the %s folder."
+msgstr ""
+
+#: /views/elements/help/teams/edit/track_attendance.ctp:2
+msgid "%s includes the capability to manage and track your team's attendance over the season. Attendance management involves sending regular emails to coaches, captains and players, so it is optional. To turn this on, the coach or captain must enable it in the %s page."
+msgstr ""
+
+#: /views/elements/help/teams/edit/track_attendance.ctp:6
+msgid "When attendance tracking is enabled, there are additional options that allow you to customize which emails the system will send (reminders to players, game summaries and change notifications to coaches and captains), and when they will be sent."
+msgstr ""
+
+#: /views/elements/help/waivers/edit/text.ctp:2
+msgid "Waiver text can include a number of variables which will be replaced when a player signs the waiver. Available variables include:"
+msgstr ""
+
+#: /views/elements/help/waivers/edit/text.ctp:4
+msgid "Your organization's full name"
+msgstr ""
+
+#: /views/elements/help/waivers/edit/text.ctp:5
+msgid "Your organization's short name"
+msgstr ""
+
+#: /views/elements/help/waivers/edit/text.ctp:6
+msgid "The sport-specific alternative for \"field\", and the various plural and capitalized versions of this word"
+msgstr ""
+
+#: /views/elements/help/waivers/edit/text.ctp:10
+msgid "First date the waiver will be valid on"
+msgstr ""
+
+#: /views/elements/help/waivers/edit/text.ctp:11
+msgid "Year of the first date the waiver will be valid on"
+msgstr ""
+
+#: /views/elements/help/waivers/edit/text.ctp:12
+msgid "Last date the waiver will be valid on"
+msgstr ""
+
+#: /views/elements/help/waivers/edit/text.ctp:13
+msgid "Year of the last date the waiver will be valid on"
+msgstr ""
+
+#: /views/elements/help/waivers/edit/text.ctp:14
+msgid "Years the waiver will be valid in (e.g. %s or %s-%s)"
 msgstr ""
 
 #: /views/elements/layout/select_profile.ctp:9
@@ -7194,10 +9319,6 @@ msgstr ""
 
 #: /views/elements/people/ical_links.ctp:9
 msgid " format or "
-msgstr ""
-
-#: /views/elements/people/ical_links.ctp:15
-msgid "Edit your preferences"
 msgstr ""
 
 #: /views/elements/people/ical_links.ctp:16
@@ -8013,10 +10134,6 @@ msgstr ""
 
 #: /views/facilities/index.ctp:31
 msgid "There is also a %s available."
-msgstr ""
-
-#: /views/facilities/index.ctp:32
-msgid "map of all %s"
 msgstr ""
 
 #: /views/facilities/index.ctp:37
@@ -9665,16 +11782,6 @@ msgstr ""
 msgid "Reason"
 msgstr ""
 
-#: /views/people/approve_badges.ctp:41
-#: /views/people/approve_documents.ctp:19
-#: /views/people/approve_photos.ctp:16
-#: /views/people/list_new.ctp:19
-#: /views/people/view.ctp:785
-#: /views/tasks/view.ctp:107
-#: /views/upload_types/view.ctp:50
-msgid "Approve"
-msgstr ""
-
 #: /views/people/approve_badges.ctp:62
 msgid "If you want to add a comment to the nominator about why the nomination was not approved, do so here. The nominee will not receive any message."
 msgstr ""
@@ -10085,15 +12192,6 @@ msgstr ""
 msgid "Resize Photo"
 msgstr ""
 
-#: /views/people/photo_upload.ctp:4;8
-msgid "Upload Photo"
-msgstr ""
-
-#: /views/people/preferences.ctp:2;9
-#: /views/registrations/register.ctp:4
-msgid "Preferences"
-msgstr ""
-
 #: /views/people/preferences.ctp:16
 msgid "Enable Personal iCal Feed"
 msgstr ""
@@ -10224,12 +12322,6 @@ msgstr ""
 
 #: /views/people/search.ctp:26
 msgid "Change password"
-msgstr ""
-
-#: /views/people/statistics.ctp:3
-#: /views/registrations/statistics.ctp:3
-#: /views/teams/statistics.ctp:3
-msgid "Statistics"
 msgstr ""
 
 #: /views/people/statistics.ctp:9
@@ -10568,13 +12660,6 @@ msgstr ""
 msgid "This can safely be left blank, if the name is sufficiently descriptive. HTML is allowed."
 msgstr ""
 
-#: /views/questionnaires/edit.ctp:44
-#: /views/questionnaires/index.ctp:2
-#: /views/questionnaires/view.ctp:29
-#: /views/questions/view.ctp:25
-msgid "Questionnaires"
-msgstr ""
-
 #: /views/questionnaires/index.ctp:7
 msgid "Questionnaires List"
 msgstr ""
@@ -10643,12 +12728,6 @@ msgstr ""
 #: /views/upload_types/index.ctp:10
 #: /views/waivers/index.ctp:10
 msgid "Id"
-msgstr ""
-
-#: /views/regions/edit.ctp:2;33
-#: /views/regions/index.ctp:2;7
-#: /views/regions/view.ctp:2
-msgid "Regions"
 msgstr ""
 
 #: /views/regions/edit.ctp:37
@@ -10804,17 +12883,6 @@ msgstr ""
 
 #: /views/registrations/credit_payment.ctp:40
 msgid "These notes will be attached to the new credit record, and will be visible by the person in question."
-msgstr ""
-
-#: /views/registrations/credits.ctp:2
-#: /views/registrations/full_list.ctp:4
-#: /views/registrations/report.ctp:4
-#: /views/registrations/statistics.ctp:2
-#: /views/registrations/summary.ctp:2
-#: /views/registrations/unpaid.ctp:2
-#: /views/registrations/view.ctp:2
-#: /views/registrations/waiting.ctp:2
-msgid "Registrations"
 msgstr ""
 
 #: /views/registrations/edit.ctp:13
@@ -11129,10 +13197,6 @@ msgstr ""
 
 #: /views/schedules/confirm.ctp:40
 msgid "Games will%s be published."
-msgstr ""
-
-#: /views/schedules/confirm.ctp:40
-msgid "NOT"
 msgstr ""
 
 #: /views/schedules/confirm.ctp:48
@@ -11454,18 +13518,6 @@ msgstr ""
 
 #: /views/schedules/type.ctp:86
 msgid "If this is checked, you will be allowed to schedule more than one game in a game slot."
-msgstr ""
-
-#: /views/settings/email.ctp:2
-#: /views/settings/feature.ctp:2
-#: /views/settings/organization.ctp:2
-#: /views/settings/payment.ctp:2
-#: /views/settings/profile.ctp:2
-#: /views/settings/registration.ctp:2
-#: /views/settings/scoring.ctp:2
-#: /views/settings/team.ctp:2
-#: /views/settings/user.ctp:2
-msgid "Settings"
 msgstr ""
 
 #: /views/settings/email.ctp:9
@@ -11815,10 +13867,6 @@ msgstr ""
 
 #: /views/settings/organization.ctp:187
 msgid "First day that would be considered for a %s game"
-msgstr ""
-
-#: /views/settings/payment.ctp:3
-msgid "Online Payments"
 msgstr ""
 
 #: /views/settings/payment.ctp:21
@@ -12230,10 +14278,6 @@ msgstr ""
 msgid "If enabled, emails will be sent to players invited to join rosters, and coaches and captains who have players request to join their teams. It is recommended to use either this or Force Roster Request Responses, not both."
 msgstr ""
 
-#: /views/settings/user.ctp:3
-msgid "User"
-msgstr ""
-
 #: /views/settings/user.ctp:21
 msgid "User Features"
 msgstr ""
@@ -12264,10 +14308,6 @@ msgstr ""
 
 #: /views/settings/user.ctp:52
 msgid "Allow users to join multiple affiliates (only applicable if affiliates are enabled above)."
-msgstr ""
-
-#: /views/settings/user.ctp:60
-msgid "Photos"
 msgstr ""
 
 #: /views/settings/user.ctp:63
