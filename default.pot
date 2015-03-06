@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"POT-Creation-Date: 2015-03-05 15:23-0500\n"
+"POT-Creation-Date: 2015-03-06 15:39-0500\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
@@ -34,6 +34,1138 @@ msgstr ""
 msgid "You have been invited to join a team, and must either accept or decline this invitation before proceeding. Before deciding, you have the ability to look at this team's roster, schedule, etc."
 msgstr ""
 
+#: /app_controller.php:693
+#: /views/all/splash.ctp:2
+#: /views/divisions/slots.ctp:44
+#: /views/games/ratings_table.ctp:38
+#: /views/leagues/slots.ctp:48
+#: /views/schedules/day.ctp:48
+msgid "Home"
+msgstr ""
+
+#: /app_controller.php:694;695;696;697;699;701;702;703;705;708
+#: /views/elements/help/people/photo_upload.ctp:3
+#: /views/elements/help/people/preferences.ctp:3
+#: /views/elements/help/people/skill_level.ctp:3
+msgid "My Profile"
+msgstr ""
+
+#: /app_controller.php:695;1109
+#: /views/affiliates/index.ctp:45;45
+#: /views/affiliates/view.ctp:4;43;43
+#: /views/badges/index.ctp:67;67
+#: /views/badges/view.ctp:4
+#: /views/categories/index.ctp:39;39
+#: /views/categories/view.ctp:4;48;48
+#: /views/divisions/slots.ctp:20
+#: /views/divisions/view.ctp:4
+#: /views/elements/all/kickstart.ctp:95
+#: /views/elements/events/list.ctp:82;82;98;98;132;132
+#: /views/elements/people/search_results.ctp:47
+#: /views/elements/teams/actions.ctp:23;23
+#: /views/events/index.ctp:159;159;205;205;266;266
+#: /views/events/view.ctp:4
+#: /views/facilities/view.ctp:4
+#: /views/fields/view.ctp:4
+#: /views/franchises/view.ctp:4
+#: /views/game_slots/view.ctp:3
+#: /views/games/view.ctp:4
+#: /views/leagues/slots.ctp:20
+#: /views/leagues/view.ctp:4
+#: /views/mailing_lists/index.ctp:28;28
+#: /views/mailing_lists/view.ctp:4
+#: /views/people/approve_documents.ctp:16
+#: /views/people/index.ctp:76;76
+#: /views/people/list_new.ctp:15;15
+#: /views/people/registrations.ctp:107
+#: /views/people/view.ctp:4;653;780
+#: /views/questionnaires/view.ctp:4;56
+#: /views/questions/view.ctp:3
+#: /views/regions/index.ctp:39;39
+#: /views/regions/view.ctp:4;50;50
+#: /views/registrations/unpaid.ctp:45
+#: /views/registrations/view.ctp:5
+#: /views/task_slots/view.ctp:3
+#: /views/tasks/index.ctp:39;39
+#: /views/tasks/view.ctp:4;98;98
+#: /views/team_events/view.ctp:5
+#: /views/teams/schedule.ctp:128;130
+#: /views/teams/view.ctp:4
+#: /views/themed/wfdfu23/teams/view.ctp:4
+#: /views/upload_types/index.ctp:26
+#: /views/upload_types/view.ctp:4;46
+#: /views/waivers/index.ctp:68;68
+#: /views/waivers/view.ctp:4
+msgid "View"
+msgstr ""
+
+#: /app_controller.php:696;1110;1202;1238;1308;1310
+#: /views/affiliates/edit.ctp:7
+#: /views/affiliates/index.ctp:49;49
+#: /views/affiliates/view.ctp:47;47;70;76
+#: /views/badges/edit.ctp:7
+#: /views/badges/index.ctp:71;71
+#: /views/badges/view.ctp:123
+#: /views/categories/edit.ctp:7
+#: /views/categories/index.ctp:42;42
+#: /views/categories/view.ctp:51;51;73
+#: /views/contacts/edit.ctp:7
+#: /views/divisions/edit.ctp:11
+#: /views/elements/all/kickstart.ctp:39;39;98
+#: /views/elements/divisions/actions.ctp:61
+#: /views/elements/help/people/skill_level.ctp:3
+#: /views/elements/leagues/actions.ctp:55
+#: /views/elements/people/search_results.ctp:65
+#: /views/elements/questionnaires/edit_question.ctp:27
+#: /views/events/edit.ctp:7
+#: /views/events/index.ctp:77;166;166;212;212;273;273
+#: /views/events/view.ctp:258;258;349;349
+#: /views/facilities/edit.ctp:7
+#: /views/facilities/index.ctp:155;155
+#: /views/facilities/view.ctp:222;222
+#: /views/fields/bookings.ctp:77
+#: /views/fields/edit.ctp:7
+#: /views/franchises/edit.ctp:7
+#: /views/game_slots/edit.ctp:3
+#: /views/games/edit.ctp:4
+#: /views/games/note.ctp:8
+#: /views/games/view.ctp:518
+#: /views/helpers/zuluru_game.php:181;181
+#: /views/holidays/edit.ctp:7
+#: /views/holidays/index.ctp:26
+#: /views/leagues/edit.ctp:7
+#: /views/leagues/index.ctp:61
+#: /views/mailing_lists/edit.ctp:7
+#: /views/mailing_lists/index.ctp:31;31
+#: /views/mailing_lists/view.ctp:35;35;76;76
+#: /views/newsletters/delivery.ctp:48;48
+#: /views/newsletters/edit.ctp:7
+#: /views/newsletters/index.ctp:47;47
+#: /views/newsletters/view.ctp:40;40
+#: /views/people/edit.ctp:5
+#: /views/people/index.ctp:79;79
+#: /views/people/list_new.ctp:18;18
+#: /views/people/note.ctp:8
+#: /views/people/registrations.ctp:108;112
+#: /views/people/view.ctp:654;658;783
+#: /views/prices/edit.ctp:8
+#: /views/questionnaires/edit.ctp:7
+#: /views/questionnaires/index.ctp:37
+#: /views/questionnaires/view.ctp:57
+#: /views/questions/edit.ctp:3
+#: /views/questions/index.ctp:41
+#: /views/questions/view.ctp:46
+#: /views/regions/edit.ctp:7
+#: /views/regions/index.ctp:42;42
+#: /views/regions/view.ctp:53;53;76
+#: /views/registrations/checkout.ctp:138
+#: /views/registrations/edit.ctp:5
+#: /views/registrations/unpaid.ctp:47
+#: /views/registrations/view.ctp:246
+#: /views/registrations/waiting.ctp:30
+#: /views/task_slots/edit.ctp:3
+#: /views/task_slots/view.ctp:51
+#: /views/tasks/edit.ctp:7
+#: /views/tasks/index.ctp:43;43
+#: /views/tasks/view.ctp:101;101;133
+#: /views/team_events/edit.ctp:8
+#: /views/teams/edit.ctp:7
+#: /views/teams/note.ctp:8
+#: /views/teams/tooltip.ctp:64
+#: /views/upload_types/edit.ctp:7
+#: /views/upload_types/index.ctp:27
+#: /views/upload_types/view.ctp:48
+#: /views/waivers/edit.ctp:7
+#: /views/waivers/index.ctp:71;71
+#: /views/waivers/view.ctp:84;87
+msgid "Edit"
+msgstr ""
+
+#: /app_controller.php:697;1111
+#: /views/elements/help/people/preferences.ctp:3
+#: /views/people/preferences.ctp:2;9
+#: /views/registrations/register.ctp:4
+msgid "Preferences"
+msgstr ""
+
+#: /app_controller.php:699
+msgid "Add new child"
+msgstr ""
+
+#: /app_controller.php:701
+msgid "Link to relative"
+msgstr ""
+
+#: /app_controller.php:702;1112
+msgid "Waiver history"
+msgstr ""
+
+#: /app_controller.php:703
+#: /views/people/search.ctp:26
+msgid "Change password"
+msgstr ""
+
+#: /app_controller.php:705;1113
+msgid "Upload photo"
+msgstr ""
+
+#: /app_controller.php:708
+msgid "Upload document"
+msgstr ""
+
+#: /app_controller.php:764;765;766;768;773;778;779;780;781;782;783;784;785;786;787;788;789;790;976;998;1013;1071;1080;1118;1123;1125
+#: /views/elements/divisions/register.ctp:6
+#: /views/elements/events/list.ctp:14
+#: /views/elements/help/index.ctp:19;32
+#: /views/elements/help/guide/administrator/registration.ctp:26;35
+#: /views/events/index.ctp:51
+#: /views/events/view.ctp:2;306;367;371;373
+#: /views/extensions/handle_chase_error.ctp:2
+#: /views/registrations/add_payment.ctp:2
+#: /views/registrations/checkout.ctp:2
+#: /views/registrations/credit_payment.ctp:2
+#: /views/registrations/edit.ctp:2;9
+#: /views/registrations/full_list.ctp:91;92
+#: /views/registrations/redeem.ctp:2
+#: /views/registrations/refund_payment.ctp:2
+#: /views/registrations/register.ctp:2
+#: /views/registrations/report.ctp:145
+#: /views/registrations/summary.ctp:40;41
+#: /views/registrations/transfer_payment.ctp:2
+#: /views/registrations/unpaid.ctp:11
+#: /views/registrations/view.ctp:20
+#: /views/registrations/waiting.ctp:12
+#: /views/settings/registration.ctp:3
+msgid "Registration"
+msgstr ""
+
+#: /app_controller.php:765;1125
+#: /views/events/wizard.ctp:3
+msgid "Wizard"
+msgstr ""
+
+#: /app_controller.php:766
+msgid "All events"
+msgstr ""
+
+#: /app_controller.php:768;1135
+msgid "My history"
+msgstr ""
+
+#: /app_controller.php:773;1118
+#: /views/registrations/checkout.ctp:3
+msgid "Checkout"
+msgstr ""
+
+#: /app_controller.php:778;779;780
+#: /views/events/view.ctp:379;387
+#: /views/people/view.ctp:594
+#: /views/preregistrations/add.ctp:2
+#: /views/preregistrations/add_to_event.ctp:4
+#: /views/preregistrations/index.ctp:2;14
+msgid "Preregistrations"
+msgstr ""
+
+#: /app_controller.php:779;786;789;807;819;824;831;835;961;1025
+#: /views/affiliates/index.ctp:3
+#: /views/affiliates/view.ctp:66
+#: /views/badges/index.ctp:3
+#: /views/categories/index.ctp:3
+#: /views/categories/view.ctp:70
+#: /views/contacts/index.ctp:3
+#: /views/events/index.ctp:3
+#: /views/facilities/index.ctp:3
+#: /views/franchises/index.ctp:3
+#: /views/groups/index.ctp:3
+#: /views/holidays/index.ctp:3
+#: /views/leagues/index.ctp:3
+#: /views/mailing_lists/index.ctp:3
+#: /views/newsletters/index.ctp:3
+#: /views/people/index.ctp:3
+#: /views/preregistrations/index.ctp:3
+#: /views/questionnaires/index.ctp:3
+#: /views/questions/index.ctp:3
+#: /views/regions/index.ctp:3
+#: /views/registrations/full_list.ctp:6
+#: /views/tasks/index.ctp:3
+#: /views/tasks/view.ctp:130
+#: /views/teams/index.ctp:3
+#: /views/upload_types/index.ctp:3
+#: /views/waivers/index.ctp:3
+#: /views/waivers/view.ctp:80
+msgid "List"
+msgstr ""
+
+#: /app_controller.php:780
+#: /views/affiliates/index.ctp:70
+#: /views/badges/index.ctp:126
+#: /views/badges/view.ctp:130
+#: /views/categories/index.ctp:59
+#: /views/categories/view.ctp:80
+#: /views/games/note.ctp:6
+#: /views/people/note.ctp:6
+#: /views/preregistrations/add.ctp:3
+#: /views/preregistrations/add_to_event.ctp:5
+#: /views/questions/add.ctp:3
+#: /views/regions/index.ctp:58
+#: /views/regions/view.ctp:83
+#: /views/registrations/add_payment.ctp:5;9
+#: /views/tasks/index.ctp:64
+#: /views/tasks/view.ctp:143
+#: /views/teams/add_from_event.ctp:31
+#: /views/teams/note.ctp:6
+#: /views/teams/schedule.ctp:146
+#: /views/teams/tooltip.ctp:66
+#: /views/waivers/index.ctp:87
+#: /views/waivers/view.ctp:91
+msgid "Add"
+msgstr ""
+
+#: /app_controller.php:781
+#: /views/registrations/unpaid.ctp:3
+msgid "Unpaid"
+msgstr ""
+
+#: /app_controller.php:782
+#: /views/people/credits.ctp:4
+#: /views/registrations/credits.ctp:3
+msgid "Credits"
+msgstr ""
+
+#: /app_controller.php:783
+#: /views/registrations/report.ctp:5
+msgid "Report"
+msgstr ""
+
+#: /app_controller.php:784;810;820;827;836;839;962;963;1089;1091
+#: /views/affiliates/edit.ctp:14
+#: /views/badges/edit.ctp:14
+#: /views/categories/edit.ctp:14
+#: /views/events/edit.ctp:15
+#: /views/facilities/edit.ctp:15
+#: /views/fields/edit.ctp:14
+#: /views/holidays/edit.ctp:14
+#: /views/mailing_lists/edit.ctp:14
+#: /views/newsletters/edit.ctp:14
+#: /views/prices/edit.ctp:15
+#: /views/questionnaires/edit.ctp:14
+#: /views/regions/edit.ctp:14
+#: /views/tasks/edit.ctp:14
+#: /views/team_events/edit.ctp:15
+#: /views/upload_types/edit.ctp:14
+#: /views/waivers/edit.ctp:14
+msgid "Create %s"
+msgstr ""
+
+#: /app_controller.php:784
+#: /controllers/events_controller.php:182;224;268;272;280;316;331;334;345;382;401;466
+#: /controllers/preregistrations_controller.php:45;52;68
+#: /controllers/prices_controller.php:41;47
+#: /controllers/registrations_controller.php:120;132;172;183;388;410;1714;1721
+#: /controllers/teams_controller.php:1939;1947
+#: /views/elements/games/consolidated_schedule.ctp:144
+#: /views/elements/games/splash.ctp:116
+msgid "event"
+msgstr ""
+
+#: /app_controller.php:785;786;787;788;789;790
+#: /views/elements/help/guide/administrator/registration.ctp:19
+#: /views/questionnaires/edit.ctp:44
+#: /views/questionnaires/index.ctp:2
+#: /views/questionnaires/view.ctp:29
+#: /views/questions/view.ctp:25
+msgid "Questionnaires"
+msgstr ""
+
+#: /app_controller.php:787;789;790
+#: /views/elements/people/rating.ctp:22
+#: /views/questionnaires/edit.ctp:34
+#: /views/questions/add.ctp:39
+#: /views/questions/index.ctp:2
+msgid "Questions"
+msgstr ""
+
+#: /app_controller.php:788;790;876
+msgid "Deactivated"
+msgstr ""
+
+#: /app_controller.php:806;807;810;813;818;819;820;1078;1135;1140;1166;1168;1228;1230
+#: /views/divisions/tooltip.ctp:25
+#: /views/elements/help/index.ctp:37
+#: /views/elements/teams/splash.ctp:8
+#: /views/leagues/tooltip.ctp:16
+#: /views/people/view.ctp:424
+#: /views/teams/attendance.ctp:2
+#: /views/teams/edit.ctp:2
+#: /views/teams/index.ctp:2
+#: /views/teams/join.ctp:2
+#: /views/teams/letter.ctp:2
+#: /views/teams/note.ctp:2
+#: /views/teams/numbers.ctp:2
+#: /views/teams/roster_add.ctp:4
+#: /views/teams/roster_position.ctp:2
+#: /views/teams/roster_request.ctp:2
+#: /views/teams/roster_role.ctp:2
+#: /views/teams/schedule.ctp:2
+#: /views/teams/statistics.ctp:2;16
+#: /views/teams/stats.ctp:2
+#: /views/teams/unassigned.ctp:2
+#: /views/teams/view.ctp:2
+#: /views/themed/wfdfu23/teams/view.ctp:2
+msgid "Teams"
+msgstr ""
+
+#: /app_controller.php:810
+#: /controllers/franchises_controller.php:296;309
+#: /controllers/games_controller.php:853;903;1219;1290;1387;1578;1714;1836;2003
+#: /controllers/team_events_controller.php:184;193;271
+#: /controllers/teams_controller.php:683;711;855;865;939;956;1044;1057;1125;1129;1171;1203;1206;1213;1282;1326;1346;1352;1364;1389;1396;1461;1468;1606;1613;1655;1667;1733;1755;1770;1777;1841;1846;1867;1895;1934;1960;2431
+#: /views/franchises/view.ctp:108
+msgid "team"
+msgstr ""
+
+#: /app_controller.php:813
+msgid "Unassigned teams"
+msgstr ""
+
+#: /app_controller.php:818;819;820;1228;1230
+#: /views/franchises/edit.ctp:2
+#: /views/franchises/index.ctp:2
+#: /views/franchises/letter.ctp:2
+#: /views/franchises/view.ctp:2
+#: /views/teams/view.ctp:171
+#: /views/themed/wfdfu23/teams/view.ctp:171
+msgid "Franchises"
+msgstr ""
+
+#: /app_controller.php:820
+#: /controllers/franchises_controller.php:123;134;150;154;167;177;180;188;200;226;233;282;289;349;356
+msgid "franchise"
+msgstr ""
+
+#: /app_controller.php:823;824;826;827;1262;1264
+#: /views/elements/help/index.ctp:41
+#: /views/elements/help/guide/administrator/leagues.ctp:12
+#: /views/leagues/edit.ctp:2
+#: /views/leagues/index.ctp:2;10
+#: /views/leagues/participation.ctp:2
+#: /views/leagues/schedule.ctp:2
+#: /views/leagues/slots.ctp:4
+#: /views/leagues/standings.ctp:2
+#: /views/leagues/summary.ctp:2
+#: /views/leagues/view.ctp:2
+msgid "Leagues"
+msgstr ""
+
+#: /app_controller.php:826
+msgid "League summary"
+msgstr ""
+
+#: /app_controller.php:827
+#: /controllers/divisions_controller.php:350
+#: /controllers/leagues_controller.php:164;174;239;261;300;304;311;348;388;391;409;467;486;499;611;634;714;721
+#: /controllers/schedules_controller.php:745;1023
+msgid "league"
+msgstr ""
+
+#: /app_controller.php:832
+msgid "Map of all %s"
+msgstr ""
+
+#: /app_controller.php:834;835;836
+#: /views/elements/help/guide/administrator/fields.ctp:7
+#: /views/regions/edit.ctp:2;33
+#: /views/regions/index.ctp:2;7
+#: /views/regions/view.ctp:2
+msgid "Regions"
+msgstr ""
+
+#: /app_controller.php:836
+#: /controllers/regions_controller.php:58;64;77;80;94;99;102;110;122
+msgid "region"
+msgstr ""
+
+#: /app_controller.php:838
+msgid "Closed facilities"
+msgstr ""
+
+#: /app_controller.php:839
+#: /controllers/facilities_controller.php:110;122;139;143;190;200;203;211;261
+#: /controllers/fields_controller.php:114;132
+#: /views/facilities/open.ctp:9
+msgid "facility"
+msgstr ""
+
+#: /app_controller.php:841;843;846
+msgid "Add bulk gameslots"
+msgstr ""
+
+#: /app_controller.php:852;882;883;884;885
+#: /views/elements/people/search_form.ctp:30
+#: /views/people/inactive_search.ctp:27
+#: /views/people/league_search.ctp:33
+#: /views/people/rule_search.ctp:31
+#: /views/people/search.ctp:5
+msgid "Search"
+msgstr ""
+
+#: /app_controller.php:852;854;855;874;876;882;883;884;885;909;927;940;944;954;956;1075;1076;1077;1091
+#: /views/elements/help/index.ctp:27
+#: /views/people/act_as.ctp:2
+#: /views/people/add_relative.ctp:2
+#: /views/people/approve.ctp:2
+#: /views/people/approve_badges.ctp:2
+#: /views/people/approve_document.ctp:2
+#: /views/people/approve_documents.ctp:2
+#: /views/people/approve_photos.ctp:2
+#: /views/people/credits.ctp:2
+#: /views/people/document_upload.ctp:2
+#: /views/people/edit.ctp:3
+#: /views/people/inactive_search.ctp:4;9
+#: /views/people/index.ctp:2;11
+#: /views/people/league_search.ctp:4;9
+#: /views/people/link_relative.ctp:4
+#: /views/people/list_new.ctp:2
+#: /views/people/note.ctp:2
+#: /views/people/participation.ctp:2
+#: /views/people/photo_resize.ctp:2
+#: /views/people/photo_upload.ctp:2
+#: /views/people/registrations.ctp:4
+#: /views/people/retention.ctp:2
+#: /views/people/rule_search.ctp:4;9
+#: /views/people/search.ctp:4;9
+#: /views/people/statistics.ctp:2;16
+#: /views/people/teams.ctp:2
+#: /views/people/view.ctp:2
+#: /views/people/waivers.ctp:2
+msgid "People"
+msgstr ""
+
+#: /app_controller.php:854;855;874;876
+#: /views/badges/edit.ctp:2;64
+#: /views/badges/index.ctp:2;7
+#: /views/badges/view.ctp:2
+#: /views/people/nominate.ctp:2
+#: /views/people/nominate_badge.ctp:4
+#: /views/people/nominate_badge_reason.ctp:2
+#: /views/people/view.ctp:527
+#: /views/teams/view.ctp:262
+#: /views/themed/wfdfu23/teams/view.ctp:262
+msgid "Badges"
+msgstr ""
+
+#: /app_controller.php:855
+#: /views/badges/index.ctp:111
+#: /views/badges/view.ctp:108
+#: /views/people/nominate.ctp:3
+#: /views/people/nominate_badge.ctp:8
+#: /views/people/nominate_badge_reason.ctp:6
+msgid "Nominate"
+msgstr ""
+
+#: /app_controller.php:874
+msgid "Approve nominations (%d pending)"
+msgstr ""
+
+#: /app_controller.php:882
+msgid "By name"
+msgstr ""
+
+#: /app_controller.php:883
+msgid "By rule"
+msgstr ""
+
+#: /app_controller.php:884
+msgid "By league"
+msgstr ""
+
+#: /app_controller.php:885
+msgid "Inactive"
+msgstr ""
+
+#: /app_controller.php:909
+msgid "Approve new accounts (%d pending)"
+msgstr ""
+
+#: /app_controller.php:927
+msgid "Approve new photos (%d pending)"
+msgstr ""
+
+#: /app_controller.php:940
+msgid "Approve new documents (%d pending)"
+msgstr ""
+
+#: /app_controller.php:944
+msgid "List all"
+msgstr ""
+
+#: /app_controller.php:956
+msgid "Bulk import"
+msgstr ""
+
+#: /app_controller.php:958;959;960;961;962;963;964
+#: /views/newsletters/delivery.ctp:53
+#: /views/newsletters/edit.ctp:67
+#: /views/newsletters/index.ctp:2
+msgid "Newsletters"
+msgstr ""
+
+#: /app_controller.php:959
+msgid "Upcoming"
+msgstr ""
+
+#: /app_controller.php:960;961;962
+msgid "Mailing lists"
+msgstr ""
+
+#: /app_controller.php:962
+#: /controllers/mailing_lists_controller.php:66;72;84;95;141;144;157;162;165;172;184;203
+msgid "mailing list"
+msgstr ""
+
+#: /app_controller.php:963
+#: /controllers/newsletters_controller.php:83;89;100;103;137;142;145;152;172;191;197;214;236;292
+msgid "newsletter"
+msgstr ""
+
+#: /app_controller.php:964
+msgid "All newsletters"
+msgstr ""
+
+#: /app_controller.php:968;990;1005
+#: /views/settings/organization.ctp:3;21
+msgid "Organization"
+msgstr ""
+
+#: /app_controller.php:968;969;970;971;972;973;974;976;978;983;990;991;992;993;994;995;996;998;1000;1005;1006;1007;1008;1009;1010;1011;1013;1015;1030;1034;1036;1039;1047;1050
+#: /views/elements/help/index.ctp:50
+#: /views/elements/help/guide/administrator/players.ctp:44
+#: /views/elements/help/guide/administrator/registration.ctp:5;35
+msgid "Configuration"
+msgstr ""
+
+#: /app_controller.php:968;969;970;971;972;973;974;976;978;990;991;992;993;994;995;996;998;1000;1005;1006;1007;1008;1009;1010;1011;1013;1015
+#: /views/elements/help/guide/administrator/players.ctp:44
+#: /views/elements/help/guide/administrator/registration.ctp:5;35
+#: /views/settings/email.ctp:2
+#: /views/settings/feature.ctp:2
+#: /views/settings/organization.ctp:2
+#: /views/settings/payment.ctp:2
+#: /views/settings/profile.ctp:2
+#: /views/settings/registration.ctp:2
+#: /views/settings/scoring.ctp:2
+#: /views/settings/team.ctp:2
+#: /views/settings/user.ctp:2
+msgid "Settings"
+msgstr ""
+
+#: /app_controller.php:969;991;1006
+#: /views/elements/help/guide/administrator/registration.ctp:5
+msgid "Features"
+msgstr ""
+
+#: /app_controller.php:970;992;1007
+#: /views/contacts/index.ctp:20
+#: /views/people/edit.ctp:275
+#: /views/people/index.ctp:31
+#: /views/settings/email.ctp:3
+#: /views/tasks/csv/index.ctp:12
+#: /views/users/reset_password.ctp:15
+msgid "Email"
+msgstr ""
+
+#: /app_controller.php:971;993;1008
+#: /controllers/teams_controller.php:1378;1381
+#: /views/divisions/fields.ctp:26;229
+#: /views/divisions/slots.ctp:44
+#: /views/divisions/spirit.ctp:98
+#: /views/divisions/stats.ctp:27
+#: /views/divisions/csv/spirit.ctp:4
+#: /views/franchises/add_team.ctp:8
+#: /views/franchises/view.ctp:80
+#: /views/games/attendance.ctp:21
+#: /views/games/attendance_change.ctp:10
+#: /views/games/edit_boxscore.ctp:42
+#: /views/games/stat_sheet.ctp:14
+#: /views/games/tooltip.ctp:10
+#: /views/games/view.ctp:18
+#: /views/games/csv/stats.ctp:7
+#: /views/leagues/participation.ctp:12
+#: /views/leagues/slots.ctp:48
+#: /views/leagues/stats.ctp:27
+#: /views/leagues/csv/participation.ctp:4
+#: /views/settings/team.ctp:3
+#: /views/team_events/attendance_change.ctp:10
+#: /views/team_events/view.ctp:11
+#: /views/teams/add_from_event.ctp:2
+#: /views/teams/add_from_team.ctp:2
+#: /views/teams/add_player.ctp:4
+#: /views/teams/emails.ctp:2
+#: /views/teams/move.ctp:2
+#: /views/teams/spirit.ctp:2
+#: /views/teams/stat_sheet.ctp:14
+#: /views/teams/statistics.ctp:78;115;147;179;212;247;279
+#: /views/teams/tooltip.ctp:30
+msgid "Team"
+msgstr ""
+
+#: /app_controller.php:972;994;1009
+#: /views/elements/help/guide/administrator/players.ctp:44
+#: /views/settings/user.ctp:3
+msgid "User"
+msgstr ""
+
+#: /app_controller.php:973;995;1011
+#: /controllers/people_controller.php:2776
+#: /views/settings/profile.ctp:3
+msgid "Profile"
+msgstr ""
+
+#: /app_controller.php:974;996;1010
+#: /views/divisions/edit.ctp:182
+#: /views/games/edit.ctp:126
+#: /views/games/view.ctp:198
+#: /views/leagues/edit.ctp:231
+#: /views/settings/scoring.ctp:3
+msgid "Scoring"
+msgstr ""
+
+#: /app_controller.php:978;1000;1015
+#: /views/people/view.ctp:636
+#: /views/registrations/edit.ctp:60
+#: /views/registrations/register.ctp:27
+#: /views/registrations/report.ctp:64
+#: /views/registrations/unpaid.ctp:14
+#: /views/registrations/view.ctp:58;78
+msgid "Payment"
+msgstr ""
+
+#: /app_controller.php:983
+#: /views/affiliates/add_manager.ctp:4
+#: /views/affiliates/edit.ctp:2
+#: /views/affiliates/index.ctp:2;7
+#: /views/affiliates/select.ctp:2
+#: /views/affiliates/view.ctp:2
+#: /views/people/add_relative.ctp:72
+#: /views/people/edit.ctp:257
+#: /views/users/create_account.ctp:167
+msgid "Affiliates"
+msgstr ""
+
+#: /app_controller.php:1024;1025;1042;1043
+#: /views/elements/tasks/splash.ctp:4
+#: /views/tasks/edit.ctp:2
+#: /views/tasks/index.ctp:2;7
+#: /views/tasks/view.ctp:2
+msgid "Tasks"
+msgstr ""
+
+#: /app_controller.php:1030
+msgid "Permissions"
+msgstr ""
+
+#: /app_controller.php:1034
+#: /views/holidays/index.ctp:2;7
+msgid "Holidays"
+msgstr ""
+
+#: /app_controller.php:1036
+msgid "Upload types"
+msgstr ""
+
+#: /app_controller.php:1039
+#: /views/elements/help/index.ctp:35
+#: /views/elements/help/guide/administrator/registration.ctp:16
+#: /views/people/view.ctp:712
+#: /views/waivers/edit.ctp:2
+#: /views/waivers/index.ctp:2;7
+#: /views/waivers/view.ctp:2
+msgid "Waivers"
+msgstr ""
+
+#: /app_controller.php:1042
+#: /views/categories/edit.ctp:2;35
+#: /views/categories/index.ctp:2;7
+#: /views/categories/view.ctp:2
+msgid "Categories"
+msgstr ""
+
+#: /app_controller.php:1043
+msgid "Download All"
+msgstr ""
+
+#: /app_controller.php:1047
+#: /views/contacts/edit.ctp:2
+#: /views/contacts/index.ctp:2
+#: /views/contacts/message.ctp:2
+#: /views/people/tooltip.ctp:89
+#: /views/people/view.ctp:352
+msgid "Contacts"
+msgstr ""
+
+#: /app_controller.php:1050
+msgid "Clear cache"
+msgstr ""
+
+#: /app_controller.php:1053;1055;1057;1058;1059;1060;1062;1065;1068;1069;1070;1071
+#: /views/help/view.ctp:25
+msgid "Help"
+msgstr ""
+
+#: /app_controller.php:1055
+msgid "Contact us"
+msgstr ""
+
+#: /app_controller.php:1057
+msgid "Help index"
+msgstr ""
+
+#: /app_controller.php:1058
+msgid "New users"
+msgstr ""
+
+#: /app_controller.php:1059
+msgid "Advanced users"
+msgstr ""
+
+#: /app_controller.php:1060
+#: /views/elements/help/index.ctp:8
+#: /views/teams/tooltip.ctp:26
+msgid "Coaches/Captains"
+msgstr ""
+
+#: /app_controller.php:1062
+#: /views/divisions/tooltip.ctp:22
+#: /views/elements/divisions/details.ctp:2
+#: /views/elements/help/index.ctp:10
+#: /views/leagues/tooltip.ctp:13
+msgid "Coordinators"
+msgstr ""
+
+#: /app_controller.php:1065
+msgid "Site setup and configuration"
+msgstr ""
+
+#: /app_controller.php:1065;1068;1069;1070;1071
+#: /views/elements/help/index.ctp:13
+msgid "Administrators"
+msgstr ""
+
+#: /app_controller.php:1068
+msgid "Player management"
+msgstr ""
+
+#: /app_controller.php:1069
+msgid "League management"
+msgstr ""
+
+#: /app_controller.php:1070
+msgid "%s management"
+msgstr ""
+
+#: /app_controller.php:1075;1076;1077;1078;1080
+#: /views/elements/help/guide/administrator/registration.ctp:26
+#: /views/people/statistics.ctp:3
+#: /views/registrations/statistics.ctp:3
+#: /views/teams/statistics.ctp:3
+msgid "Statistics"
+msgstr ""
+
+#: /app_controller.php:1076
+#: /views/elements/leagues/actions.ctp:78
+#: /views/leagues/participation.ctp:4;8;50
+msgid "Participation"
+msgstr ""
+
+#: /app_controller.php:1077
+msgid "Retention"
+msgstr ""
+
+#: /app_controller.php:1085
+msgid "Reset password"
+msgstr ""
+
+#: /app_controller.php:1089;1091
+#: /controllers/people_controller.php:1047
+#: /controllers/users_controller.php:107
+msgid "account"
+msgstr ""
+
+#: /app_controller.php:1097
+msgid "Logout"
+msgstr ""
+
+#: /app_controller.php:1099
+#: /views/users/login.ctp:2;33
+msgid "Login"
+msgstr ""
+
+#: /app_controller.php:1123;1140
+msgid "History"
+msgstr ""
+
+#: /app_controller.php:1184;1292
+#: /views/divisions/schedule.ctp:4
+#: /views/divisions/tooltip.ctp:38
+#: /views/elements/divisions/actions.ctp:40;40
+#: /views/elements/leagues/actions.ctp:36;36
+#: /views/elements/teams/actions.ctp:30;30
+#: /views/leagues/schedule.ctp:4
+#: /views/leagues/tooltip.ctp:30;43
+#: /views/teams/schedule.ctp:4
+#: /views/teams/tooltip.ctp:34;53
+msgid "Schedule"
+msgstr ""
+
+#: /app_controller.php:1185;1293
+#: /views/divisions/standings.ctp:4
+#: /views/divisions/tooltip.ctp:40
+#: /views/elements/divisions/actions.ctp:45;45
+#: /views/elements/leagues/actions.ctp:41;41
+#: /views/elements/teams/actions.ctp:35;35
+#: /views/leagues/standings.ctp:4
+#: /views/leagues/tooltip.ctp:32;45
+#: /views/teams/tooltip.ctp:36;55
+msgid "Standings"
+msgstr ""
+
+#: /app_controller.php:1189
+#: /views/elements/games/consolidated_schedule.ctp:40;53
+#: /views/elements/games/splash.ctp:89;148
+#: /views/elements/games/stats_entry.ctp:14
+#: /views/elements/teams/actions.ctp:56
+#: /views/games/attendance.ctp:3;9;87
+#: /views/games/cron.ctp:34
+#: /views/games/view.ctp:142
+#: /views/team_events/view.ctp:118
+#: /views/teams/edit.ctp:47
+#: /views/teams/schedule.ctp:28
+msgid "Attendance"
+msgstr ""
+
+#: /app_controller.php:1194
+msgid "Join team"
+msgstr ""
+
+#: /app_controller.php:1203
+msgid "Player emails"
+msgstr ""
+
+#: /app_controller.php:1204;1241
+#: /views/affiliates/edit.ctp:33
+#: /views/affiliates/index.ctp:55;55
+#: /views/badges/edit.ctp:68
+#: /views/badges/index.ctp:74;74
+#: /views/badges/view.ctp:72;126
+#: /views/categories/edit.ctp:39
+#: /views/categories/index.ctp:45;45
+#: /views/categories/view.ctp:54;54;76
+#: /views/contacts/index.ctp:55
+#: /views/elements/all/kickstart.ctp:45;45;104
+#: /views/elements/divisions/actions.ctp:126
+#: /views/elements/leagues/actions.ctp:74
+#: /views/elements/leagues/standings/tournament/bracket.ctp:14
+#: /views/elements/leagues/standings/tournament/pools.ctp:46
+#: /views/elements/people/search_results.ctp:66
+#: /views/elements/questions/edit_answer.ctp:22
+#: /views/elements/teams/actions.ctp:101
+#: /views/events/index.ctp:179;179;222;222;276;276
+#: /views/events/view.ctp:261;261;361;361;406
+#: /views/facilities/index.ctp:161;161
+#: /views/facilities/view.ctp:186;186;228;228
+#: /views/fields/bookings.ctp:79
+#: /views/fields/view.ctp:158;158
+#: /views/franchises/index.ctp:87
+#: /views/franchises/letter.ctp:85
+#: /views/franchises/view.ctp:65
+#: /views/games/view.ctp:519
+#: /views/holidays/edit.ctp:37
+#: /views/holidays/index.ctp:27
+#: /views/mailing_lists/edit.ctp:47
+#: /views/mailing_lists/index.ctp:37
+#: /views/mailing_lists/view.ctp:41;83
+#: /views/newsletters/delivery.ctp:51
+#: /views/newsletters/edit.ctp:75
+#: /views/newsletters/index.ctp:54
+#: /views/newsletters/view.ctp:43
+#: /views/people/approve_badges.ctp:46
+#: /views/people/approve_documents.ctp:24
+#: /views/people/approve_photos.ctp:19
+#: /views/people/index.ctp:83;83
+#: /views/people/list_new.ctp:24;24
+#: /views/people/view.ctp:582;612;788
+#: /views/preregistrations/index.ctp:61
+#: /views/questionnaires/index.ctp:38
+#: /views/questionnaires/view.ctp:58
+#: /views/questions/index.ctp:42
+#: /views/regions/edit.ctp:37
+#: /views/regions/index.ctp:45;45
+#: /views/regions/view.ctp:56;56;79
+#: /views/task_slots/edit.ctp:23
+#: /views/task_slots/view.ctp:54
+#: /views/tasks/edit.ctp:49
+#: /views/tasks/index.ctp:46;46
+#: /views/tasks/view.ctp:104;104;136
+#: /views/teams/tooltip.ctp:63
+#: /views/upload_types/index.ctp:28
+#: /views/upload_types/view.ctp:52
+#: /views/waivers/edit.ctp:98
+#: /views/waivers/index.ctp:74;74
+msgid "Delete"
+msgstr ""
+
+#: /app_controller.php:1209
+msgid "Add player"
+msgstr ""
+
+#: /app_controller.php:1212
+#: /views/teams/move.ctp:4
+msgid "Move"
+msgstr ""
+
+#: /app_controller.php:1215
+#: /views/divisions/csv/spirit.ctp:11
+#: /views/elements/divisions/actions.ctp:89
+#: /views/elements/leagues/standings/competition/heading.ctp:5
+#: /views/elements/leagues/standings/ladder/heading.ctp:8
+#: /views/elements/leagues/standings/rounds/heading.ctp:10
+#: /views/elements/teams/actions.ctp:89
+#: /views/teams/schedule.ctp:25
+#: /views/teams/spirit.ctp:3
+msgid "Spirit"
+msgstr ""
+
+#: /app_controller.php:1218;1299
+#: /views/divisions/stats.ctp:4
+#: /views/elements/divisions/actions.ctp:51;51
+#: /views/elements/leagues/actions.ctp:47;47
+#: /views/elements/teams/actions.ctp:41
+#: /views/games/stats.ctp:7
+#: /views/leagues/stats.ctp:4
+#: /views/teams/stats.ctp:4
+#: /views/teams/tooltip.ctp:39
+msgid "Stats"
+msgstr ""
+
+#: /app_controller.php:1219;1321;1324
+#: /views/elements/people/search_results.ctp:105
+#: /views/people/index.ctp:106
+msgid "Download"
+msgstr ""
+
+#: /app_controller.php:1239
+#: /views/franchises/index.ctp:74;74
+#: /views/franchises/letter.ctp:72;72
+#: /views/franchises/view.ctp:52;52
+msgid "Add Team"
+msgstr ""
+
+#: /app_controller.php:1240
+#: /views/franchises/add_owner.ctp:5;10
+#: /views/franchises/index.ctp:82
+#: /views/franchises/letter.ctp:80
+#: /views/franchises/view.ctp:60
+msgid "Add an Owner"
+msgstr ""
+
+#: /app_controller.php:1296
+#: /views/divisions/scores.ctp:4
+msgid "Scores"
+msgstr ""
+
+#: /app_controller.php:1303
+#: /views/elements/divisions/actions.ctp:84;84
+#: /views/schedules/confirm.ctp:4
+#: /views/schedules/crossover.ctp:4
+#: /views/schedules/date.ctp:4
+#: /views/schedules/details.ctp:4
+#: /views/schedules/exclude.ctp:4
+#: /views/schedules/pools.ctp:4
+#: /views/schedules/reseed.ctp:4
+#: /views/schedules/type.ctp:4
+msgid "Add Games"
+msgstr ""
+
+#: /app_controller.php:1305
+#: /views/elements/divisions/actions.ctp:78;78
+msgid "Approve scores"
+msgstr ""
+
+#: /app_controller.php:1312
+msgid "%s distribution"
+msgstr ""
+
+#: /app_controller.php:1313
+msgid "%s availability"
+msgstr ""
+
+#: /app_controller.php:1314
+msgid "Status report"
+msgstr ""
+
+#: /app_controller.php:1316
+msgid "All stars"
+msgstr ""
+
+#: /app_controller.php:1318
+msgid "Captain emails"
+msgstr ""
+
+#: /app_controller.php:1320
+#: /views/divisions/spirit.ctp:4;8
+msgid "Spirit Report"
+msgstr ""
+
+#: /app_controller.php:1326
+msgid "Adjust seeds"
+msgstr ""
+
+#: /app_controller.php:1329
+msgid "Add coordinator"
+msgstr ""
+
+#: /app_controller.php:1344
+msgid "View bookings"
+msgstr ""
+
+#: /app_controller.php:1346
+msgid "Add Game Slot"
+msgstr ""
+
+#: /app_controller.php:1347
+#: /views/affiliates/edit.ctp:14
+#: /views/badges/edit.ctp:14
+#: /views/categories/edit.ctp:14
+#: /views/events/edit.ctp:15
+#: /views/events/view.ctp:357
+#: /views/facilities/edit.ctp:15
+#: /views/facilities/view.ctp:180;181
+#: /views/fields/edit.ctp:14;51;52
+#: /views/fields/view.ctp:153;154
+#: /views/game_slots/edit.ctp:9
+#: /views/game_slots/view.ctp:61
+#: /views/holidays/edit.ctp:14
+#: /views/mailing_lists/edit.ctp:14
+#: /views/newsletters/edit.ctp:14
+#: /views/prices/edit.ctp:15
+#: /views/questionnaires/edit.ctp:14
+#: /views/questionnaires/view.ctp:27
+#: /views/questions/edit.ctp:9
+#: /views/questions/view.ctp:21
+#: /views/regions/edit.ctp:14
+#: /views/registrations/edit.ctp:9
+#: /views/task_slots/edit.ctp:9
+#: /views/tasks/edit.ctp:14
+#: /views/team_events/edit.ctp:15
+#: /views/upload_types/edit.ctp:14
+#: /views/waivers/edit.ctp:14
+msgid "Edit %s"
+msgstr ""
+
+#: /app_controller.php:1348
+msgid "Edit Layout"
+msgstr ""
+
 #: /app_controller.php:1569
 msgid "The search terms used are too general. Please be more specific."
 msgstr ""
@@ -42,48 +1174,294 @@ msgstr ""
 msgid "Could not find validation handler %s for %s"
 msgstr ""
 
-#: /config/options.php:37
+#: /config/options.php:38
 msgid "Disabled"
 msgstr ""
 
-#: /config/options.php:38
+#: /config/options.php:39
 msgid "Enabled"
 msgstr ""
 
-#: /config/options.php:42;47
+#: /config/options.php:43;48
 msgid "User can update"
 msgstr ""
 
-#: /config/options.php:43;48
+#: /config/options.php:44;49
 msgid "Admin can update"
 msgstr ""
 
-#: /config/options.php:49
+#: /config/options.php:50
 msgid "Disabled entirely"
 msgstr ""
 
-#: /config/options.php:107;112
+#: /config/options.php:108;113
 msgid "Head-to-head > Head-to-head plus-minus > Plus-minus > Goals for > Losses"
 msgstr ""
 
-#: /config/options.php:108;115
+#: /config/options.php:109;116
 msgid "Plus-minus > Head-to-head > Goals for > Losses"
 msgstr ""
 
-#: /config/options.php:113
+#: /config/options.php:114
 msgid "Head-to-head > Head-to-head plus-minus > Plus-minus > Goals for > Losses > Spirit"
 msgstr ""
 
-#: /config/options.php:114
+#: /config/options.php:115
 msgid "Spirit > Head-to-head > Head-to-head plus-minus > Plus-minus > Goals for > Losses"
 msgstr ""
 
-#: /config/options.php:116
+#: /config/options.php:117
 msgid "Plus-minus > Head-to-head > Goals for > Losses > Spirit"
 msgstr ""
 
-#: /config/options.php:117
+#: /config/options.php:118
 msgid "Spirit > Plus-minus > Head-to-head > Goals for > Losses"
+msgstr ""
+
+#: /config/options.php:189
+msgid "10: High calibre touring player (team was top 4 at nationals)"
+msgstr ""
+
+#: /config/options.php:190
+msgid "9: Medium calibre touring player"
+msgstr ""
+
+#: /config/options.php:191
+msgid "8: Key player in competitive league, or lower calibre touring player"
+msgstr ""
+
+#: /config/options.php:192
+msgid "7: Competitive league player, minimal/no touring experience"
+msgstr ""
+
+#: /config/options.php:193
+msgid "6: Key player in intermediate league, or lower player in competitive league"
+msgstr ""
+
+#: /config/options.php:194
+msgid "5: Comfortable in intermediate league"
+msgstr ""
+
+#: /config/options.php:195
+msgid "4: Key player in recreational league, or lower player in intermediate league"
+msgstr ""
+
+#: /config/options.php:196
+msgid "3: Comfortable in recreational league"
+msgstr ""
+
+#: /config/options.php:197
+msgid "2: Beginner, minimal experience but athletic with sports background"
+msgstr ""
+
+#: /config/options.php:198
+msgid "1: Absolute Beginner"
+msgstr ""
+
+#: /config/options.php:202
+msgid "Captain"
+msgstr ""
+
+#: /config/options.php:203
+msgid "Assistant captain"
+msgstr ""
+
+#: /config/options.php:204
+msgid "Non-playing coach"
+msgstr ""
+
+#: /config/options.php:205
+msgid "Regular player"
+msgstr ""
+
+#: /config/options.php:206
+msgid "Substitute player"
+msgstr ""
+
+#: /config/options.php:207
+msgid "Not on team"
+msgstr ""
+
+#: /config/options.php:211
+msgid "Players are invited and must accept"
+msgstr ""
+
+#: /config/options.php:212
+msgid "Players are added directly"
+msgstr ""
+
+#: /config/options.php:216
+#: /views/divisions/add_coordinator.ctp:10
+msgid "Coordinator"
+msgstr ""
+
+#: /config/options.php:255
+msgid "Nobody"
+msgstr ""
+
+#: /config/options.php:256
+msgid "Everybody"
+msgstr ""
+
+#: /config/options.php:257
+msgid "Admins"
+msgstr ""
+
+#: /config/options.php:261
+msgid "Canadian"
+msgstr ""
+
+#: /config/options.php:262
+msgid "USA"
+msgstr ""
+
+#: /config/options.php:271
+msgid "Full"
+msgstr ""
+
+#: /config/options.php:272
+msgid "Introductory"
+msgstr ""
+
+#: /config/options.php:278
+msgid "Fixed dates"
+msgstr ""
+
+#: /config/options.php:279
+msgid "A fixed duration"
+msgstr ""
+
+#: /config/options.php:280
+msgid "Duration of the event"
+msgstr ""
+
+#: /config/options.php:281
+#: /views/people/waivers.ctp:49
+msgid "Never expires"
+msgstr ""
+
+#: /config/options.php:316
+msgid "Run-time determination"
+msgstr ""
+
+#: /config/options.php:317
+msgid "Determined by game outcomes"
+msgstr ""
+
+#: /config/options.php:318
+msgid "Determined by roster status"
+msgstr ""
+
+#: /config/options.php:319
+msgid "Determined by registrations"
+msgstr ""
+
+#: /config/options.php:320
+msgid "Aggregates multiple badges, e.g. \"5x\""
+msgstr ""
+
+#: /config/options.php:321
+msgid "Nominated by anyone (must be approved)"
+msgstr ""
+
+#: /config/options.php:322
+msgid "Assigned by an admin"
+msgstr ""
+
+#: /config/options.php:326
+msgid "Admin only (same locations as high)"
+msgstr ""
+
+#: /config/options.php:327
+msgid "High (profile, pop-ups, team rosters)"
+msgstr ""
+
+#: /config/options.php:328
+msgid "Low (profile only)"
+msgstr ""
+
+#: /config/options.php:353;362
+#: /views/affiliates/index.ctp:37
+#: /views/people/approve.ctp:282
+#: /views/people/statistics.ctp:86
+#: /views/people/view.ctp:284
+msgid "None"
+msgstr ""
+
+#: /config/options.php:354
+msgid "Round Robin"
+msgstr ""
+
+#: /config/options.php:355
+msgid "Ratings Ladder"
+msgstr ""
+
+#: /config/options.php:357
+msgid "Tournament"
+msgstr ""
+
+#: /config/options.php:363
+msgid "Wager System"
+msgstr ""
+
+#: /config/options.php:364
+msgid "USA Ultimate College"
+msgstr ""
+
+#: /config/options.php:365
+msgid "RRI"
+msgstr ""
+
+#: /config/options.php:366
+msgid "KRACH"
+msgstr ""
+
+#: /config/options.php:367
+msgid "RPI"
+msgstr ""
+
+#: /config/options.php:368
+msgid "Modified Elo"
+msgstr ""
+
+#: /config/options.php:374
+msgid "No spirit questionnaire"
+msgstr ""
+
+#: /config/options.php:375
+msgid "WFDF standard"
+msgstr ""
+
+#: /config/options.php:376
+msgid "Modified WFDF"
+msgstr ""
+
+#: /config/options.php:377
+msgid "Modified BULA"
+msgstr ""
+
+#: /config/options.php:378
+msgid "Leaguerunner original"
+msgstr ""
+
+#: /config/options.php:379
+msgid "Modified Leaguerunner"
+msgstr ""
+
+#: /config/options.php:384
+msgid "Chase Paymentech"
+msgstr ""
+
+#: /config/options.php:385
+msgid "Moneris"
+msgstr ""
+
+#: /config/options.php:386
+msgid "Paypal"
+msgstr ""
+
+#: /config/options.php:391
+msgid "Standard"
 msgstr ""
 
 #: /config/schema/migrations/schema10.php:62
@@ -678,12 +2056,6 @@ msgstr ""
 msgid "This league does not have stat tracking enabled."
 msgstr ""
 
-#: /controllers/divisions_controller.php:350
-#: /controllers/leagues_controller.php:164;174;239;261;300;304;311;348;388;391;409;467;486;499;611;634;714;721
-#: /controllers/schedules_controller.php:745;1023
-msgid "league"
-msgstr ""
-
 #: /controllers/divisions_controller.php:364;437
 #: /controllers/game_slots_controller.php:261
 #: /controllers/leagues_controller.php:295;369
@@ -859,16 +2231,6 @@ msgstr ""
 msgid "You are not allowed to register for events until your account has been approved."
 msgstr ""
 
-#: /controllers/events_controller.php:182;224;268;272;280;316;331;334;345;382;401;466
-#: /controllers/preregistrations_controller.php:45;52;68
-#: /controllers/prices_controller.php:41;47
-#: /controllers/registrations_controller.php:120;132;172;183;388;410;1714;1721
-#: /controllers/teams_controller.php:1939;1947
-#: /views/elements/games/consolidated_schedule.ctp:144
-#: /views/elements/games/splash.ctp:116
-msgid "event"
-msgstr ""
-
 #: /controllers/events_controller.php:387
 msgid "The following records reference this event, so it cannot be deleted."
 msgstr ""
@@ -890,12 +2252,6 @@ msgstr ""
 
 #: /controllers/events_controller.php:449;452
 msgid "connections"
-msgstr ""
-
-#: /controllers/facilities_controller.php:110;122;139;143;190;200;203;211;261
-#: /controllers/fields_controller.php:114;132
-#: /views/facilities/open.ctp:9
-msgid "facility"
 msgstr ""
 
 #: /controllers/facilities_controller.php:164
@@ -924,10 +2280,6 @@ msgstr ""
 msgid "letter"
 msgstr ""
 
-#: /controllers/franchises_controller.php:123;134;150;154;167;177;180;188;200;226;233;282;289;349;356
-msgid "franchise"
-msgstr ""
-
 #: /controllers/franchises_controller.php:205
 msgid "The following records reference this franchise, so it cannot be deleted."
 msgstr ""
@@ -953,14 +2305,6 @@ msgstr ""
 
 #: /controllers/franchises_controller.php:271
 msgid "Failed to add the selected team to this franchise"
-msgstr ""
-
-#: /controllers/franchises_controller.php:296;309
-#: /controllers/games_controller.php:853;903;1219;1290;1387;1578;1714;1836;2003
-#: /controllers/team_events_controller.php:184;193;271
-#: /controllers/teams_controller.php:683;711;855;865;939;956;1044;1057;1125;1129;1171;1203;1206;1213;1282;1326;1346;1352;1364;1389;1396;1461;1468;1606;1613;1655;1667;1733;1755;1770;1777;1841;1846;1867;1895;1934;1960;2431
-#: /views/franchises/view.ctp:108
-msgid "team"
 msgstr ""
 
 #: /controllers/franchises_controller.php:302
@@ -1496,10 +2840,6 @@ msgstr ""
 msgid "Cannot generate standings for a league with no schedule."
 msgstr ""
 
-#: /controllers/mailing_lists_controller.php:66;72;84;95;141;144;157;162;165;172;184;203
-msgid "mailing list"
-msgstr ""
-
 #: /controllers/mailing_lists_controller.php:106
 #: /controllers/newsletters_controller.php:244
 #: /controllers/people_controller.php:2547
@@ -1546,10 +2886,6 @@ msgstr ""
 msgid "Before using the layout editor, you must set the default latitude and longitude for your organization."
 msgstr ""
 
-#: /controllers/newsletters_controller.php:83;89;100;103;137;142;145;152;172;191;197;214;236;292
-msgid "newsletter"
-msgstr ""
-
 #: /controllers/newsletters_controller.php:177
 msgid "The following records reference this newsletter, so it cannot be deleted."
 msgstr ""
@@ -1587,11 +2923,6 @@ msgstr ""
 
 #: /controllers/people_controller.php:1022
 msgid "Your profile has been saved"
-msgstr ""
-
-#: /controllers/people_controller.php:1047
-#: /controllers/users_controller.php:107
-msgid "account"
 msgstr ""
 
 #: /controllers/people_controller.php:1158
@@ -1932,11 +3263,6 @@ msgstr ""
 msgid "Couldn't save new member activation"
 msgstr ""
 
-#: /controllers/people_controller.php:2776
-#: /views/settings/profile.ctp:3
-msgid "Profile"
-msgstr ""
-
 #: /controllers/people_controller.php:2779
 msgid "Account"
 msgstr ""
@@ -2033,10 +3359,6 @@ msgstr ""
 #: /views/questions/index.ctp:79
 #: /views/questions/view.ctp:2;7;21
 msgid "Question"
-msgstr ""
-
-#: /controllers/regions_controller.php:58;64;77;80;94;99;102;110;122
-msgid "region"
 msgstr ""
 
 #: /controllers/regions_controller.php:127
@@ -2482,40 +3804,6 @@ msgstr ""
 msgid "The following records reference this team, so it cannot be deleted."
 msgstr ""
 
-#: /controllers/teams_controller.php:1378;1381
-#: /views/divisions/fields.ctp:26;229
-#: /views/divisions/slots.ctp:44
-#: /views/divisions/spirit.ctp:98
-#: /views/divisions/stats.ctp:27
-#: /views/divisions/csv/spirit.ctp:4
-#: /views/franchises/add_team.ctp:8
-#: /views/franchises/view.ctp:80
-#: /views/games/attendance.ctp:21
-#: /views/games/attendance_change.ctp:10
-#: /views/games/edit_boxscore.ctp:42
-#: /views/games/stat_sheet.ctp:14
-#: /views/games/tooltip.ctp:10
-#: /views/games/view.ctp:18
-#: /views/games/csv/stats.ctp:7
-#: /views/leagues/participation.ctp:12
-#: /views/leagues/slots.ctp:48
-#: /views/leagues/stats.ctp:27
-#: /views/leagues/csv/participation.ctp:4
-#: /views/settings/team.ctp:3
-#: /views/team_events/attendance_change.ctp:10
-#: /views/team_events/view.ctp:11
-#: /views/teams/add_from_event.ctp:2
-#: /views/teams/add_from_team.ctp:2
-#: /views/teams/add_player.ctp:4
-#: /views/teams/emails.ctp:2
-#: /views/teams/move.ctp:2
-#: /views/teams/spirit.ctp:2
-#: /views/teams/stat_sheet.ctp:14
-#: /views/teams/statistics.ctp:78;115;147;179;212;247;279
-#: /views/teams/tooltip.ctp:30
-msgid "Team"
-msgstr ""
-
 #: /controllers/teams_controller.php:1411
 msgid "Cannot move a team to a different league"
 msgstr ""
@@ -2669,7 +3957,7 @@ msgid "You are not allowed to invite someone to that role."
 msgstr ""
 
 #: /controllers/teams_controller.php:2823
-msgid "team ccoaches/aptains."
+msgid "team coaches/captains."
 msgstr ""
 
 #: /controllers/teams_controller.php:1913
@@ -3089,6 +4377,10 @@ msgstr ""
 msgid "set of randomly scheduled games for all teams in a division (%d teams, %d games, one day)"
 msgstr ""
 
+#: /controllers/components/league_type_ratings_ladder.php:16
+msgid "Adjust ratings"
+msgstr ""
+
 #: /controllers/components/league_type_ratings_ladder.php:40
 #: /views/leagues/summary.ctp:74
 msgid "Games Before Repeat"
@@ -3500,14 +4792,6 @@ msgstr ""
 msgid "You do not have permission to act as that person."
 msgstr ""
 
-#: /views/all/splash.ctp:2
-#: /views/divisions/slots.ctp:44
-#: /views/games/ratings_table.ctp:38
-#: /views/leagues/slots.ctp:48
-#: /views/schedules/day.ctp:48
-msgid "Home"
-msgstr ""
-
 #: /models/game.php:270
 msgid "Winner of game %s"
 msgstr ""
@@ -3788,17 +5072,6 @@ msgstr ""
 msgid "Invalid TinyMCE configuration preset %s"
 msgstr ""
 
-#: /views/affiliates/add_manager.ctp:4
-#: /views/affiliates/edit.ctp:2
-#: /views/affiliates/index.ctp:2;7
-#: /views/affiliates/select.ctp:2
-#: /views/affiliates/view.ctp:2
-#: /views/people/add_relative.ctp:72
-#: /views/people/edit.ctp:257
-#: /views/users/create_account.ctp:167
-msgid "Affiliates"
-msgstr ""
-
 #: /views/affiliates/add_manager.ctp:6
 #: /views/affiliates/index.ctp:52;52
 #: /views/affiliates/view.ctp:73;73
@@ -3869,135 +5142,6 @@ msgstr ""
 msgid "Create"
 msgstr ""
 
-#: /views/affiliates/edit.ctp:7
-#: /views/affiliates/index.ctp:49;49
-#: /views/affiliates/view.ctp:47;47;70;76
-#: /views/badges/edit.ctp:7
-#: /views/badges/index.ctp:71;71
-#: /views/badges/view.ctp:123
-#: /views/categories/edit.ctp:7
-#: /views/categories/index.ctp:42;42
-#: /views/categories/view.ctp:51;51;73
-#: /views/contacts/edit.ctp:7
-#: /views/divisions/edit.ctp:11
-#: /views/elements/all/kickstart.ctp:39;39;98
-#: /views/elements/divisions/actions.ctp:61
-#: /views/elements/help/people/skill_level.ctp:3
-#: /views/elements/leagues/actions.ctp:55
-#: /views/elements/people/search_results.ctp:65
-#: /views/elements/questionnaires/edit_question.ctp:27
-#: /views/events/edit.ctp:7
-#: /views/events/index.ctp:77;166;166;212;212;273;273
-#: /views/events/view.ctp:258;258;349;349
-#: /views/facilities/edit.ctp:7
-#: /views/facilities/index.ctp:155;155
-#: /views/facilities/view.ctp:222;222
-#: /views/fields/bookings.ctp:77
-#: /views/fields/edit.ctp:7
-#: /views/franchises/edit.ctp:7
-#: /views/game_slots/edit.ctp:3
-#: /views/games/edit.ctp:4
-#: /views/games/note.ctp:8
-#: /views/games/view.ctp:518
-#: /views/helpers/zuluru_game.php:181;181
-#: /views/holidays/edit.ctp:7
-#: /views/holidays/index.ctp:26
-#: /views/leagues/edit.ctp:7
-#: /views/leagues/index.ctp:61
-#: /views/mailing_lists/edit.ctp:7
-#: /views/mailing_lists/index.ctp:31;31
-#: /views/mailing_lists/view.ctp:35;35;76;76
-#: /views/newsletters/delivery.ctp:48;48
-#: /views/newsletters/edit.ctp:7
-#: /views/newsletters/index.ctp:47;47
-#: /views/newsletters/view.ctp:40;40
-#: /views/people/edit.ctp:5
-#: /views/people/index.ctp:79;79
-#: /views/people/list_new.ctp:18;18
-#: /views/people/note.ctp:8
-#: /views/people/registrations.ctp:108;112
-#: /views/people/view.ctp:654;658;783
-#: /views/prices/edit.ctp:8
-#: /views/questionnaires/edit.ctp:7
-#: /views/questionnaires/index.ctp:37
-#: /views/questionnaires/view.ctp:57
-#: /views/questions/edit.ctp:3
-#: /views/questions/index.ctp:41
-#: /views/questions/view.ctp:46
-#: /views/regions/edit.ctp:7
-#: /views/regions/index.ctp:42;42
-#: /views/regions/view.ctp:53;53;76
-#: /views/registrations/checkout.ctp:138
-#: /views/registrations/edit.ctp:5
-#: /views/registrations/unpaid.ctp:47
-#: /views/registrations/view.ctp:246
-#: /views/registrations/waiting.ctp:30
-#: /views/task_slots/edit.ctp:3
-#: /views/task_slots/view.ctp:51
-#: /views/tasks/edit.ctp:7
-#: /views/tasks/index.ctp:43;43
-#: /views/tasks/view.ctp:101;101;133
-#: /views/team_events/edit.ctp:8
-#: /views/teams/edit.ctp:7
-#: /views/teams/note.ctp:8
-#: /views/teams/tooltip.ctp:64
-#: /views/upload_types/edit.ctp:7
-#: /views/upload_types/index.ctp:27
-#: /views/upload_types/view.ctp:48
-#: /views/waivers/edit.ctp:7
-#: /views/waivers/index.ctp:71;71
-#: /views/waivers/view.ctp:84;87
-msgid "Edit"
-msgstr ""
-
-#: /views/affiliates/edit.ctp:14
-#: /views/badges/edit.ctp:14
-#: /views/categories/edit.ctp:14
-#: /views/events/edit.ctp:15
-#: /views/facilities/edit.ctp:15
-#: /views/fields/edit.ctp:14
-#: /views/holidays/edit.ctp:14
-#: /views/mailing_lists/edit.ctp:14
-#: /views/newsletters/edit.ctp:14
-#: /views/prices/edit.ctp:15
-#: /views/questionnaires/edit.ctp:14
-#: /views/regions/edit.ctp:14
-#: /views/tasks/edit.ctp:14
-#: /views/team_events/edit.ctp:15
-#: /views/upload_types/edit.ctp:14
-#: /views/waivers/edit.ctp:14
-msgid "Create %s"
-msgstr ""
-
-#: /views/affiliates/edit.ctp:14
-#: /views/badges/edit.ctp:14
-#: /views/categories/edit.ctp:14
-#: /views/events/edit.ctp:15
-#: /views/events/view.ctp:357
-#: /views/facilities/edit.ctp:15
-#: /views/facilities/view.ctp:180;181
-#: /views/fields/edit.ctp:14;51;52
-#: /views/fields/view.ctp:153;154
-#: /views/game_slots/edit.ctp:9
-#: /views/game_slots/view.ctp:61
-#: /views/holidays/edit.ctp:14
-#: /views/mailing_lists/edit.ctp:14
-#: /views/newsletters/edit.ctp:14
-#: /views/prices/edit.ctp:15
-#: /views/questionnaires/edit.ctp:14
-#: /views/questionnaires/view.ctp:27
-#: /views/questions/edit.ctp:9
-#: /views/questions/view.ctp:21
-#: /views/regions/edit.ctp:14
-#: /views/registrations/edit.ctp:9
-#: /views/task_slots/edit.ctp:9
-#: /views/tasks/edit.ctp:14
-#: /views/team_events/edit.ctp:15
-#: /views/upload_types/edit.ctp:14
-#: /views/waivers/edit.ctp:14
-msgid "Edit %s"
-msgstr ""
-
 #: /views/affiliates/edit.ctp:25
 #: /views/affiliates/select.ctp:12
 #: /views/badges/edit.ctp:60
@@ -4010,6 +5154,7 @@ msgstr ""
 #: /views/elements/leagues/schedule/week_edit.ctp:322
 #: /views/events/connections.ctp:80
 #: /views/events/edit.ctp:156
+#: /views/extensions/handle_chase_error.ctp:23
 #: /views/facilities/edit.ctp:87
 #: /views/fields/edit.ctp:46
 #: /views/franchises/edit.ctp:36
@@ -4078,68 +5223,6 @@ msgstr ""
 #: /views/affiliates/edit.ctp:29
 #: /views/affiliates/view.ctp:66
 msgid "List Affiliates"
-msgstr ""
-
-#: /views/affiliates/edit.ctp:33
-#: /views/affiliates/index.ctp:55;55
-#: /views/badges/edit.ctp:68
-#: /views/badges/index.ctp:74;74
-#: /views/badges/view.ctp:72;126
-#: /views/categories/edit.ctp:39
-#: /views/categories/index.ctp:45;45
-#: /views/categories/view.ctp:54;54;76
-#: /views/contacts/index.ctp:55
-#: /views/elements/all/kickstart.ctp:45;45;104
-#: /views/elements/divisions/actions.ctp:126
-#: /views/elements/leagues/actions.ctp:74
-#: /views/elements/leagues/standings/tournament/bracket.ctp:14
-#: /views/elements/leagues/standings/tournament/pools.ctp:46
-#: /views/elements/people/search_results.ctp:66
-#: /views/elements/questions/edit_answer.ctp:22
-#: /views/elements/teams/actions.ctp:101
-#: /views/events/index.ctp:179;179;222;222;276;276
-#: /views/events/view.ctp:261;261;361;361;406
-#: /views/facilities/index.ctp:161;161
-#: /views/facilities/view.ctp:186;186;228;228
-#: /views/fields/bookings.ctp:79
-#: /views/fields/view.ctp:158;158
-#: /views/franchises/index.ctp:87
-#: /views/franchises/letter.ctp:85
-#: /views/franchises/view.ctp:65
-#: /views/games/view.ctp:519
-#: /views/holidays/edit.ctp:37
-#: /views/holidays/index.ctp:27
-#: /views/mailing_lists/edit.ctp:47
-#: /views/mailing_lists/index.ctp:37
-#: /views/mailing_lists/view.ctp:41;83
-#: /views/newsletters/delivery.ctp:51
-#: /views/newsletters/edit.ctp:75
-#: /views/newsletters/index.ctp:54
-#: /views/newsletters/view.ctp:43
-#: /views/people/approve_badges.ctp:46
-#: /views/people/approve_documents.ctp:24
-#: /views/people/approve_photos.ctp:19
-#: /views/people/index.ctp:83;83
-#: /views/people/list_new.ctp:24;24
-#: /views/people/view.ctp:582;612;788
-#: /views/preregistrations/index.ctp:61
-#: /views/questionnaires/index.ctp:38
-#: /views/questionnaires/view.ctp:58
-#: /views/questions/index.ctp:42
-#: /views/regions/edit.ctp:37
-#: /views/regions/index.ctp:45;45
-#: /views/regions/view.ctp:56;56;79
-#: /views/task_slots/edit.ctp:23
-#: /views/task_slots/view.ctp:54
-#: /views/tasks/edit.ctp:49
-#: /views/tasks/index.ctp:46;46
-#: /views/tasks/view.ctp:104;104;136
-#: /views/teams/tooltip.ctp:63
-#: /views/upload_types/index.ctp:28
-#: /views/upload_types/view.ctp:52
-#: /views/waivers/edit.ctp:98
-#: /views/waivers/index.ctp:74;74
-msgid "Delete"
 msgstr ""
 
 #: /views/affiliates/edit.ctp:33
@@ -4217,35 +5300,6 @@ msgstr ""
 #: /views/regions/edit.ctp:41;41
 #: /views/tasks/edit.ctp:53;53
 msgid "New"
-msgstr ""
-
-#: /views/affiliates/index.ctp:3
-#: /views/affiliates/view.ctp:66
-#: /views/badges/index.ctp:3
-#: /views/categories/index.ctp:3
-#: /views/categories/view.ctp:70
-#: /views/contacts/index.ctp:3
-#: /views/events/index.ctp:3
-#: /views/facilities/index.ctp:3
-#: /views/franchises/index.ctp:3
-#: /views/groups/index.ctp:3
-#: /views/holidays/index.ctp:3
-#: /views/leagues/index.ctp:3
-#: /views/mailing_lists/index.ctp:3
-#: /views/newsletters/index.ctp:3
-#: /views/people/index.ctp:3
-#: /views/preregistrations/index.ctp:3
-#: /views/questionnaires/index.ctp:3
-#: /views/questions/index.ctp:3
-#: /views/regions/index.ctp:3
-#: /views/registrations/full_list.ctp:6
-#: /views/tasks/index.ctp:3
-#: /views/tasks/view.ctp:130
-#: /views/teams/index.ctp:3
-#: /views/upload_types/index.ctp:3
-#: /views/waivers/index.ctp:3
-#: /views/waivers/view.ctp:80
-msgid "List"
 msgstr ""
 
 #: /views/affiliates/index.ctp:10
@@ -4407,85 +5461,6 @@ msgstr ""
 #: /views/waivers/index.ctp:42
 #: /views/waivers/view.ctp:41
 msgid "No"
-msgstr ""
-
-#: /views/affiliates/index.ctp:37
-#: /views/people/approve.ctp:282
-#: /views/people/statistics.ctp:86
-#: /views/people/view.ctp:284
-msgid "None"
-msgstr ""
-
-#: /views/affiliates/index.ctp:45;45
-#: /views/affiliates/view.ctp:4;43;43
-#: /views/badges/index.ctp:67;67
-#: /views/badges/view.ctp:4
-#: /views/categories/index.ctp:39;39
-#: /views/categories/view.ctp:4;48;48
-#: /views/divisions/slots.ctp:20
-#: /views/divisions/view.ctp:4
-#: /views/elements/all/kickstart.ctp:95
-#: /views/elements/events/list.ctp:82;82;98;98;132;132
-#: /views/elements/people/search_results.ctp:47
-#: /views/elements/teams/actions.ctp:23;23
-#: /views/events/index.ctp:159;159;205;205;266;266
-#: /views/events/view.ctp:4
-#: /views/facilities/view.ctp:4
-#: /views/fields/view.ctp:4
-#: /views/franchises/view.ctp:4
-#: /views/game_slots/view.ctp:3
-#: /views/games/view.ctp:4
-#: /views/leagues/slots.ctp:20
-#: /views/leagues/view.ctp:4
-#: /views/mailing_lists/index.ctp:28;28
-#: /views/mailing_lists/view.ctp:4
-#: /views/people/approve_documents.ctp:16
-#: /views/people/index.ctp:76;76
-#: /views/people/list_new.ctp:15;15
-#: /views/people/registrations.ctp:107
-#: /views/people/view.ctp:4;653;780
-#: /views/questionnaires/view.ctp:4;56
-#: /views/questions/view.ctp:3
-#: /views/regions/index.ctp:39;39
-#: /views/regions/view.ctp:4;50;50
-#: /views/registrations/unpaid.ctp:45
-#: /views/registrations/view.ctp:5
-#: /views/task_slots/view.ctp:3
-#: /views/tasks/index.ctp:39;39
-#: /views/tasks/view.ctp:4;98;98
-#: /views/team_events/view.ctp:5
-#: /views/teams/schedule.ctp:128;130
-#: /views/teams/view.ctp:4
-#: /views/themed/wfdfu23/teams/view.ctp:4
-#: /views/upload_types/index.ctp:26
-#: /views/upload_types/view.ctp:4;46
-#: /views/waivers/index.ctp:68;68
-#: /views/waivers/view.ctp:4
-msgid "View"
-msgstr ""
-
-#: /views/affiliates/index.ctp:70
-#: /views/badges/index.ctp:126
-#: /views/badges/view.ctp:130
-#: /views/categories/index.ctp:59
-#: /views/categories/view.ctp:80
-#: /views/games/note.ctp:6
-#: /views/people/note.ctp:6
-#: /views/preregistrations/add.ctp:3
-#: /views/preregistrations/add_to_event.ctp:5
-#: /views/questions/add.ctp:3
-#: /views/regions/index.ctp:58
-#: /views/regions/view.ctp:83
-#: /views/registrations/add_payment.ctp:5;9
-#: /views/tasks/index.ctp:64
-#: /views/tasks/view.ctp:143
-#: /views/teams/add_from_event.ctp:31
-#: /views/teams/note.ctp:6
-#: /views/teams/schedule.ctp:146
-#: /views/teams/tooltip.ctp:66
-#: /views/waivers/index.ctp:87
-#: /views/waivers/view.ctp:91
-msgid "Add"
 msgstr ""
 
 #: /views/affiliates/index.ctp:70
@@ -4681,18 +5656,6 @@ msgstr ""
 msgid "Failed to deactivate %s '%s'."
 msgstr ""
 
-#: /views/badges/edit.ctp:2;64
-#: /views/badges/index.ctp:2;7
-#: /views/badges/view.ctp:2
-#: /views/people/nominate.ctp:2
-#: /views/people/nominate_badge.ctp:4
-#: /views/people/nominate_badge_reason.ctp:2
-#: /views/people/view.ctp:527
-#: /views/teams/view.ctp:262
-#: /views/themed/wfdfu23/teams/view.ctp:262
-msgid "Badges"
-msgstr ""
-
 #: /views/badges/edit.ctp:21
 msgid "The full name of the badge, to be used as title text on the icon."
 msgstr ""
@@ -4816,14 +5779,6 @@ msgstr ""
 
 #: /views/badges/index.ctp:111
 #: /views/badges/view.ctp:108
-#: /views/people/nominate.ctp:3
-#: /views/people/nominate_badge.ctp:8
-#: /views/people/nominate_badge_reason.ctp:6
-msgid "Nominate"
-msgstr ""
-
-#: /views/badges/index.ctp:111
-#: /views/badges/view.ctp:108
 msgid "Nominate for this Badge"
 msgstr ""
 
@@ -4915,12 +5870,6 @@ msgstr ""
 msgid "If you want to add a comment to the badge holder about why the badge is being removed, do so here."
 msgstr ""
 
-#: /views/categories/edit.ctp:2;35
-#: /views/categories/index.ctp:2;7
-#: /views/categories/view.ctp:2
-msgid "Categories"
-msgstr ""
-
 #: /views/categories/edit.ctp:39
 #: /views/categories/view.ctp:76
 msgid "Delete Category"
@@ -4951,14 +5900,6 @@ msgstr ""
 msgid "Edit Category"
 msgstr ""
 
-#: /views/contacts/edit.ctp:2
-#: /views/contacts/index.ctp:2
-#: /views/contacts/message.ctp:2
-#: /views/people/tooltip.ctp:89
-#: /views/people/view.ctp:352
-msgid "Contacts"
-msgstr ""
-
 #: /views/contacts/edit.ctp:14
 msgid "Contact Details"
 msgstr ""
@@ -4977,15 +5918,6 @@ msgstr ""
 
 #: /views/contacts/index.ctp:9
 msgid "There are no contacts in the system."
-msgstr ""
-
-#: /views/contacts/index.ctp:20
-#: /views/people/edit.ctp:275
-#: /views/people/index.ctp:31
-#: /views/settings/email.ctp:3
-#: /views/tasks/csv/index.ctp:12
-#: /views/users/reset_password.ctp:15
-msgid "Email"
 msgstr ""
 
 #: /views/contacts/index.ctp:52;52
@@ -5050,10 +5982,6 @@ msgstr ""
 #: /views/divisions/add_coordinator.ctp:6
 #: /views/elements/divisions/actions.ctp:108;108
 msgid "Add Coordinator"
-msgstr ""
-
-#: /views/divisions/add_coordinator.ctp:10
-msgid "Coordinator"
 msgstr ""
 
 #: /views/divisions/add_coordinator.ctp:14
@@ -5266,14 +6194,6 @@ msgstr ""
 msgid "Allows coordinators to schedule multiple games in a single game slot."
 msgstr ""
 
-#: /views/divisions/edit.ctp:182
-#: /views/games/edit.ctp:126
-#: /views/games/view.ctp:198
-#: /views/leagues/edit.ctp:231
-#: /views/settings/scoring.ctp:3
-msgid "Scoring"
-msgstr ""
-
 #: /views/divisions/edit.ctp:189
 #: /views/leagues/edit.ctp:279
 msgid "What type of ratings calculation to use."
@@ -5423,18 +6343,6 @@ msgstr ""
 msgid "Reset"
 msgstr ""
 
-#: /views/divisions/schedule.ctp:4
-#: /views/divisions/tooltip.ctp:38
-#: /views/elements/divisions/actions.ctp:40;40
-#: /views/elements/leagues/actions.ctp:36;36
-#: /views/elements/teams/actions.ctp:30;30
-#: /views/leagues/schedule.ctp:4
-#: /views/leagues/tooltip.ctp:30;43
-#: /views/teams/schedule.ctp:4
-#: /views/teams/tooltip.ctp:34;53
-msgid "Schedule"
-msgstr ""
-
 #: /views/divisions/schedule.ctp:18
 msgid "Division Schedule"
 msgstr ""
@@ -5494,10 +6402,6 @@ msgstr ""
 #: /views/schedules/day.ctp:50
 #: /views/teams/schedule.ctp:23
 msgid "Score"
-msgstr ""
-
-#: /views/divisions/scores.ctp:4
-msgid "Scores"
 msgstr ""
 
 #: /views/divisions/scores.ctp:8
@@ -5605,10 +6509,6 @@ msgstr ""
 msgid "There are %s %s available for use, currently %s of these are unused."
 msgstr ""
 
-#: /views/divisions/spirit.ctp:4;8
-msgid "Spirit Report"
-msgstr ""
-
 #: /views/divisions/spirit.ctp:95
 msgid "Team Spirit Summary"
 msgstr ""
@@ -5694,17 +6594,6 @@ msgstr ""
 msgid "Incident for entry above:"
 msgstr ""
 
-#: /views/divisions/standings.ctp:4
-#: /views/divisions/tooltip.ctp:40
-#: /views/elements/divisions/actions.ctp:45;45
-#: /views/elements/leagues/actions.ctp:41;41
-#: /views/elements/teams/actions.ctp:35;35
-#: /views/leagues/standings.ctp:4
-#: /views/leagues/tooltip.ctp:32;45
-#: /views/teams/tooltip.ctp:36;55
-msgid "Standings"
-msgstr ""
-
 #: /views/divisions/standings.ctp:11
 msgid "Division Standings"
 msgstr ""
@@ -5718,17 +6607,6 @@ msgstr ""
 #: /views/elements/help/schedules/add/tournament/schedule_type.ctp:10
 #: /views/leagues/standings.ctp:68
 msgid "Playoff brackets"
-msgstr ""
-
-#: /views/divisions/stats.ctp:4
-#: /views/elements/divisions/actions.ctp:51;51
-#: /views/elements/leagues/actions.ctp:47;47
-#: /views/elements/teams/actions.ctp:41
-#: /views/games/stats.ctp:7
-#: /views/leagues/stats.ctp:4
-#: /views/teams/stats.ctp:4
-#: /views/teams/tooltip.ctp:39
-msgid "Stats"
 msgstr ""
 
 #: /views/divisions/stats.ctp:26
@@ -5756,38 +6634,6 @@ msgstr ""
 #: /views/fields/view.ctp:69
 #: /views/people/statistics.ctp:15
 msgid "Status"
-msgstr ""
-
-#: /views/divisions/tooltip.ctp:22
-#: /views/elements/divisions/details.ctp:2
-#: /views/elements/help/index.ctp:10
-#: /views/leagues/tooltip.ctp:13
-msgid "Coordinators"
-msgstr ""
-
-#: /views/divisions/tooltip.ctp:25
-#: /views/elements/help/index.ctp:37
-#: /views/elements/teams/splash.ctp:8
-#: /views/leagues/tooltip.ctp:16
-#: /views/people/view.ctp:424
-#: /views/teams/attendance.ctp:2
-#: /views/teams/edit.ctp:2
-#: /views/teams/index.ctp:2
-#: /views/teams/join.ctp:2
-#: /views/teams/letter.ctp:2
-#: /views/teams/note.ctp:2
-#: /views/teams/numbers.ctp:2
-#: /views/teams/roster_add.ctp:4
-#: /views/teams/roster_position.ctp:2
-#: /views/teams/roster_request.ctp:2
-#: /views/teams/roster_role.ctp:2
-#: /views/teams/schedule.ctp:2
-#: /views/teams/statistics.ctp:2;16
-#: /views/teams/stats.ctp:2
-#: /views/teams/unassigned.ctp:2
-#: /views/teams/view.ctp:2
-#: /views/themed/wfdfu23/teams/view.ctp:2
-msgid "Teams"
 msgstr ""
 
 #: /views/divisions/tooltip.ctp:10
@@ -5852,17 +6698,6 @@ msgstr ""
 
 #: /views/divisions/csv/spirit.ctp:8
 msgid "Opp Score"
-msgstr ""
-
-#: /views/divisions/csv/spirit.ctp:11
-#: /views/elements/divisions/actions.ctp:89
-#: /views/elements/leagues/standings/competition/heading.ctp:5
-#: /views/elements/leagues/standings/ladder/heading.ctp:8
-#: /views/elements/leagues/standings/rounds/heading.ctp:10
-#: /views/elements/teams/actions.ctp:89
-#: /views/teams/schedule.ctp:25
-#: /views/teams/spirit.ctp:3
-msgid "Spirit"
 msgstr ""
 
 #: /views/divisions/csv/spirit.ctp:14
@@ -5982,22 +6817,6 @@ msgstr ""
 msgid "Initialize Ratings"
 msgstr ""
 
-#: /views/elements/divisions/actions.ctp:78;78
-msgid "Approve scores"
-msgstr ""
-
-#: /views/elements/divisions/actions.ctp:84;84
-#: /views/schedules/confirm.ctp:4
-#: /views/schedules/crossover.ctp:4
-#: /views/schedules/date.ctp:4
-#: /views/schedules/details.ctp:4
-#: /views/schedules/exclude.ctp:4
-#: /views/schedules/pools.ctp:4
-#: /views/schedules/reseed.ctp:4
-#: /views/schedules/type.ctp:4
-msgid "Add Games"
-msgstr ""
-
 #: /views/elements/divisions/actions.ctp:89
 msgid "See Division Spirit Report"
 msgstr ""
@@ -6104,30 +6923,6 @@ msgstr ""
 
 #: /views/elements/divisions/register.ctp:3
 msgid "Register to play in this division:"
-msgstr ""
-
-#: /views/elements/divisions/register.ctp:6
-#: /views/elements/events/list.ctp:14
-#: /views/elements/help/index.ctp:19;32
-#: /views/elements/help/guide/administrator/registration.ctp:26;35
-#: /views/events/index.ctp:51
-#: /views/events/view.ctp:2;306;367;371;373
-#: /views/registrations/add_payment.ctp:2
-#: /views/registrations/checkout.ctp:2
-#: /views/registrations/credit_payment.ctp:2
-#: /views/registrations/edit.ctp:2;9
-#: /views/registrations/full_list.ctp:91;92
-#: /views/registrations/redeem.ctp:2
-#: /views/registrations/refund_payment.ctp:2
-#: /views/registrations/register.ctp:2
-#: /views/registrations/report.ctp:145
-#: /views/registrations/summary.ctp:40;41
-#: /views/registrations/transfer_payment.ctp:2
-#: /views/registrations/unpaid.ctp:11
-#: /views/registrations/view.ctp:20
-#: /views/registrations/waiting.ctp:12
-#: /views/settings/registration.ctp:3
-msgid "Registration"
 msgstr ""
 
 #: /views/elements/divisions/register.ctp:7
@@ -6320,19 +7115,6 @@ msgid "home"
 msgstr ""
 
 #: /views/elements/games/consolidated_schedule.ctp:40;53
-#: /views/elements/games/splash.ctp:89;148
-#: /views/elements/games/stats_entry.ctp:14
-#: /views/elements/teams/actions.ctp:56
-#: /views/games/attendance.ctp:3;9;87
-#: /views/games/cron.ctp:34
-#: /views/games/view.ctp:142
-#: /views/team_events/view.ctp:118
-#: /views/teams/edit.ctp:47
-#: /views/teams/schedule.ctp:28
-msgid "Attendance"
-msgstr ""
-
-#: /views/elements/games/consolidated_schedule.ctp:40;53
 #: /views/elements/games/splash.ctp:89
 #: /views/games/view.ctp:142
 msgid "View Game Attendance Report"
@@ -6489,15 +7271,6 @@ msgstr ""
 msgid "Advanced Users"
 msgstr ""
 
-#: /views/elements/help/index.ctp:8
-#: /views/teams/tooltip.ctp:26
-msgid "Coaches/Captains"
-msgstr ""
-
-#: /views/elements/help/index.ctp:13
-msgid "Administrators"
-msgstr ""
-
 #: /views/elements/help/index.ctp:15
 msgid "Site Setup and Configuration"
 msgstr ""
@@ -6514,37 +7287,6 @@ msgstr ""
 msgid "%s Management"
 msgstr ""
 
-#: /views/elements/help/index.ctp:27
-#: /views/people/act_as.ctp:2
-#: /views/people/add_relative.ctp:2
-#: /views/people/approve.ctp:2
-#: /views/people/approve_badges.ctp:2
-#: /views/people/approve_document.ctp:2
-#: /views/people/approve_documents.ctp:2
-#: /views/people/approve_photos.ctp:2
-#: /views/people/credits.ctp:2
-#: /views/people/document_upload.ctp:2
-#: /views/people/edit.ctp:3
-#: /views/people/inactive_search.ctp:4;9
-#: /views/people/index.ctp:2;11
-#: /views/people/league_search.ctp:4;9
-#: /views/people/link_relative.ctp:4
-#: /views/people/list_new.ctp:2
-#: /views/people/note.ctp:2
-#: /views/people/participation.ctp:2
-#: /views/people/photo_resize.ctp:2
-#: /views/people/photo_upload.ctp:2
-#: /views/people/registrations.ctp:4
-#: /views/people/retention.ctp:2
-#: /views/people/rule_search.ctp:4;9
-#: /views/people/search.ctp:4;9
-#: /views/people/statistics.ctp:2;16
-#: /views/people/teams.ctp:2
-#: /views/people/view.ctp:2
-#: /views/people/waivers.ctp:2
-msgid "People"
-msgstr ""
-
 #: /views/elements/help/index.ctp:30
 #: /views/elements/help/guide/administrator/registration.ctp:8
 #: /views/events/edit.ctp:2
@@ -6552,30 +7294,8 @@ msgstr ""
 msgid "Events"
 msgstr ""
 
-#: /views/elements/help/index.ctp:35
-#: /views/elements/help/guide/administrator/registration.ctp:16
-#: /views/people/view.ctp:712
-#: /views/waivers/edit.ctp:2
-#: /views/waivers/index.ctp:2;7
-#: /views/waivers/view.ctp:2
-msgid "Waivers"
-msgstr ""
-
 #: /views/elements/help/index.ctp:40
 msgid "Schedules"
-msgstr ""
-
-#: /views/elements/help/index.ctp:41
-#: /views/elements/help/guide/administrator/leagues.ctp:12
-#: /views/leagues/edit.ctp:2
-#: /views/leagues/index.ctp:2;10
-#: /views/leagues/participation.ctp:2
-#: /views/leagues/schedule.ctp:2
-#: /views/leagues/slots.ctp:4
-#: /views/leagues/standings.ctp:2
-#: /views/leagues/summary.ctp:2
-#: /views/leagues/view.ctp:2
-msgid "Leagues"
 msgstr ""
 
 #: /views/elements/help/index.ctp:42;47
@@ -6595,12 +7315,6 @@ msgstr ""
 
 #: /views/elements/help/index.ctp:49
 msgid "Rules Engine"
-msgstr ""
-
-#: /views/elements/help/index.ctp:50
-#: /views/elements/help/guide/administrator/players.ctp:44
-#: /views/elements/help/guide/administrator/registration.ctp:5;35
-msgid "Configuration"
 msgstr ""
 
 #: /views/elements/help/divisions/add_teams.ctp:1
@@ -7062,7 +7776,7 @@ msgid "By default, this system formats 8PM as %s, and today as either %s or %s (
 msgstr ""
 
 #: /views/elements/help/games/date_time_format.ctp:8
-#: /views/elements/people/ical_links.ctp:15
+#: /views/elements/people/ical_links.ctp:16
 msgid "Edit your preferences"
 msgstr ""
 
@@ -7294,13 +8008,6 @@ msgstr ""
 
 #: /views/elements/help/guide/administrator/fields.ctp:3
 msgid "%s management is fairly straight-forward. %s are handled in a hierarchical structure."
-msgstr ""
-
-#: /views/elements/help/guide/administrator/fields.ctp:7
-#: /views/regions/edit.ctp:2;33
-#: /views/regions/index.ctp:2;7
-#: /views/regions/view.ctp:2
-msgid "Regions"
 msgstr ""
 
 #: /views/elements/help/guide/administrator/fields.ctp:9
@@ -7577,25 +8284,6 @@ msgstr ""
 msgid "People have the option of uploading a photo to the site. Before being made public, photos may need to be approved by an administrator, depending on the \"Approve photos\" setting under %s -> %s -> %s."
 msgstr ""
 
-#: /views/elements/help/guide/administrator/players.ctp:44
-#: /views/elements/help/guide/administrator/registration.ctp:5;35
-#: /views/settings/email.ctp:2
-#: /views/settings/feature.ctp:2
-#: /views/settings/organization.ctp:2
-#: /views/settings/payment.ctp:2
-#: /views/settings/profile.ctp:2
-#: /views/settings/registration.ctp:2
-#: /views/settings/scoring.ctp:2
-#: /views/settings/team.ctp:2
-#: /views/settings/user.ctp:2
-msgid "Settings"
-msgstr ""
-
-#: /views/elements/help/guide/administrator/players.ctp:44
-#: /views/settings/user.ctp:3
-msgid "User"
-msgstr ""
-
 #: /views/elements/help/guide/administrator/players.ctp:45
 msgid "If there are new photos to be approved, there will be an \"approve new photos\" option under the People menu. Selecting this will give you a list of the new photos, with options to approve or delete each."
 msgstr ""
@@ -7614,10 +8302,6 @@ msgstr ""
 
 #: /views/elements/help/guide/administrator/registration.ctp:3
 msgid "Registration is an optional feature of %s. It can be disabled completely through the %s page. If it is disabled, you will be responsible for manually managing and tracking all registrations and payments, so even if you are not doing online payments, using the registration system will typically save you time and reduce problems. This guide will help you understand how to use the registration system to best effect."
-msgstr ""
-
-#: /views/elements/help/guide/administrator/registration.ctp:5
-msgid "Features"
 msgstr ""
 
 #: /views/elements/help/guide/administrator/registration.ctp:9
@@ -7644,14 +8328,6 @@ msgstr ""
 msgid "You will typically want everyone to accept a waiver of liability before participating in games that you offer. You can optionally require that the user accept a click-through waiver before registering or joining a team by using the %s rule."
 msgstr ""
 
-#: /views/elements/help/guide/administrator/registration.ctp:19
-#: /views/questionnaires/edit.ctp:44
-#: /views/questionnaires/index.ctp:2
-#: /views/questionnaires/view.ctp:29
-#: /views/questions/view.ctp:25
-msgid "Questionnaires"
-msgstr ""
-
 #: /views/elements/help/guide/administrator/registration.ctp:20
 msgid "If desired, you can define a questionnaire that will be used during registration. Questionnaires are built from a set of questions that you also define. Questions can be multiple-choice, groups of checkboxes, or allow text entry. Each question can require a response or be optional. Many questionnaires might use the same question, and many events might use the same questionnaire; you do not need to create a new copy of an existing questionnaire for every new event."
 msgstr ""
@@ -7674,13 +8350,6 @@ msgstr ""
 
 #: /views/elements/help/guide/administrator/registration.ctp:25
 msgid "Once a registration event has opened, people will (hopefully!) start registering for it. You can access summaries and details of these registrations, including questionnaire answers, through the %s page, or the %s."
-msgstr ""
-
-#: /views/elements/help/guide/administrator/registration.ctp:26
-#: /views/people/statistics.ctp:3
-#: /views/registrations/statistics.ctp:3
-#: /views/teams/statistics.ctp:3
-msgid "Statistics"
 msgstr ""
 
 #: /views/elements/help/guide/administrator/registration.ctp:27
@@ -7849,24 +8518,12 @@ msgid "The %s page will allow you to upload a photo of yourself, further persona
 msgstr ""
 
 #: /views/elements/help/people/photo_upload.ctp:3
-#: /views/elements/help/people/preferences.ctp:3
-#: /views/elements/help/people/skill_level.ctp:3
-msgid "My Profile"
-msgstr ""
-
-#: /views/elements/help/people/photo_upload.ctp:3
 #: /views/people/photo_upload.ctp:4;8
 msgid "Upload Photo"
 msgstr ""
 
 #: /views/elements/help/people/preferences.ctp:2
 msgid "On the %s page, you can set a number of options which change the way the site works for you."
-msgstr ""
-
-#: /views/elements/help/people/preferences.ctp:3
-#: /views/people/preferences.ctp:2;9
-#: /views/registrations/register.ctp:4
-msgid "Preferences"
 msgstr ""
 
 #: /views/elements/help/people/searching.ctp:1
@@ -8774,11 +9431,6 @@ msgstr ""
 msgid "Delete League"
 msgstr ""
 
-#: /views/elements/leagues/actions.ctp:78
-#: /views/leagues/participation.ctp:4;8;50
-msgid "Participation"
-msgstr ""
-
 #: /views/elements/leagues/stat_fields.ctp:8
 msgid "Stats to enter"
 msgstr ""
@@ -9314,15 +9966,11 @@ msgid "If you want to add a comment to the player, do so here."
 msgstr ""
 
 #: /views/elements/people/ical_links.ctp:4
-msgid "Get your personal schedule in "
+msgid "Get your personal schedule in %s format or %s."
 msgstr ""
 
-#: /views/elements/people/ical_links.ctp:9
-msgid " format or "
-msgstr ""
-
-#: /views/elements/people/ical_links.ctp:16
-msgid " to enable your personal iCal feed"
+#: /views/elements/people/ical_links.ctp:15
+msgid "%s to enable your personal iCal feed"
 msgstr ""
 
 #: /views/elements/people/number.ctp:7;7
@@ -9374,13 +10022,6 @@ msgstr ""
 msgid "The calculated value will be entered on the %s profile editing form."
 msgstr ""
 
-#: /views/elements/people/rating.ctp:22
-#: /views/questionnaires/edit.ctp:34
-#: /views/questions/add.ctp:39
-#: /views/questions/index.ctp:2
-msgid "Questions"
-msgstr ""
-
 #: /views/elements/people/rating.ctp:43
 msgid "Calculate"
 msgstr ""
@@ -9423,14 +10064,6 @@ msgstr ""
 msgid "Enter first and/or last name of person to search for and click 'submit'. You may use '*' as a wildcard."
 msgstr ""
 
-#: /views/elements/people/search_form.ctp:30
-#: /views/people/inactive_search.ctp:27
-#: /views/people/league_search.ctp:33
-#: /views/people/rule_search.ctp:31
-#: /views/people/search.ctp:5
-msgid "Search"
-msgstr ""
-
 #: /views/elements/people/search_results.ctp:50
 #: /views/people/tooltip.ctp:51
 #: /views/people/view.ctp:324
@@ -9449,11 +10082,6 @@ msgstr ""
 #: /views/people/tooltip.ctp:68
 #: /views/people/view.ctp:329
 msgid "Edit Note"
-msgstr ""
-
-#: /views/elements/people/search_results.ctp:105
-#: /views/people/index.ctp:106
-msgid "Download"
 msgstr ""
 
 #: /views/elements/people/skill_edit.ctp:32
@@ -9619,13 +10247,6 @@ msgstr ""
 #: /views/elements/team_events/ical.ctp:47
 #: /views/people/view.ctp:438
 msgid "on"
-msgstr ""
-
-#: /views/elements/tasks/splash.ctp:4
-#: /views/tasks/edit.ctp:2
-#: /views/tasks/index.ctp:2;7
-#: /views/tasks/view.ctp:2
-msgid "Tasks"
 msgstr ""
 
 #: /views/elements/tasks/splash.ctp:6
@@ -9946,14 +10567,6 @@ msgstr ""
 msgid "Download %s List"
 msgstr ""
 
-#: /views/events/view.ctp:379;387
-#: /views/people/view.ctp:594
-#: /views/preregistrations/add.ctp:2
-#: /views/preregistrations/add_to_event.ctp:4
-#: /views/preregistrations/index.ctp:2;14
-msgid "Preregistrations"
-msgstr ""
-
 #: /views/events/view.ctp:387
 #: /views/questionnaires/view.ctp:34
 #: /views/questions/view.ctp:25
@@ -9979,10 +10592,6 @@ msgid "Game Time"
 msgid_plural "Game Times"
 msgstr[0] ""
 msgstr[1] ""
-
-#: /views/events/wizard.ctp:3
-msgid "Wizard"
-msgstr ""
 
 #: /views/events/wizard.ctp:7
 msgid "Registration Wizard"
@@ -10076,6 +10685,10 @@ msgstr ""
 msgid "upcoming social events"
 msgstr ""
 
+#: /views/extensions/handle_chase_error.ctp:3;7
+msgid "Handle Chase Error Email"
+msgstr ""
+
 #: /views/facilities/close.ctp:10
 msgid "Failed to close facility '%s' or one of its %s."
 msgstr ""
@@ -10156,6 +10769,7 @@ msgstr ""
 #: /views/facilities/open.ctp:3
 #: /views/facilities/view.ctp:191
 #: /views/fields/open.ctp:3
+#: /views/helpers/zuluru_html.php:191
 #: /views/questionnaires/view.ctp:40
 msgid "Close"
 msgstr ""
@@ -10335,13 +10949,6 @@ msgstr ""
 msgid "Bookings "
 msgstr ""
 
-#: /views/franchises/add_owner.ctp:5;10
-#: /views/franchises/index.ctp:82
-#: /views/franchises/letter.ctp:80
-#: /views/franchises/view.ctp:60
-msgid "Add an Owner"
-msgstr ""
-
 #: /views/franchises/add_owner.ctp:18
 msgid "Make owner"
 msgstr ""
@@ -10364,15 +10971,6 @@ msgstr ""
 
 #: /views/franchises/add_team.ctp:27
 msgid "Add team"
-msgstr ""
-
-#: /views/franchises/edit.ctp:2
-#: /views/franchises/index.ctp:2
-#: /views/franchises/letter.ctp:2
-#: /views/franchises/view.ctp:2
-#: /views/teams/view.ctp:171
-#: /views/themed/wfdfu23/teams/view.ctp:171
-msgid "Franchises"
 msgstr ""
 
 #: /views/franchises/edit.ctp:14
@@ -10402,12 +11000,6 @@ msgstr ""
 #: /views/franchises/index.ctp:29
 #: /views/franchises/letter.ctp:27
 msgid "Owner(s)"
-msgstr ""
-
-#: /views/franchises/index.ctp:74;74
-#: /views/franchises/letter.ctp:72;72
-#: /views/franchises/view.ctp:52;52
-msgid "Add Team"
 msgstr ""
 
 #: /views/franchises/index.ctp:79;79
@@ -11183,12 +11775,13 @@ msgstr ""
 msgid "Active groups are available for people to select during account setup or edit, or be assigned to by an admin. The \"Player\" group will always be available for admins; deactivating this only means that it can't be used at the time of account creation (e.g. if you are running a youth league where most accounts will be parents). The \"Administrator\" group cannot be deactivated."
 msgstr ""
 
-#: /views/help/view.ctp:25
-msgid "Help"
-msgstr ""
-
 #: /views/help/view.ctp:31
 msgid "Return to main help page"
+msgstr ""
+
+#: /views/help/view.ctp:39
+#: /views/helpers/zuluru_html.php:168
+msgid "If you have suggestions for additions, changes or other improvements to this online help, please send them to %s."
 msgstr ""
 
 #: /views/helpers/zuluru_game.php:54
@@ -11227,6 +11820,10 @@ msgstr ""
 msgid "Additional help"
 msgstr ""
 
+#: /views/helpers/zuluru_html.php:190
+msgid "Open this help page in a new window"
+msgstr ""
+
 #: /views/helpers/zuluru_time.php:21
 #: /views/people/approve.ctp:266
 #: /views/people/view.ctp:205
@@ -11243,10 +11840,6 @@ msgstr ""
 
 #: /views/holidays/edit.ctp:35
 msgid "List Holidays"
-msgstr ""
-
-#: /views/holidays/index.ctp:2;7
-msgid "Holidays"
 msgstr ""
 
 #: /views/holidays/index.ctp:48
@@ -11574,12 +12167,6 @@ msgstr ""
 msgid "Date Sent"
 msgstr ""
 
-#: /views/newsletters/delivery.ctp:53
-#: /views/newsletters/edit.ctp:67
-#: /views/newsletters/index.ctp:2
-msgid "Newsletters"
-msgstr ""
-
 #: /views/newsletters/edit.ctp:21
 msgid "A short name for this newsletter, to be used as a heading in administrative reports."
 msgstr ""
@@ -11812,11 +12399,6 @@ msgstr ""
 
 #: /views/people/confirm.ctp:5
 msgid "Failed to update profile details.\\nYou will likely be prompted about this again very soon.\\n\\nIf problems persist, contact your system administrator."
-msgstr ""
-
-#: /views/people/credits.ctp:4
-#: /views/registrations/credits.ctp:3
-msgid "Credits"
 msgstr ""
 
 #: /views/people/credits.ctp:8
@@ -12320,10 +12902,6 @@ msgstr ""
 msgid "find all inactive users (not currently on any team)"
 msgstr ""
 
-#: /views/people/search.ctp:26
-msgid "Change password"
-msgstr ""
-
 #: /views/people/statistics.ctp:9
 msgid "People Statistics"
 msgstr ""
@@ -12518,15 +13096,6 @@ msgstr ""
 msgid "Recent Registrations"
 msgstr ""
 
-#: /views/people/view.ctp:636
-#: /views/registrations/edit.ctp:60
-#: /views/registrations/register.ctp:27
-#: /views/registrations/report.ctp:64
-#: /views/registrations/unpaid.ctp:14
-#: /views/registrations/view.ctp:58;78
-msgid "Payment"
-msgstr ""
-
 #: /views/people/view.ctp:668
 msgid "Show Registration History"
 msgstr ""
@@ -12599,10 +13168,6 @@ msgstr ""
 
 #: /views/people/waivers.ctp:10
 msgid "This person has never signed a waiver."
-msgstr ""
-
-#: /views/people/waivers.ctp:49
-msgid "Never expires"
 msgstr ""
 
 #: /views/people/waivers.ctp:60
@@ -12773,10 +13338,6 @@ msgstr ""
 
 #: /views/registrations/add_payment.ctp:63
 msgid "The lowest of the credit amount, specified payment amount, and outstanding balance will be used as the actual payment amount."
-msgstr ""
-
-#: /views/registrations/checkout.ctp:3
-msgid "Checkout"
 msgstr ""
 
 #: /views/registrations/checkout.ctp:7
@@ -12986,10 +13547,6 @@ msgstr ""
 msgid "This event has the following options. Please select your preference. Note that options may have limitations, which will be noted on selection."
 msgstr ""
 
-#: /views/registrations/report.ctp:5
-msgid "Report"
-msgstr ""
-
 #: /views/registrations/report.ctp:9
 msgid "Registration Report"
 msgstr ""
@@ -13030,10 +13587,6 @@ msgstr ""
 
 #: /views/registrations/transfer_payment.ctp:13
 msgid "Transfer Details"
-msgstr ""
-
-#: /views/registrations/unpaid.ctp:3
-msgid "Unpaid"
 msgstr ""
 
 #: /views/registrations/unpaid.ctp:7
@@ -13722,10 +14275,6 @@ msgstr ""
 
 #: /views/settings/feature.ctp:220
 msgid "Twitter integration requires the cUrl library, which your installation of PHP does not support. Talk to your system administrator or hosting company about enabling cUrl."
-msgstr ""
-
-#: /views/settings/organization.ctp:3;21
-msgid "Organization"
 msgstr ""
 
 #: /views/settings/organization.ctp:29
@@ -14734,10 +15283,6 @@ msgstr ""
 msgid "Join a Team"
 msgstr ""
 
-#: /views/teams/move.ctp:4
-msgid "Move"
-msgstr ""
-
 #: /views/teams/move.ctp:13
 msgid "Division to move this team to:"
 msgstr ""
@@ -15232,10 +15777,6 @@ msgstr ""
 msgid "Rows where the email address is set to simply \"child\" (without the quotes) will be created as a child profile automatically linked to the previous account. Multiple children can be added this way."
 msgstr ""
 
-#: /views/users/login.ctp:2;33
-msgid "Login"
-msgstr ""
-
 #: /views/users/login.ctp:20
 msgid "I forgot my username"
 msgstr ""
@@ -15689,10 +16230,6 @@ msgstr ""
 msgid "Mens XXLarge"
 msgstr ""
 
-#: /config/options.php:66
-msgid "Inactive"
-msgstr ""
-
 #: /config/options.php:68
 msgid "Locked"
 msgstr ""
@@ -15885,38 +16422,6 @@ msgstr ""
 msgid "Fall Indoor"
 msgstr ""
 
-#: /config/options.php:192
-msgid "Captain"
-msgstr ""
-
-#: /config/options.php:193
-msgid "Assistant captain"
-msgstr ""
-
-#: /config/options.php:194
-msgid "Non-playing coach"
-msgstr ""
-
-#: /config/options.php:195
-msgid "Regular player"
-msgstr ""
-
-#: /config/options.php:196
-msgid "Substitute player"
-msgstr ""
-
-#: /config/options.php:197
-msgid "Not on team"
-msgstr ""
-
-#: /config/options.php:201
-msgid "Players are invited and must accept"
-msgstr ""
-
-#: /config/options.php:202
-msgid "Players are added directly"
-msgstr ""
-
 #: /config/options.php:210
 msgid "normal"
 msgstr ""
@@ -15945,26 +16450,6 @@ msgstr ""
 msgid "forfeit"
 msgstr ""
 
-#: /config/options.php:226
-msgid "Nobody"
-msgstr ""
-
-#: /config/options.php:227
-msgid "Everybody"
-msgstr ""
-
-#: /config/options.php:228
-msgid "Admins"
-msgstr ""
-
-#: /config/options.php:242
-msgid "Full"
-msgstr ""
-
-#: /config/options.php:243
-msgid "Introductory"
-msgstr ""
-
 #: /config/options.php:244
 msgid "Trial"
 msgstr ""
@@ -15973,120 +16458,16 @@ msgstr ""
 msgid "runtime"
 msgstr ""
 
-#: /config/options.php:286
-msgid "Run-time determination"
-msgstr ""
-
-#: /config/options.php:287
-msgid "Determined by game outcomes"
-msgstr ""
-
-#: /config/options.php:288
-msgid "Determined by roster status"
-msgstr ""
-
-#: /config/options.php:289
-msgid "Determined by registrations"
-msgstr ""
-
 #: /config/options.php:290
 msgid "aggregate"
-msgstr ""
-
-#: /config/options.php:290
-msgid "Aggregates multiple badges, e.g. \"5x\""
-msgstr ""
-
-#: /config/options.php:291
-msgid "Nominated by anyone (must be approved)"
 msgstr ""
 
 #: /config/options.php:292
 msgid "assigned"
 msgstr ""
 
-#: /config/options.php:292
-msgid "Assigned by an admin"
-msgstr ""
-
-#: /config/options.php:296
-msgid "Admin only (same locations as high)"
-msgstr ""
-
-#: /config/options.php:297
-msgid "High (profile, pop-ups, team rosters)"
-msgstr ""
-
-#: /config/options.php:298
-msgid "Low (profile only)"
-msgstr ""
-
-#: /config/options.php:324
-msgid "Round Robin"
-msgstr ""
-
-#: /config/options.php:325
-msgid "Ratings Ladder"
-msgstr ""
-
-#: /config/options.php:326
-msgid "Competition"
-msgstr ""
-
-#: /config/options.php:327
-msgid "Tournament"
-msgstr ""
-
-#: /config/options.php:333
-msgid "Wager System"
-msgstr ""
-
-#: /config/options.php:334
-msgid "USA Ultimate College"
-msgstr ""
-
-#: /config/options.php:335
-msgid "RRI"
-msgstr ""
-
-#: /config/options.php:336
-msgid "KRACH"
-msgstr ""
-
-#: /config/options.php:337
-msgid "RPI"
-msgstr ""
-
-#: /config/options.php:338
-msgid "Modified Elo"
-msgstr ""
-
 #: /config/options.php:339
 msgid "Manual"
-msgstr ""
-
-#: /config/options.php:344
-msgid "No spirit questionnaire"
-msgstr ""
-
-#: /config/options.php:345
-msgid "WFDF standard"
-msgstr ""
-
-#: /config/options.php:346
-msgid "Modified WFDF"
-msgstr ""
-
-#: /config/options.php:347
-msgid "Modified BULA"
-msgstr ""
-
-#: /config/options.php:348
-msgid "Leaguerunner original"
-msgstr ""
-
-#: /config/options.php:349
-msgid "Modified Leaguerunner"
 msgstr ""
 
 #: /controllers/divisions_controller.php:1658;1698;1703
