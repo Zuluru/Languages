@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zuluru\n"
 "POT-Creation-Date: 2015-03-05 15:23-0500\n"
-"PO-Revision-Date: 2015-01-22 18:13-0400\n"
-"Last-Translator: Luis Arturo Ramos Zapata <luisarturoramos@gmail.com>\n"
-"Language-Team: spa (generated) <http://translate.zuluru.org/projects/zuluru/"
-"default/spa/>\n"
+"PO-Revision-Date: 2015-03-05 19:25-0400\n"
+"Last-Translator: Armando Ochoa <armando8ax@gmail.com>\n"
+"Language-Team: spa (generated) "
+"<http://translate.zuluru.org/projects/zuluru/default/spa/>\n"
+"Language: spa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: spa\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 1.10-dev\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -148,9 +148,8 @@ msgid "updated."
 msgstr "actualizado."
 
 #: /config/sport/ultimate.php:53
-#, fuzzy
 msgid "Skill"
-msgstr "Habilidad promedio"
+msgstr "Habilidad"
 
 #: /config/sport/ultimate.php:54
 msgid ""
@@ -309,7 +308,6 @@ msgstr ""
 "estrategias defensivas en personal"
 
 #: /config/sport/ultimate.php:83
-#, fuzzy
 msgid ""
 "can stay with the play and sometimes make the D, understand the basics of "
 "man & zone style defense strategies"
@@ -377,9 +375,8 @@ msgstr ""
 "posición, entiendo muchas estrategias ofensivas"
 
 #: /config/sport/ultimate.php:97
-#, fuzzy
 msgid "Experience"
-msgstr "preferencias"
+msgstr "Experiencia"
 
 #: /config/sport/ultimate.php:99
 msgid "For how many years have you been playing Ultimate?"
@@ -488,9 +485,8 @@ msgid ""
 msgstr ""
 
 #: /config/sport/ultimate.php:132
-#, fuzzy
 msgid "not do much because you don't know all the rules yet"
-msgstr "no hago mucho, por que no conozco las reglas"
+msgstr "no hago mucho porque no conozco todas las reglas aún"
 
 #: /config/sport/ultimate.php:133
 msgid ""
@@ -692,19 +688,16 @@ msgid "%s was not deleted"
 msgstr "%s no pudo ser eliminado"
 
 #: /controllers/affiliates_controller.php:134
-#, fuzzy
 msgid "%s is already a manager of this affiliate"
-msgstr "Esta persona no es miembro de esta filial."
+msgstr "%s ya es administrador de este afiliado"
 
 #: /controllers/affiliates_controller.php:146
-#, fuzzy
 msgid "Added %s as manager"
-msgstr "Y el administrador"
+msgstr "%s agregado como administrador"
 
 #: /controllers/affiliates_controller.php:149
-#, fuzzy
 msgid "Failed to add %s as manager"
-msgstr "¡No se pudo eliminar el administrador!"
+msgstr "No se pudo agregar %s como administrador"
 
 #: /controllers/affiliates_controller.php:170
 #: /controllers/divisions_controller.php:536
@@ -733,9 +726,8 @@ msgid ""
 msgstr ""
 
 #: /controllers/all_controller.php:38
-#, fuzzy
 msgid "update your preferences"
-msgstr "Edita tus preferencias"
+msgstr "actualiza tus preferencias"
 
 #: /controllers/badges_controller.php:96;102;107;166;172;315;318;331;336;339;346;386
 #: /controllers/people_controller.php:2117;2123;2128;2132;2151;2164;2169;2173
@@ -836,19 +828,16 @@ msgid "You must select at least one %s!"
 msgstr "¡Debes seleccionar al menos un %s!"
 
 #: /controllers/divisions_controller.php:503
-#, fuzzy
 msgid "%s is already a coordinator of this division"
-msgstr "Un alias para el correo de todos los capitanes de división."
+msgstr "%s ya está asignado como coordinador de esta división"
 
 #: /controllers/divisions_controller.php:511
-#, fuzzy
 msgid "Added %s as coordinator"
-msgstr "Agregar coordinador"
+msgstr "%s agregado como coordinador"
 
 #: /controllers/divisions_controller.php:514
-#, fuzzy
 msgid "Failed to add %s as coordinator"
-msgstr "¡No se pudo eliminar el coordinador!"
+msgstr "No se pudo agregar %s como coordinador"
 
 #: /controllers/divisions_controller.php:544
 msgid "Successfully removed coordinator"
@@ -1146,19 +1135,16 @@ msgid "Failed to remove the selected team from this franchise."
 msgstr "No se ha podido eliminar al equipo seleccionado, de esta franquicia."
 
 #: /controllers/franchises_controller.php:367
-#, fuzzy
 msgid "%s is already an owner of this franchise"
-msgstr "Este equipo ya es parte de una franquicia"
+msgstr "%s ya es dueño de una franquicia"
 
 #: /controllers/franchises_controller.php:374
-#, fuzzy
 msgid "Added %s as owner"
-msgstr "Añadir un Dueño"
+msgstr "Añadir %s como dueño"
 
 #: /controllers/franchises_controller.php:377
-#, fuzzy
 msgid "Failed to add %s as owner"
-msgstr "Se ha producido un error tratando de %s el juego"
+msgstr "Error al agregar %s como dueño"
 
 #: /controllers/game_slots_controller.php:52;68;297;326;331;341;356;383;396
 msgid "game slot"
@@ -1379,7 +1365,6 @@ msgid "You are not allowed to change this attendance record."
 msgstr "No tienes permitido cambiar este registro de asistencia."
 
 #: /controllers/games_controller.php:1093
-#, fuzzy
 #| msgid ""
 #| "That is not currently a valid attendance status for this player for this "
 #| "game."
@@ -1387,7 +1372,7 @@ msgid ""
 "That is not currently a valid attendance status for this person for this "
 "game."
 msgstr ""
-"Actualmente eso no es un estado de asistencia válido para este jugador en "
+"Actualmente no existe un estatus de asistencia válido para esta persona en "
 "este juego."
 
 #: /controllers/games_controller.php:1107
@@ -1407,10 +1392,9 @@ msgstr "La asistencia ha sido actualizada a %s ."
 
 #: /controllers/games_controller.php:1150
 #: /controllers/team_events_controller.php:457
-#, fuzzy
 #| msgid "contact all captains"
 msgid "A coach or captain"
-msgstr "ponte en contacto con todos los capitanes"
+msgstr "Un entrenador o capitán"
 
 #: /controllers/games_controller.php:1334
 msgid "Dependencies for that game have not yet been resolved!"
@@ -1467,11 +1451,10 @@ msgstr ""
 "nuevamente."
 
 #: /controllers/games_controller.php:1496;1669;1811;1954
-#, fuzzy
 msgid "There was an error updating the box score.\\nPlease try again."
 msgstr ""
-"Ocurrió un error al actualizar el resultado. \\nPor favor inténtelo "
-"nuevamente."
+"Ocurrió un error al actualizar el resultado.\\n"
+"Por favor inténtelo nuevamente."
 
 #: /controllers/games_controller.php:1631
 msgid "You can't decrease the score below zero."
@@ -1492,22 +1475,19 @@ msgid "Game timer initialized."
 msgstr "Cronómetro de juego iniciado."
 
 #: /controllers/games_controller.php:1921
-#, fuzzy
 #| msgid "Game Date"
 msgid "Game update #%s:"
-msgstr "Fecha del partido"
+msgstr "Actualización #%s del juego:"
 
 #: /controllers/games_controller.php:1924
-#, fuzzy
 #| msgid "to the team"
 msgid "to start the game"
-msgstr "al equipo"
+msgstr "para empezar el partido"
 
 #: /controllers/games_controller.php:1926
-#, fuzzy
 #| msgid "Game started"
 msgid "game started"
-msgstr "Juego comenzado"
+msgstr "juego comenzado"
 
 #: /controllers/games_controller.php:1931
 msgid "recorded"
@@ -5612,10 +5592,9 @@ msgid "Home score"
 msgstr "Resultado local"
 
 #: /views/divisions/approve_scores.ctp:77
-#, fuzzy
 #| msgid "email captains"
 msgid "email coaches and captains"
-msgstr "correo de capitanes"
+msgstr "correo de entrenadores y capitanes"
 
 #: /views/divisions/approve_scores.ctp:83;85
 msgid "Away score"
@@ -5627,7 +5606,7 @@ msgstr "Información de la división"
 
 #: /views/divisions/edit.ctp:31
 msgid "The name of the division."
-msgstr "El nombre de la división"
+msgstr "El nombre de la división."
 
 #: /views/divisions/edit.ctp:35 /views/elements/divisions/details.ctp:22
 #: /views/leagues/edit.ctp:65
@@ -5640,20 +5619,19 @@ msgid ""
 "separated list of individual email addresses)."
 msgstr ""
 "Un alias para el correo de todos los coordinadores de división (puede ser "
-"una lista individual de correos, separados por comas)"
+"una lista individual de correos, separados por comas)."
 
 #: /views/divisions/edit.ctp:41 /views/elements/divisions/details.ctp:29
 #: /views/leagues/edit.ctp:71
-#, fuzzy
 #| msgid "Captain Email List"
 msgid "Coach/Captain Email List"
-msgstr "Lista de mail de capitanes"
+msgstr "Lista de mail de capitanes/entrenadores"
 
 #: /views/divisions/edit.ctp:43
-#, fuzzy
 #| msgid "An email alias for all captains of this division."
 msgid "An email alias for all coaches and captains of this division."
-msgstr "Un alias para el correo de todos los capitanes de división."
+msgstr ""
+"Un alias para el correo de todos los capitanes y entrenadores de división."
 
 #: /views/divisions/edit.ctp:49 /views/leagues/edit.ctp:79
 msgid ""
@@ -5854,11 +5832,11 @@ msgstr "incluyendo sólo juegos que son publicados"
 #: /views/teams/statistics.ctp:117;149 /views/teams/view.ctp:164;256
 #: /views/themed/wfdfu23/teams/view.ctp:164;256
 msgid "Rating"
-msgstr "Rating"
+msgstr "Calificación"
 
 #: /views/divisions/fields.ctp:46;61
 msgid "Sub total"
-msgstr "Sub total"
+msgstr "Sub-total"
 
 #: /views/divisions/fields.ctp:67;230
 #: /views/elements/games/stats_entry.ctp:133
@@ -6269,7 +6247,7 @@ msgstr "Equipos"
 msgid "Day"
 msgid_plural "Days"
 msgstr[0] "Día"
-msgstr[1] ""
+msgstr[1] "Días"
 
 #: /views/divisions/view.ctp:30
 msgid "League Details"
@@ -6371,7 +6349,7 @@ msgid ""
 "You have enabled the affiliate option, but have not yet created any "
 "affiliates. "
 msgstr ""
-"Has habilitado la opción de afiliado, pero no has creado ninguna afiliación."
+"Has habilitado la opción de afiliado, pero no has creado ninguna afiliación. "
 
 #: /views/elements/all/kickstart.ctp:14;65;118;155
 msgid "Create one now!"
@@ -6379,20 +6357,21 @@ msgstr "¡Crea una ahora!"
 
 #: /views/elements/all/kickstart.ctp:19
 msgid "The following affiliates do not yet have managers assigned to them:"
-msgstr ""
+msgstr "Los siguientes afiliados, no tienen asignado ningún administrador:"
 
 #: /views/elements/all/kickstart.ctp:64
 msgid "You have no open facilities. "
-msgstr "No tienes sedes habilitadas"
+msgstr "No tienes sedes habilitadas. "
 
 #: /views/elements/all/kickstart.ctp:75
 msgid "The following facilities are open but do not have any open %s:"
 msgstr ""
+"Las siguientes instalaciones están abiertas, pero no tienen ningún %s "
+"abierto:"
 
 #: /views/elements/all/kickstart.ctp:95
-#, fuzzy
 msgid "View Facility"
-msgstr "Nueva instalación"
+msgstr "Ver instalación"
 
 #: /views/elements/all/kickstart.ctp:98
 msgid "Edit Facility"
@@ -6404,48 +6383,43 @@ msgstr "Eliminar sede"
 
 #: /views/elements/all/kickstart.ctp:117
 msgid "You have no current or upcoming leagues. "
-msgstr "No tienes ninguna liga en este momento, ni proximamente."
+msgstr "No tienes ninguna liga en este momento, ni proximamente. "
 
 #: /views/elements/all/kickstart.ctp:154
 msgid "You have no current or upcoming registration events. "
-msgstr "No tienes ningún evento en este momento, ni proximamente."
+msgstr "No tienes ningún evento en este momento, ni proximamente. "
 
 #: /views/elements/all/kickstart.ctp:168
 msgid "You are not yet on any teams."
-msgstr "Todavía no te encuentras en ningún equipo"
+msgstr "Todavía no te encuentras en ningún equipo."
 
 #: /views/elements/all/kickstart.ctp:173
-#, fuzzy
 msgid "Sign the waiver"
-msgstr "Exención de responsabilidad"
+msgstr "Firma la exención de responsabilidad"
 
 #: /views/elements/all/kickstart.ctp:177
-#, fuzzy
 #| msgid "Membership Ends"
 msgid "membership"
-msgstr "Termina membresía"
+msgstr "membresía"
 
 #: /views/elements/all/kickstart.ctp:180
-#, fuzzy
 #| msgid "team event"
 msgid "an event"
-msgstr "evento de equipo"
+msgstr "un evento"
 
 #: /views/elements/all/kickstart.ctp:184
-#, fuzzy
 #| msgid "Register for "
 msgid "Register for"
 msgstr "Registro para"
 
 #: /views/elements/all/kickstart.ctp:189
-#, fuzzy
 #| msgid "Join a Team"
 msgid "Join an existing team"
-msgstr "Unirse a un Equipo"
+msgstr "Unirse a un equipo existente"
 
 #: /views/elements/all/kickstart.ctp:193
 msgid "Check out the leagues we are currently offering"
-msgstr ""
+msgstr "Revisa las ligas que estamos ofreciendo actualmente"
 
 #: /views/elements/divisions/actions.ctp:33
 msgid "View Division Details"
@@ -6716,8 +6690,8 @@ msgid ""
 "create a new profile (and user ID with password) if you are new to the %s "
 "site"
 msgstr ""
-"crea un nuevo perfil (y nombre de ususario y password) si es nuevo sitio de %"
-"s."
+"crea un nuevo perfil (y nombre de ususario y password) si es nuevo sitio de "
+"%s"
 
 #: /views/elements/fields/caution.ctp:5
 msgid ""
@@ -11420,8 +11394,8 @@ msgid ""
 "To prevent system abuses, this can only be changed by an administrator. To "
 "change this, please email your correct year started to "
 msgstr ""
-" Para evitar abusos en el sistema esto sólo puede ser cambiado por el "
-"administrador. Para cambiar esto por favor envía por correo electrónico la "
+"Para evitar abusos en el sistema, esto sólo puede ser cambiado por el "
+"administrador. Para cambiar esto, por favor envía por correo electrónico la "
 "fecha correcta en la que iniciaste "
 
 #: /views/elements/people/skill_edit.ctp:70
@@ -11437,8 +11411,8 @@ msgid ""
 "To prevent system abuses, this can only be changed by an administrator. To "
 "change this, please email your new skill level to "
 msgstr ""
-" Para evitar abusos en el sistema esto sólo puede ser cambiado por el "
-"administrador. Para cambiar esto por favor envía por correo electrónico tu "
+"Para evitar abusos en el sistema, esto sólo puede ser cambiado por el "
+"administrador. Para cambiar esto, por favor envía por correo electrónico tu "
 "nuevo nivel de habilidad "
 
 #: /views/elements/questionnaires/edit.ctp:5
@@ -11801,8 +11775,8 @@ msgstr "-1 para no establecer límite."
 #: /views/events/edit.ctp:124
 msgid "-1 for no limit, -2 to use male cap as combined limit."
 msgstr ""
-"-1 para no establecer límite., -2 para tener la restricción de hombres como "
-"una lista combinada"
+"-1 para no establecer límite, -2 para tener la restricción de hombres como "
+"una límite combinado."
 
 #: /views/events/edit.ctp:128
 msgid "Can a single user register for this event multiple times?"
@@ -12380,7 +12354,7 @@ msgstr "Da click para ver el mata en una nueva ventana"
 
 #: /views/fields/view.ctp:106
 msgid "Click for %s layout diagram in new window"
-msgstr "Da clic para %s ver el diagrama en una nueva ventana."
+msgstr "Da clic para ver el diagrama %s en una nueva ventana"
 
 #: /views/fields/view.ctp:119
 msgid "Upload permit for %s to %s"
@@ -12392,7 +12366,7 @@ msgstr "Otras/os %s en estas instalaciones"
 
 #: /views/fields/view.ctp:161
 msgid "Bookings "
-msgstr "Reservando"
+msgstr "Reservando "
 
 #: /views/franchises/add_owner.ctp:5;10 /views/franchises/index.ctp:82
 #: /views/franchises/letter.ctp:80 /views/franchises/view.ctp:60
@@ -12456,7 +12430,7 @@ msgstr "Lista franquicias"
 #: /views/franchises/index.ctp:12 /views/franchises/letter.ctp:12
 #: /views/teams/index.ctp:12 /views/teams/letter.ctp:12
 msgid "Locate by letter: "
-msgstr "Encontrar por letra:"
+msgstr "Encontrar por letra: "
 
 #: /views/franchises/index.ctp:29 /views/franchises/letter.ctp:27
 msgid "Owner(s)"
@@ -12640,7 +12614,7 @@ msgstr "Fin de partido"
 
 #: /views/game_slots/view.ctp:42
 msgid " vs "
-msgstr "vs"
+msgstr " vs "
 
 #: /views/game_slots/view.ctp:67
 msgid "Available to Divisions"
@@ -12683,7 +12657,7 @@ msgstr "Estas intentando cambiar la asistencia para"
 #: /views/games/attendance_change.ctp:44
 #: /views/team_events/attendance_change.ctp:36
 msgid "Current status:"
-msgstr "Estado actuao"
+msgstr "Estado actual:"
 
 #: /views/games/attendance_change.ctp:47
 #: /views/team_events/attendance_change.ctp:39
@@ -14168,8 +14142,9 @@ msgid ""
 "To prevent system abuses, this can only be changed by an administrator. To "
 "change this, please email your new name to "
 msgstr ""
-" Para evitar abusos en el sistema, esto solamente puede ser cabiado por el "
-"administrador. Para cambiar tu nombre por favor envía el nuevo a "
+"Para evitar abusos en el sistema, esto solamente puede ser cambiado por el "
+"administrador. Para cambiar tu nombre, por favor envía el nuevo al correo "
+"del administrador "
 
 #: /views/people/edit.ctp:123 /views/users/create_account.ctp:81
 #, fuzzy
@@ -14188,9 +14163,9 @@ msgid ""
 "To prevent system abuses, this can only be changed by an administrator. To "
 "change this, please email your new phone number to "
 msgstr ""
-" Para evitar abusos en el sistema esto sólo puede ser cambiado por el "
-"administrador. Para cambiar esto por favor envía por correo electrónico con "
-"tu nuevo numero telefónico a "
+"Para evitar abusos en el sistema, esto sólo puede ser cambiado por el "
+"administrador. Para cambiar esto, por favor envía por correo electrónico tu "
+"nuevo numero telefónico "
 
 #: /views/people/edit.ctp:140 /views/users/create_account.ctp:89
 #, fuzzy
@@ -14350,8 +14325,8 @@ msgid ""
 "To prevent system abuses, this can only be changed by an administrator. To "
 "change this, please email your correct birthdate to "
 msgstr ""
-" Para evitar abusos en el sistema esto sólo puede ser cambiado por el "
-"administrador. Para cambiar esto por favor envía por correo electrónico tu "
+"Para evitar abusos en el sistema, esto sólo puede ser cambiado por el "
+"administrador. Para cambiar esto, por favor envía por correo electrónico tu "
 "fecha de nacimiento correcta "
 
 #: /views/people/edit.ctp:456
@@ -14359,9 +14334,9 @@ msgid ""
 "To prevent system abuses, this can only be changed by an administrator. To "
 "change this, please email your new height to "
 msgstr ""
-" Para evitar abusos en el sistema esto sólo puede ser cambiado por el "
+"Para evitar abusos en el sistema, esto sólo puede ser cambiado por el "
 "administrador. Para cambiar esto, por favor envía por correo electrónico tu "
-"nueva altura "
+"estatura correcta "
 
 #: /views/people/edit.ctp:470
 msgid ""
@@ -15585,7 +15560,7 @@ msgstr "en"
 
 #: /views/schedules/confirm.ctp:14
 msgid " (pool names are %s)"
-msgstr "(los nombres de los grupos son %s)"
+msgstr " (los nombres de los grupos son %s)"
 
 #: /views/schedules/confirm.ctp:26
 #, fuzzy
@@ -15652,7 +15627,7 @@ msgstr "La fecha de finalización no puede preceder a la fecha de inicio"
 
 #: /views/schedules/date.ctp:22
 msgid "Scheduling a %s will create a total of "
-msgstr "Programar un %s va a crear un total de"
+msgstr "Programar un %s va a crear un total de "
 
 #: /views/schedules/date.ctp:27
 msgid "%d games across a minimum of %d time slots."
@@ -15882,8 +15857,8 @@ msgstr "Recalendarizar los partidos para"
 #: /views/schedules/reschedule.ctp:25
 msgid "Publish rescheduled games for player viewing?"
 msgstr ""
-"¿Quieres publicar los juegos re calendarizados para que los jugadores los "
-"puedan ver? "
+"¿Quieres publicar los juegos re-calendarizados para que los jugadores los "
+"puedan ver?"
 
 #: /views/schedules/reschedule.ctp:30
 msgid "Are you sure you want to reschedule these games? This cannot be undone."
@@ -17044,11 +17019,11 @@ msgstr "Ranura de Tarea"
 
 #: /views/task_slots/add.ctp:10
 msgid "Create Slots for the \"%s\" Task"
-msgstr "Crear una Ranura para la tarea \"%s\" "
+msgstr "Crear una ranura para la tarea \"%s\""
 
 #: /views/task_slots/add.ctp:19
 msgid "The system will add this many slots at the specified time."
-msgstr "El sistema añadirá este numero de ranuras en la hora especificada"
+msgstr "El sistema añadirá este numero de ranuras en la hora especificada."
 
 #: /views/task_slots/add.ctp:25
 msgid ""
@@ -17372,7 +17347,7 @@ msgstr "%s ha enviado los recordatorios pero estos no han expirado"
 
 #: /views/teams/cron.ctp:17
 msgid "No roster activity to report."
-msgstr "No hay actividad en el roster que reportar"
+msgstr "No hay actividad, en el roster, que reportar."
 
 #: /views/teams/edit.ctp:23
 msgid "A short name for your team, if you have one."
