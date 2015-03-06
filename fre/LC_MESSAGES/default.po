@@ -5,14 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2015-03-05 15:23-0500\n"
-"PO-Revision-Date: 2015-03-05 12:02-0400\n"
-"Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
-"Language-Team: fre (generated) <http://translate.zuluru.org/projects/zuluru/"
-"default/fre/>\n"
+"PO-Revision-Date: 2015-03-06 15:31-0400\n"
+"Last-Translator: Zuluru Admin <admin@zuluru.org>\n"
+"Language-Team: fre (generated) "
+"<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
+"Language: fre\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fre\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 1.10-dev\n"
 
@@ -12952,13 +12952,13 @@ msgstr ""
 #, fuzzy
 #| msgid "Step 2: Database configuration"
 msgid "Show advanced configuration"
-msgstr "Étape 2: Configuration de la base de données"
+msgstr "Afficher la configuration avancée"
 
 #: /views/leagues/edit.ctp:15;354
 #, fuzzy
 #| msgid "Step 2: Database configuration"
 msgid "Show basic configuration"
-msgstr "Étape 2: Configuration de la base de données"
+msgstr "Voir configuration de base"
 
 #: /views/leagues/edit.ctp:17
 msgid "League Information"
