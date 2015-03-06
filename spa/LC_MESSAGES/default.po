@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zuluru\n"
 "POT-Creation-Date: 2015-03-05 15:23-0500\n"
-"PO-Revision-Date: 2015-03-05 19:25-0400\n"
-"Last-Translator: Armando Ochoa <armando8ax@gmail.com>\n"
+"PO-Revision-Date: 2015-03-06 15:32-0400\n"
+"Last-Translator: Zuluru Admin <admin@zuluru.org>\n"
 "Language-Team: spa (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/spa/>\n"
 "Language: spa\n"
@@ -1737,10 +1737,9 @@ msgstr "lista de envío"
 #: /controllers/people_controller.php:2547
 #: /controllers/teams_controller.php:767;2685
 #: /controllers/components/can_register.php:253
-#, fuzzy
 #| msgid "Failed to parse the rule"
 msgid "Failed to parse the rule: %s"
-msgstr "No se pudo entender la regla"
+msgstr "No se pudo entender la regla: %s"
 
 #: /controllers/mailing_lists_controller.php:117
 #: /controllers/newsletters_controller.php:255
@@ -1868,21 +1867,19 @@ msgstr "No se pudieron guardar tus preferencias"
 
 #: /controllers/people_controller.php:1205
 #: /views/elements/people/confirmation.ctp:73
-#, fuzzy
 msgid "profile"
-msgstr "Modificar perfil"
+msgstr "perfil"
 
 #: /controllers/people_controller.php:1245
 #, fuzzy
 msgid "new profile"
-msgstr "Modificar perfil"
+msgstr "nuevo perfil"
 
 #: /controllers/people_controller.php:1247
 #: /controllers/users_controller.php:222
-#, fuzzy
 #| msgid "Your message has been tweeted."
 msgid "Your account has been created."
-msgstr "Tu mensaje se ha  enviado via twitter."
+msgstr "Tu cuenta ha sido creada."
 
 #: /controllers/people_controller.php:1248
 #: /controllers/users_controller.php:223
@@ -1903,7 +1900,7 @@ msgstr "¡No puedes agregarte a ti mismo como familiar!"
 #: /controllers/people_controller.php:1292
 #, fuzzy
 msgid "%s is already your relative."
-msgstr "La base de datos está actualizada."
+msgstr "%s es ya su pariente."
 
 #: /controllers/people_controller.php:1311;1389;1452
 #: /controllers/teams_controller.php:2761;2782;2801;2823;2842;2868;2886;2906;2938;2954;2982;2998
@@ -1919,7 +1916,7 @@ msgstr ""
 #: /controllers/people_controller.php:1321
 #, fuzzy
 msgid "Failed to link %s as relative."
-msgstr "No se ha podido guardar la exención de responsabilidad."
+msgstr "No se ha podido vincular %s como relativo."
 
 #: /controllers/people_controller.php:1344
 msgid "This person does not have an outstanding relative request for you."
@@ -2198,7 +2195,7 @@ msgstr ""
 #: /controllers/people_controller.php:2408
 #, fuzzy
 msgid "You cannot delete the only administrator."
-msgstr "Puedes registrarte para el este evento social."
+msgstr "No se puede eliminar el único administrador."
 
 #: /controllers/people_controller.php:2414;2416
 #: /views/leagues/participation.ctp:13 /views/registrations/credits.ctp:11
@@ -2218,13 +2215,13 @@ msgstr ""
 #, fuzzy
 #| msgid "You are inviting"
 msgid "You are now acting as %s"
-msgstr "Estas invitando"
+msgstr "Usted ahora está actuando como %s"
 
 #: /controllers/people_controller.php:2431
 #, fuzzy
 #| msgid "hours"
 msgid "yourself"
-msgstr "horas"
+msgstr "usted mismo"
 
 #: /controllers/people_controller.php:2449
 msgid "There is nobody else you can act as."
@@ -2261,13 +2258,13 @@ msgstr "No se pudo guardar la activación para el nuevo integrante"
 #: /controllers/people_controller.php:2776 /views/settings/profile.ctp:3
 #, fuzzy
 msgid "Profile"
-msgstr "Modificar perfil"
+msgstr "Perfil"
 
 #: /controllers/people_controller.php:2779
 #, fuzzy
 #| msgid "account"
 msgid "Account"
-msgstr "cuenta"
+msgstr "Cuenta"
 
 #: /controllers/people_controller.php:2783
 msgid "%s %s Activation for %s"
@@ -2281,7 +2278,8 @@ msgstr "No se pudo guardar la informacion para este nuevo integrante"
 #, fuzzy
 msgid ""
 "You cannot delete the only parent of a child with history in the system."
-msgstr "Puedes registrarte para el este evento social."
+msgstr ""
+"No se puede eliminar el único padre de un niño con la historia en el sistema."
 
 #: /controllers/preregistrations_controller.php:84
 #, fuzzy
@@ -2326,7 +2324,7 @@ msgstr ""
 #: /controllers/prices_controller.php:124
 #, fuzzy
 msgid "You cannot delete the only price point on an event."
-msgstr "Puedes registrarte para el este evento social."
+msgstr "No se puede eliminar el único punto de precio en un evento."
 
 #: /controllers/prices_controller.php:129;132
 #, fuzzy
@@ -2439,12 +2437,12 @@ msgstr ""
 #: /controllers/registrations_controller.php:726
 #, fuzzy
 msgid "There was an error redeeming the credit."
-msgstr "Hubo un error al comunicarnos con Twitter."
+msgstr "Hubo un error al canjear el crédito."
 
 #: /controllers/registrations_controller.php:736
 #, fuzzy
 msgid "The credit has been applied to the chosen registration."
-msgstr "Este evento todavía no esta abierto para registro."
+msgstr "El crédito se ha aplicado para el registro elegido."
 
 #: /controllers/registrations_controller.php:786
 msgid "Payment deadline has passed"
@@ -2453,7 +2451,7 @@ msgstr ""
 #: /controllers/registrations_controller.php:805
 #, fuzzy
 msgid "Filled up since you registered"
-msgstr "No se pudieron guardar tus preferencias"
+msgstr "Lleno hasta desde el que se registró"
 
 #: /controllers/registrations_controller.php:815
 #, fuzzy
@@ -2976,12 +2974,12 @@ msgstr "El límite para enviar el roster para esta división ya ha pasado."
 #: /controllers/teams_controller.php:1913
 #, fuzzy
 msgid "%s been sent to"
-msgstr "Prueba el envio de correo electrónico"
+msgstr "%s sido enviado a"
 
 #: /controllers/teams_controller.php:1917
 #, fuzzy
 msgid "Failed to send %s to"
-msgstr "Error al mandar el tweet."
+msgstr "Error al enviar el %s a"
 
 #: /controllers/teams_controller.php:2033
 msgid "Failed to send invitation"
@@ -3318,7 +3316,9 @@ msgstr "Ya has aceptado esta exención de responsabilidad"
 #, fuzzy
 #| msgid "You are not allowed to accept this roster %s."
 msgid "You are not allowed to accept this waiver on behalf of another person."
-msgstr "Tu no tienes autorización para aceptar el/la %s de este roter."
+msgstr ""
+"Tu no tienes autorización para aceptar esta renuncia en nombre de otra "
+"persona."
 
 #: /controllers/waivers_controller.php:230
 msgid "Waiver signed."
@@ -3339,9 +3339,7 @@ msgstr ""
 #| msgid ""
 #| "Rules that must be passed to allow a person to register for this event."
 msgid "Only players are allowed to register for this type of event."
-msgstr ""
-"Reglas que deben tomarse en cuenta para permitirle a una persona registrarse "
-"a este evento."
+msgstr "Sólo los jugadores se les permite inscribirse en este tipo de evento."
 
 #: /controllers/components/can_register.php:121
 msgid "You have already registered and paid for this event."
@@ -3452,22 +3450,20 @@ msgstr "evento de equipo"
 #: /controllers/components/can_register.php:235
 #, fuzzy
 msgid "Registration for %s is not yet open."
-msgstr "El registro para este evento ha cerrado."
+msgstr "El registro para %s todavía no está abierto."
 
 #: /controllers/components/can_register.php:243
-#, fuzzy
 msgid "Registration for %s has closed."
-msgstr "El registro para este evento ha cerrado."
+msgstr "El registro para %s ha cerrado."
 
 #: /controllers/components/can_register.php:261
-#, fuzzy
 msgid "You may register for %s."
-msgstr "Puedes registrarte para este evento."
+msgstr "Puedes registrarte para %s."
 
 #: /controllers/components/can_register.php:266;302;313
 #, fuzzy
 msgid "To register for %s, you must %s."
-msgstr "Para registrarse en este evento debes"
+msgstr "Para registrarse en %s debes %s."
 
 #: /controllers/components/can_register.php:273;287
 msgid "You may register for this because there are no prerequisites."
@@ -3480,7 +3476,7 @@ msgstr "¡No hemos podido anular el registro para este evento!"
 #: /controllers/components/event_type.php:296;317
 #, fuzzy
 msgid "Failed to update badge information!"
-msgstr "No se ha podido actualizar el rating de este equipo"
+msgstr "¡Error al actualizar la información de la insignia!"
 
 #: /controllers/components/event_type_team.php:23
 #: /views/divisions/add_teams.ctp:34 /views/teams/edit.ctp:14
@@ -3587,7 +3583,7 @@ msgstr "¿Quieres habilitar el registro de asistencia para este equipo?"
 #: /controllers/components/event_type_team.php:271
 #, fuzzy
 msgid "Failed to add the team captain!"
-msgstr "No se ha podido actualizar el rating de este equipo"
+msgstr "¡Error al agregar el capitán del equipo!"
 
 #: /controllers/components/event_type_team.php:291
 #, fuzzy
@@ -3648,9 +3644,8 @@ msgid "%s Availability Report"
 msgstr "Reporte de disponibilidad de %s"
 
 #: /controllers/components/league_type_competition.php:37
-#, fuzzy
 msgid "single blank, unscheduled game"
-msgstr "espacio en blanco, juego no asignado (2 equipos, uno %s)"
+msgstr "espacio en blanco, juego no asignado"
 
 #: /controllers/components/league_type_competition.php:38
 #: /controllers/components/league_type_roundrobin.php:47
@@ -3780,7 +3775,9 @@ msgstr "Numero de cruces"
 msgid ""
 "set of blank unscheduled games for all teams in the division (%d teams, %d "
 "games)"
-msgstr "espacio en blanco, juego no asignado (2 equipos, uno %s)"
+msgstr ""
+"conjunto de juegos en blanco no programadas para todos los equipos en la "
+"división (%d equipos, %d juegos)"
 
 #: /controllers/components/league_type_tournament.php:87
 msgid ""
@@ -3963,7 +3960,7 @@ msgstr "tiene un %s"
 #, fuzzy
 #| msgid "Failed to delete %s"
 msgid "Failed to parse left side of \"%s\": %s"
-msgstr "No se pudo borrar %s"
+msgstr "Error al analizar la parte izquierda de \"%s\": %s"
 
 #: /controllers/components/rule_compare.php:25
 msgid "Did not find a space in \"%s\""
@@ -3973,13 +3970,13 @@ msgstr ""
 #, fuzzy
 #| msgid "Could not find validation handler %s for %s"
 msgid "Did not find a valid comparison operator in \"%s\""
-msgstr "No se pudo localizar el control de validaciones %s para %s"
+msgstr "No ha encontrado un operador de comparación válido en \"%s\""
 
 #: /controllers/components/rule_compare.php:39
 #, fuzzy
 #| msgid "Failed to write to %s"
 msgid "Failed to parse right side of \"%s\": %s"
-msgstr "Error al escribir %s"
+msgstr "Error al analizar la derecha de \"%s\": %s"
 
 #: /controllers/components/rule_compare.php:61
 #: /views/elements/help/rules/rules/compare.ctp:9
@@ -4073,7 +4070,7 @@ msgstr ""
 #: /controllers/components/rule_signed_waiver.php:36;46
 #, fuzzy
 msgid "have signed the %s waiver"
-msgstr "ha firmado la exención de responsabilidad"
+msgstr "ha firmado la exención de responsabilidad %s"
 
 #: /controllers/components/rule_signed_waiver.php:84
 msgid "have signed the waiver"
@@ -4167,7 +4164,7 @@ msgstr "El mismo equipo no puede hacer el saque en ambas mitades."
 #, fuzzy
 #| msgid "You do not have permission to access that page."
 msgid "You do not have permission to act as that person."
-msgstr "No tienes los permisos necesarios para ver esta página."
+msgstr "No tienes los permisos necesarios para actuar como esa persona."
 
 #: /views/all/splash.ctp:2 /views/divisions/slots.ctp:44
 #: /views/games/ratings_table.ctp:38 /views/leagues/slots.ctp:48
@@ -4247,7 +4244,7 @@ msgstr "¡Equipo %s fue colocado en horarios que se enciman!"
 #: /models/game.php:1265
 #, fuzzy
 msgid "Seed %s was scheduled on %s at different facilities!"
-msgstr "¡Equipo %s fue colocado en diferentes sedes!"
+msgstr "¡Equipo %s fue colocado el %s en diferentes sedes!"
 
 #: /models/game.php:1294
 #, fuzzy
@@ -5089,14 +5086,13 @@ msgstr "Desactivar"
 #, fuzzy
 #| msgid "Failed to write to %s"
 msgid "Failed to activate %s '%s'."
-msgstr "Error al escribir %s"
+msgstr "Error al activar %s '%s'."
 
 #: /views/answers/activate.ctp:9 /views/answers/deactivate.ctp:9
 #: /views/questions/delete_answer.ctp:3
-#, fuzzy
 #| msgid "Answer"
 msgid "answer"
-msgstr "Respuesta"
+msgstr "respuesta"
 
 #: /views/answers/deactivate.ctp:3 /views/badges/deactivate.ctp:3
 #: /views/badges/index.ctp:86
@@ -5114,7 +5110,7 @@ msgstr "Activado"
 #, fuzzy
 #| msgid "Failed to delete %s"
 msgid "Failed to deactivate %s '%s'."
-msgstr "No se pudo borrar %s"
+msgstr "Error al desactivar %s '%s'."
 
 #: /views/badges/edit.ctp:2;64 /views/badges/index.ctp:2;7
 #: /views/badges/view.ctp:2 /views/people/nominate.ctp:2
@@ -5387,7 +5383,7 @@ msgstr "Lista de contactos"
 #, fuzzy
 #| msgid "Shirt numbers are not enabled on this system."
 msgid "There are no contacts in the system."
-msgstr "Los numeros de playera no estan habilitados para este sistema."
+msgstr "No hay contactos en el sistema."
 
 #: /views/contacts/index.ctp:20 /views/people/edit.ctp:275
 #: /views/people/index.ctp:31 /views/settings/email.ctp:3
@@ -5425,14 +5421,13 @@ msgstr "Detalles del mensaje"
 #, fuzzy
 #| msgid "T"
 msgid "To"
-msgstr "E"
+msgstr "A"
 
 #: /views/contacts/message.ctp:31
 #, fuzzy
 #| msgid "Allow other players to view my email address"
 msgid "Send a copy to your email address"
-msgstr ""
-"Permitir que otros jugadores puedan ver tu dirección de correo electrónico"
+msgstr "Enviar una copia a su correo electrónico"
 
 #: /views/divisions/add_coordinator.ctp:4 /views/divisions/add_teams.ctp:2
 #: /views/divisions/allstars.ctp:2 /views/divisions/approve_scores.ctp:2
@@ -6044,13 +6039,12 @@ msgstr ""
 #, fuzzy
 #| msgid "D"
 msgid "ID"
-msgstr "D"
+msgstr "ID"
 
 #: /views/divisions/slots.ctp:37 /views/leagues/slots.ctp:41
-#, fuzzy
 #| msgid "Region"
 msgid "%s Region"
-msgstr "Región"
+msgstr "%s Región"
 
 #: /views/divisions/slots.ctp:38 /views/leagues/slots.ctp:42
 #: /views/team_events/attendance_change.ctp:20
@@ -6066,7 +6060,7 @@ msgstr "Grupo"
 #, fuzzy
 #| msgid "Home score"
 msgid "Home Pref"
-msgstr "Resultado local"
+msgstr "Pref local"
 
 #: /views/divisions/slots.ctp:65 /views/leagues/slots.ctp:69
 msgid "%s open"
@@ -6174,7 +6168,7 @@ msgstr "Destacado de la entrada:"
 #, fuzzy
 #| msgid "Comment for entry above:"
 msgid "Incident for entry above:"
-msgstr "Comentario sobre la entrada:"
+msgstr "Incidente sobre la entrada:"
 
 #: /views/divisions/standings.ctp:4 /views/divisions/tooltip.ctp:40
 #: /views/elements/divisions/actions.ctp:45;45
@@ -6589,7 +6583,7 @@ msgstr "Revisión de detalles"
 #, fuzzy
 #| msgid "Other years"
 msgid "they wear %s"
-msgstr "Otros años"
+msgstr "llevan %s"
 
 #: /views/elements/email/html/attendance_reminder.ctp:45
 msgid "set your attendance in advance"
@@ -6603,7 +6597,7 @@ msgstr "actualiza esto o revisa los detalles"
 #: /views/elements/email/html/reservation_expired.ctp:9
 #, fuzzy
 msgid "pay for this registration"
-msgstr "Nombre completo para este evento de registro."
+msgstr "pagar por este registro"
 
 #: /views/elements/email/html/registration_opening.ctp:12
 #: /views/elements/email/html/registration_waiting.ctp:9
@@ -6837,10 +6831,9 @@ msgstr "¿Esta seguro de querer borrar esto?"
 
 #: /views/elements/games/ical.ctp:69 /views/games/edit_boxscore.ctp:3
 #: /views/games/live_score.ctp:3
-#, fuzzy
 #| msgid " vs "
 msgid "%s vs %s"
-msgstr "vs"
+msgstr "%s vs %s"
 
 #: /views/elements/games/ical.ctp:72
 msgid "Game %d: %s vs %s at %s on %s"
@@ -6855,13 +6848,13 @@ msgstr ""
 #, fuzzy
 #| msgid "Balance"
 msgid "Cancel"
-msgstr "Balance"
+msgstr "Cancelar"
 
 #: /views/elements/games/score_box.ctp:169
 #, fuzzy
 #| msgid "Other years"
 msgid "Other Details"
-msgstr "Otros años"
+msgstr "Otros Detalles"
 
 #: /views/elements/games/splash.ctp:5
 msgid "Recent and Upcoming Schedule"
@@ -7158,7 +7151,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Roster Method"
 msgid "standard methods"
-msgstr "Método para armar roster"
+msgstr "métodos estándar"
 
 #: /views/elements/help/divisions/slots.ctp:2
 msgid ""
@@ -7175,10 +7168,9 @@ msgid ""
 msgstr ""
 
 #: /views/elements/help/divisions/slots.ctp:8
-#, fuzzy
 #| msgid "Only I and the captains of our team"
 msgid ", and the regional preference of the home team"
-msgstr "Solamente yo y los capitanes de nuestro equipo"
+msgstr ", y la preferencia regional del equipo local"
 
 #: /views/elements/help/divisions/slots.ctp:11
 msgid ""
@@ -7332,7 +7324,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Detailed %s List"
 msgid "Details are %s and %s."
-msgstr "Lista %s detallada"
+msgstr "Los detalles son %s y %s."
 
 #: /views/elements/help/divisions/edit/rating_calculator/manual.ctp:1
 #, fuzzy
@@ -7342,8 +7334,8 @@ msgid ""
 "The manual calculator is intended for use solely with \"competition\" "
 "divisions."
 msgstr ""
-"Solamente puedes reportar resultados de múltiples juegos en \"competencia\" "
-"divisiones."
+"La calculadora manual está diseñado para su uso únicamente con divisiones \""
+"competencia\"."
 
 #: /views/elements/help/divisions/edit/rating_calculator/manual.ctp:2
 msgid ""
@@ -7372,10 +7364,9 @@ msgid ""
 msgstr ""
 
 #: /views/elements/help/divisions/edit/rating_calculator/modified_elo.ctp:4
-#, fuzzy
 #| msgid "Registration History"
 msgid "international soccer"
-msgstr "Historial de Registro"
+msgstr "fútbol internacional"
 
 #: /views/elements/help/divisions/edit/rating_calculator/modified_elo.ctp:8
 msgid "all games are equally weighted"
@@ -7418,7 +7409,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Detailed %s List"
 msgid "Details are %s."
-msgstr "Lista %s detallada"
+msgstr "Los detalles son %s."
 
 #: /views/elements/help/divisions/edit/rating_calculator/rri.ctp:1
 msgid ""
@@ -8094,7 +8085,7 @@ msgstr ""
 #: /views/elements/help/guide/new_user.ctp:21;25;38
 #, fuzzy
 msgid "follow these directions"
-msgstr "Instrucciones Privadas"
+msgstr "siga estas instrucciones"
 
 #: /views/elements/help/guide/new_user.ctp:24
 msgid ""
@@ -13356,13 +13347,13 @@ msgstr "Se abrieron las siguientes divisiones:"
 #, fuzzy
 #| msgid "Step 2: Database configuration"
 msgid "Show advanced configuration"
-msgstr "Paso 2: Configuración de la base de datos"
+msgstr "Mostrar configuración avanzada"
 
 #: /views/leagues/edit.ctp:15;354
 #, fuzzy
 #| msgid "Step 2: Database configuration"
 msgid "Show basic configuration"
-msgstr "Paso 2: Configuración de la base de datos"
+msgstr "Mostrar configuración básica"
 
 #: /views/leagues/edit.ctp:17
 msgid "League Information"
