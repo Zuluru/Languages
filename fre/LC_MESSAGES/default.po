@@ -10726,6 +10726,7 @@ msgid ""
 msgstr ""
 
 #: /views/elements/help/teams/edit/open_roster.ctp:10
+msgid ""
 "If a team's roster is open, players may additionally request to join the "
 "team. Requests must be accepted by a coach or captain before the player is "
 "officially added to the roster."
