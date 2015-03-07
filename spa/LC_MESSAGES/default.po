@@ -2988,7 +2988,7 @@ msgid "Approved the relative request."
 msgstr "Solicitud de familiares ha sido aprobada."
 
 #: /controllers/people_controller.php:1389;1452
-#: /controllers/teams_controller.php:2801;2868;2938;2982
+#: /controllers/teams_controller.php:2801;2823;2868;2938;2982
 #, fuzzy
 #| msgid "team captains."
 msgid "team coaches/captains."
@@ -3941,10 +3941,15 @@ msgid "numbers"
 msgstr "numeros"
 
 #: /controllers/teams_controller.php:1109
+#, fuzzy
+#| msgid ""
+#| "This system creates teams through the registration process. Team creation "
+#| "through Zuluru is disabled. If you need a team created for some other "
+#| "reason (e.g. a touring team), please email "
 msgid ""
 "This system creates teams through the registration process. Team creation "
-"through Zuluru is disabled. If you need a team created for some other reason "
-"(e.g. a touring team), please email "
+"through %s is disabled. If you need a team created for some other reason (e."
+"g. a touring team), please email %s with the details, or call the office."
 msgstr ""
 "Este sistema crea equipos a través de un proceso de registro. La opción para "
 "crear equipos a través de Zuluru no esta habilitada. Si necesitas crear un "
@@ -4147,12 +4152,6 @@ msgstr ""
 #: /controllers/teams_controller.php:2719;2732
 msgid "You are not allowed to invite someone to that role."
 msgstr "No tienes la autorización para invitar a alguien para ese rol."
-
-#: /controllers/teams_controller.php:2823
-#, fuzzy
-#| msgid "team captains."
-msgid "team coaches/captains."
-msgstr "capitanes del equipo."
 
 #: /controllers/teams_controller.php:1913
 msgid "Invitation has"
@@ -10653,8 +10652,7 @@ msgstr ""
 #: /views/elements/help/settings/feature/pdfize.ctp:1
 msgid ""
 "PDFize is a plugin that wraps the dompdf library to enable conversion of "
-"HTML to PDF. Using it with <?php echo ZULURU; ?> requires custom "
-"installation."
+"HTML to PDF. Using it with %s requires custom installation."
 msgstr ""
 
 #: /views/elements/help/settings/feature/pdfize.ctp:2
@@ -10709,9 +10707,9 @@ msgstr ""
 #: /views/elements/help/settings/feature/twitter.ctp:13
 msgid ""
 "After this, you must set the Consumer Key and Consumer Secret values. You "
-"can obtain standard Zuluru values for these by contacting %s, or you can "
-"acquire your own. If you want your own consumer values, log in to Twitter, "
-"then go to the %s, click \"Create a new application\", and follow the steps."
+"can obtain standard %s values for these by contacting %s, or you can acquire "
+"your own. If you want your own consumer values, log in to Twitter, then go "
+"to the %s, click \"Create a new application\", and follow the steps."
 msgstr ""
 
 #: /views/elements/help/settings/feature/twitter.ctp:15

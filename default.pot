@@ -2995,7 +2995,7 @@ msgid "Approved the relative request."
 msgstr ""
 
 #: /controllers/people_controller.php:1389;1452
-#: /controllers/teams_controller.php:2801;2868;2938;2982
+#: /controllers/teams_controller.php:2801;2823;2868;2938;2982
 msgid "team coaches/captains."
 msgstr ""
 
@@ -3797,7 +3797,7 @@ msgid "numbers"
 msgstr ""
 
 #: /controllers/teams_controller.php:1109
-msgid "This system creates teams through the registration process. Team creation through Zuluru is disabled. If you need a team created for some other reason (e.g. a touring team), please email "
+msgid "This system creates teams through the registration process. Team creation through %s is disabled. If you need a team created for some other reason (e.g. a touring team), please email %s with the details, or call the office."
 msgstr ""
 
 #: /controllers/teams_controller.php:1369
@@ -3954,10 +3954,6 @@ msgstr ""
 
 #: /controllers/teams_controller.php:2719;2732
 msgid "You are not allowed to invite someone to that role."
-msgstr ""
-
-#: /controllers/teams_controller.php:2823
-msgid "team coaches/captains."
 msgstr ""
 
 #: /controllers/teams_controller.php:1913
@@ -9141,7 +9137,7 @@ msgid "Place your email styles in email.css in your web root folder."
 msgstr ""
 
 #: /views/elements/help/settings/feature/pdfize.ctp:1
-msgid "PDFize is a plugin that wraps the dompdf library to enable conversion of HTML to PDF. Using it with <?php echo ZULURU; ?> requires custom installation."
+msgid "PDFize is a plugin that wraps the dompdf library to enable conversion of HTML to PDF. Using it with %s requires custom installation."
 msgstr ""
 
 #: /views/elements/help/settings/feature/pdfize.ctp:2
@@ -9186,7 +9182,7 @@ msgid "From %s you need %s (renamed to %s)."
 msgstr ""
 
 #: /views/elements/help/settings/feature/twitter.ctp:13
-msgid "After this, you must set the Consumer Key and Consumer Secret values. You can obtain standard Zuluru values for these by contacting %s, or you can acquire your own. If you want your own consumer values, log in to Twitter, then go to the %s, click \"Create a new application\", and follow the steps."
+msgid "After this, you must set the Consumer Key and Consumer Secret values. You can obtain standard %s values for these by contacting %s, or you can acquire your own. If you want your own consumer values, log in to Twitter, then go to the %s, click \"Create a new application\", and follow the steps."
 msgstr ""
 
 #: /views/elements/help/settings/feature/twitter.ctp:15
