@@ -5,14 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2015-03-06 15:39-0500\n"
-"PO-Revision-Date: 2015-03-06 15:31-0400\n"
-"Last-Translator: Zuluru Admin <admin@zuluru.org>\n"
-"Language-Team: fre (generated) <http://translate.zuluru.org/projects/zuluru/"
-"default/fre/>\n"
+"PO-Revision-Date: 2015-03-18 09:22-0400\n"
+"Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
+"Language-Team: fre (generated) "
+"<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
+"Language: fre\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fre\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 1.10-dev\n"
 
@@ -63,7 +63,7 @@ msgstr "Acceuil"
 #: /views/elements/help/people/preferences.ctp:3
 #: /views/elements/help/people/skill_level.ctp:3
 msgid "My Profile"
-msgstr ""
+msgstr "Mon profil"
 
 #: /app_controller.php:695;1109 /views/affiliates/index.ctp:45;45
 #: /views/affiliates/view.ctp:4;43;43 /views/badges/index.ctp:67;67
@@ -142,19 +142,19 @@ msgstr "Éditer"
 #: /app_controller.php:697;1111 /views/elements/help/people/preferences.ctp:3
 #: /views/people/preferences.ctp:2;9 /views/registrations/register.ctp:4
 msgid "Preferences"
-msgstr ""
+msgstr "Préférences"
 
 #: /app_controller.php:699
 msgid "Add new child"
-msgstr ""
+msgstr "Ajouter un enfant"
 
 #: /app_controller.php:701
 msgid "Link to relative"
-msgstr ""
+msgstr "Lié à un parent"
 
 #: /app_controller.php:702;1112
 msgid "Waiver history"
-msgstr ""
+msgstr "Historique de décharge"
 
 #: /app_controller.php:703 /views/people/search.ctp:26
 msgid "Change password"
@@ -162,11 +162,11 @@ msgstr "Changer le mot de passe"
 
 #: /app_controller.php:705;1113
 msgid "Upload photo"
-msgstr ""
+msgstr "Télécharger une photo"
 
 #: /app_controller.php:708
 msgid "Upload document"
-msgstr ""
+msgstr "Télécharger un document"
 
 #: /app_controller.php:764;765;766;768;773;778;779;780;781;782;783;784;785;786;787;788;789;790;976;998;1013;1071;1080;1118;1123;1125
 #: /views/elements/divisions/register.ctp:6 /views/elements/events/list.ctp:14
@@ -184,30 +184,30 @@ msgstr ""
 #: /views/registrations/unpaid.ctp:11 /views/registrations/view.ctp:20
 #: /views/registrations/waiting.ctp:12 /views/settings/registration.ctp:3
 msgid "Registration"
-msgstr ""
+msgstr "Inscription"
 
 #: /app_controller.php:765;1125 /views/events/wizard.ctp:3
 msgid "Wizard"
-msgstr ""
+msgstr "Assistant"
 
 #: /app_controller.php:766
 msgid "All events"
-msgstr ""
+msgstr "Tous les évènements"
 
 #: /app_controller.php:768;1135
 msgid "My history"
-msgstr ""
+msgstr "Mon historique"
 
 #: /app_controller.php:773;1118 /views/registrations/checkout.ctp:3
 msgid "Checkout"
-msgstr ""
+msgstr "Commander"
 
 #: /app_controller.php:778;779;780 /views/events/view.ctp:379;387
 #: /views/people/view.ctp:594 /views/preregistrations/add.ctp:2
 #: /views/preregistrations/add_to_event.ctp:4
 #: /views/preregistrations/index.ctp:2;14
 msgid "Preregistrations"
-msgstr ""
+msgstr "Pré-inscriptions"
 
 #: /app_controller.php:779;786;789;807;819;824;831;835;961;1025
 #: /views/affiliates/index.ctp:3 /views/affiliates/view.ctp:66
@@ -243,16 +243,16 @@ msgstr "Ajouter"
 
 #: /app_controller.php:781 /views/registrations/unpaid.ctp:3
 msgid "Unpaid"
-msgstr ""
+msgstr "Non-payé"
 
 #: /app_controller.php:782 /views/people/credits.ctp:4
 #: /views/registrations/credits.ctp:3
 msgid "Credits"
-msgstr ""
+msgstr "Crédits"
 
 #: /app_controller.php:783 /views/registrations/report.ctp:5
 msgid "Report"
-msgstr ""
+msgstr "Rapport"
 
 #: /app_controller.php:784;810;820;827;836;839;962;963;1089;1091
 #: /views/affiliates/edit.ctp:14 /views/badges/edit.ctp:14
@@ -282,17 +282,17 @@ msgstr "évènement"
 #: /views/questionnaires/edit.ctp:44 /views/questionnaires/index.ctp:2
 #: /views/questionnaires/view.ctp:29 /views/questions/view.ctp:25
 msgid "Questionnaires"
-msgstr ""
+msgstr "Questionnaires"
 
 #: /app_controller.php:787;789;790 /views/elements/people/rating.ctp:22
 #: /views/questionnaires/edit.ctp:34 /views/questions/add.ctp:39
 #: /views/questions/index.ctp:2
 msgid "Questions"
-msgstr ""
+msgstr "Questions"
 
 #: /app_controller.php:788;790;876
 msgid "Deactivated"
-msgstr ""
+msgstr "Désactivé"
 
 #: /app_controller.php:806;807;810;813;818;819;820;1078;1135;1140;1166;1168;1228;1230
 #: /views/divisions/tooltip.ctp:25 /views/elements/help/index.ctp:37
@@ -307,7 +307,7 @@ msgstr ""
 #: /views/teams/unassigned.ctp:2 /views/teams/view.ctp:2
 #: /views/themed/wfdfu23/teams/view.ctp:2
 msgid "Teams"
-msgstr ""
+msgstr "Équipes"
 
 #: /app_controller.php:810 /controllers/franchises_controller.php:296;309
 #: /controllers/games_controller.php:853;903;1219;1290;1387;1578;1714;1836;2003
@@ -319,14 +319,14 @@ msgstr "équipe"
 
 #: /app_controller.php:813
 msgid "Unassigned teams"
-msgstr ""
+msgstr "Équipes non-assignées"
 
 #: /app_controller.php:818;819;820;1228;1230 /views/franchises/edit.ctp:2
 #: /views/franchises/index.ctp:2 /views/franchises/letter.ctp:2
 #: /views/franchises/view.ctp:2 /views/teams/view.ctp:171
 #: /views/themed/wfdfu23/teams/view.ctp:171
 msgid "Franchises"
-msgstr ""
+msgstr "Franchises"
 
 #: /app_controller.php:820
 #: /controllers/franchises_controller.php:123;134;150;154;167;177;180;188;200;226;233;282;289;349;356
@@ -341,11 +341,11 @@ msgstr "franchise"
 #: /views/leagues/slots.ctp:4 /views/leagues/standings.ctp:2
 #: /views/leagues/summary.ctp:2 /views/leagues/view.ctp:2
 msgid "Leagues"
-msgstr ""
+msgstr "Ligues"
 
 #: /app_controller.php:826
 msgid "League summary"
-msgstr ""
+msgstr "Sommaire des ligues"
 
 #: /app_controller.php:827 /controllers/divisions_controller.php:350
 #: /controllers/leagues_controller.php:164;174;239;261;300;304;311;348;388;391;409;467;486;499;611;634;714;721
@@ -355,14 +355,14 @@ msgstr "ligue"
 
 #: /app_controller.php:832
 msgid "Map of all %s"
-msgstr ""
+msgstr "Carte de tous les %s"
 
 #: /app_controller.php:834;835;836
 #: /views/elements/help/guide/administrator/fields.ctp:7
 #: /views/regions/edit.ctp:2;33 /views/regions/index.ctp:2;7
 #: /views/regions/view.ctp:2
 msgid "Regions"
-msgstr ""
+msgstr "Régions"
 
 #: /app_controller.php:836
 #: /controllers/regions_controller.php:58;64;77;80;94;99;102;110;122
@@ -371,7 +371,7 @@ msgstr "région"
 
 #: /app_controller.php:838
 msgid "Closed facilities"
-msgstr ""
+msgstr "Établissements fermés"
 
 #: /app_controller.php:839
 #: /controllers/facilities_controller.php:110;122;139;143;190;200;203;211;261
@@ -381,14 +381,14 @@ msgstr "établissements"
 
 #: /app_controller.php:841;843;846
 msgid "Add bulk gameslots"
-msgstr ""
+msgstr "Ajouter plusieurs plages horaires"
 
 #: /app_controller.php:852;882;883;884;885
 #: /views/elements/people/search_form.ctp:30
 #: /views/people/inactive_search.ctp:27 /views/people/league_search.ctp:33
 #: /views/people/rule_search.ctp:31 /views/people/search.ctp:5
 msgid "Search"
-msgstr ""
+msgstr "Recherche"
 
 #: /app_controller.php:852;854;855;874;876;882;883;884;885;909;927;940;944;954;956;1075;1076;1077;1091
 #: /views/elements/help/index.ctp:27 /views/people/act_as.ctp:2
@@ -406,7 +406,7 @@ msgstr ""
 #: /views/people/statistics.ctp:2;16 /views/people/teams.ctp:2
 #: /views/people/view.ctp:2 /views/people/waivers.ctp:2
 msgid "People"
-msgstr ""
+msgstr "Personnes"
 
 #: /app_controller.php:854;855;874;876 /views/badges/edit.ctp:2;64
 #: /views/badges/index.ctp:2;7 /views/badges/view.ctp:2
@@ -421,61 +421,61 @@ msgstr "Badges"
 #: /views/people/nominate_badge.ctp:8
 #: /views/people/nominate_badge_reason.ctp:6
 msgid "Nominate"
-msgstr ""
+msgstr "Nominé"
 
 #: /app_controller.php:874
 msgid "Approve nominations (%d pending)"
-msgstr ""
+msgstr "Approuver les mises en candidatures (%d en attente)"
 
 #: /app_controller.php:882
 msgid "By name"
-msgstr ""
+msgstr "Par nom"
 
 #: /app_controller.php:883
 msgid "By rule"
-msgstr ""
+msgstr "Par règle"
 
 #: /app_controller.php:884
 msgid "By league"
-msgstr ""
+msgstr "Par ligue"
 
 #: /app_controller.php:885
 msgid "Inactive"
-msgstr ""
+msgstr "Inactif"
 
 #: /app_controller.php:909
 msgid "Approve new accounts (%d pending)"
-msgstr ""
+msgstr "Approuver les nouveaux comptes (%d en attente)"
 
 #: /app_controller.php:927
 msgid "Approve new photos (%d pending)"
-msgstr ""
+msgstr "Approuver les nouvelles photos (%d en attente)"
 
 #: /app_controller.php:940
 msgid "Approve new documents (%d pending)"
-msgstr ""
+msgstr "Approuver les nouveaux documents (%d en attente)"
 
 #: /app_controller.php:944
 msgid "List all"
-msgstr ""
+msgstr "Faire une liste de tous"
 
 #: /app_controller.php:956
 msgid "Bulk import"
-msgstr ""
+msgstr "Importation en vrac"
 
 #: /app_controller.php:958;959;960;961;962;963;964
 #: /views/newsletters/delivery.ctp:53 /views/newsletters/edit.ctp:67
 #: /views/newsletters/index.ctp:2
 msgid "Newsletters"
-msgstr ""
+msgstr "Bulletins"
 
 #: /app_controller.php:959
 msgid "Upcoming"
-msgstr ""
+msgstr "Futur"
 
 #: /app_controller.php:960;961;962
 msgid "Mailing lists"
-msgstr ""
+msgstr "Listes de distribution"
 
 #: /app_controller.php:962
 #: /controllers/mailing_lists_controller.php:66;72;84;95;141;144;157;162;165;172;184;203
@@ -489,18 +489,18 @@ msgstr "bulletin d'information"
 
 #: /app_controller.php:964
 msgid "All newsletters"
-msgstr ""
+msgstr "Tous les bulletins"
 
 #: /app_controller.php:968;990;1005 /views/settings/organization.ctp:3;21
 msgid "Organization"
-msgstr ""
+msgstr "Organisation"
 
 #: /app_controller.php:968;969;970;971;972;973;974;976;978;983;990;991;992;993;994;995;996;998;1000;1005;1006;1007;1008;1009;1010;1011;1013;1015;1030;1034;1036;1039;1047;1050
 #: /views/elements/help/index.ctp:50
 #: /views/elements/help/guide/administrator/players.ctp:44
 #: /views/elements/help/guide/administrator/registration.ctp:5;35
 msgid "Configuration"
-msgstr ""
+msgstr "Configuration"
 
 #: /app_controller.php:968;969;970;971;972;973;974;976;978;990;991;992;993;994;995;996;998;1000;1005;1006;1007;1008;1009;1010;1011;1013;1015
 #: /views/elements/help/guide/administrator/players.ctp:44
@@ -511,12 +511,12 @@ msgstr ""
 #: /views/settings/scoring.ctp:2 /views/settings/team.ctp:2
 #: /views/settings/user.ctp:2
 msgid "Settings"
-msgstr ""
+msgstr "Paramètres"
 
 #: /app_controller.php:969;991;1006
 #: /views/elements/help/guide/administrator/registration.ctp:5
 msgid "Features"
-msgstr ""
+msgstr "Caractéristiques"
 
 #: /app_controller.php:970;992;1007 /views/contacts/index.ctp:20
 #: /views/people/edit.ctp:275 /views/people/index.ctp:31
@@ -550,7 +550,7 @@ msgstr "Équipe"
 #: /views/elements/help/guide/administrator/players.ctp:44
 #: /views/settings/user.ctp:3
 msgid "User"
-msgstr ""
+msgstr "Utilisateur"
 
 #: /app_controller.php:973;995;1011 /controllers/people_controller.php:2776
 #: /views/settings/profile.ctp:3
@@ -561,14 +561,14 @@ msgstr "Profil"
 #: /views/games/edit.ctp:126 /views/games/view.ctp:198
 #: /views/leagues/edit.ctp:231 /views/settings/scoring.ctp:3
 msgid "Scoring"
-msgstr ""
+msgstr "Comptage des points"
 
 #: /app_controller.php:978;1000;1015 /views/people/view.ctp:636
 #: /views/registrations/edit.ctp:60 /views/registrations/register.ctp:27
 #: /views/registrations/report.ctp:64 /views/registrations/unpaid.ctp:14
 #: /views/registrations/view.ctp:58;78
 msgid "Payment"
-msgstr ""
+msgstr "Paiement"
 
 #: /app_controller.php:983 /views/affiliates/add_manager.ctp:4
 #: /views/affiliates/edit.ctp:2 /views/affiliates/index.ctp:2;7
@@ -576,31 +576,31 @@ msgstr ""
 #: /views/people/add_relative.ctp:72 /views/people/edit.ctp:257
 #: /views/users/create_account.ctp:167
 msgid "Affiliates"
-msgstr ""
+msgstr "Membres"
 
 #: /app_controller.php:1024;1025;1042;1043 /views/elements/tasks/splash.ctp:4
 #: /views/tasks/edit.ctp:2 /views/tasks/index.ctp:2;7 /views/tasks/view.ctp:2
 msgid "Tasks"
-msgstr ""
+msgstr "Tâches"
 
 #: /app_controller.php:1030
 msgid "Permissions"
-msgstr ""
+msgstr "Permissions"
 
 #: /app_controller.php:1034 /views/holidays/index.ctp:2;7
 msgid "Holidays"
-msgstr ""
+msgstr "Congés"
 
 #: /app_controller.php:1036
 msgid "Upload types"
-msgstr ""
+msgstr "Types de téléchargement"
 
 #: /app_controller.php:1039 /views/elements/help/index.ctp:35
 #: /views/elements/help/guide/administrator/registration.ctp:16
 #: /views/people/view.ctp:712 /views/waivers/edit.ctp:2
 #: /views/waivers/index.ctp:2;7 /views/waivers/view.ctp:2
 msgid "Waivers"
-msgstr ""
+msgstr "Décharges"
 
 #: /app_controller.php:1042 /views/categories/edit.ctp:2;35
 #: /views/categories/index.ctp:2;7 /views/categories/view.ctp:2
@@ -609,38 +609,38 @@ msgstr "Catégories"
 
 #: /app_controller.php:1043
 msgid "Download All"
-msgstr ""
+msgstr "Télécharger tous"
 
 #: /app_controller.php:1047 /views/contacts/edit.ctp:2
 #: /views/contacts/index.ctp:2 /views/contacts/message.ctp:2
 #: /views/people/tooltip.ctp:89 /views/people/view.ctp:352
 msgid "Contacts"
-msgstr ""
+msgstr "Contacts"
 
 #: /app_controller.php:1050
 msgid "Clear cache"
-msgstr ""
+msgstr "Effacer la mémoire cache"
 
 #: /app_controller.php:1053;1055;1057;1058;1059;1060;1062;1065;1068;1069;1070;1071
 #: /views/help/view.ctp:25
 msgid "Help"
-msgstr ""
+msgstr "Aide"
 
 #: /app_controller.php:1055
 msgid "Contact us"
-msgstr ""
+msgstr "Contactez-nous"
 
 #: /app_controller.php:1057
 msgid "Help index"
-msgstr ""
+msgstr "Répertoire d'aide"
 
 #: /app_controller.php:1058
 msgid "New users"
-msgstr ""
+msgstr "Nouveaux utilisateurs"
 
 #: /app_controller.php:1059
 msgid "Advanced users"
-msgstr ""
+msgstr "Utilisateurs avancés"
 
 #: /app_controller.php:1060 /views/elements/help/index.ctp:8
 #: /views/teams/tooltip.ctp:26
@@ -651,48 +651,48 @@ msgstr "Entraineur(e)s / Capitaines"
 #: /views/elements/divisions/details.ctp:2 /views/elements/help/index.ctp:10
 #: /views/leagues/tooltip.ctp:13
 msgid "Coordinators"
-msgstr ""
+msgstr "Coordonnateurs"
 
 #: /app_controller.php:1065
 msgid "Site setup and configuration"
-msgstr ""
+msgstr "Configuration et mise sur pied du site"
 
 #: /app_controller.php:1065;1068;1069;1070;1071
 #: /views/elements/help/index.ctp:13
 msgid "Administrators"
-msgstr ""
+msgstr "Administrateurs"
 
 #: /app_controller.php:1068
 msgid "Player management"
-msgstr ""
+msgstr "Gestion de joueur"
 
 #: /app_controller.php:1069
 msgid "League management"
-msgstr ""
+msgstr "Gestion de ligue"
 
 #: /app_controller.php:1070
 msgid "%s management"
-msgstr ""
+msgstr "gestion %d"
 
 #: /app_controller.php:1075;1076;1077;1078;1080
 #: /views/elements/help/guide/administrator/registration.ctp:26
 #: /views/people/statistics.ctp:3 /views/registrations/statistics.ctp:3
 #: /views/teams/statistics.ctp:3
 msgid "Statistics"
-msgstr ""
+msgstr "Statistiques"
 
 #: /app_controller.php:1076 /views/elements/leagues/actions.ctp:78
 #: /views/leagues/participation.ctp:4;8;50
 msgid "Participation"
-msgstr ""
+msgstr "Participation"
 
 #: /app_controller.php:1077
 msgid "Retention"
-msgstr ""
+msgstr "Rétention"
 
 #: /app_controller.php:1085
 msgid "Reset password"
-msgstr ""
+msgstr "Réinitialisation du mot de passe"
 
 #: /app_controller.php:1089;1091 /controllers/people_controller.php:1047
 #: /controllers/users_controller.php:107
@@ -701,7 +701,7 @@ msgstr "Compte"
 
 #: /app_controller.php:1097
 msgid "Logout"
-msgstr ""
+msgstr "Fermer la session"
 
 #: /app_controller.php:1099 /views/users/login.ctp:2;33
 msgid "Login"
@@ -709,7 +709,7 @@ msgstr "Connexion"
 
 #: /app_controller.php:1123;1140
 msgid "History"
-msgstr ""
+msgstr "Historique"
 
 #: /app_controller.php:1184;1292 /views/divisions/schedule.ctp:4
 #: /views/divisions/tooltip.ctp:38 /views/elements/divisions/actions.ctp:40;40
@@ -718,7 +718,7 @@ msgstr ""
 #: /views/leagues/tooltip.ctp:30;43 /views/teams/schedule.ctp:4
 #: /views/teams/tooltip.ctp:34;53
 msgid "Schedule"
-msgstr ""
+msgstr "Horaire"
 
 #: /app_controller.php:1185;1293 /views/divisions/standings.ctp:4
 #: /views/divisions/tooltip.ctp:40 /views/elements/divisions/actions.ctp:45;45
@@ -726,7 +726,7 @@ msgstr ""
 #: /views/elements/teams/actions.ctp:35;35 /views/leagues/standings.ctp:4
 #: /views/leagues/tooltip.ctp:32;45 /views/teams/tooltip.ctp:36;55
 msgid "Standings"
-msgstr ""
+msgstr "Classements"
 
 #: /app_controller.php:1189
 #: /views/elements/games/consolidated_schedule.ctp:40;53
@@ -737,15 +737,15 @@ msgstr ""
 #: /views/team_events/view.ctp:118 /views/teams/edit.ctp:47
 #: /views/teams/schedule.ctp:28
 msgid "Attendance"
-msgstr ""
+msgstr "Présence"
 
 #: /app_controller.php:1194
 msgid "Join team"
-msgstr ""
+msgstr "Se joindre à l'équipe"
 
 #: /app_controller.php:1203
 msgid "Player emails"
-msgstr ""
+msgstr "Courriels des joueurs"
 
 #: /app_controller.php:1204;1241 /views/affiliates/edit.ctp:33
 #: /views/affiliates/index.ctp:55;55 /views/badges/edit.ctp:68
@@ -788,11 +788,11 @@ msgstr "Supprimer"
 
 #: /app_controller.php:1209
 msgid "Add player"
-msgstr ""
+msgstr "Ajouter un joueur"
 
 #: /app_controller.php:1212 /views/teams/move.ctp:4
 msgid "Move"
-msgstr ""
+msgstr "Déplacer"
 
 #: /app_controller.php:1215 /views/divisions/csv/spirit.ctp:11
 #: /views/elements/divisions/actions.ctp:89
@@ -802,7 +802,7 @@ msgstr ""
 #: /views/elements/teams/actions.ctp:89 /views/teams/schedule.ctp:25
 #: /views/teams/spirit.ctp:3
 msgid "Spirit"
-msgstr ""
+msgstr "Esprit sportif"
 
 #: /app_controller.php:1218;1299 /views/divisions/stats.ctp:4
 #: /views/elements/divisions/actions.ctp:51;51
@@ -811,27 +811,27 @@ msgstr ""
 #: /views/leagues/stats.ctp:4 /views/teams/stats.ctp:4
 #: /views/teams/tooltip.ctp:39
 msgid "Stats"
-msgstr ""
+msgstr "Statistiques"
 
 #: /app_controller.php:1219;1321;1324
 #: /views/elements/people/search_results.ctp:105 /views/people/index.ctp:106
 msgid "Download"
-msgstr ""
+msgstr "Télécharger"
 
 #: /app_controller.php:1239 /views/franchises/index.ctp:74;74
 #: /views/franchises/letter.ctp:72;72 /views/franchises/view.ctp:52;52
 msgid "Add Team"
-msgstr ""
+msgstr "Ajouter une équipe"
 
 #: /app_controller.php:1240 /views/franchises/add_owner.ctp:5;10
 #: /views/franchises/index.ctp:82 /views/franchises/letter.ctp:80
 #: /views/franchises/view.ctp:60
 msgid "Add an Owner"
-msgstr ""
+msgstr "Ajouter un propriétaire"
 
 #: /app_controller.php:1296 /views/divisions/scores.ctp:4
 msgid "Scores"
-msgstr ""
+msgstr "Points"
 
 #: /app_controller.php:1303 /views/elements/divisions/actions.ctp:84;84
 #: /views/schedules/confirm.ctp:4 /views/schedules/crossover.ctp:4
@@ -839,23 +839,23 @@ msgstr ""
 #: /views/schedules/exclude.ctp:4 /views/schedules/pools.ctp:4
 #: /views/schedules/reseed.ctp:4 /views/schedules/type.ctp:4
 msgid "Add Games"
-msgstr ""
+msgstr "Ajouter des parties"
 
 #: /app_controller.php:1305 /views/elements/divisions/actions.ctp:78;78
 msgid "Approve scores"
-msgstr ""
+msgstr "Approuver le pointage"
 
 #: /app_controller.php:1312
 msgid "%s distribution"
-msgstr ""
+msgstr "%s distribution"
 
 #: /app_controller.php:1313
 msgid "%s availability"
-msgstr ""
+msgstr "%s disponibilités"
 
 #: /app_controller.php:1314
 msgid "Status report"
-msgstr ""
+msgstr "Rapport de situation"
 
 #: /app_controller.php:1316
 msgid "All stars"
@@ -863,27 +863,27 @@ msgstr ""
 
 #: /app_controller.php:1318
 msgid "Captain emails"
-msgstr ""
+msgstr "Adresses courriels des capitaines"
 
 #: /app_controller.php:1320 /views/divisions/spirit.ctp:4;8
 msgid "Spirit Report"
-msgstr ""
+msgstr "Rapport d'esprit sportif"
 
 #: /app_controller.php:1326
 msgid "Adjust seeds"
-msgstr ""
+msgstr "Ajuster le classement"
 
 #: /app_controller.php:1329
 msgid "Add coordinator"
-msgstr ""
+msgstr "Ajouter un coordonnateur"
 
 #: /app_controller.php:1344
 msgid "View bookings"
-msgstr ""
+msgstr "Afficher les réservations"
 
 #: /app_controller.php:1346
 msgid "Add Game Slot"
-msgstr ""
+msgstr "Ajouter une plage horraire"
 
 #: /app_controller.php:1347 /views/affiliates/edit.ctp:14
 #: /views/badges/edit.ctp:14 /views/categories/edit.ctp:14
@@ -900,11 +900,11 @@ msgstr ""
 #: /views/team_events/edit.ctp:15 /views/upload_types/edit.ctp:14
 #: /views/waivers/edit.ctp:14
 msgid "Edit %s"
-msgstr ""
+msgstr "Modifier %s"
 
 #: /app_controller.php:1348
 msgid "Edit Layout"
-msgstr ""
+msgstr "Modifier la mise en page"
 
 #: /app_controller.php:1569
 msgid "The search terms used are too general. Please be more specific."
@@ -970,45 +970,50 @@ msgstr "Esprit sportif > Plus-moins > Tête à tête > Points marqués > Défait
 
 #: /config/options.php:189
 msgid "10: High calibre touring player (team was top 4 at nationals)"
-msgstr ""
+msgstr "10: Joueur de tournoi haut calibre (équipe du top 4 aux nationaux)"
 
 #: /config/options.php:190
 msgid "9: Medium calibre touring player"
-msgstr ""
+msgstr "9: Joueur de tournoi de calibre intermédiaire"
 
 #: /config/options.php:191
 msgid "8: Key player in competitive league, or lower calibre touring player"
 msgstr ""
+"8: Joueur clé dans la ligue compétitive, ou joueur de tournoi de calibre "
+"moins élevé"
 
 #: /config/options.php:192
 msgid "7: Competitive league player, minimal/no touring experience"
-msgstr ""
+msgstr "7: Joueur de ligue compétitive, peu ou pas d'expérience de tournoi"
 
 #: /config/options.php:193
 msgid ""
 "6: Key player in intermediate league, or lower player in competitive league"
 msgstr ""
+"6: Joueur clé dans une ligue intermédiarie ou joueur d'une ligue compétitive"
 
 #: /config/options.php:194
 msgid "5: Comfortable in intermediate league"
-msgstr ""
+msgstr "5: Confortable dans une ligue intermédiaire"
 
 #: /config/options.php:195
 msgid ""
 "4: Key player in recreational league, or lower player in intermediate league"
 msgstr ""
+"4: Joueur clé dans une ligue récréative ou joueur d'une ligue intermédiaire"
 
 #: /config/options.php:196
 msgid "3: Comfortable in recreational league"
-msgstr ""
+msgstr "3: Confortable dans une ligue récréative"
 
 #: /config/options.php:197
 msgid "2: Beginner, minimal experience but athletic with sports background"
 msgstr ""
+"2: Débutant peu ou pas d'expérience, mais de bonnes qualités athlétiques"
 
 #: /config/options.php:198
 msgid "1: Absolute Beginner"
-msgstr ""
+msgstr "1: Débutant"
 
 #: /config/options.php:202
 msgid "Captain"
@@ -1036,15 +1041,15 @@ msgstr "Ne fait pas partie de l'équipe"
 
 #: /config/options.php:211
 msgid "Players are invited and must accept"
-msgstr ""
+msgstr "Les joueurs sont invités et doivent accepter"
 
 #: /config/options.php:212
 msgid "Players are added directly"
-msgstr ""
+msgstr "Les joueurs sont ajoutés directement"
 
 #: /config/options.php:216 /views/divisions/add_coordinator.ctp:10
 msgid "Coordinator"
-msgstr ""
+msgstr "Coordonnateur"
 
 #: /config/options.php:255
 msgid "Nobody"
@@ -1060,11 +1065,11 @@ msgstr "Administrateurs"
 
 #: /config/options.php:261
 msgid "Canadian"
-msgstr ""
+msgstr "Canadien"
 
 #: /config/options.php:262
 msgid "USA"
-msgstr ""
+msgstr "E-U"
 
 #: /config/options.php:271
 msgid "Full"
@@ -1072,31 +1077,31 @@ msgstr "Complet"
 
 #: /config/options.php:272
 msgid "Introductory"
-msgstr ""
+msgstr "Préliminaire"
 
 #: /config/options.php:278
 msgid "Fixed dates"
-msgstr ""
+msgstr "Dates fixes"
 
 #: /config/options.php:279
 msgid "A fixed duration"
-msgstr ""
+msgstr "Une durée fixe"
 
 #: /config/options.php:280
 msgid "Duration of the event"
-msgstr ""
+msgstr "Durée de l'évènement"
 
 #: /config/options.php:281 /views/people/waivers.ctp:49
 msgid "Never expires"
-msgstr ""
+msgstr "N'expires jamais"
 
 #: /config/options.php:316
 msgid "Run-time determination"
-msgstr ""
+msgstr "Détermination d'exécution"
 
 #: /config/options.php:317
 msgid "Determined by game outcomes"
-msgstr ""
+msgstr "Determiné par le résultat de la partie"
 
 #: /config/options.php:318
 msgid "Determined by roster status"
