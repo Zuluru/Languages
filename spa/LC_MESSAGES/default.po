@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zuluru\n"
 "POT-Creation-Date: 2015-03-06 15:39-0500\n"
-"PO-Revision-Date: 2015-03-06 15:32-0400\n"
-"Last-Translator: Zuluru Admin <admin@zuluru.org>\n"
-"Language-Team: spa (generated) <http://translate.zuluru.org/projects/zuluru/"
-"default/spa/>\n"
+"PO-Revision-Date: 2015-03-19 19:12-0400\n"
+"Last-Translator: Luis Arturo Ramos Zapata <luisarturoramos@gmail.com>\n"
+"Language-Team: spa (generated) "
+"<http://translate.zuluru.org/projects/zuluru/default/spa/>\n"
+"Language: spa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: spa\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 1.10-dev\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -144,15 +144,16 @@ msgstr "Preferencias"
 
 #: /app_controller.php:699
 msgid "Add new child"
-msgstr ""
+msgstr "Agregar niño"
 
 #: /app_controller.php:701
+#, fuzzy
 msgid "Link to relative"
-msgstr ""
+msgstr "Ir a relación"
 
 #: /app_controller.php:702;1112
 msgid "Waiver history"
-msgstr ""
+msgstr "Borrar historial"
 
 #: /app_controller.php:703 /views/people/search.ctp:26
 #, fuzzy
@@ -161,11 +162,11 @@ msgstr "Cambiar contraseña"
 
 #: /app_controller.php:705;1113
 msgid "Upload photo"
-msgstr ""
+msgstr "Subir foto"
 
 #: /app_controller.php:708
 msgid "Upload document"
-msgstr ""
+msgstr "Subir archivo"
 
 #: /app_controller.php:764;765;766;768;773;778;779;780;781;782;783;784;785;786;787;788;789;790;976;998;1013;1071;1080;1118;1123;1125
 #: /views/elements/divisions/register.ctp:6 /views/elements/events/list.ctp:14
@@ -191,11 +192,11 @@ msgstr "Formado Wizard"
 
 #: /app_controller.php:766
 msgid "All events"
-msgstr ""
+msgstr "Todos los eventos"
 
 #: /app_controller.php:768;1135
 msgid "My history"
-msgstr ""
+msgstr "Mi historial"
 
 #: /app_controller.php:773;1118 /views/registrations/checkout.ctp:3
 msgid "Checkout"
@@ -263,7 +264,7 @@ msgstr "Reporte"
 #: /views/tasks/edit.ctp:14 /views/team_events/edit.ctp:15
 #: /views/upload_types/edit.ctp:14 /views/waivers/edit.ctp:14
 msgid "Create %s"
-msgstr ""
+msgstr "Crear %s"
 
 #: /app_controller.php:784
 #: /controllers/events_controller.php:182;224;268;272;280;316;331;334;345;382;401;466
@@ -291,7 +292,7 @@ msgstr "Preguntas"
 
 #: /app_controller.php:788;790;876
 msgid "Deactivated"
-msgstr ""
+msgstr "Desactivado"
 
 #: /app_controller.php:806;807;810;813;818;819;820;1078;1135;1140;1166;1168;1228;1230
 #: /views/divisions/tooltip.ctp:25 /views/elements/help/index.ctp:37
@@ -318,7 +319,7 @@ msgstr "equipo"
 
 #: /app_controller.php:813
 msgid "Unassigned teams"
-msgstr ""
+msgstr "Equipo sin asignar"
 
 #: /app_controller.php:818;819;820;1228;1230 /views/franchises/edit.ctp:2
 #: /views/franchises/index.ctp:2 /views/franchises/letter.ctp:2
@@ -344,7 +345,7 @@ msgstr "Ligas"
 
 #: /app_controller.php:826
 msgid "League summary"
-msgstr ""
+msgstr "Resumen de la liga"
 
 #: /app_controller.php:827 /controllers/divisions_controller.php:350
 #: /controllers/leagues_controller.php:164;174;239;261;300;304;311;348;388;391;409;467;486;499;611;634;714;721
@@ -354,7 +355,7 @@ msgstr "liga"
 
 #: /app_controller.php:832
 msgid "Map of all %s"
-msgstr ""
+msgstr "Mapa de todos los %s"
 
 #: /app_controller.php:834;835;836
 #: /views/elements/help/guide/administrator/fields.ctp:7
@@ -370,7 +371,7 @@ msgstr "región"
 
 #: /app_controller.php:838
 msgid "Closed facilities"
-msgstr ""
+msgstr "Instalaciones cerradas"
 
 #: /app_controller.php:839
 #: /controllers/facilities_controller.php:110;122;139;143;190;200;203;211;261
@@ -380,7 +381,7 @@ msgstr "instalaciones"
 
 #: /app_controller.php:841;843;846
 msgid "Add bulk gameslots"
-msgstr ""
+msgstr "Añadir espacio para juego"
 
 #: /app_controller.php:852;882;883;884;885
 #: /views/elements/people/search_form.ctp:30
@@ -424,35 +425,35 @@ msgstr "Nominado"
 
 #: /app_controller.php:874
 msgid "Approve nominations (%d pending)"
-msgstr ""
+msgstr "Aprobar la nominación (%d pendiente)"
 
 #: /app_controller.php:882
 msgid "By name"
-msgstr ""
+msgstr "Por nombre"
 
 #: /app_controller.php:883
 msgid "By rule"
-msgstr ""
+msgstr "Por regla"
 
 #: /app_controller.php:884
 msgid "By league"
-msgstr ""
+msgstr "Por liga"
 
 #: /app_controller.php:885
 msgid "Inactive"
-msgstr ""
+msgstr "Inactivo"
 
 #: /app_controller.php:909
 msgid "Approve new accounts (%d pending)"
-msgstr ""
+msgstr "Aprobar cuenta nueva (%d pendiente)"
 
 #: /app_controller.php:927
 msgid "Approve new photos (%d pending)"
-msgstr ""
+msgstr "Aprobar nuevas fotos (%d pendiente)"
 
 #: /app_controller.php:940
 msgid "Approve new documents (%d pending)"
-msgstr ""
+msgstr "Aprobar nuevos archivos (%d pendiente)"
 
 #: /app_controller.php:944
 msgid "List all"
