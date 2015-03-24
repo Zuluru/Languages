@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2015-03-06 15:39-0500\n"
-"PO-Revision-Date: 2015-03-18 09:22-0400\n"
+"PO-Revision-Date: 2015-03-24 11:37-0400\n"
 "Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
@@ -859,7 +859,7 @@ msgstr "Rapport de situation"
 
 #: /app_controller.php:1316
 msgid "All stars"
-msgstr ""
+msgstr "Match des étoiles"
 
 #: /app_controller.php:1318
 msgid "Captain emails"
@@ -1109,7 +1109,7 @@ msgstr ""
 
 #: /config/options.php:319
 msgid "Determined by registrations"
-msgstr ""
+msgstr "Déterminé par les inscriptions"
 
 #: /config/options.php:320
 msgid "Aggregates multiple badges, e.g. \"5x\""
@@ -1117,11 +1117,11 @@ msgstr ""
 
 #: /config/options.php:321
 msgid "Nominated by anyone (must be approved)"
-msgstr ""
+msgstr "Nominé par n'importe qui (doit être approuvé)"
 
 #: /config/options.php:322
 msgid "Assigned by an admin"
-msgstr ""
+msgstr "Assigné par un administrateur"
 
 #: /config/options.php:326
 msgid "Admin only (same locations as high)"
@@ -1143,11 +1143,11 @@ msgstr "Aucun"
 
 #: /config/options.php:354
 msgid "Round Robin"
-msgstr ""
+msgstr "Match à la ronde"
 
 #: /config/options.php:355
 msgid "Ratings Ladder"
-msgstr ""
+msgstr "Échelle de classement"
 
 #: /config/options.php:357
 msgid "Tournament"
@@ -1155,7 +1155,7 @@ msgstr "Tournoi"
 
 #: /config/options.php:363
 msgid "Wager System"
-msgstr ""
+msgstr "Système de pari"
 
 #: /config/options.php:364
 msgid "USA Ultimate College"
@@ -18170,11 +18170,11 @@ msgstr "annulé"
 
 #: /config/options.php:216
 msgid "forfeit"
-msgstr ""
+msgstr "Déclarer forfait"
 
 #: /config/options.php:244
 msgid "Trial"
-msgstr ""
+msgstr "Essai"
 
 #: /config/options.php:286
 msgid "runtime"
@@ -18186,7 +18186,7 @@ msgstr ""
 
 #: /config/options.php:292
 msgid "assigned"
-msgstr ""
+msgstr "assigné"
 
 #: /config/options.php:339
 msgid "Manual"
@@ -18206,11 +18206,11 @@ msgstr "mise à jour"
 
 #: /controllers/games_controller.php:781
 msgid "The score for this game has already been finalized."
-msgstr ""
+msgstr "Le résultat de cette partie a déjà été finalisé."
 
 #: /controllers/games_controller.php:781
 msgid "A score has already been submitted for this game."
-msgstr ""
+msgstr "Un résultat a déjà été soumis pour cette partie."
 
 #: /controllers/schedules_controller.php:1071,1073
 msgid "Published"
@@ -18242,11 +18242,11 @@ msgstr "Création ou modification de l'horaire"
 
 #: /controllers/components/rule_member_type.php:124
 msgid "have a membership type"
-msgstr ""
+msgstr "Avoir un type d'adhésion"
 
 #: /controllers/components/rule_member_type.php:124
 msgid "have a past membership type"
-msgstr ""
+msgstr "Avoir un type d'adhésion passée"
 
 #: /controllers/components/rule_member_type.php:124
 msgid "have an upcoming membership type"
@@ -18261,6 +18261,8 @@ msgid ""
 "The original Leaguerunner spirit survey, developed by the Ottawa Carleton "
 "Ultimate Association."
 msgstr ""
+"Le questionnaire original d'esprit sportif de Leaguerunner, mise au point "
+"par Ottawa Carleton Ultimate Association."
 
 #: /controllers/components/spirit_team.php:13
 #: /controllers/components/spirit_ocua_team.php:13
@@ -18430,7 +18432,7 @@ msgstr "mauvais"
 
 #: /controllers/components/spirit_ocua_team.php:77
 msgid "Overall"
-msgstr "global"
+msgstr "Dans l'ensemble"
 
 #: /controllers/components/spirit_ocua_team.php:78
 msgid ""
@@ -18499,7 +18501,7 @@ msgstr "Par exemple: Ils évitent les fautes, contacts et jeux dangeureux."
 #: /controllers/components/spirit_wfdf.php:71;72
 #: /controllers/components/spirit_modified_wfdf.php:34;35
 msgid "Fair-Mindedness"
-msgstr ""
+msgstr "Esprit modéré"
 
 #: /controllers/components/spirit_wfdf.php:73
 msgid ""
@@ -18527,6 +18529,10 @@ msgid ""
 "They left an overall positive impression during and after the game, e.g. "
 "during the Spirit circle."
 msgstr ""
+"Par exemple: Ils se sont introduits. Ils ont communiqué sans mépris ou "
+"langage agressif. Ils nous ont complimenté pour nos bons jeux. Ils nous ont "
+"laissés, en général, une impression positive pendant et après la partie, "
+"p.e. durant le cercle d'esprit sportif."
 
 #: /controllers/components/spirit_wfdf.php:129
 msgid "Comparison"
@@ -18584,6 +18590,10 @@ msgid ""
 "willing to believe calls were made in good faith. Were on time. Kept to time "
 "limits for discussions, time-outs, between points, etc."
 msgstr ""
+"Ils ont communiqué de façon objective sans langage agressif. Ils étaient "
+"prêts à croire que les appels étaient fait de bonne foi. Ils étaient à "
+"l'heure. Ils ont respecté les limites de temps pour les discussions, les "
+"temps morts, entre les points, etc."
 
 #: /controllers/components/spirit_modified_wfdf.php:19;40;61;82;103;124;145;166
 msgid "Below Average"
