@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zuluru\n"
 "POT-Creation-Date: 2015-04-09 15:35-0400\n"
-"PO-Revision-Date: 2015-04-10 21:42-0400\n"
+"PO-Revision-Date: 2015-05-04 19:56-0400\n"
 "Last-Translator: Luis Arturo Ramos Zapata <luisarturoramos@gmail.com>\n"
 "Language-Team: spa (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/spa/>\n"
@@ -145,9 +145,8 @@ msgid "Add new child"
 msgstr "Agregar niño"
 
 #: /app_controller.php:700
-#, fuzzy
 msgid "Link to relative"
-msgstr "Ir a relación"
+msgstr "Vincular"
 
 #: /app_controller.php:701;1066
 msgid "Waiver history"
@@ -185,7 +184,7 @@ msgstr "Registro"
 
 #: /app_controller.php:717;1079 /views/events/wizard.ctp:3
 msgid "Wizard"
-msgstr "Formado Wizard"
+msgstr "Formato Wizard"
 
 #: /app_controller.php:718
 msgid "All events"
@@ -19584,38 +19583,44 @@ msgid ""
 "They tried to avoid fouls and violations. Their marks were legal. They did "
 "not commit off side violations, etc."
 msgstr ""
+"Trataron de evitar las faltas y las violaciones. Todas marcas fueron "
+"legales. No cometieron violaciones de fuera de lugar, etc."
 
 #: /controllers/components/spirit_modified_wfdf.php:140
 msgid "Knowledge of the Rules"
-msgstr ""
+msgstr "Conocimiento de las Reglas"
 
 #: /controllers/components/spirit_modified_wfdf.php:141
 msgid ""
 "They knew the rules and/or had the willingness to learn and teach them. They "
 "did not make unjustified calls."
 msgstr ""
+"Conocían el reglamento y/o estaban dispuestos a aprenderlo y enseñarlo. No "
+"hicieron llamados injustificados."
 
 #: /controllers/components/spirit_modified_wfdf.php:161
 msgid "Encouraging Enjoyment of the Game"
-msgstr ""
+msgstr "Alentar Disfrutar el Juego"
 
 #: /controllers/components/spirit_modified_wfdf.php:162
 msgid ""
 "They played the game in a way that made the game enjoyable for all those "
 "involved."
 msgstr ""
+"Jugaron de una manera que hicieron el juego agradable para todos los "
+"involucrados."
 
 #: /views/elements/divisions/details.ctp:75 /views/events/view.ctp:99
 msgid "Co-ed"
-msgstr ""
+msgstr "Mixto"
 
 #: /views/elements/divisions/details.ctp:75 /views/events/view.ctp:99
 msgid "Mens"
-msgstr ""
+msgstr "Hombres"
 
 #: /views/elements/divisions/details.ctp:75 /views/events/view.ctp:99
 msgid "Womens"
-msgstr ""
+msgstr "Mujeres"
 
 #~ msgid "games"
 #~ msgstr "partidos"
