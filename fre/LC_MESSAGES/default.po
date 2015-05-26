@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2015-04-09 15:35-0400\n"
-"PO-Revision-Date: 2015-04-28 10:58-0400\n"
-"Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
+"PO-Revision-Date: 2015-05-26 17:34-0400\n"
+"Last-Translator: Nick Zampieri <nick.zampieri@hotmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -5350,7 +5350,7 @@ msgstr "Vous ne pouvez pas choisir la \"---\" comme type de dépendance !"
 
 #: /models/game.php:1312;1335
 msgid "You cannot choose the \"---\" as the game dependency!"
-msgstr " Vous ne pouvez pas choisir la \"---\" comme la dépendance du match !"
+msgstr "Vous ne pouvez pas choisir la \"---\" comme la dépendance du match !"
 
 #: /models/game.php:1324
 msgid "Winner of game %s was selected more than once!"
@@ -5937,7 +5937,7 @@ msgstr ""
 
 #: /views/all/splash.ctp:250;254;258;263
 msgid "select a specific affiliate to view"
-msgstr " sélectionner une affilié spécifique a voir"
+msgstr "sélectionner une affilié spécifique a voir"
 
 #: /views/all/splash.ctp:252;256
 msgid ""
@@ -6190,7 +6190,7 @@ msgstr ""
 
 #: /views/categories/edit.ctp:39 /views/categories/view.ctp:76
 msgid "Delete Category"
-msgstr "Delete Category"
+msgstr "Supprimer la catégorie"
 
 #: /views/categories/index.ctp:59 /views/categories/view.ctp:80
 msgid "Add Category"
@@ -6212,7 +6212,7 @@ msgstr "Liste de catégories"
 
 #: /views/categories/view.ctp:73
 msgid "Edit Category"
-msgstr "Edit Category"
+msgstr "Modifier la catégorie"
 
 #: /views/contacts/edit.ctp:14
 msgid "Contact Details"
@@ -6250,7 +6250,7 @@ msgstr ""
 
 #: /views/contacts/index.ctp:77;77
 msgid "Add Contact"
-msgstr "Add Contact"
+msgstr "Ajouter un Contact"
 
 #: /views/contacts/message.ctp:3
 #: /views/elements/payments/invoices/invoice.ctp:66
@@ -7281,7 +7281,7 @@ msgstr ""
 #: /views/elements/events/list.ctp:15 /views/events/index.ctp:52
 #: /views/events/view.ctp:169;206 /views/registrations/checkout.ctp:173
 msgid "Cost"
-msgstr "Cost"
+msgstr "Cout"
 
 #: /views/elements/events/list.ctp:16 /views/events/index.ctp:53
 #: /views/prices/edit.ctp:48
@@ -12061,7 +12061,7 @@ msgstr ""
 #: /views/events/index.ctp:187;187;230;230 /views/leagues/summary.ctp:3
 #: /views/registrations/summary.ctp:4
 msgid "Summary"
-msgstr "Summary"
+msgstr "Sommaire"
 
 #: /views/events/view.ctp:40
 msgid "Event Type"
