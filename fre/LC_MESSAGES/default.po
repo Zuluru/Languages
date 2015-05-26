@@ -1212,14 +1212,12 @@ msgid "Assigned by an admin"
 msgstr "Assigné par un administrateur"
 
 #: /config/options.php:371
-#, fuzzy
 msgid "Admin only (same locations as high)"
-msgstr "Administrateur seulement"
+msgstr "Administrateur seulement (mêmes endroits que haute)"
 
 #: /config/options.php:372
-#, fuzzy
 msgid "High (profile, pop-ups, team rosters)"
-msgstr "Élevé (profil,"
+msgstr "Haute (profil, pop-ups, membres d'équipes)"
 
 #: /config/options.php:373
 msgid "Low (profile only)"
@@ -1297,7 +1295,7 @@ msgstr "Leaguerunner modifié"
 
 #: /config/options.php:426
 msgid "Sushi Suzuki's Alternate"
-msgstr ""
+msgstr "Remplaçant de Sushi Suzuki"
 
 #: /config/options.php:431
 msgid "Chase Paymentech"
@@ -4854,6 +4852,8 @@ msgstr "A du s'arrêter avec %s encore a organiser: n'a pas pu assigné %s"
 #: /controllers/components/league_type_roundrobin.php:279
 msgid "Had to stop with %s sets left to schedule: no more game dates available"
 msgstr ""
+"A dû s'arrêter avec les ensembles de %s a laissé pour planifier : plus aucun "
+"dates de matchs disponibles"
 
 #: /controllers/components/league_type_tournament.php:40
 msgid "single pool with all teams"
@@ -4888,18 +4888,24 @@ msgid ""
 "set of blank unscheduled games for all teams in the division (%d teams, %d "
 "games)"
 msgstr ""
+"ensemble de matchs vide non programmée pour toutes les équipes de la "
+"division (%d équipes, %d matchs)"
 
 #: /controllers/components/league_type_tournament.php:87
 msgid ""
 "set of blank unscheduled games for all but one team in the division (%d "
 "teams, %d games)"
 msgstr ""
+"ensemble de matchs vide non programmée pour tous, sauf une équipe dans la "
+"division (%d équipes, %d matchs)"
 
 #: /controllers/components/league_type_tournament.php:88
 msgid ""
 "set of blank unscheduled games for all teams in the division, one team will "
 "have a double-header (%d teams, %d games)"
 msgstr ""
+"ensemble de matchs vide non programmée pour toutes les équipes de la "
+"division, une équipe aura un programme-double (%d équipes, %d matchs)"
 
 #: /controllers/components/league_type_tournament.php:94
 msgid "round-robin with results from prior-stage matchups carried forward"
@@ -5024,7 +5030,7 @@ msgstr "Ronde"
 
 #: /controllers/components/league_type_tournament.php:943
 msgid "Duplicate game id, check the scheduling algorithm"
-msgstr ""
+msgstr "ID de Match en duplicata, vérifiez l'algorithme de planification"
 
 #: /controllers/components/league_type_tournament.php:956
 msgid "Unknown home dependency type \"%s\""
@@ -5057,7 +5063,7 @@ msgstr ""
 
 #: /controllers/components/rule_and.php:17
 msgid "Components of AND rules must be separated by commas."
-msgstr ""
+msgstr "Composants de ET règles doivent être séparés par des virgules."
 
 #: /controllers/components/rule_and.php:58
 msgid " AND "
@@ -5180,7 +5186,7 @@ msgstr "A signé la décharge"
 
 #: /controllers/components/rule_tuc_playoffs.php:26
 msgid "does not have a unique affiliated team in the correct league"
-msgstr ""
+msgstr "n'a pas une équipe unique affiliée dans la bonne ligue"
 
 #: /controllers/components/rule_tuc_playoffs.php:71
 msgid ""
@@ -5306,7 +5312,7 @@ msgstr "L'équipe %s a deux parties d'oragnisé pour la même journée!"
 
 #: /models/game.php:1205
 msgid "Team %s was scheduled on different days!"
-msgstr ""
+msgstr "Équipe %s a été ceduler à des jours différents !"
 
 #: /models/game.php:1211
 msgid "Team %s was scheduled in overlapping time slots!"
@@ -5316,7 +5322,7 @@ msgstr ""
 
 #: /models/game.php:1214
 msgid "Team %s was scheduled on %s at different facilities!"
-msgstr ""
+msgstr "Équipe %s a été ceduler sur %s dans différentes installations !"
 
 #: /models/game.php:1220
 msgid "Team %s was selected more than once!"
@@ -5340,11 +5346,11 @@ msgstr ""
 
 #: /models/game.php:1303
 msgid "You cannot choose the \"---\" as the dependency type!"
-msgstr ""
+msgstr "Vous ne pouvez pas choisir la \"---\" comme type de dépendance !"
 
 #: /models/game.php:1312;1335
 msgid "You cannot choose the \"---\" as the game dependency!"
-msgstr ""
+msgstr " Vous ne pouvez pas choisir la \"---\" comme la dépendance du match !"
 
 #: /models/game.php:1324
 msgid "Winner of game %s was selected more than once!"
@@ -5536,7 +5542,7 @@ msgstr ""
 
 #: /plugins/install/views/install/update.ctp:27
 msgid "Found %d table(s) to update."
-msgstr ""
+msgstr "Trouvé %d table(s) pour mettre à jour."
 
 #: /plugins/install/views/install/update.ctp:28
 msgid ""
@@ -5826,12 +5832,18 @@ msgid ""
 "details throughout the site. You will be able to remove this restriction or "
 "select another affiliate to browse, using links on your home page."
 msgstr ""
+"En sélectionnant un affilié ci-dessous, vous ne sera montré les détails de "
+"l'affilié sur tout le site. Vous serez en mesure de supprimer cette "
+"restriction ou sélectionnez une autre affiliée à parcourir, en utilisant les "
+"liens sur votre page d'accueil."
 
 #: /views/affiliates/select.ctp:10
 msgid ""
 "Note that, regardless of which affiliate you may select, your home page and "
 "menus will always show your teams and games."
 msgstr ""
+"Notez que, quelle que soit d'affiliation vous choisissez, votre page "
+"d'accueil et les menus montrera toujours vos équipes et les matchs."
 
 #: /views/affiliates/view.ctp:22 /views/people/edit.ctp:232;236
 #: /views/people/index.ctp:28 /views/people/view.ctp:22
@@ -5872,7 +5884,7 @@ msgstr "Rien à signaler aujourd'hui."
 
 #: /views/all/splash.ctp:13;17;21;25
 msgid "There are %d new %s."
-msgstr ""
+msgstr "Il y a %d nouveau %s."
 
 #: /views/all/splash.ctp:14
 msgid "accounts to approve"
@@ -5917,7 +5929,7 @@ msgstr "retirer la restriction"
 
 #: /views/all/splash.ctp:246
 msgid "select a different affiliate to view"
-msgstr ""
+msgstr "sélectionnez une affiliée différente a voir"
 
 #: /views/all/splash.ctp:249
 msgid "This site has multiple affiliates. You might want to %s."
@@ -5925,7 +5937,7 @@ msgstr ""
 
 #: /views/all/splash.ctp:250;254;258;263
 msgid "select a specific affiliate to view"
-msgstr ""
+msgstr " sélectionner une affilié spécifique a voir"
 
 #: /views/all/splash.ctp:252;256
 msgid ""
@@ -5935,11 +5947,11 @@ msgstr ""
 
 #: /views/all/splash.ctp:253
 msgid "join other affiliates"
-msgstr ""
+msgstr "joignez les autres affiliés"
 
 #: /views/all/splash.ctp:257
 msgid "change which affiliate you are a member of"
-msgstr ""
+msgstr "changer l'affiliation que vous êtes membre de"
 
 #: /views/all/splash.ctp:261
 msgid ""
@@ -5948,7 +5960,7 @@ msgstr ""
 
 #: /views/all/splash.ctp:262
 msgid "reduce your affiliations"
-msgstr ""
+msgstr "reduire vos affiliations"
 
 #: /views/all/splash.ctp:54;121
 msgid "registration"
@@ -5970,7 +5982,7 @@ msgstr "Désactiver"
 #: /views/groups/activate.ctp:9 /views/questionnaires/activate.ctp:9
 #: /views/questions/activate.ctp:9
 msgid "Failed to activate %s '%s'."
-msgstr ""
+msgstr "Impossible d'activer le %s '%s'."
 
 #: /views/answers/activate.ctp:9 /views/answers/deactivate.ctp:9
 #: /views/questions/delete_answer.ctp:3
@@ -5991,7 +6003,7 @@ msgstr "Activer"
 #: /views/groups/deactivate.ctp:9 /views/questionnaires/deactivate.ctp:9
 #: /views/questions/deactivate.ctp:9
 msgid "Failed to deactivate %s '%s'."
-msgstr ""
+msgstr "Impossible desactiver le %s '%s'."
 
 #: /views/badges/edit.ctp:21
 msgid "The full name of the badge, to be used as title text on the icon."
@@ -6182,7 +6194,7 @@ msgstr "Delete Category"
 
 #: /views/categories/index.ctp:59 /views/categories/view.ctp:80
 msgid "Add Category"
-msgstr ""
+msgstr "Ajouter la catégorie"
 
 #: /views/categories/view.ctp:25
 msgid "Related Tasks"
@@ -6204,11 +6216,11 @@ msgstr "Edit Category"
 
 #: /views/contacts/edit.ctp:14
 msgid "Contact Details"
-msgstr ""
+msgstr "Détails de contact"
 
 #: /views/contacts/edit.ctp:20
 msgid "The name of your contact."
-msgstr ""
+msgstr "Le nom de votre contact."
 
 #: /views/contacts/edit.ctp:23
 msgid ""
@@ -6222,7 +6234,7 @@ msgstr "Liste de Contacts"
 
 #: /views/contacts/index.ctp:9
 msgid "There are no contacts in the system."
-msgstr ""
+msgstr "Il n'y a pas de contacts dans le système."
 
 #: /views/contacts/index.ctp:52;52
 msgid "Edit Contact"
@@ -6290,7 +6302,7 @@ msgstr ""
 
 #: /views/divisions/add_coordinator.ctp:29
 msgid "Add as coordinator"
-msgstr ""
+msgstr "Ajouter comme coordonnateur"
 
 #: /views/divisions/add_teams.ctp:4
 #: /views/elements/divisions/actions.ctp:100;100
