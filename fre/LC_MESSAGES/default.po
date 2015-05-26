@@ -1277,7 +1277,7 @@ msgstr "WFDF standard"
 
 #: /config/options.php:421
 msgid "WFDF standard 2014 version"
-msgstr ""
+msgstr "WFDF standard version 2014"
 
 #: /config/options.php:422
 msgid "Modified WFDF"
@@ -3032,7 +3032,7 @@ msgstr "Votre profil a été sauvegardé"
 #: /controllers/people_controller.php:1198
 #: /controllers/teams_controller.php:1434
 msgid "You are not allowed to delete that %s."
-msgstr ""
+msgstr "Il est interdit de supprimer cette %s."
 
 #: /controllers/people_controller.php:1225
 msgid "preferences"
@@ -4017,7 +4017,7 @@ msgstr ""
 
 #: /controllers/teams_controller.php:760
 msgid "You do not have access to download this team roster."
-msgstr ""
+msgstr "Vous n'avez pas d'accès pour télécharger les joueurs de cette équipe."
 
 #: /controllers/teams_controller.php:900
 msgid "Shirt numbers are not enabled on this system."
@@ -4578,12 +4578,12 @@ msgstr "Échec dans la mise à jour du badge d'information!"
 
 #: /controllers/components/event_type_individual.php:25
 msgid "Player Details"
-msgstr ""
+msgstr "Détails du joueur"
 
 #: /controllers/components/event_type_individual.php:30
 #: /views/people/view.ctp:230
 msgid "Shirt Size"
-msgstr ""
+msgstr "Taille de chemise"
 
 #: /controllers/components/event_type_team.php:23
 #: /views/divisions/add_teams.ctp:34 /views/teams/edit.ctp:14
@@ -4848,7 +4848,6 @@ msgstr ""
 "disponibles. Ajouter plus de plages horaires."
 
 #: /controllers/components/league_type_roundrobin.php:267
-#, fuzzy
 msgid "Had to stop with %s sets left to schedule: could not assign %s"
 msgstr "A du s'arrêter avec %s encore a organiser: n'a pas pu assigné %s"
 
@@ -5426,7 +5425,7 @@ msgstr ""
 
 #: /plugins/install/controllers/install_controller.php:151
 msgid "Could not write install.php file."
-msgstr ""
+msgstr "Nous ne pourrions pas écrire le fichier install.php."
 
 #: /plugins/install/controllers/install_controller.php:167
 msgid "Step 2: Database configuration"
@@ -5438,7 +5437,7 @@ msgstr "N'a pas pu se connecter à la base de données."
 
 #: /plugins/install/controllers/install_controller.php:195
 msgid "Could not write database.php file."
-msgstr ""
+msgstr "N'a pas pu écrire le fichier database.php."
 
 #: /plugins/install/controllers/install_controller.php:207
 msgid "Step 3: Build database"
@@ -5458,7 +5457,7 @@ msgstr "La base de données a déjà été mise à jour."
 
 #: /plugins/install/controllers/install_controller.php:358
 msgid "Failed to perform pre-processing on database"
-msgstr ""
+msgstr "Impossible d'exécuter le prétraitement sur la base de données"
 
 #: /plugins/install/views/install/data.ctp:14
 msgid "Click here to build your database"
@@ -5475,38 +5474,40 @@ msgid ""
 "To ensure that future updates go smoothly, please update it manually with "
 "the following:"
 msgstr ""
+"Pour s'assurer que les futures mises à jour aller bien, s'il vous plaît "
+"mettre à jour manuellement par ce qui suit :"
 
 #: /plugins/install/views/install/index.ctp:8
 msgid "Your tmp directory is writable."
-msgstr ""
+msgstr "Votre répertoire tmp est accessible en mode écriture."
 
 #: /plugins/install/views/install/index.ctp:11
 msgid "Your tmp directory is NOT writable."
-msgstr ""
+msgstr "Votre répertoire tmp n'est pas accessible en mode écriture."
 
 #: /plugins/install/views/install/index.ctp:16
 msgid "Your config directory is writable."
-msgstr ""
+msgstr "Votre répertoire config est accessible en mode écriture."
 
 #: /plugins/install/views/install/index.ctp:19
 msgid "Your config directory is NOT writable."
-msgstr ""
+msgstr "Votre répertoire config n'est pas accessible en mode écriture."
 
 #: /plugins/install/views/install/index.ctp:22
 msgid "Your core.php config file is writable."
-msgstr ""
+msgstr "Votre fichier de config core.php est accessible en mode écriture."
 
 #: /plugins/install/views/install/index.ctp:25
 msgid "Your core.php config file is NOT writable."
-msgstr ""
+msgstr "Votre fichier de config core.php n'est pas accessible en mode écriture."
 
 #: /plugins/install/views/install/index.ctp:30
 msgid "PHP version %s > 5.2"
-msgstr ""
+msgstr "Version de PHP %s > 5.2"
 
 #: /plugins/install/views/install/index.ctp:33
 msgid "PHP version %s < 5.2"
-msgstr ""
+msgstr "Version de PHP %s < 5.2"
 
 #: /plugins/install/views/install/index.ctp:39
 msgid "Installation cannot continue as minimum requirements are not met."
@@ -5549,6 +5550,9 @@ msgid ""
 "not typically reversible, and if anything goes wrong you will want a backup "
 "to restore from."
 msgstr ""
+"AVERTISSEMENT : Vous devez effectuer une sauvegarde avant de continuer. Ces "
+"mises à jour ne sont pas généralement réversibles, et si quelque chose ne "
+"fonctionne pas vous voudrez restaurer de cette suavegarde."
 
 #: /plugins/install/views/install/update.ctp:30
 msgid "Click here to proceed with database updates."
@@ -5564,7 +5568,7 @@ msgstr "Installer Zuluru"
 
 #: /plugins/tiny_mce/views/helpers/tiny_mce.php:85
 msgid "Invalid TinyMCE configuration preset %s"
-msgstr ""
+msgstr "Configuration non valide de TinyMCE préréglé %s"
 
 #: /views/affiliates/add_manager.ctp:6 /views/affiliates/index.ctp:52;52
 #: /views/affiliates/view.ctp:73;73 /views/elements/all/kickstart.ctp:42;42
@@ -5596,6 +5600,8 @@ msgid ""
 "Note that only people whose accounts are set as \"manager\" (or higher) can "
 "be made managers."
 msgstr ""
+"Notez que seules les personnes dont les comptes sont définis comme « "
+"gestionnaires » (ou plus) peuvent être gestionnaires."
 
 #: /views/affiliates/add_manager.ctp:29
 msgid "Add as manager"
@@ -5663,11 +5669,11 @@ msgstr "Soumettre"
 
 #: /views/affiliates/edit.ctp:29 /views/affiliates/view.ctp:66
 msgid "List Affiliates"
-msgstr ""
+msgstr "Liste des Affiliées"
 
 #: /views/affiliates/edit.ctp:33
 msgid "Delete Affiliate"
-msgstr ""
+msgstr "Supprimer Affilié"
 
 #: /views/affiliates/edit.ctp:34 /views/affiliates/index.ctp:56
 #: /views/affiliates/view.ctp:77 /views/badges/edit.ctp:69
@@ -5700,7 +5706,7 @@ msgstr ""
 #: /views/upload_types/view.ctp:54;65 /views/waivers/edit.ctp:98
 #: /views/waivers/index.ctp:75 /views/waivers/view.ctp:88
 msgid "Are you sure you want to delete # %s?"
-msgstr ""
+msgstr "Êtes-vous sûr que vous voulez supprimer # %s ?"
 
 #: /views/affiliates/edit.ctp:37;37 /views/badges/edit.ctp:72;72
 #: /views/categories/edit.ctp:43;43 /views/mailing_lists/edit.ctp:51;51
@@ -5808,7 +5814,7 @@ msgstr "Non"
 
 #: /views/affiliates/index.ctp:70
 msgid "Add Affiliate"
-msgstr ""
+msgstr "Ajouter Affilié"
 
 #: /views/affiliates/select.ctp:3
 msgid "Select"
@@ -5858,11 +5864,11 @@ msgstr "Retirer"
 #: /views/affiliates/view.ctp:70;76 /views/events/index.ctp:77
 #: /views/leagues/index.ctp:61
 msgid "Edit Affiliate"
-msgstr ""
+msgstr "Modifier Affilié"
 
 #: /views/all/cron.ctp:11
 msgid "Nothing to report today."
-msgstr ""
+msgstr "Rien à signaler aujourd'hui."
 
 #: /views/all/splash.ctp:13;17;21;25
 msgid "There are %d new %s."
@@ -5898,7 +5904,7 @@ msgstr "Mon"
 
 #: /views/all/splash.ctp:212
 msgid "Consolidated Schedule"
-msgstr ""
+msgstr "Horaire consolidée"
 
 #: /views/all/splash.ctp:243
 msgid ""
@@ -5969,7 +5975,7 @@ msgstr ""
 #: /views/answers/activate.ctp:9 /views/answers/deactivate.ctp:9
 #: /views/questions/delete_answer.ctp:3
 msgid "answer"
-msgstr ""
+msgstr "réponse"
 
 #: /views/answers/deactivate.ctp:3 /views/badges/deactivate.ctp:3
 #: /views/badges/index.ctp:86
@@ -6052,7 +6058,7 @@ msgstr ""
 
 #: /views/badges/index.ctp:19
 msgid "Icon"
-msgstr ""
+msgstr "Icône"
 
 #: /views/badges/index.ctp:21
 msgid "Awarded"
@@ -6066,7 +6072,7 @@ msgstr "Décerné"
 #: /views/people/teams.ctp:39 /views/teams/attendance.ctp:100;120
 #: /views/teams/stats.ctp:16 /views/teams/csv/stats.ctp:24
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 #: /views/badges/index.ctp:57
 msgid ""
@@ -6078,7 +6084,7 @@ msgstr ""
 #: /views/people/nominate_badge.ctp:6
 #: /views/people/nominate_badge_reason.ctp:4
 msgid "Assign"
-msgstr ""
+msgstr "Assigner"
 
 #: /views/badges/index.ctp:99 /views/badges/view.ctp:114
 msgid "Assign this Badge"
@@ -6090,7 +6096,7 @@ msgstr ""
 #: /views/elements/leagues/standings/tournament/bracket.ctp:17
 #: /views/elements/leagues/standings/tournament/pools.ctp:49
 msgid "Initialize"
-msgstr ""
+msgstr "Initialiser"
 
 #: /views/badges/index.ctp:104 /views/badges/view.ctp:119
 msgid ""
@@ -6172,7 +6178,7 @@ msgstr ""
 
 #: /views/categories/edit.ctp:39 /views/categories/view.ctp:76
 msgid "Delete Category"
-msgstr ""
+msgstr "Delete Category"
 
 #: /views/categories/index.ctp:59 /views/categories/view.ctp:80
 msgid "Add Category"
@@ -6194,7 +6200,7 @@ msgstr "Liste de catégories"
 
 #: /views/categories/view.ctp:73
 msgid "Edit Category"
-msgstr ""
+msgstr "Edit Category"
 
 #: /views/contacts/edit.ctp:14
 msgid "Contact Details"
@@ -6212,7 +6218,7 @@ msgstr ""
 
 #: /views/contacts/index.ctp:7
 msgid "List Contacts"
-msgstr ""
+msgstr "Liste de Contacts"
 
 #: /views/contacts/index.ctp:9
 msgid "There are no contacts in the system."
@@ -6220,11 +6226,11 @@ msgstr ""
 
 #: /views/contacts/index.ctp:52;52
 msgid "Edit Contact"
-msgstr ""
+msgstr "Modifier Contact"
 
 #: /views/contacts/index.ctp:55
 msgid "Delete Contact"
-msgstr ""
+msgstr "Supprimer Contact"
 
 #: /views/contacts/index.ctp:59;59
 msgid "Message Contact"
@@ -6232,13 +6238,13 @@ msgstr ""
 
 #: /views/contacts/index.ctp:77;77
 msgid "Add Contact"
-msgstr ""
+msgstr "Add Contact"
 
 #: /views/contacts/message.ctp:3
 #: /views/elements/payments/invoices/invoice.ctp:66
 #: /views/registrations/view.ctp:182
 msgid "Message"
-msgstr ""
+msgstr "Message"
 
 #: /views/contacts/message.ctp:12
 msgid "Message Details"
@@ -6250,7 +6256,7 @@ msgstr ""
 
 #: /views/contacts/message.ctp:31
 msgid "Send a copy to your email address"
-msgstr ""
+msgstr "Envoyer une copie à votre adresse courriel"
 
 #: /views/divisions/add_coordinator.ctp:4 /views/divisions/add_teams.ctp:2
 #: /views/divisions/allstars.ctp:2 /views/divisions/approve_scores.ctp:2
@@ -6265,12 +6271,12 @@ msgstr ""
 #: /views/leagues/stats.ctp:2 /views/leagues/view.ctp:96
 #: /views/people/view.ctp:577
 msgid "Divisions"
-msgstr ""
+msgstr "Divisions"
 
 #: /views/divisions/add_coordinator.ctp:6
 #: /views/elements/divisions/actions.ctp:108;108
 msgid "Add Coordinator"
-msgstr ""
+msgstr "Ajouter coordonnateur"
 
 #: /views/divisions/add_coordinator.ctp:14
 msgid "Current Coordinators:"
@@ -6289,11 +6295,11 @@ msgstr ""
 #: /views/divisions/add_teams.ctp:4
 #: /views/elements/divisions/actions.ctp:100;100
 msgid "Add Teams"
-msgstr ""
+msgstr "Ajouter des équipes"
 
 #: /views/divisions/add_teams.ctp:16
 msgid "Team Names"
-msgstr ""
+msgstr "Noms d'équipe"
 
 #: /views/divisions/add_teams.ctp:19
 msgid ""
@@ -6345,12 +6351,12 @@ msgstr ""
 
 #: /views/divisions/approve_scores.ctp:4;8
 msgid "Approve Scores"
-msgstr ""
+msgstr "Approuver les résultats"
 
 #: /views/divisions/approve_scores.ctp:13 /views/game_slots/view.ctp:13
 #: /views/games/attendance.ctp:16 /views/games/attendance_change.ctp:12
 msgid "Game Date"
-msgstr ""
+msgstr "Date du match"
 
 #: /views/divisions/approve_scores.ctp:14
 msgid "Home Team Submission"
@@ -6425,7 +6431,7 @@ msgstr ""
 #: /views/divisions/edit.ctp:62 /views/leagues/edit.ctp:94
 #: /views/settings/organization.ctp:153 /views/team_events/add_dates.ctp:5
 msgid "Dates"
-msgstr ""
+msgstr "Dates"
 
 #: /views/divisions/edit.ctp:70 /views/leagues/edit.ctp:102
 msgid ""
@@ -6457,7 +6463,7 @@ msgstr ""
 #: /views/divisions/edit.ctp:101 /views/elements/divisions/details.ctp:73
 #: /views/elements/leagues/sport_fields.ctp:3 /views/events/view.ctp:101
 msgid "Gender Ratio"
-msgstr ""
+msgstr "Proportion hommes-femmes"
 
 #: /views/divisions/edit.ctp:105 /views/elements/leagues/sport_fields.ctp:7
 msgid "Gender format for the division."
@@ -6649,7 +6655,7 @@ msgstr ""
 #: /views/elements/leagues/standings/tournament/pools.ctp:52
 #: /views/games/submit_score.ctp:267 /views/games/submit_stats.ctp:118
 msgid "Reset"
-msgstr ""
+msgstr "Remise à zéro"
 
 #: /views/divisions/schedule.ctp:18
 msgid "Division Schedule"
@@ -7031,11 +7037,11 @@ msgstr "Voir l'établissement"
 
 #: /views/elements/all/kickstart.ctp:98
 msgid "Edit Facility"
-msgstr ""
+msgstr "Modifier l'établissement"
 
 #: /views/elements/all/kickstart.ctp:104
 msgid "Delete Facility"
-msgstr ""
+msgstr "Supprimer l'établissement"
 
 #: /views/elements/all/kickstart.ctp:117
 msgid "You have no current or upcoming leagues. "
@@ -7055,7 +7061,7 @@ msgstr ""
 
 #: /views/elements/all/kickstart.ctp:177
 msgid "membership"
-msgstr ""
+msgstr "adhésion"
 
 #: /views/elements/all/kickstart.ctp:180
 msgid "an event"
@@ -7111,22 +7117,22 @@ msgstr ""
 #: /views/fields/close.ctp:3 /views/fields/view.ctp:71
 #: /views/questionnaires/view.ctp:39 /views/teams/view.ctp:76
 msgid "Open"
-msgstr ""
+msgstr "Ouvert"
 
 #: /views/elements/divisions/details.ctp:37 /views/facilities/view.ctp:98
 #: /views/fields/view.ctp:71 /views/teams/view.ctp:76
 msgid "Closed"
-msgstr ""
+msgstr "Fermé"
 
 #: /views/elements/divisions/details.ctp:41 /views/events/view.ctp:66
 #: /views/leagues/summary.ctp:81
 msgid "First Game"
-msgstr ""
+msgstr "Premier match"
 
 #: /views/elements/divisions/details.ctp:48 /views/events/view.ctp:71
 #: /views/leagues/summary.ctp:82
 msgid "Last Game"
-msgstr ""
+msgstr "Dernier match"
 
 #: /views/elements/divisions/details.ctp:54 /views/leagues/summary.ctp:83
 msgid "Roster Deadline"
@@ -7263,7 +7269,7 @@ msgstr ""
 #: /views/elements/events/list.ctp:15 /views/events/index.ctp:52
 #: /views/events/view.ctp:169;206 /views/registrations/checkout.ctp:173
 msgid "Cost"
-msgstr ""
+msgstr "Cost"
 
 #: /views/elements/events/list.ctp:16 /views/events/index.ctp:53
 #: /views/prices/edit.ctp:48
@@ -7278,12 +7284,12 @@ msgstr ""
 #: /views/elements/events/list.ctp:84;100;134
 #: /views/events/index.ctp:161;207;268
 msgid "Register Now"
-msgstr ""
+msgstr "Inscrivez-vous maintenant"
 
 #: /views/elements/events/list.ctp:118 /views/events/index.ctp:145;252
 #: /views/events/view.ctp:176;230
 msgid "FREE"
-msgstr ""
+msgstr "GRATUIT"
 
 #: /views/elements/events/not_logged_in.ctp:1
 msgid ""
@@ -7297,7 +7303,7 @@ msgstr ""
 
 #: /views/elements/events/not_logged_in.ctp:3
 msgid "recover forgotten passwords"
-msgstr ""
+msgstr "récupérer des mots de passe oubliés"
 
 #: /views/elements/events/not_logged_in.ctp:4
 msgid ""
@@ -12043,7 +12049,7 @@ msgstr ""
 #: /views/events/index.ctp:187;187;230;230 /views/leagues/summary.ctp:3
 #: /views/registrations/summary.ctp:4
 msgid "Summary"
-msgstr ""
+msgstr "Summary"
 
 #: /views/events/view.ctp:40
 msgid "Event Type"
@@ -12115,7 +12121,7 @@ msgstr "Réservations?"
 
 #: /views/events/view.ctp:247;289
 msgid "Register now!"
-msgstr ""
+msgstr "Inscrivez-vous maintenant !"
 
 #: /views/events/view.ctp:249;291
 msgid "Register for %s"
@@ -17042,7 +17048,7 @@ msgstr "Sélectionner votre premier choix d'établissement"
 
 #: /views/teams/edit.ctp:131
 msgid "No preference"
-msgstr ""
+msgstr "Pas de préférence"
 
 #: /views/teams/edit.ctp:145
 msgid "Your team's website, if you have one."
@@ -17182,7 +17188,7 @@ msgstr ""
 
 #: /views/teams/roster_request.ctp:11
 msgid "You are requesting to join the team"
-msgstr ""
+msgstr "Vous demandez à rejoindre l'équipe"
 
 #: /views/teams/roster_request.ctp:14
 msgid ""
@@ -17304,7 +17310,7 @@ msgstr "Journée avant le match"
 
 #: /views/teams/view.ctp:108;131;154
 msgid "%d days before game"
-msgstr ""
+msgstr "%d jours avant le match"
 
 #: /views/teams/view.ctp:114
 msgid "Attendance Summary"
@@ -17397,7 +17403,7 @@ msgstr "Modifier le mot de passe de"
 
 #: /views/users/change_password.ctp:14
 msgid "Existing Password"
-msgstr ""
+msgstr "Mot de passe existant"
 
 #: /views/users/change_password.ctp:16
 msgid "New Password"
@@ -17429,15 +17435,15 @@ msgstr ""
 
 #: /views/users/create_account.ctp:15 /views/users/login.ctp:6
 msgid "NOTE"
-msgstr ""
+msgstr "NOTE"
 
 #: /views/users/create_account.ctp:16 /views/users/login.ctp:7
 msgid "DO NOT CREATE ANOTHER ONE"
-msgstr ""
+msgstr "NE CRÉEZ PAS UN AUTRE"
 
 #: /views/users/create_account.ctp:17 /views/users/login.ctp:8
 msgid "follow these instructions"
-msgstr ""
+msgstr "suivez ces instructions"
 
 #: /views/users/create_account.ctp:49
 msgid "You will be able to change these later, if required."
@@ -17471,7 +17477,7 @@ msgstr "Mot de passe"
 
 #: /views/users/create_account.ctp:329
 msgid "Child Profile"
-msgstr ""
+msgstr "Profil d'enfant"
 
 #: /views/users/create_account.ctp:382
 msgid "Submit and save your information"
@@ -17483,11 +17489,11 @@ msgstr ""
 
 #: /views/users/import.ctp:3
 msgid "Import"
-msgstr ""
+msgstr "Importer"
 
 #: /views/users/import.ctp:7
 msgid "Import Users"
-msgstr ""
+msgstr "Importer les Utilisateurs"
 
 #: /views/users/import.ctp:10
 msgid "The following columns were recognized and will be imported:"
@@ -17503,11 +17509,11 @@ msgstr ""
 
 #: /views/users/import.ctp:17;29;41
 msgid "Show details"
-msgstr ""
+msgstr "Afficher les détails"
 
 #: /views/users/import.ctp:17;29;41
 msgid "Hide details"
-msgstr ""
+msgstr "Masquer les détails"
 
 #: /views/users/import.ctp:29
 msgid "%d accounts had one or more problems which were resolved"
@@ -17515,7 +17521,7 @@ msgstr ""
 
 #: /views/users/import.ctp:54
 msgid "CSV file"
-msgstr ""
+msgstr "fichier CSV"
 
 #: /views/users/import.ctp:63
 msgid ""
@@ -17612,7 +17618,7 @@ msgstr ""
 
 #: /views/users/login.ctp:20
 msgid "I forgot my username"
-msgstr ""
+msgstr "J'ai oublié mon nom d'utilisateur"
 
 #: /views/users/login.ctp:27
 msgid "I forgot my password"
@@ -17685,7 +17691,7 @@ msgstr ""
 
 #: /views/waivers/edit.ctp:96
 msgid "List Waivers"
-msgstr ""
+msgstr "Liste les décharges"
 
 #: /views/waivers/index.ctp:14 /views/waivers/view.ctp:44
 msgid "Expiry Type"
@@ -17697,7 +17703,7 @@ msgstr "Valide pour"
 
 #: /views/waivers/index.ctp:60
 msgid "Forever"
-msgstr ""
+msgstr "Pour toujours"
 
 #: /views/waivers/index.ctp:87 /views/waivers/view.ctp:91
 msgid "Add Waiver"
@@ -17725,7 +17731,7 @@ msgstr ""
 
 #: /views/waivers/review.ctp:31
 msgid "You haven't accepted this waiver."
-msgstr ""
+msgstr "Vous n'avez pas accepté cette décharge."
 
 #: /views/waivers/review.ctp:35
 msgid ""
@@ -17735,39 +17741,39 @@ msgstr ""
 
 #: /views/waivers/review.ctp:36
 msgid "accept it now"
-msgstr ""
+msgstr "accepte-le maintenant"
 
 #: /views/waivers/sign.ctp:4
 msgid "Sign Waiver"
-msgstr ""
+msgstr "Signer la décharge"
 
 #: /views/waivers/sign.ctp:32
 msgid "I agree to the above conditions"
-msgstr ""
+msgstr "J'accepte les conditions ci-dessus"
 
 #: /views/waivers/sign.ctp:33
 msgid "I DO NOT agree to the above conditions"
-msgstr ""
+msgstr "Je n'accepte pas les conditions ci-dessus"
 
 #: /views/waivers/view.ctp:80
 msgid "List Waiver"
-msgstr ""
+msgstr "Liste la décharge"
 
 #: /views/waivers/view.ctp:84;87
 msgid "Edit Waiver"
 msgstr "Modifier la décharge"
 
 msgid "Field"
-msgstr ""
+msgstr "Terrain"
 
 msgid "Fields"
-msgstr ""
+msgstr "Terrains"
 
 msgid "field"
-msgstr ""
+msgstr "terrain"
 
 msgid "fields"
-msgstr ""
+msgstr "terrains"
 
 msgid "Court"
 msgstr ""
@@ -17782,16 +17788,16 @@ msgid "couts"
 msgstr ""
 
 msgid "Pitch"
-msgstr ""
+msgstr "Terrain"
 
 msgid "Pitchs"
-msgstr ""
+msgstr "Terrains"
 
 msgid "pitch"
-msgstr ""
+msgstr "terrain"
 
 msgid "pitches"
-msgstr ""
+msgstr "terrains"
 
 msgid "Diamond"
 msgstr ""
@@ -17838,7 +17844,7 @@ msgid ""
 msgstr ""
 
 msgid "Member"
-msgstr ""
+msgstr "Membre"
 
 msgid "This badge indicates a player who has a current membership."
 msgstr ""
