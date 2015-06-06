@@ -5053,6 +5053,8 @@ msgid ""
 "A game dependency was not resolved before saving the game. Check the "
 "scheduling algorithm."
 msgstr ""
+"Une dépendance de match n'a pas été résolue avant d'enregistrer le match. "
+"Vérifier l'algorithme de planification."
 
 #: /controllers/components/lock.php:31
 msgid ""
@@ -5174,7 +5176,7 @@ msgstr "Inscrit"
 
 #: /controllers/components/rule_signed_waiver.php:28
 msgid "Invalid number of parameters to SIGNED_WAIVER rule"
-msgstr ""
+msgstr "Nombre incorrect de paramètres de règle SIGNED_WAIVER"
 
 #: /controllers/components/rule_signed_waiver.php:36;46
 msgid "have signed the %s waiver"
@@ -5549,6 +5551,8 @@ msgid ""
 "Ensure that the configured database user has CREATE, ALTER and DROP "
 "permissions on the database."
 msgstr ""
+"Assurez-vous que l'utilisateur de base de données configurée a des "
+"autorisations CREATE, ALTER et DROP sur la base de données."
 
 #: /plugins/install/views/install/update.ctp:29
 msgid ""
@@ -6122,7 +6126,7 @@ msgstr ""
 
 #: /views/badges/index.ctp:126 /views/badges/view.ctp:130
 msgid "Add Badge"
-msgstr ""
+msgstr "Ajouter Insigne"
 
 #: /views/badges/index.ctp:132 /views/badges/view.ctp:96
 #: /views/contacts/index.ctp:67 /views/elements/people/search_results.ctp:91
@@ -6180,7 +6184,7 @@ msgstr "Pour"
 
 #: /views/badges/view.ctp:123
 msgid "Edit Badge"
-msgstr ""
+msgstr "Modifier Insigne"
 
 #: /views/badges/view.ctp:137
 msgid ""
@@ -6686,7 +6690,7 @@ msgstr ""
 #: /views/tasks/csv/index.ctp:7 /views/team_events/attendance_change.ctp:16
 #: /views/team_events/view.ctp:35 /views/teams/schedule.ctp:19
 msgid "Date"
-msgstr ""
+msgstr "Date"
 
 #: /views/divisions/schedule.ctp:87 /views/elements/games/score_box.ctp:45;186
 #: /views/elements/leagues/standings/tournament/pools.ctp:142
@@ -6695,13 +6699,13 @@ msgstr ""
 #: /views/people/view.ctp:848 /views/registrations/view.ctp:137
 #: /views/schedules/day.ctp:46 /views/teams/schedule.ctp:20
 msgid "Time"
-msgstr ""
+msgstr "Heure"
 
 #: /views/divisions/schedule.ctp:91 /views/divisions/slots.ctp:46
 #: /views/games/ratings_table.ctp:39 /views/leagues/schedule.ctp:96
 #: /views/leagues/slots.ctp:50 /views/schedules/day.ctp:49
 msgid "Away"
-msgstr ""
+msgstr "Visiteurs"
 
 #: /views/divisions/schedule.ctp:93
 #: /views/elements/leagues/standings/tournament/pools.ctp:145
@@ -6709,11 +6713,11 @@ msgstr ""
 #: /views/leagues/schedule.ctp:98 /views/schedules/day.ctp:50
 #: /views/teams/schedule.ctp:23
 msgid "Score"
-msgstr ""
+msgstr "Résultats"
 
 #: /views/divisions/scores.ctp:8
 msgid "Division Scores"
-msgstr ""
+msgstr "Résultats de Division"
 
 #: /views/divisions/scores.ctp:143
 msgid ""
@@ -6779,7 +6783,7 @@ msgstr ""
 #: /views/elements/payments/invoices/invoice.ctp:89
 #: /views/leagues/slots.ctp:39
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: /views/divisions/slots.ctp:37 /views/leagues/slots.ctp:41
 msgid "%s Region"
@@ -6992,7 +6996,7 @@ msgstr ""
 
 #: /views/elements/emails.ctp:27
 msgid "send an email right away"
-msgstr ""
+msgstr "envoyer une  courriel tous de suites"
 
 #: /views/elements/emails.ctp:32
 msgid ""
@@ -7069,7 +7073,7 @@ msgstr ""
 
 #: /views/elements/all/kickstart.ctp:173
 msgid "Sign the waiver"
-msgstr ""
+msgstr "Signer la décharge"
 
 #: /views/elements/all/kickstart.ctp:177
 msgid "membership"
@@ -7214,7 +7218,7 @@ msgstr ""
 #: /views/elements/help/divisions/edit/rating_calculator/usau_college.ctp:7
 #: /views/registrations/payment.ctp:22
 msgid "here"
-msgstr ""
+msgstr "ici"
 
 #: /views/elements/email/html/attendance_captain_notification.ctp:46
 msgid "check up-to-the-minute details"
@@ -11410,9 +11414,8 @@ msgid "Test store ID"
 msgstr ""
 
 #: /views/elements/payments/settings/moneris.ctp:29
-#, fuzzy
 msgid "Test store password"
-msgstr "Réinitialiser le mot de passe"
+msgstr "Mot de passe Test pour magasin"
 
 #: /views/elements/payments/settings/paypal.ctp:2
 msgid "Paypal Options"
@@ -11438,9 +11441,8 @@ msgid "Live API username"
 msgstr ""
 
 #: /views/elements/payments/settings/paypal.ctp:20
-#, fuzzy
 msgid "Live API password"
-msgstr "Réinitialiser le mot de passe"
+msgstr "Mot de passe API de Live"
 
 #: /views/elements/payments/settings/paypal.ctp:27
 msgid "Live signature"
@@ -14548,7 +14550,7 @@ msgstr ""
 
 #: /views/people/statistics.ctp:64
 msgid "Class"
-msgstr ""
+msgstr "Classe"
 
 #: /views/people/statistics.ctp:97
 msgid "Players by Gender"
@@ -14568,7 +14570,7 @@ msgstr ""
 
 #: /views/people/statistics.ctp:261
 msgid "Year"
-msgstr ""
+msgstr "Année"
 
 #: /views/people/statistics.ctp:333
 msgid "Players by Skill Level"
@@ -14580,7 +14582,7 @@ msgstr ""
 
 #: /views/people/statistics.ctp:412
 msgid "Players by City"
-msgstr ""
+msgstr "Joueurs par Ville"
 
 #: /views/people/statistics.ctp:476
 msgid "Unspecified"
@@ -14592,15 +14594,15 @@ msgstr ""
 
 #: /views/people/tooltip.ctp:36;92
 msgid "work"
-msgstr ""
+msgstr "travail"
 
 #: /views/people/tooltip.ctp:43;96
 msgid "mobile"
-msgstr ""
+msgstr "mobile"
 
 #: /views/people/view.ctp:33
 msgid "Zuluru Id"
-msgstr ""
+msgstr "ID Zuluru"
 
 #: /views/people/view.ctp:40
 msgid "Last Login"
@@ -14608,15 +14610,15 @@ msgstr "Dernière connexion"
 
 #: /views/people/view.ctp:46
 msgid "IP Address"
-msgstr ""
+msgstr "Adresse IP"
 
 #: /views/people/view.ctp:53;401
 msgid "Email Address"
-msgstr ""
+msgstr "Courriel"
 
 #: /views/people/view.ctp:58;68;79;93;105;128;140;405;414;423;435;445
 msgid "published"
-msgstr ""
+msgstr "publié"
 
 #: /views/people/view.ctp:58;68;79;93;105;128;140;405;414;423;435;445
 msgid "private"
@@ -14628,15 +14630,15 @@ msgstr ""
 
 #: /views/people/view.ctp:74;419
 msgid "Phone (home)"
-msgstr ""
+msgstr "Numéro de téléphone (maison)"
 
 #: /views/people/view.ctp:85;120;428
 msgid "Phone (work)"
-msgstr ""
+msgstr "Numéro de téléphone (travail)"
 
 #: /views/people/view.ctp:100;135;441
 msgid "Phone (mobile)"
-msgstr ""
+msgstr "Numéro de téléphone (mobile)"
 
 #: /views/people/view.ctp:112
 msgid "Alternate Contact"
@@ -14664,19 +14666,19 @@ msgstr ""
 
 #: /views/people/view.ctp:323;323
 msgid "Edit Profile"
-msgstr ""
+msgstr "Modifier ton Profil"
 
 #: /views/people/view.ctp:324
 msgid "Edit Preferences"
-msgstr ""
+msgstr "Modifier vos Préférences"
 
 #: /views/people/view.ctp:326 /views/users/change_password.ctp:4
 msgid "Change Password"
-msgstr ""
+msgstr "Changer le mot de passe"
 
 #: /views/people/view.ctp:331;331
 msgid "Delete Player"
-msgstr ""
+msgstr "Supprimer le Joueur"
 
 #: /views/people/view.ctp:367;367 /views/teams/view.ctp:226;226
 msgid "Edit Note"
@@ -14684,7 +14686,7 @@ msgstr "Modifier la note"
 
 #: /views/people/view.ctp:375;375 /views/teams/view.ctp:234;234
 msgid "Delete Note"
-msgstr ""
+msgstr "Supprimer la Note"
 
 #: /views/people/view.ctp:502
 msgid "Relatives"
@@ -14693,19 +14695,19 @@ msgstr ""
 #: /views/people/view.ctp:506 /views/task_slots/view.ctp:34
 #: /views/tasks/view.ctp:58
 msgid "Approved"
-msgstr ""
+msgstr "Approuvé"
 
 #: /views/people/view.ctp:511
 msgid "You"
-msgstr ""
+msgstr "Vous"
 
 #: /views/people/view.ctp:511;537
 msgid "can control"
-msgstr ""
+msgstr "permet de contrôler"
 
 #: /views/people/view.ctp:529
 msgid "you"
-msgstr ""
+msgstr "vous"
 
 #: /views/people/view.ctp:556
 msgid "Link a relative"
@@ -14730,7 +14732,7 @@ msgstr ""
 
 #: /views/people/view.ctp:741
 msgid "Show Credit History"
-msgstr ""
+msgstr "Afficher l'historique de crédit"
 
 #: /views/people/view.ctp:755 /views/people/waivers.ctp:16
 msgid "Signed"
@@ -14739,12 +14741,12 @@ msgstr ""
 #: /views/people/view.ctp:756;796 /views/people/waivers.ctp:17
 #: /views/upload_types/view.ctp:24
 msgid "Valid From"
-msgstr ""
+msgstr "Valide pour"
 
 #: /views/people/view.ctp:757;797 /views/people/waivers.ctp:18
 #: /views/upload_types/view.ctp:25
 msgid "Valid Until"
-msgstr ""
+msgstr "Valide Jusqu'a"
 
 #: /views/people/view.ctp:783
 msgid "Show Waiver History"
@@ -14752,11 +14754,11 @@ msgstr ""
 
 #: /views/people/view.ctp:791 /views/upload_types/view.ctp:19
 msgid "Documents"
-msgstr ""
+msgstr "Documents"
 
 #: /views/people/view.ctp:795 /views/upload_types/view.ctp:23
 msgid "Document"
-msgstr ""
+msgstr "Document"
 
 #: /views/people/view.ctp:815 /views/upload_types/view.ctp:43
 msgid "Unapproved"
@@ -14799,11 +14801,11 @@ msgstr ""
 
 #: /views/people/waivers.ctp:88
 msgid "to"
-msgstr ""
+msgstr "à"
 
 #: /views/people/waivers.ctp:91
 msgid "from"
-msgstr ""
+msgstr "de"
 
 #: /views/people/waivers.ctp:96
 msgid "Sign"
@@ -17184,7 +17186,7 @@ msgstr ""
 
 #: /views/teams/roster_position.ctp:14 /views/teams/roster_role.ctp:14
 msgid "on the team"
-msgstr ""
+msgstr "dans l'équipe"
 
 #: /views/teams/roster_position.ctp:16
 msgid "Current position:"
@@ -17836,16 +17838,16 @@ msgid "rinks"
 msgstr ""
 
 msgid "Gym"
-msgstr ""
+msgstr "Gymnase"
 
 msgid "Gyms"
-msgstr ""
+msgstr "Gymnases"
 
 msgid "gym"
-msgstr ""
+msgstr "gymnase"
 
 msgid "gyms"
-msgstr ""
+msgstr "gymnases"
 
 msgid "Active Player"
 msgstr ""
@@ -17889,7 +17891,7 @@ msgid ""
 msgstr ""
 
 msgid "League Champion"
-msgstr ""
+msgstr "Champion de la Ligue"
 
 msgid ""
 "This badge is awarded to all regular players on the rosters of teams that "
@@ -17911,14 +17913,14 @@ msgid ""
 msgstr ""
 
 msgid "Volunteer of the Year"
-msgstr ""
+msgstr "Bénévole de l'Année"
 
 msgid ""
 "This badge is awarded to those who have been chosen as volunteer of the year."
 msgstr ""
 
 msgid "Volunteer of the Month"
-msgstr ""
+msgstr "Bénévole du mois"
 
 msgid ""
 "This badge is awarded to those who have been chosen as volunteer of the "
@@ -17934,19 +17936,19 @@ msgid ""
 msgstr ""
 
 msgid "Red Flag"
-msgstr ""
+msgstr "Drapeau Rouge"
 
 msgid "Denotes players under suspension."
 msgstr ""
 
 msgid "Yellow Flag"
-msgstr ""
+msgstr "Drapeau Jaune"
 
 msgid "Denotes players being monitored for bad behaviour."
 msgstr ""
 
 msgid "Green Flag"
-msgstr ""
+msgstr "Drapeau Vert"
 
 msgid "Denotes players worthy of some recognition."
 msgstr ""
@@ -17967,7 +17969,7 @@ msgid "Individuals for Events"
 msgstr ""
 
 msgid "Clinics"
-msgstr ""
+msgstr "Cliniques"
 
 msgid "Social Events"
 msgstr ""
@@ -17994,7 +17996,7 @@ msgstr ""
 
 #: /config/features.php:184
 msgid "Absent"
-msgstr ""
+msgstr "Absent"
 
 #: /config/features.php:185
 msgid "Unknown"
@@ -18062,7 +18064,7 @@ msgstr ""
 
 #: /config/features.php:228
 msgid "Public"
-msgstr ""
+msgstr "Publique"
 
 #: /config/options.php:52
 msgid "Womens XSmall"
@@ -18110,7 +18112,7 @@ msgstr ""
 
 #: /config/options.php:76
 msgid "grass"
-msgstr ""
+msgstr "gazon"
 
 #: /config/options.php:77
 msgid "turf"
@@ -18118,7 +18120,7 @@ msgstr ""
 
 #: /config/options.php:78
 msgid "sand"
-msgstr ""
+msgstr "sable"
 
 #: /config/options.php:79
 msgid "dirt"
@@ -18142,23 +18144,23 @@ msgstr ""
 
 #: /config/options.php:84
 msgid "concrete"
-msgstr ""
+msgstr "beton"
 
 #: /config/options.php:85
 msgid "asphalt"
-msgstr ""
+msgstr "asphalte"
 
 #: /config/options.php:86
 msgid "ice"
-msgstr ""
+msgstr "glace"
 
 #: /config/options.php:87
 msgid "snow"
-msgstr ""
+msgstr "neige"
 
 #: /config/options.php:91
 msgid "Coordinator Only"
-msgstr ""
+msgstr "Coordonnateur seulement"
 
 #: /config/options.php:92
 msgid "Symbols Only"
@@ -18170,11 +18172,11 @@ msgstr ""
 
 #: /config/options.php:94
 msgid "All"
-msgstr ""
+msgstr "Tous"
 
 #: /config/options.php:112;123;129
 msgid "Never"
-msgstr ""
+msgstr "Jamais"
 
 #: /config/options.php:113;124;130
 msgid "Optional"
@@ -18182,7 +18184,7 @@ msgstr ""
 
 #: /config/options.php:114;125;131
 msgid "Always"
-msgstr ""
+msgstr "Toujours"
 
 #: /config/options.php:119
 msgid "Submitter"
@@ -18202,11 +18204,11 @@ msgstr ""
 
 #: /config/options.php:140
 msgid "Paid"
-msgstr ""
+msgstr "Payé"
 
 #: /config/options.php:141
 msgid "Cancelled"
-msgstr ""
+msgstr "Annulé"
 
 #: /config/options.php:142
 msgid "Waiting"
@@ -18218,7 +18220,7 @@ msgstr ""
 
 #: /config/options.php:147
 msgid "Credit Card"
-msgstr ""
+msgstr "Carte de crédit"
 
 #: /config/options.php:148
 msgid "Cheque"
@@ -18246,7 +18248,7 @@ msgstr ""
 
 #: /config/options.php:157
 msgid "Field condition"
-msgstr ""
+msgstr "Condition de Terrain"
 
 #: /config/options.php:158
 msgid "Injury"
@@ -18298,7 +18300,7 @@ msgstr "Automne - Intérieur"
 
 #: /config/options.php:210
 msgid "normal"
-msgstr ""
+msgstr "normale"
 
 #: /config/options.php:211
 msgid "in_progress"
