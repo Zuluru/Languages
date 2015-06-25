@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2015-04-09 15:35-0400\n"
-"PO-Revision-Date: 2015-05-26 17:34-0400\n"
-"Last-Translator: Nick Zampieri <nick.zampieri@hotmail.com>\n"
+"PO-Revision-Date: 2015-06-25 17:35-0400\n"
+"Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -18000,59 +18000,59 @@ msgstr "Absent"
 
 #: /config/features.php:185
 msgid "Unknown"
-msgstr ""
+msgstr "Inconnu"
 
 #: /config/features.php:186
 msgid "Invited"
-msgstr ""
+msgstr "Invité"
 
 #: /config/features.php:187
 msgid "Available"
-msgstr ""
+msgstr "Disponible"
 
 #: /config/features.php:188
 msgid "No Show"
-msgstr ""
+msgstr "non présentation"
 
 #: /config/features.php:201;210
 msgid "attending"
-msgstr ""
+msgstr "Présent"
 
 #: /config/features.php:202;211
 msgid "absent for"
-msgstr ""
+msgstr "Absent"
 
 #: /config/features.php:203;212
 msgid "unknown/undecided for"
-msgstr ""
+msgstr "inconnu"
 
 #: /config/features.php:204
 msgid "invited to sub for"
-msgstr ""
+msgstr "Invité pour substitution"
 
 #: /config/features.php:205
 msgid "available to sub for"
-msgstr ""
+msgstr "Disponible pour substitution"
 
 #: /config/features.php:206;215
 msgid "a no-show for"
-msgstr ""
+msgstr "une non presentation pour"
 
 #: /config/features.php:213
 msgid "invited to attend"
-msgstr ""
+msgstr "Invité"
 
 #: /config/features.php:214
 msgid "available to attend"
-msgstr ""
+msgstr "Disponible"
 
 #: /config/features.php:219
 msgid "Predecessor"
-msgstr ""
+msgstr "prédécesseur"
 
 #: /config/features.php:220
 msgid "Successor"
-msgstr ""
+msgstr "successeur"
 
 #: /config/features.php:221
 msgid "Alternate"
@@ -18060,7 +18060,7 @@ msgstr "Remplaçant"
 
 #: /config/features.php:225
 msgid "Private"
-msgstr ""
+msgstr "Privé"
 
 #: /config/features.php:228
 msgid "Public"
@@ -18068,43 +18068,43 @@ msgstr "Publique"
 
 #: /config/options.php:52
 msgid "Womens XSmall"
-msgstr ""
+msgstr "Femmes très petit"
 
 #: /config/options.php:53
 msgid "Womens Small"
-msgstr ""
+msgstr "Femmes petit"
 
 #: /config/options.php:54
 msgid "Womens Medium"
-msgstr ""
+msgstr "Femmes moyen"
 
 #: /config/options.php:55
 msgid "Womens Large"
-msgstr ""
+msgstr "Femmes grand"
 
 #: /config/options.php:56
 msgid "Womens XLarge"
-msgstr ""
+msgstr "Femmes très grand"
 
 #: /config/options.php:57
 msgid "Mens Small"
-msgstr ""
+msgstr "Hommes petit"
 
 #: /config/options.php:58
 msgid "Mens Medium"
-msgstr ""
+msgstr "Hommes moyen"
 
 #: /config/options.php:59
 msgid "Mens Large"
-msgstr ""
+msgstr "Hommes grand"
 
 #: /config/options.php:60
 msgid "Mens XLarge"
-msgstr ""
+msgstr "Hommes très grand"
 
 #: /config/options.php:61
 msgid "Mens XXLarge"
-msgstr ""
+msgstr "Hommes très très grand"
 
 #: /config/options.php:68
 msgid "Locked"
@@ -18116,7 +18116,7 @@ msgstr "gazon"
 
 #: /config/options.php:77
 msgid "turf"
-msgstr ""
+msgstr "gazon synthétique"
 
 #: /config/options.php:78
 msgid "sand"
@@ -18124,23 +18124,23 @@ msgstr "sable"
 
 #: /config/options.php:79
 msgid "dirt"
-msgstr ""
+msgstr "terre"
 
 #: /config/options.php:80
 msgid "clay"
-msgstr ""
+msgstr "argile"
 
 #: /config/options.php:81
 msgid "hardwood"
-msgstr ""
+msgstr "bois"
 
 #: /config/options.php:82
 msgid "rubber"
-msgstr ""
+msgstr "caoutchouc"
 
 #: /config/options.php:83
 msgid "urethane"
-msgstr ""
+msgstr "uréthane"
 
 #: /config/options.php:84
 msgid "concrete"
@@ -18164,7 +18164,7 @@ msgstr "Coordonnateur seulement"
 
 #: /config/options.php:92
 msgid "Symbols Only"
-msgstr ""
+msgstr "Symboles seulement"
 
 #: /config/options.php:93
 msgid "Numeric"
@@ -18180,7 +18180,7 @@ msgstr "Jamais"
 
 #: /config/options.php:113;124;130
 msgid "Optional"
-msgstr ""
+msgstr "Optionnel"
 
 #: /config/options.php:114;125;131
 msgid "Always"
@@ -18188,19 +18188,19 @@ msgstr "Toujours"
 
 #: /config/options.php:119
 msgid "Submitter"
-msgstr ""
+msgstr "Expéditeur"
 
 #: /config/options.php:136
 msgid "Reserved"
-msgstr ""
+msgstr "Réservé"
 
 #: /config/options.php:137
 msgid "Pending"
-msgstr ""
+msgstr "En attente"
 
 #: /config/options.php:139
 msgid "Partial"
-msgstr ""
+msgstr "Partiel"
 
 #: /config/options.php:140
 msgid "Paid"
@@ -18212,11 +18212,11 @@ msgstr "Annulé"
 
 #: /config/options.php:142
 msgid "Waiting"
-msgstr ""
+msgstr "En attente"
 
 #: /config/options.php:146
 msgid "Online"
-msgstr ""
+msgstr "En ligne"
 
 #: /config/options.php:147
 msgid "Credit Card"
@@ -18224,11 +18224,11 @@ msgstr "Carte de crédit"
 
 #: /config/options.php:148
 msgid "Cheque"
-msgstr ""
+msgstr "Chèque"
 
 #: /config/options.php:149
 msgid "Electronic Funds Transfer"
-msgstr ""
+msgstr "Transfert électronique de fonds"
 
 #: /config/options.php:150
 msgid "Cash"
@@ -18236,7 +18236,7 @@ msgstr "Comptant"
 
 #: /config/options.php:151
 msgid "Money Order"
-msgstr ""
+msgstr "Mandat postal"
 
 #: /config/options.php:152
 msgid "Other"
@@ -18244,7 +18244,7 @@ msgstr "Autre"
 
 #: /config/options.php:153
 msgid "Credit Redeemed"
-msgstr ""
+msgstr "Crédit remboursé"
 
 #: /config/options.php:157
 msgid "Field condition"
@@ -18256,15 +18256,15 @@ msgstr "Blessure"
 
 #: /config/options.php:159
 msgid "Rules disagreement"
-msgstr ""
+msgstr "Désaccord en rapport avec les règlements"
 
 #: /config/options.php:160
 msgid "Illegal Substitution"
-msgstr ""
+msgstr "Substitution illégale"
 
 #: /config/options.php:161
 msgid "Escalated incident"
-msgstr ""
+msgstr "Incident ayant escaladé"
 
 #: /config/options.php:168
 msgid "Winter"
@@ -18304,7 +18304,7 @@ msgstr "normale"
 
 #: /config/options.php:211
 msgid "in_progress"
-msgstr ""
+msgstr "en cours"
 
 #: /config/options.php:212
 msgid "home_default"
@@ -18316,7 +18316,7 @@ msgstr ""
 
 #: /config/options.php:214
 msgid "rescheduled"
-msgstr ""
+msgstr "Reporté"
 
 #: /config/options.php:215
 msgid "cancelled"
@@ -18408,7 +18408,7 @@ msgstr ""
 
 #: /controllers/components/spirit_none.php:11
 msgid "This selection will result in no spirit questions being asked."
-msgstr ""
+msgstr "Cette sélection n'engendrera aucune question d'esprit sportif."
 
 #: /controllers/components/spirit_team.php:9
 msgid ""
