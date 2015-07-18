@@ -12451,7 +12451,7 @@ msgstr ""
 
 #: /views/facilities/view.ctp:130
 msgid "Washrooms"
-msgstr ""
+msgstr "Toilettes"
 
 #: /views/facilities/view.ctp:137
 msgid "Special Instructions"
@@ -12511,7 +12511,7 @@ msgstr ""
 
 #: /views/fields/bookings.ctp:32
 msgid "Available To"
-msgstr ""
+msgstr "Disponible Pour"
 
 #: /views/fields/bookings.ctp:64
 msgid "open"
@@ -12530,7 +12530,7 @@ msgstr ""
 #: /views/fields/edit.ctp:22 /views/fields/view.ctp:57
 #: /views/teams/view.ctp:287 /views/teams/csv/view.ctp:13
 msgid "Number"
-msgstr ""
+msgstr "Numéro"
 
 #: /views/fields/tooltip.ctp:14 /views/fields/view.ctp:98
 msgid "Map"
@@ -12652,7 +12652,7 @@ msgstr ""
 #: /views/franchises/view.ctp:36 /views/team_events/view.ctp:29
 #: /views/teams/tooltip.ctp:42 /views/teams/view.ctp:16
 msgid "Website"
-msgstr ""
+msgstr "Site Web"
 
 #: /views/franchises/view.ctp:106
 msgid "Remove Team from this Franchise"
@@ -12665,8 +12665,8 @@ msgstr ""
 #: /views/franchises/view.ctp:30
 msgid "Owner"
 msgid_plural "Owners"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Propriétaire"
+msgstr[1] "Propriétaires"
 
 #: /views/game_slots/add.ctp:25
 msgid "%s Selection"
@@ -12766,7 +12766,7 @@ msgstr ""
 
 #: /views/game_slots/submit_score.ctp:4;8 /views/games/submit_score.ctp:4;19
 msgid "Submit Game Results"
-msgstr ""
+msgstr "Soumettre les résultats de match"
 
 #: /views/game_slots/submit_score.ctp:23 /views/games/submit_score.ctp:43
 msgid "This game was:"
@@ -12782,7 +12782,7 @@ msgstr ""
 
 #: /views/game_slots/view.ctp:42
 msgid " vs "
-msgstr ""
+msgstr " vs "
 
 #: /views/game_slots/view.ctp:67
 msgid "Available to Divisions"
@@ -12796,7 +12796,7 @@ msgstr[1] "Matchs"
 
 #: /views/games/attendance.ctp:30 /views/team_events/view.ctp:64
 msgid "Totals"
-msgstr ""
+msgstr "Totales"
 
 #: /views/games/attendance.ctp:54 /views/team_events/view.ctp:88
 msgid "Attendance: %s"
@@ -12806,7 +12806,7 @@ msgstr ""
 #: /views/leagues/csv/participation.ctp:6 /views/team_events/view.ctp:116
 #: /views/teams/view.ctp:293 /views/teams/csv/view.ctp:6
 msgid "Role"
-msgstr ""
+msgstr "Rôle"
 
 #: /views/games/attendance.ctp:88 /views/team_events/view.ctp:119
 msgid "Updated"
@@ -12929,11 +12929,11 @@ msgstr ""
 
 #: /views/games/edit.ctp:169 /views/games/view.ctp:291
 msgid "Home Score"
-msgstr ""
+msgstr "Résultats receveur"
 
 #: /views/games/edit.ctp:174 /views/games/view.ctp:296
 msgid "Away Score"
-msgstr ""
+msgstr "Résultats visiteurs"
 
 #: /views/games/edit.ctp:179 /views/games/view.ctp:301
 msgid "Defaulted?"
@@ -12945,7 +12945,7 @@ msgstr "nous"
 
 #: /views/games/edit.ctp:180;181 /views/games/view.ctp:302;303
 msgid "them"
-msgstr ""
+msgstr "eux"
 
 #: /views/games/edit.ctp:180;181 /views/games/view.ctp:302;303
 msgid "no"
@@ -12996,7 +12996,7 @@ msgstr ""
 
 #: /views/games/live_score.ctp:45;47
 msgid "Finalize"
-msgstr ""
+msgstr "Finaliser"
 
 #: /views/games/live_score.ctp:80
 msgid "Game Start Details"
@@ -13141,7 +13141,7 @@ msgstr ""
 
 #: /views/games/stat_sheet.ctp:42 /views/teams/stat_sheet.ctp:26
 msgid "Final score"
-msgstr ""
+msgstr "Résultats finale"
 
 #: /views/games/stat_sheet.ctp:46 /views/teams/stat_sheet.ctp:30
 msgid "Timeouts taken"
@@ -13193,7 +13193,7 @@ msgstr ""
 
 #: /views/games/submit_score.ctp:145
 msgid "Incident Type"
-msgstr ""
+msgstr "Type d'Incident"
 
 #: /views/games/submit_score.ctp:150
 msgid "Enter the details of the incident"
@@ -13285,7 +13285,7 @@ msgstr ""
 
 #: /views/games/submit_stats.ctp:73;103
 msgid "Show All Players"
-msgstr ""
+msgstr "Afficher Tous les Joueurs"
 
 #: /views/games/submit_stats.ctp:74;104
 msgid "Show Only Attending Players"
@@ -13368,7 +13368,7 @@ msgstr ""
 #: /views/registrations/csv/report.ctp:19 /views/tasks/view.ctp:26
 #: /views/teams/schedule.ctp:31 /views/teams/view.ctp:198
 msgid "Notes"
-msgstr ""
+msgstr "Notes"
 
 #: /views/games/view.ctp:554 /views/people/view.ctp:377
 #: /views/teams/view.ctp:236
@@ -13409,7 +13409,7 @@ msgstr ""
 
 #: /views/helpers/zuluru_game.php:54
 msgid "default"
-msgstr ""
+msgstr "défaut"
 
 #: /views/helpers/zuluru_game.php:60
 msgid "Submit Stats"
@@ -13454,7 +13454,7 @@ msgstr ""
 
 #: /views/helpers/zuluru_time.php:98;105
 msgid " to "
-msgstr ""
+msgstr " a "
 
 #: /views/holidays/edit.ctp:2;14
 msgid "Holiday"
@@ -13498,7 +13498,7 @@ msgstr ""
 
 #: /views/leagues/edit.ctp:17
 msgid "League Information"
-msgstr ""
+msgstr "Information de Ligue"
 
 #: /views/leagues/edit.ctp:27
 msgid ""
@@ -13601,7 +13601,7 @@ msgstr ""
 
 #: /views/leagues/schedule.ctp:19
 msgid "League Schedule"
-msgstr ""
+msgstr "Horaire de Ligue"
 
 #: /views/leagues/slots.ctp:5;10
 msgid "League %s Availability Report"
@@ -13621,7 +13621,7 @@ msgstr ""
 
 #: /views/leagues/summary.ctp:18
 msgid "Carbon Flip?"
-msgstr ""
+msgstr "Esprit Environmentale?"
 
 #: /views/leagues/summary.ctp:20
 msgid "Max Score"
@@ -13757,7 +13757,7 @@ msgstr ""
 
 #: /views/maps/index.ctp:2
 msgid "All %s"
-msgstr ""
+msgstr "Tous %s"
 
 #: /views/maps/index.ctp:63
 msgid "Show only open %s"
@@ -13765,7 +13765,7 @@ msgstr ""
 
 #: /views/maps/index.ctp:65
 msgid "Show all %s"
-msgstr ""
+msgstr "Afficher tous %s"
 
 #: /views/maps/view.ctp:2
 msgid "%s Layout"
@@ -13879,7 +13879,7 @@ msgstr ""
 
 #: /views/newsletters/send.ctp:14
 msgid "Sent email to"
-msgstr ""
+msgstr "Envoyé courriel a"
 
 #: /views/newsletters/send.ctp:21
 msgid "Test email sent to"
@@ -13895,11 +13895,11 @@ msgstr ""
 
 #: /views/newsletters/view.ctp:10
 msgid "Subject"
-msgstr ""
+msgstr "Sujet"
 
 #: /views/newsletters/view.ctp:15 /views/waivers/view.ctp:34
 msgid "Text"
-msgstr ""
+msgstr "Texte"
 
 #: /views/newsletters/view.ctp:45
 msgid "List Newsletters"
@@ -13975,7 +13975,7 @@ msgstr "Soumettre et sauvegarder"
 
 #: /views/people/add_relative.ctp:87
 msgid "Save and add another child"
-msgstr ""
+msgstr "Sauvegarder et ajouter un autre enfant"
 
 #: /views/people/approve.ctp:3;8
 msgid "Approve Account"
@@ -14018,7 +14018,7 @@ msgstr ""
 
 #: /views/people/approve_badges.ctp:12 /views/registrations/checkout.ctp:174
 msgid "Reason"
-msgstr ""
+msgstr "Raison"
 
 #: /views/people/approve_badges.ctp:62
 msgid ""
@@ -14028,7 +14028,7 @@ msgstr ""
 
 #: /views/people/approve_document.ctp:5
 msgid "Edit Document"
-msgstr ""
+msgstr "Modifier Document "
 
 #: /views/people/approve_document.ctp:7
 msgid "Approve Document"
@@ -14252,7 +14252,7 @@ msgstr ""
 
 #: /views/people/edit.ctp:308 /views/users/create_account.ctp:219
 msgid "Street Address"
-msgstr ""
+msgstr "Adresse"
 
 #: /views/people/edit.ctp:312;320 /views/users/create_account.ctp:223
 msgid "Street and Number"
@@ -14329,7 +14329,7 @@ msgstr ""
 
 #: /views/people/inactive_search.ctp:5
 msgid "Inactive Search"
-msgstr ""
+msgstr "Recherche Inactif"
 
 #: /views/people/inactive_search.ctp:9 /views/people/league_search.ctp:9
 #: /views/people/rule_search.ctp:9 /views/people/search.ctp:9
@@ -14338,7 +14338,7 @@ msgstr ""
 
 #: /views/people/league_search.ctp:5
 msgid "League Search"
-msgstr ""
+msgstr "Recherche Ligue"
 
 #: /views/people/link_relative.ctp:6
 msgid "Link Relative"
@@ -14592,7 +14592,7 @@ msgstr ""
 
 #: /views/people/statistics.ctp:182
 msgid "Age"
-msgstr ""
+msgstr "Age"
 
 #: /views/people/statistics.ctp:254
 msgid "Players by Year Started"
@@ -14766,7 +14766,7 @@ msgstr "Afficher l'historique de crédit"
 
 #: /views/people/view.ctp:755 /views/people/waivers.ctp:16
 msgid "Signed"
-msgstr ""
+msgstr "Signé."
 
 #: /views/people/view.ctp:756;796 /views/people/waivers.ctp:17
 #: /views/upload_types/view.ctp:24
@@ -14908,7 +14908,7 @@ msgstr ""
 
 #: /views/questionnaires/view.ctp:28
 msgid "Delete %s"
-msgstr ""
+msgstr "Supprimer %s"
 
 #: /views/questions/add.ctp:13 /views/questions/edit.ctp:14
 msgid ""
@@ -14943,7 +14943,7 @@ msgstr ""
 #: /views/questions/view.ctp:29 /views/upload_types/index.ctp:10
 #: /views/waivers/index.ctp:10
 msgid "Id"
-msgstr ""
+msgstr "Id"
 
 #: /views/regions/edit.ctp:37 /views/regions/view.ctp:79
 msgid "Delete Region"
@@ -15005,11 +15005,11 @@ msgstr ""
 
 #: /views/registrations/checkout.ctp:19
 msgid "Add something else for %s"
-msgstr ""
+msgstr "Ajouter quelque chose pour %s"
 
 #: /views/registrations/checkout.ctp:21
 msgid "Add something else"
-msgstr ""
+msgstr "Ajouter quelque chose"
 
 #: /views/registrations/checkout.ctp:30;31;42;43;52;53;62;63
 msgid "Click for instructions"
@@ -15017,7 +15017,7 @@ msgstr "Cliquer pour les instructions"
 
 #: /views/registrations/checkout.ctp:31
 msgid "Remove something"
-msgstr ""
+msgstr "Retirer quelque chose"
 
 #: /views/registrations/checkout.ctp:43
 msgid "Pay online"
