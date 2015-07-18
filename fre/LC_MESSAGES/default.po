@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2015-04-09 15:35-0400\n"
-"PO-Revision-Date: 2015-07-18 16:12-0400\n"
+"PO-Revision-Date: 2015-07-18 16:19-0400\n"
 "Last-Translator: Nick Zampieri <nick.zampieri@hotmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
@@ -2880,7 +2880,8 @@ msgstr ""
 #: /controllers/games_controller.php:2814
 msgid "No score entry found for either team; cannot finalize this game."
 msgstr ""
-"Aucune des deux équipe n'a founi de résultat; ne peut finaliser ce match."
+"Aucune des deux équipe n'a fourni de résultat; ne peut pas finaliser ce "
+"match."
 
 #: /controllers/games_controller.php:2821
 msgid "Could not successfully save game results."
@@ -12656,7 +12657,7 @@ msgstr "Site Web"
 
 #: /views/franchises/view.ctp:106
 msgid "Remove Team from this Franchise"
-msgstr "Supprimer l'équipe de cette franchise."
+msgstr "Supprimer l'équipe de cette franchise"
 
 #: /views/franchises/view.ctp:108
 msgid "Are you sure you want to remove this %s?"
