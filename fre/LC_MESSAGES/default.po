@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2015-04-09 15:35-0400\n"
-"PO-Revision-Date: 2015-06-25 17:35-0400\n"
-"Last-Translator: Marie-Michele Cote <cote.mariemichele@gmail.com>\n"
+"PO-Revision-Date: 2015-07-18 16:12-0400\n"
+"Last-Translator: Nick Zampieri <nick.zampieri@hotmail.com>\n"
 "Language-Team: fre (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/fre/>\n"
 "Language: fre\n"
@@ -6513,7 +6513,7 @@ msgstr "Proportion hommes-femmes"
 
 #: /views/divisions/edit.ctp:105 /views/elements/leagues/sport_fields.ctp:7
 msgid "Gender format for the division."
-msgstr "Proportion hommes-femmes de la division"
+msgstr "Proportion hommes-femmes de la division."
 
 #: /views/divisions/edit.ctp:110 /views/leagues/edit.ctp:149
 msgid ""
@@ -12605,7 +12605,7 @@ msgstr ""
 
 #: /views/franchises/edit.ctp:20
 msgid "The full name of your franchise."
-msgstr ""
+msgstr "Nom complet de franchise."
 
 #: /views/franchises/edit.ctp:31
 msgid "Your franchise's website, if you have one."
@@ -12613,7 +12613,7 @@ msgstr ""
 
 #: /views/franchises/index.ctp:7 /views/franchises/letter.ctp:7
 msgid "List Franchises"
-msgstr ""
+msgstr "Liste des Franchises"
 
 #: /views/franchises/index.ctp:12 /views/franchises/letter.ctp:12
 #: /views/teams/index.ctp:12 /views/teams/letter.ctp:12
@@ -12622,7 +12622,7 @@ msgstr ""
 
 #: /views/franchises/index.ctp:29 /views/franchises/letter.ctp:27
 msgid "Owner(s)"
-msgstr ""
+msgstr "Propriétaire(s)"
 
 #: /views/franchises/index.ctp:79;79 /views/franchises/letter.ctp:77;77
 #: /views/franchises/view.ctp:57;57
@@ -12656,7 +12656,7 @@ msgstr "Site Web"
 
 #: /views/franchises/view.ctp:106
 msgid "Remove Team from this Franchise"
-msgstr ""
+msgstr "Supprimer l'équipe de cette franchise."
 
 #: /views/franchises/view.ctp:108
 msgid "Are you sure you want to remove this %s?"
@@ -12712,7 +12712,7 @@ msgstr ""
 
 #: /views/game_slots/add.ctp:143
 msgid "First date"
-msgstr ""
+msgstr "Premier date"
 
 #: /views/game_slots/add.ctp:146
 msgid "Date of the first game slot to add."
@@ -12909,7 +12909,7 @@ msgstr ""
 
 #: /views/games/edit.ctp:90 /views/games/view.ctp:90
 msgid "Game Status"
-msgstr ""
+msgstr "Status du match"
 
 #: /views/games/edit.ctp:124
 msgid "Email all coaches and captains"
@@ -12962,7 +12962,7 @@ msgstr ""
 
 #: /views/games/edit.ctp:230 /views/games/view.ctp:352
 msgid "Spirit Assigned"
-msgstr ""
+msgstr "Esprit Assigné"
 
 #: /views/games/edit.ctp:311;345 /views/games/submit_score.ctp:178
 #: /views/people/view.ctp:598
@@ -13010,7 +13010,7 @@ msgstr ""
 
 #: /views/games/note.ctp:13
 msgid "Game Note"
-msgstr ""
+msgstr "Note du Match"
 
 #: /views/games/note.ctp:74 /views/people/note.ctp:20 /views/teams/note.ctp:20
 msgid "Only I will be able to see this"
@@ -13022,7 +13022,7 @@ msgstr ""
 
 #: /views/games/note.ctp:76
 msgid "Everyone on my team"
-msgstr ""
+msgstr "Tous dans l'Équipe"
 
 #: /views/games/note.ctp:81
 msgid "Emails are NOT sent to others when you edit an existing note."
@@ -14028,7 +14028,7 @@ msgstr ""
 
 #: /views/people/approve_document.ctp:5
 msgid "Edit Document"
-msgstr "Modifier Document "
+msgstr "Modifier Document"
 
 #: /views/people/approve_document.ctp:7
 msgid "Approve Document"
@@ -14766,7 +14766,7 @@ msgstr "Afficher l'historique de crédit"
 
 #: /views/people/view.ctp:755 /views/people/waivers.ctp:16
 msgid "Signed"
-msgstr "Signé."
+msgstr "Signé"
 
 #: /views/people/view.ctp:756;796 /views/people/waivers.ctp:17
 #: /views/upload_types/view.ctp:24
@@ -15300,7 +15300,7 @@ msgstr ""
 
 #: /views/registrations/view.ctp:48
 msgid "Created"
-msgstr "Créé."
+msgstr "Créé"
 
 #: /views/registrations/view.ctp:53
 msgid "Modified"
