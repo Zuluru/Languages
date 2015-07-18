@@ -947,30 +947,36 @@ msgid ""
 "Carbon flip > Head-to-head > Head-to-head plus-minus > Plus-minus > Goals "
 "for > Losses"
 msgstr ""
+"Esprit environmentale > tête-à-tête > tête-à-tête plus-moins > plus-moins > "
+"buts pour > pertes"
 
 #: /config/options.php:122;146
 msgid ""
 "Head-to-head > Head-to-head plus-minus > Carbon flip > Plus-minus > Goals "
 "for > Losses"
 msgstr ""
+"Tête-à-tête > tête-à-tête plus-moins > Esprit environmentale > plus-moins > "
+"buts pour > pertes"
 
 #: /config/options.php:123;149
 msgid ""
 "Head-to-head > Head-to-head plus-minus > Plus-minus > Goals for > Carbon "
 "flip > Losses"
 msgstr ""
+"Tête-à-tête > tête-à-tête plus-moins > plus-moins > buts pour > Esprit "
+"environmentale > pertes"
 
 #: /config/options.php:125;155
 msgid "Carbon flip > Plus-minus > Head-to-head > Goals for > Losses"
-msgstr ""
+msgstr "Esprit environmentale > plus-moins > Tête-à-tête > buts pour >  pertes"
 
 #: /config/options.php:126;158
 msgid "Plus-minus > Carbon flip > Head-to-head > Goals for > Losses"
-msgstr ""
+msgstr "Plus-moins > Esprit environmentale > Tête-à-tête > buts pour >  pertes"
 
 #: /config/options.php:127;161
 msgid "Plus-minus > Head-to-head > Carbon flip > Goals for > Losses"
-msgstr ""
+msgstr "Plus-moins > Tête-à-tête > Esprit environmentale > buts pour >  pertes"
 
 #: /config/options.php:132;141
 msgid ""
@@ -1001,60 +1007,84 @@ msgid ""
 "Carbon flip > Head-to-head > Head-to-head plus-minus > Plus-minus > Goals "
 "for > Losses > Spirit"
 msgstr ""
+"Esprit environmentale > Tête-à-tête > tête-à-tête plus-moins > plus-moins > "
+"buts pour > pertes > esprit"
 
 #: /config/options.php:145
 msgid ""
 "Carbon flip > Spirit > Head-to-head > Head-to-head plus-minus > Plus-minus > "
 "Goals for > Losses"
 msgstr ""
+"Esprit environmentale > esprit > Tête-à-tête > tête-à-tête plus-moins > plus-"
+"moins > buts pour > pertes"
 
 #: /config/options.php:147
 msgid ""
 "Head-to-head > Head-to-head plus-minus > Carbon flip > Plus-minus > Goals "
 "for > Losses > Spirit"
 msgstr ""
+"Tête-à-tête > tête-à-tête plus-moins > Esprit environmentale > plus-moins > "
+"buts pour > pertes > esprit"
 
 #: /config/options.php:148
 msgid ""
 "Spirit > Head-to-head > Head-to-head plus-minus > Carbon flip > Plus-minus > "
 "Goals for > Losses"
 msgstr ""
+"Esprit > Tête-à-tête > tête-à-tête plus-moins > Esprit environmentale > plus-"
+"moins > buts pour > pertes"
 
 #: /config/options.php:150
 msgid ""
 "Head-to-head > Head-to-head plus-minus > Plus-minus > Goals for > Carbon "
 "flip > Losses > Spirit"
 msgstr ""
+"Tête-à-tête > tête-à-tête plus-moins > plus-moins > buts pour > Esprit "
+"environmentale > pertes > esprit"
 
 #: /config/options.php:151
 msgid ""
 "Spirit > Head-to-head > Head-to-head plus-minus > Plus-minus > Goals for > "
 "Carbon flip > Losses"
 msgstr ""
+"Esprit > Tête-à-tête > tête-à-tête plus-moins > plus-moins > buts pour > "
+"Esprit environmentale > pertes"
 
 #: /config/options.php:156
 msgid "Carbon flip > Plus-minus > Head-to-head > Goals for > Losses > Spirit"
 msgstr ""
+"Esprit environmentale > plus-moins > Tête-à-tête > buts pour > pertes > "
+"esprit"
 
 #: /config/options.php:157
 msgid "Spirit > Carbon flip > Plus-minus > Head-to-head > Goals for > Losses"
 msgstr ""
+"Esprit > Esprit environmentale > plus-moins > Tête-à-tête > buts pour > "
+"pertes"
 
 #: /config/options.php:159
 msgid "Plus-minus > Carbon flip > Head-to-head > Goals for > Losses > Spirit"
 msgstr ""
+"Plus-moins > Esprit environmentale > Tête-à-tête > buts pour > pertes > "
+"esprit"
 
 #: /config/options.php:160
 msgid "Spirit > Plus-minus > Carbon flip > Head-to-head > Goals for > Losses"
 msgstr ""
+"Esprit > Plus-moins > Esprit environmentale > Tête-à-tête > buts pour > "
+"pertes"
 
 #: /config/options.php:162
 msgid "Plus-minus > Head-to-head > Carbon flip > Goals for > Losses > Spirit"
 msgstr ""
+"Plus-moins > Tête-à-tête > Esprit environmentale > buts pour > pertes > "
+"esprit"
 
 #: /config/options.php:163
 msgid "Spirit > Plus-minus > Head-to-head > Carbon flip > Goals for > Losses"
 msgstr ""
+"Esprit > Plus-moins > Tête-à-tête > Esprit environmentale > buts pour > "
+"pertes"
 
 #: /config/options.php:234
 msgid "10: High calibre touring player (team was top 4 at nationals)"
@@ -6268,7 +6298,7 @@ msgstr ""
 
 #: /views/contacts/message.ctp:16
 msgid "To"
-msgstr ""
+msgstr "A"
 
 #: /views/contacts/message.ctp:31
 msgid "Send a copy to your email address"
@@ -6296,7 +6326,7 @@ msgstr "Ajouter coordonnateur"
 
 #: /views/divisions/add_coordinator.ctp:14
 msgid "Current Coordinators:"
-msgstr ""
+msgstr "Coordonnateurs actuels:"
 
 #: /views/divisions/add_coordinator.ctp:22
 msgid ""
@@ -6394,7 +6424,7 @@ msgstr ""
 
 #: /views/divisions/approve_scores.ctp:63;65
 msgid "Home score"
-msgstr ""
+msgstr "Résultats receveur"
 
 #: /views/divisions/approve_scores.ctp:77
 msgid "email coaches and captains"
@@ -6402,15 +6432,15 @@ msgstr "Envoyer un courriel aux entraineur(e)s et aux capitaines"
 
 #: /views/divisions/approve_scores.ctp:83;85
 msgid "Away score"
-msgstr ""
+msgstr "Résultats visiteurs"
 
 #: /views/divisions/edit.ctp:20
 msgid "Division Information"
-msgstr ""
+msgstr "Information de Division"
 
 #: /views/divisions/edit.ctp:31
 msgid "The name of the division."
-msgstr ""
+msgstr "Nom de la division."
 
 #: /views/divisions/edit.ctp:35 /views/elements/divisions/details.ctp:22
 #: /views/leagues/edit.ctp:65
@@ -6483,7 +6513,7 @@ msgstr "Proportion hommes-femmes"
 
 #: /views/divisions/edit.ctp:105 /views/elements/leagues/sport_fields.ctp:7
 msgid "Gender format for the division."
-msgstr ""
+msgstr "Proportion hommes-femmes de la division"
 
 #: /views/divisions/edit.ctp:110 /views/leagues/edit.ctp:149
 msgid ""
@@ -6598,7 +6628,7 @@ msgstr ""
 #: /views/registrations/summary.ctp:39;66 /views/teams/attendance.ctp:77;156
 #: /views/teams/statistics.ctp:29;68 /views/teams/stats.ctp:28
 msgid "Total"
-msgstr ""
+msgstr "Total"
 
 #: /views/divisions/fields.ctp:169
 msgid "Total games"
@@ -6830,11 +6860,11 @@ msgstr ""
 
 #: /views/divisions/spirit.ctp:100 /views/teams/statistics.ctp:249;281
 msgid "Average Spirit"
-msgstr ""
+msgstr "Moyenne d'Esprit"
 
 #: /views/divisions/spirit.ctp:103
 msgid "Assigned Spirit"
-msgstr ""
+msgstr "Esprit assigné"
 
 #: /views/divisions/spirit.ctp:111;238 /views/teams/spirit.ctp:30
 msgid "Score Submitted?"
@@ -6858,7 +6888,7 @@ msgstr ""
 
 #: /views/divisions/spirit.ctp:196
 msgid "Number of teams"
-msgstr ""
+msgstr "Le nombre d'équipes"
 
 #: /views/divisions/spirit.ctp:196
 msgid "Percentage of division"
@@ -6976,7 +7006,7 @@ msgstr ""
 #: /views/games/stat_sheet.ctp:26;43;47;52;58 /views/teams/schedule.ctp:22
 #: /views/teams/stat_sheet.ctp:18;27;31;36;42
 msgid "Opponent"
-msgstr ""
+msgstr "Visiteurs"
 
 #: /views/divisions/csv/spirit.ctp:7
 msgid "Team Score"
@@ -7101,7 +7131,7 @@ msgstr ""
 
 #: /views/elements/divisions/actions.ctp:61
 msgid "Edit Division"
-msgstr ""
+msgstr "Modifier la Division"
 
 #: /views/elements/divisions/actions.ctp:66
 msgid "Initialize Ratings"
@@ -7126,7 +7156,7 @@ msgstr ""
 
 #: /views/elements/divisions/actions.ctp:126
 msgid "Delete Division"
-msgstr ""
+msgstr "Supprimer la division"
 
 #: /views/elements/divisions/details.ctp:37 /views/facilities/close.ctp:3
 #: /views/facilities/index.ctp:171 /views/facilities/view.ctp:98;196
@@ -7407,7 +7437,7 @@ msgstr ""
 #: /views/elements/games/consolidated_schedule.ctp:44
 #: /views/elements/games/splash.ctp:41
 msgid " vs. "
-msgstr ""
+msgstr " vs. "
 
 #: /views/elements/games/consolidated_schedule.ctp:49
 #: /views/elements/games/splash.ctp:46 /views/games/edit.ctp:166
@@ -7418,13 +7448,13 @@ msgstr ""
 
 #: /views/elements/games/consolidated_schedule.ctp:57
 msgid " at "
-msgstr ""
+msgstr " a "
 
 #: /views/elements/games/consolidated_schedule.ctp:150
 #: /views/elements/games/splash.ctp:49;122
 #: /views/elements/team_events/ical.ctp:47
 msgid "at"
-msgstr ""
+msgstr "a"
 
 #: /views/elements/games/consolidated_schedule.ctp:205
 #: /views/elements/games/splash.ctp:161
@@ -7498,7 +7528,7 @@ msgstr ""
 #: /views/games/view.ctp:150 /views/people/tooltip.ctp:55
 #: /views/people/view.ctp:320
 msgid "Add Note"
-msgstr ""
+msgstr "Ajouter la note"
 
 #: /views/elements/games/splash.ctp:148
 msgid "View Event Attendance"
@@ -7520,7 +7550,7 @@ msgstr ""
 #: /views/teams/add_from_event.ctp:8 /views/teams/add_from_team.ctp:8
 #: /views/teams/add_player.ctp:10 /views/teams/stat_sheet.ctp:50
 msgid "Player"
-msgstr ""
+msgstr "Joueur"
 
 #: /views/elements/games/stats_entry.ctp:100 /views/games/stat_sheet.ctp:109
 #: /views/teams/stat_sheet.ctp:73
@@ -7540,11 +7570,11 @@ msgstr ""
 
 #: /views/elements/help/index.ctp:6
 msgid "New Users"
-msgstr ""
+msgstr "Nouveaux utilisateurs"
 
 #: /views/elements/help/index.ctp:7
 msgid "Advanced Users"
-msgstr ""
+msgstr "Utilisateurs avancés"
 
 #: /views/elements/help/index.ctp:15
 msgid "Site Setup and Configuration"
@@ -7552,11 +7582,11 @@ msgstr ""
 
 #: /views/elements/help/index.ctp:16
 msgid "Player Management"
-msgstr ""
+msgstr "Gestion de joueur"
 
 #: /views/elements/help/index.ctp:17
 msgid "League Management"
-msgstr ""
+msgstr "Gestion de ligue"
 
 #: /views/elements/help/index.ctp:18
 msgid "%s Management"
@@ -7566,16 +7596,16 @@ msgstr ""
 #: /views/elements/help/guide/administrator/registration.ctp:8
 #: /views/events/edit.ctp:2 /views/questionnaires/view.ctp:34
 msgid "Events"
-msgstr ""
+msgstr "évènements"
 
 #: /views/elements/help/index.ctp:40
 msgid "Schedules"
-msgstr ""
+msgstr "Horaires"
 
 #: /views/elements/help/index.ctp:42;47
 #: /views/elements/leagues/game/ladder/score.ctp:27 /views/games/cron.ctp:27
 msgid "and"
-msgstr ""
+msgstr "et"
 
 #: /views/elements/help/index.ctp:46
 #: /views/elements/help/guide/administrator/fields.ctp:14
@@ -7791,7 +7821,7 @@ msgstr ""
 #: /views/elements/help/divisions/edit/double_booking.ctp:6;8
 #: /views/elements/help/divisions/edit/exclude_teams.ctp:5;7
 msgid "edit the division"
-msgstr ""
+msgstr "modifier la division"
 
 #: /views/elements/help/divisions/edit/double_booking.ctp:10
 #: /views/elements/help/divisions/edit/exclude_teams.ctp:9
@@ -7961,7 +7991,7 @@ msgstr ""
 #: /views/elements/help/divisions/edit/rating_calculator/sagarin.ctp:6
 #: /views/elements/help/divisions/edit/rating_calculator/usau_college.ctp:6
 msgid "Details are %s."
-msgstr ""
+msgstr "Détails sont %s."
 
 #: /views/elements/help/divisions/edit/rating_calculator/rri.ctp:1
 msgid ""
