@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zuluru\n"
 "POT-Creation-Date: 2015-04-09 15:35-0400\n"
-"PO-Revision-Date: 2015-05-04 19:56-0400\n"
+"PO-Revision-Date: 2015-08-20 17:47-0400\n"
 "Last-Translator: Luis Arturo Ramos Zapata <luisarturoramos@gmail.com>\n"
 "Language-Team: spa (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/spa/>\n"
@@ -464,11 +464,11 @@ msgstr "Boletín"
 
 #: /app_controller.php:913
 msgid "Upcoming"
-msgstr ""
+msgstr "Próximo"
 
 #: /app_controller.php:914;915;916
 msgid "Mailing lists"
-msgstr ""
+msgstr "Lista de correos"
 
 #: /app_controller.php:916
 #: /controllers/mailing_lists_controller.php:66;72;84;95;141;144;157;162;165;172;184;203
@@ -614,7 +614,7 @@ msgstr "Contactos"
 
 #: /app_controller.php:1004
 msgid "Clear cache"
-msgstr ""
+msgstr "Limpiar cache"
 
 #: /app_controller.php:1007;1009;1011;1012;1013;1014;1016;1019;1022;1023;1024;1025
 #: /views/help/view.ctp:25
@@ -627,7 +627,7 @@ msgstr "Contactanos"
 
 #: /app_controller.php:1011
 msgid "Help index"
-msgstr ""
+msgstr "Menú de ayuda"
 
 #: /app_controller.php:1012
 msgid "New users"
@@ -639,10 +639,9 @@ msgstr "Usuario avanzado"
 
 #: /app_controller.php:1014 /views/elements/help/index.ctp:8
 #: /views/teams/tooltip.ctp:26
-#, fuzzy
 #| msgid "Captains"
 msgid "Coaches/Captains"
-msgstr "Capitanes"
+msgstr "Entrenadores/Capitanes"
 
 #: /app_controller.php:1016 /views/divisions/tooltip.ctp:22
 #: /views/elements/divisions/details.ctp:2 /views/elements/help/index.ctp:10
@@ -652,7 +651,7 @@ msgstr "Coordinadores"
 
 #: /app_controller.php:1019
 msgid "Site setup and configuration"
-msgstr ""
+msgstr "Configuaración del sitio"
 
 #: /app_controller.php:1019;1022;1023;1024;1025
 #: /views/elements/help/index.ctp:13
@@ -661,15 +660,15 @@ msgstr "Administradores"
 
 #: /app_controller.php:1022
 msgid "Player management"
-msgstr ""
+msgstr "Manejo de jugador"
 
 #: /app_controller.php:1023
 msgid "League management"
-msgstr ""
+msgstr "Administrar liga"
 
 #: /app_controller.php:1024
 msgid "%s management"
-msgstr ""
+msgstr "%s administración"
 
 #: /app_controller.php:1029;1030;1031;1032;1034
 #: /views/elements/help/guide/administrator/registration.ctp:26
@@ -685,11 +684,11 @@ msgstr "Participasión"
 
 #: /app_controller.php:1031
 msgid "Retention"
-msgstr ""
+msgstr "Retención"
 
 #: /app_controller.php:1039
 msgid "Reset password"
-msgstr ""
+msgstr "Restablecer contraseña"
 
 #: /app_controller.php:1043;1045 /controllers/people_controller.php:1045
 #: /controllers/users_controller.php:107
@@ -698,7 +697,7 @@ msgstr "cuenta"
 
 #: /app_controller.php:1051
 msgid "Logout"
-msgstr ""
+msgstr "Cerrar sesión"
 
 #: /app_controller.php:1053 /views/users/login.ctp:2;33
 msgid "Login"
@@ -706,7 +705,7 @@ msgstr "Iniciar sesión"
 
 #: /app_controller.php:1077;1094
 msgid "History"
-msgstr ""
+msgstr "Historial"
 
 #: /app_controller.php:1138;1246 /views/divisions/schedule.ctp:4
 #: /views/divisions/tooltip.ctp:38 /views/elements/divisions/actions.ctp:40;40
@@ -738,11 +737,11 @@ msgstr "Asistencia"
 
 #: /app_controller.php:1148
 msgid "Join team"
-msgstr ""
+msgstr "Unirte a un equipo"
 
 #: /app_controller.php:1157
 msgid "Player emails"
-msgstr ""
+msgstr "Correos electronicos del Jugador"
 
 #: /app_controller.php:1158;1195 /views/affiliates/edit.ctp:33
 #: /views/affiliates/index.ctp:55;55 /views/badges/edit.ctp:68
@@ -784,7 +783,7 @@ msgstr "Borrar"
 
 #: /app_controller.php:1163
 msgid "Add player"
-msgstr ""
+msgstr "Agregar jugador"
 
 #: /app_controller.php:1166 /views/teams/move.ctp:4
 msgid "Move"
@@ -812,10 +811,9 @@ msgstr "Estadísticas"
 #: /app_controller.php:1173;1275;1278
 #: /views/elements/people/search_results.ctp:99 /views/people/index.ctp:106
 #: /views/teams/view.ctp:251
-#, fuzzy
 #| msgid "Download %s List"
 msgid "Download"
-msgstr "Descarga"
+msgstr "Descarga %s Lista"
 
 #: /app_controller.php:1193 /views/franchises/index.ctp:74;74
 #: /views/franchises/letter.ctp:72;72 /views/franchises/view.ctp:52;52
@@ -846,23 +844,23 @@ msgstr "Marcadores aprovados"
 
 #: /app_controller.php:1266
 msgid "%s distribution"
-msgstr ""
+msgstr "Distribuación %s"
 
 #: /app_controller.php:1267
 msgid "%s availability"
-msgstr ""
+msgstr "%s disponibilidad"
 
 #: /app_controller.php:1268
 msgid "Status report"
-msgstr ""
+msgstr "Informe de estado"
 
 #: /app_controller.php:1270
 msgid "All stars"
-msgstr ""
+msgstr "Estrellas"
 
 #: /app_controller.php:1272
 msgid "Captain emails"
-msgstr ""
+msgstr "Correo electronico del capitan"
 
 #: /app_controller.php:1274 /views/divisions/spirit.ctp:4;8
 msgid "Spirit Report"
@@ -870,19 +868,19 @@ msgstr "Reporte de espíritu"
 
 #: /app_controller.php:1280
 msgid "Adjust seeds"
-msgstr ""
+msgstr "Ajuste de sembrado"
 
 #: /app_controller.php:1283
 msgid "Add coordinator"
-msgstr ""
+msgstr "Añadir coordinador"
 
 #: /app_controller.php:1298
 msgid "View bookings"
-msgstr ""
+msgstr "Ver reservación"
 
 #: /app_controller.php:1300
 msgid "Add Game Slot"
-msgstr ""
+msgstr "Añadir casilla para juego"
 
 #: /app_controller.php:1301 /views/affiliates/edit.ctp:14
 #: /views/badges/edit.ctp:14 /views/categories/edit.ctp:14
@@ -903,7 +901,7 @@ msgstr "Editar %s"
 
 #: /app_controller.php:1302
 msgid "Edit Layout"
-msgstr ""
+msgstr "Editar diseño"
 
 #: /app_controller.php:1571
 msgid "The search terms used are too general. Please be more specific."
@@ -936,7 +934,7 @@ msgstr "Totalmente deshabilitado"
 
 #: /config/options.php:56
 msgid "Updated during event registration"
-msgstr ""
+msgstr "Actualizar durante el registro del evento"
 
 #: /config/options.php:115;120;131;140
 msgid ""
@@ -971,14 +969,20 @@ msgstr ""
 #: /config/options.php:125;155
 msgid "Carbon flip > Plus-minus > Head-to-head > Goals for > Losses"
 msgstr ""
+"Carbon flip > Diferencia de Goles > Enfrentamiento directo > Goles a favor > "
+"Derrotas"
 
 #: /config/options.php:126;158
 msgid "Plus-minus > Carbon flip > Head-to-head > Goals for > Losses"
 msgstr ""
+"Diferencia de goles > Carbon flip > Enfrentamiento directo > Goles a favor > "
+"Derrotas"
 
 #: /config/options.php:127;161
 msgid "Plus-minus > Head-to-head > Carbon flip > Goals for > Losses"
 msgstr ""
+"Diferencia de goles > Enfrentamiento directo > Carbon flip > Goles a favor > "
+"Derrotas"
 
 #: /config/options.php:132;141
 msgid ""
@@ -1013,40 +1017,54 @@ msgid ""
 "Carbon flip > Head-to-head > Head-to-head plus-minus > Plus-minus > Goals "
 "for > Losses > Spirit"
 msgstr ""
+"Carbon flip > Enfrentamiento directo > Diferencia en el enfrentamiento "
+"directo > diferencia de goles > Goles a favor > Espíritu de Juego"
 
 #: /config/options.php:145
 msgid ""
 "Carbon flip > Spirit > Head-to-head > Head-to-head plus-minus > Plus-minus > "
 "Goals for > Losses"
 msgstr ""
+"Carbon flip > Espíritu > Enfrentamiento Directo > Diferencia de goles en "
+"enfrentamiento directo > Diferencia de goles > Goles a favor > Derrotas"
 
 #: /config/options.php:147
 msgid ""
 "Head-to-head > Head-to-head plus-minus > Carbon flip > Plus-minus > Goals "
 "for > Losses > Spirit"
 msgstr ""
+"Enfrentamiento directo > Diferencia de goles en enfrentamiento directo > "
+"Carbon flip > Diferencia de goles > Derrotas > Espíritu"
 
 #: /config/options.php:148
 msgid ""
 "Spirit > Head-to-head > Head-to-head plus-minus > Carbon flip > Plus-minus > "
 "Goals for > Losses"
 msgstr ""
+"Espíritu > Enfrentamiento directo > Diferencia de goles en enfrentamiento "
+"directo > Carbon Flip > Diferencia de goles > Goles a favor > Derrotas"
 
 #: /config/options.php:150
 msgid ""
 "Head-to-head > Head-to-head plus-minus > Plus-minus > Goals for > Carbon "
 "flip > Losses > Spirit"
 msgstr ""
+"Enfrentamiento directo > Diferencia de goles en el enfrentamiento directo > "
+"Diferencia de goles > Goles a favor > Carbon flip > Derrotas > Espíritu"
 
 #: /config/options.php:151
 msgid ""
 "Spirit > Head-to-head > Head-to-head plus-minus > Plus-minus > Goals for > "
 "Carbon flip > Losses"
 msgstr ""
+"Espíritu > Enfrentamiento directo > Diferencia de goles en enfrentamiento "
+"directo > Diferencia de goles > Goles a favor > Carbon flip > Derrotas"
 
 #: /config/options.php:156
 msgid "Carbon flip > Plus-minus > Head-to-head > Goals for > Losses > Spirit"
 msgstr ""
+"Carbon flip > Diferencia de goles > Enfrentamiento directo > Goles a favor > "
+"Derrotas > Espíritu"
 
 #: /config/options.php:157
 msgid "Spirit > Carbon flip > Plus-minus > Head-to-head > Goals for > Losses"
@@ -19583,7 +19601,7 @@ msgid ""
 "They tried to avoid fouls and violations. Their marks were legal. They did "
 "not commit off side violations, etc."
 msgstr ""
-"Trataron de evitar las faltas y las violaciones. Todas marcas fueron "
+"Trataron de evitar las faltas y las violaciones. Todas sus marcas fueron "
 "legales. No cometieron violaciones de fuera de lugar, etc."
 
 #: /controllers/components/spirit_modified_wfdf.php:140
@@ -19600,7 +19618,7 @@ msgstr ""
 
 #: /controllers/components/spirit_modified_wfdf.php:161
 msgid "Encouraging Enjoyment of the Game"
-msgstr "Alentar Disfrutar el Juego"
+msgstr "Alientan a Disfrutar el Juego"
 
 #: /controllers/components/spirit_modified_wfdf.php:162
 msgid ""
