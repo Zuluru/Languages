@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zuluru\n"
 "POT-Creation-Date: 2015-04-09 15:35-0400\n"
-"PO-Revision-Date: 2015-08-20 17:47-0400\n"
+"PO-Revision-Date: 2015-09-09 12:14-0400\n"
 "Last-Translator: Luis Arturo Ramos Zapata <luisarturoramos@gmail.com>\n"
 "Language-Team: spa (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/spa/>\n"
@@ -1069,96 +1069,115 @@ msgstr ""
 #: /config/options.php:157
 msgid "Spirit > Carbon flip > Plus-minus > Head-to-head > Goals for > Losses"
 msgstr ""
+"Espíritu > Carbon flip > Diferencia de goles > Enfrentamiento directo > "
+"Goles a favor > Derrotas"
 
 #: /config/options.php:159
 msgid "Plus-minus > Carbon flip > Head-to-head > Goals for > Losses > Spirit"
 msgstr ""
+"Diferencia de goles > Carbon flip > Enfrentamiento directo > Derrotas > "
+"Espíritu"
 
 #: /config/options.php:160
 msgid "Spirit > Plus-minus > Carbon flip > Head-to-head > Goals for > Losses"
 msgstr ""
+"Espíritu > Diferencia de goles > Carbon flip > Enfrentamiento directo > "
+"Goles a favor > Derrotas"
 
 #: /config/options.php:162
 msgid "Plus-minus > Head-to-head > Carbon flip > Goals for > Losses > Spirit"
 msgstr ""
+"Diferencia de goles > Enfrentamiento directo > Carbon flip > Goles a favor > "
+"Derrotas > Espíritu"
 
 #: /config/options.php:163
 msgid "Spirit > Plus-minus > Head-to-head > Carbon flip > Goals for > Losses"
 msgstr ""
+"Espíritu > Diferencia de goles > Enfrentamiento directo > Carbon flip> Goles "
+"a favor > Derrotas"
 
 #: /config/options.php:234
 msgid "10: High calibre touring player (team was top 4 at nationals)"
 msgstr ""
+"10: Jugadores de alto calibre del tour (su equipo fue top 4 en El Nacional)"
 
 #: /config/options.php:235
 msgid "9: Medium calibre touring player"
-msgstr ""
+msgstr "9: Jugador de medio calibre del tour"
 
 #: /config/options.php:236
 msgid "8: Key player in competitive league, or lower calibre touring player"
 msgstr ""
+"8: Jugador clave en una liga competitiva o un jugador de bajo calibre en el "
+"tour"
 
 #: /config/options.php:237
 msgid "7: Competitive league player, minimal/no touring experience"
 msgstr ""
+"7: Jugador de una liga competitiva, experiencia mínima o nula en el tour"
 
 #: /config/options.php:238
 msgid ""
 "6: Key player in intermediate league, or lower player in competitive league"
 msgstr ""
+"6: Jugador clave en una liga intermedia, o un jugador bajo en una liga "
+"competitiva"
 
 #: /config/options.php:239
 msgid "5: Comfortable in intermediate league"
-msgstr ""
+msgstr "5: Cómodo en una liga intermedia"
 
 #: /config/options.php:240
 msgid ""
 "4: Key player in recreational league, or lower player in intermediate league"
 msgstr ""
+"4: Jugador clave en una liga recreativa, o un jugador de nivel bajo en una "
+"liga intermedia"
 
 #: /config/options.php:241
 msgid "3: Comfortable in recreational league"
-msgstr ""
+msgstr "3: Cómodo en una liga recreativa"
 
 #: /config/options.php:242
 msgid "2: Beginner, minimal experience but athletic with sports background"
 msgstr ""
+"2: Principiante, experiencia minima pero atlético con pasado en deportes"
 
 #: /config/options.php:243
 msgid "1: Absolute Beginner"
-msgstr ""
+msgstr "1: Principiante"
 
 #: /config/options.php:247
 msgid "Captain"
-msgstr ""
+msgstr "Capitán"
 
 #: /config/options.php:248
 msgid "Assistant captain"
-msgstr ""
+msgstr "Capitán Asistente"
 
 #: /config/options.php:249
 msgid "Non-playing coach"
-msgstr ""
+msgstr "Coach no jugador"
 
 #: /config/options.php:250
 msgid "Regular player"
-msgstr ""
+msgstr "Jugador"
 
 #: /config/options.php:251
 msgid "Substitute player"
-msgstr ""
+msgstr "Jugador sustituto"
 
 #: /config/options.php:252
 msgid "Not on team"
-msgstr ""
+msgstr "Sin equipo"
 
 #: /config/options.php:256
 msgid "Players are invited and must accept"
-msgstr ""
+msgstr "Los jugadores son invitados y deben aceptar"
 
 #: /config/options.php:257
 msgid "Players are added directly"
-msgstr ""
+msgstr "Los jugadores son añadidos directamente"
 
 #: /config/options.php:261 /views/divisions/add_coordinator.ctp:10
 msgid "Coordinator"
@@ -1166,87 +1185,87 @@ msgstr "Coordinador"
 
 #: /config/options.php:300
 msgid "Nobody"
-msgstr ""
+msgstr "Nadie"
 
 #: /config/options.php:301
 msgid "Everybody"
-msgstr ""
+msgstr "Todos"
 
 #: /config/options.php:302
 msgid "Admins"
-msgstr ""
+msgstr "Administradores"
 
 #: /config/options.php:306
 msgid "Canadian"
-msgstr ""
+msgstr "Canadiense"
 
 #: /config/options.php:307
 msgid "USA"
-msgstr ""
+msgstr "EUA"
 
 #: /config/options.php:316
 msgid "Full"
-msgstr ""
+msgstr "Lleno"
 
 #: /config/options.php:317
 msgid "Introductory"
-msgstr ""
+msgstr "Introductorio"
 
 #: /config/options.php:323
 msgid "Fixed dates"
-msgstr ""
+msgstr "Fechas fijas"
 
 #: /config/options.php:324
 msgid "A fixed duration"
-msgstr ""
+msgstr "Una duración fija"
 
 #: /config/options.php:325
 msgid "Duration of the event"
-msgstr ""
+msgstr "Duración del evento"
 
 #: /config/options.php:326 /views/people/waivers.ctp:49
 msgid "Never expires"
-msgstr ""
+msgstr "Nunca expira"
 
 #: /config/options.php:361
 msgid "Run-time determination"
-msgstr ""
+msgstr "Determinar el tiempo de duración"
 
 #: /config/options.php:362
 msgid "Determined by game outcomes"
-msgstr ""
+msgstr "Determinado por el resultado del partido."
 
 #: /config/options.php:363
 msgid "Determined by roster status"
-msgstr ""
+msgstr "Determinado por el estatus del roster"
 
 #: /config/options.php:364
 msgid "Determined by registrations"
-msgstr ""
+msgstr "Determinado por los registros"
 
 #: /config/options.php:365
 msgid "Aggregates multiple badges, e.g. \"5x\""
-msgstr ""
+msgstr "Agrega multiples insignias, por ejemplo \"5x\""
 
 #: /config/options.php:366
 msgid "Nominated by anyone (must be approved)"
-msgstr ""
+msgstr "Nominado por quien sea (debe ser aprobado)"
 
 #: /config/options.php:367
 msgid "Assigned by an admin"
-msgstr ""
+msgstr "Asignado por el administrador"
 
 #: /config/options.php:371
 msgid "Admin only (same locations as high)"
-msgstr ""
+msgstr "Solo administrador (misma locación de arriba)"
 
 #: /config/options.php:372
 msgid "High (profile, pop-ups, team rosters)"
-msgstr ""
+msgstr "Alto (perfil, ventanas emergentes, roster del equipo)"
 
 #: /config/options.php:373
 msgid "Low (profile only)"
-msgstr ""
+msgstr "Bajo (solo perfil)"
 
 #: /config/options.php:398;407 /views/affiliates/index.ctp:37
 #: /views/people/approve.ctp:292 /views/people/statistics.ctp:86
@@ -1256,75 +1275,75 @@ msgstr "Ninguno"
 
 #: /config/options.php:399
 msgid "Round Robin"
-msgstr ""
+msgstr "Todos contra todos"
 
 #: /config/options.php:400
 msgid "Ratings Ladder"
-msgstr ""
+msgstr "Sembrado"
 
 #: /config/options.php:402
 msgid "Tournament"
-msgstr ""
+msgstr "Torneo"
 
 #: /config/options.php:408
 msgid "Wager System"
-msgstr ""
+msgstr "Sistema Wager"
 
 #: /config/options.php:409
 msgid "USA Ultimate College"
-msgstr ""
+msgstr "Colegial USA Ultimate"
 
 #: /config/options.php:410
 msgid "RRI"
-msgstr ""
+msgstr "RRI"
 
 #: /config/options.php:411
 msgid "KRACH"
-msgstr ""
+msgstr "KRACH"
 
 #: /config/options.php:412
 msgid "RPI"
-msgstr ""
+msgstr "RPI"
 
 #: /config/options.php:413
 msgid "Modified Elo"
-msgstr ""
+msgstr "Elo Modificado"
 
 #: /config/options.php:419
 msgid "No spirit questionnaire"
-msgstr ""
+msgstr "Questionario, no de espírtu"
 
 #: /config/options.php:420
 msgid "WFDF standard"
-msgstr ""
+msgstr "Versión Standard WFDF"
 
 #: /config/options.php:421
 msgid "WFDF standard 2014 version"
-msgstr ""
+msgstr "Version standard 2014 WFDF"
 
 #: /config/options.php:422
 msgid "Modified WFDF"
-msgstr ""
+msgstr "WFDF Modificado"
 
 #: /config/options.php:423
 msgid "Modified BULA"
-msgstr ""
+msgstr "BULA Modificado"
 
 #: /config/options.php:424
 msgid "Leaguerunner original"
-msgstr ""
+msgstr "Original de los organizadores de liga"
 
 #: /config/options.php:425
 msgid "Modified Leaguerunner"
-msgstr ""
+msgstr "Organizadores de liga modificado"
 
 #: /config/options.php:426
 msgid "Sushi Suzuki's Alternate"
-msgstr ""
+msgstr "Alternativa Sushi Suzuki"
 
 #: /config/options.php:431
 msgid "Chase Paymentech"
-msgstr ""
+msgstr "Chase Paymentech"
 
 #: /config/options.php:432
 msgid "Moneris"
@@ -1336,7 +1355,7 @@ msgstr ""
 
 #: /config/options.php:438
 msgid "Standard"
-msgstr ""
+msgstr "\n"
 
 #: /config/schema/migrations/schema10.php:62
 #: /config/schema/migrations/schema13.php:48
@@ -1600,7 +1619,7 @@ msgstr "Experiencia"
 
 #: /config/sport/ultimate.php:99
 msgid "For how many years have you been playing Ultimate?"
-msgstr ""
+msgstr "¿ Por cuántos años has jugado ultimate?"
 
 #: /config/sport/ultimate.php:100
 msgid "0 years"
@@ -1624,7 +1643,7 @@ msgstr "+9 años"
 
 #: /config/sport/ultimate.php:107
 msgid "What is the highest level at which you regularly play?"
-msgstr ""
+msgstr "¿Cuál es el nivel más alto al que normalmente juegas?"
 
 #: /config/sport/ultimate.php:108
 msgid "Recreational League"
@@ -1653,6 +1672,8 @@ msgid ""
 "Over the past few summers, how many nights during the week did you play "
 "Ultimate? (Organized practices and regular pick-up count.)"
 msgstr ""
+"En los veranos pasados, ¿Cuántas noches durante la semana jugaste Ultimate? ("
+"Entrenamientos organizados y retas cuentan)"
 
 #: /config/sport/ultimate.php:116
 msgid "0 nights per week"
@@ -1676,7 +1697,7 @@ msgstr "mas de 3 noches por semana"
 
 #: /config/sport/ultimate.php:123
 msgid "Over the past few years, when did you normally play Ultimate?"
-msgstr ""
+msgstr "En los últimos años, ¿Dónde juegas ultimate normalmente?"
 
 #: /config/sport/ultimate.php:124
 msgid "The occasional pick-up game"
@@ -1703,6 +1724,8 @@ msgid ""
 "If there was a disagreement on the field about a certain play, the majority "
 "of the time you would be able to:"
 msgstr ""
+"Si hay un desacuerdo en el campo sobre alguna jugada, la mayoría de la veces "
+"tú serías capaz de:"
 
 #: /config/sport/ultimate.php:132
 msgid "not do much because you don't know all the rules yet"
@@ -1944,6 +1967,8 @@ msgid ""
 "Your language has been changed for this session. To change it permanently, %"
 "s."
 msgstr ""
+"Tu idioma ha sido cambiado para esta sesión. Para cambiarlo permanentemente, "
+"%s"
 
 #: /controllers/all_controller.php:38
 msgid "update your preferences"
@@ -2194,6 +2219,8 @@ msgid ""
 "Your account is currently inactive, please contact an administrator to "
 "reactivate it."
 msgstr ""
+"Tu cuenta está actualmente inactiva, por favor contacta al administrador "
+"para que la reactive"
 
 #: /controllers/events_controller.php:129
 msgid ""
@@ -2366,6 +2393,8 @@ msgstr "¡Debes seleccionar al menos una división!"
 #: /controllers/game_slots_controller.php:281
 msgid "You cannot select indoor %s in conjunction with sunset end times!"
 msgstr ""
+"¡No puedes seleccionar indoors %s en conjunción con los horarios para "
+"terminar según la puesta de sol!"
 
 #: /controllers/game_slots_controller.php:364
 msgid "This game slot has a game assigned to it and cannot be deleted."
@@ -2678,6 +2707,8 @@ msgstr "grabado"
 #: /controllers/people_controller.php:1496
 msgid "Failed to load the %s library! Contact your system administrator."
 msgstr ""
+"¡Hubo un fallo al cargar la biblioteca %s!Contacta a tu administrador de "
+"sistemas"
 
 #: /controllers/games_controller.php:2009
 msgid ""
@@ -2824,7 +2855,6 @@ msgid "Game has already been finalized."
 msgstr "El juego se ha finalizado."
 
 #: /controllers/games_controller.php:2737
-#, fuzzy
 #| msgid ""
 #| "This score doesn't agree with the one your opponent submitted. Because of "
 #| "this, the score will not be posted until your coordinator approves it. "
@@ -2837,7 +2867,7 @@ msgid ""
 msgstr ""
 "Este marcador no coincide con el de tu oponente. Por esto, no se anunciará "
 "el marcador hasta que el coordinador lo apruebe. De otra manera, cualquiera "
-"de los capitanes que haya cometido un error puede editarlo."
+"de los capitanes o entrenadores que haya cometido un error puede editarlo."
 
 #: /controllers/games_controller.php:2814
 msgid "No score entry found for either team; cannot finalize this game."
@@ -3022,7 +3052,7 @@ msgstr "Tu perfil ha sido guardado"
 #: /controllers/people_controller.php:1198
 #: /controllers/teams_controller.php:1434
 msgid "You are not allowed to delete that %s."
-msgstr ""
+msgstr "No tienes permitido borrar ese %s"
 
 #: /controllers/people_controller.php:1225
 msgid "preferences"
@@ -3078,6 +3108,8 @@ msgid ""
 "Linked %s as relative; you will not have access to their information until "
 "they have approved this."
 msgstr ""
+"Se ha vinculado a %s como pariente; no tendrás acceso a su información hasta "
+"que se haya aprobado."
 
 #: /controllers/people_controller.php:1357
 #, fuzzy
@@ -3103,10 +3135,9 @@ msgstr "Solicitud de familiares ha sido aprobada."
 
 #: /controllers/people_controller.php:1425;1488
 #: /controllers/teams_controller.php:2879;2901;2946;3016;3060
-#, fuzzy
 #| msgid "team captains."
 msgid "team coaches/captains."
-msgstr "capitanes del equipo."
+msgstr "entrenadores/capitanes del equipo."
 
 #: /controllers/people_controller.php:1443
 msgid "This person is already not related to you."
@@ -3214,7 +3245,7 @@ msgstr "Debes seleccionar una fotografía para cargar"
 
 #: /controllers/people_controller.php:1669 /views/people/photo_upload.ctp:15
 msgid "Supported formats are PNG, JPEG and GIF."
-msgstr ""
+msgstr "Los formatos aceptados son PNG, JPEG y GIF"
 
 #: /controllers/people_controller.php:1678
 msgid "Unexpected error uploading the file"
@@ -3309,7 +3340,7 @@ msgstr "%s inactivo"
 
 #: /controllers/people_controller.php:2172;2213
 msgid "This badge must be earned, not granted."
-msgstr "Esta insignia debe ser ganada y no concedido."
+msgstr "Esta insignia debe ser ganada y no concedida."
 
 #: /controllers/people_controller.php:2219
 #, fuzzy
@@ -3371,11 +3402,11 @@ msgstr "Persona"
 
 #: /controllers/people_controller.php:2461
 msgid "Administrators cannot act as other administrators"
-msgstr ""
+msgstr "Los administradores no pueden tomar el lugar de otros administradores"
 
 #: /controllers/people_controller.php:2463
 msgid "Managers cannot act as other managers"
-msgstr ""
+msgstr "Manejadores no pueden tomar el lugar de otros administradores"
 
 #: /controllers/people_controller.php:2467;2470
 #, fuzzy
@@ -3390,7 +3421,7 @@ msgstr "usted mismo"
 
 #: /controllers/people_controller.php:2485
 msgid "There is nobody else you can act as."
-msgstr ""
+msgstr "No puedes actuar como alguien más."
 
 #: /controllers/people_controller.php:2595
 #, fuzzy
@@ -3428,7 +3459,7 @@ msgstr "Cuenta"
 
 #: /controllers/people_controller.php:2817
 msgid "%s %s Activation for %s"
-msgstr ""
+msgstr "La activación de %s para %s %s"
 
 #: /controllers/people_controller.php:2949
 msgid "Couldn't save new member information"
@@ -3547,11 +3578,11 @@ msgstr "¡La fecha de inicio debe ser anterior a la fecha de conclusión!"
 
 #: /controllers/registrations_controller.php:495;1597
 msgid "A minimum deposit of $%s is required."
-msgstr ""
+msgstr "se requiere un depósito mínimo de $%s"
 
 #: /controllers/registrations_controller.php:497;1599
 msgid "This deposit exceeds the total cost of $%s."
-msgstr ""
+msgstr "El depósito es mayor al costo total de %s."
 
 #: /controllers/registrations_controller.php:510
 msgid "Your preferences have been saved and your registration confirmed."
@@ -3581,14 +3612,15 @@ msgstr "credito"
 #: /controllers/registrations_controller.php:675
 msgid "The payment deadline has passed. Please choose another payment option."
 msgstr ""
+"La fecha límite de pago ha pasado. Por favor, escoge otra forma de pago."
 
 #: /controllers/registrations_controller.php:678
 msgid "The payment deadline has passed."
-msgstr ""
+msgstr "La fecha limite de pago ha pasado."
 
 #: /controllers/registrations_controller.php:696
 msgid "The event has filled up since you registered."
-msgstr ""
+msgstr "El evento se ha llenado desde que te registraste."
 
 #: /controllers/registrations_controller.php:756
 #, fuzzy
@@ -3602,12 +3634,11 @@ msgstr "El crédito se ha aplicado para el registro elegido."
 
 #: /controllers/registrations_controller.php:816
 msgid "Payment deadline has passed"
-msgstr ""
+msgstr "La fecha limite de pago ha pasado"
 
 #: /controllers/registrations_controller.php:835
-#, fuzzy
 msgid "Filled up since you registered"
-msgstr "Lleno hasta desde el que se registró"
+msgstr "Lleno desde que se registró"
 
 #: /controllers/registrations_controller.php:845
 #, fuzzy
@@ -3616,7 +3647,7 @@ msgstr "seleccionar un afiliado diferente"
 
 #: /controllers/registrations_controller.php:852
 msgid "Deposit paid; balance must be paid off-line"
-msgstr ""
+msgstr "Depósito pagado; La cuenta debe ser pagada off-line"
 
 #: /controllers/registrations_controller.php:859
 #, fuzzy
