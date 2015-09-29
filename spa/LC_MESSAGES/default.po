@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zuluru\n"
 "POT-Creation-Date: 2015-04-09 15:35-0400\n"
-"PO-Revision-Date: 2015-09-09 12:14-0400\n"
+"PO-Revision-Date: 2015-09-29 11:49-0400\n"
 "Last-Translator: Luis Arturo Ramos Zapata <luisarturoramos@gmail.com>\n"
 "Language-Team: spa (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/spa/>\n"
@@ -3806,9 +3806,8 @@ msgid "There are no unused credits."
 msgstr "No hay créditos sin usar."
 
 #: /controllers/registrations_controller.php:1736
-#, fuzzy
 msgid "Waiting lists are not enabled on this site."
-msgstr "Las insignias no estan habilitadas en este sitio."
+msgstr "Las insignias no están habilitadas en este sitio."
 
 #: /controllers/registrations_controller.php:1766
 msgid "There is nobody on the waiting list for this event."
@@ -3824,6 +3823,8 @@ msgid ""
 "This division's \"schedule type\" is set to \"none\", so no games can be "
 "added."
 msgstr ""
+"El \"tipo de calendario\" para esta división está puesto en \"ninguno\", por "
+"lo tanto no se puede aumentar ningún juego."
 
 #: /controllers/schedules_controller.php:92
 msgid "Cannot schedule games in a division with less than two teams."
@@ -4061,7 +4062,7 @@ msgstr ""
 
 #: /controllers/teams_controller.php:760
 msgid "You do not have access to download this team roster."
-msgstr ""
+msgstr "No puedes bajar el roster de este equipo, no tienes acceso a él"
 
 #: /controllers/teams_controller.php:900
 msgid "Shirt numbers are not enabled on this system."
@@ -4176,10 +4177,11 @@ msgstr ""
 "aprobados en el roster."
 
 #: /controllers/teams_controller.php:2177
-#, fuzzy
 #| msgid "All teams must have at least one player as captain."
 msgid "All teams must have at least one player as coach or captain."
-msgstr "Todos los equipos deben tener al menos un jugador/a como capitán."
+msgstr ""
+"Todos los equipos deben tener al menos un jugador/a como capitán o "
+"entrenador."
 
 #: /controllers/teams_controller.php:2187
 msgid "You do not have permission to set that role."
@@ -4233,7 +4235,7 @@ msgstr "Este jugador/a ya ha sido añadido a este roster."
 
 #: /controllers/teams_controller.php:2395
 msgid "You are not allowed to accept this roster %s."
-msgstr "Tu no tienes autorización para aceptar el/la %s de este roter."
+msgstr "Tu no tienes autorización para aceptar %s de este roster."
 
 #: /controllers/teams_controller.php:2415
 msgid "You have accepted this roster %s."
@@ -19539,19 +19541,19 @@ msgstr ""
 
 #: /controllers/components/spirit_wfdf.php:139
 msgid "Our spirit was slightly better"
-msgstr ""
+msgstr "Nuestro espíritu fue ligeramente mejor"
 
 #: /controllers/components/spirit_wfdf.php:143
 msgid "Our spirit was the same"
-msgstr ""
+msgstr "Nuestro espíritu fue igual"
 
 #: /controllers/components/spirit_wfdf.php:148
 msgid "Our spirit was slightly worse"
-msgstr ""
+msgstr "Nuestro fue ligeramente peor"
 
 #: /controllers/components/spirit_wfdf.php:152
 msgid "Our spirit was much worse"
-msgstr ""
+msgstr "Nuestro espíritu fue mucho peor"
 
 #: /controllers/components/spirit_modified_wfdf.php:9
 msgid ""
@@ -19561,10 +19563,15 @@ msgid ""
 "from five to three. The survey answers are intended to reward good spirit "
 "rather than penalizing bad."
 msgstr ""
+"La encuesta de espíritu de la WFDF fue desarrollada por la Waterloo "
+"Organization of Disc Sports para reflejar juegos de liga en lugar de los de "
+"un torneo;algunas preguntas de la WFDF han sido divididas, por ejemplo, una "
+"respuesta ha sido simplificada de 5 a 3. Las respuestas de la encuesta "
+"tienen la intención de premiar el buen espíritu en vez de castigar el malo."
 
 #: /controllers/components/spirit_modified_wfdf.php:13;14
 msgid "Respect"
-msgstr ""
+msgstr "Respeto"
 
 #: /controllers/components/spirit_modified_wfdf.php:15
 msgid ""
@@ -19572,14 +19579,18 @@ msgid ""
 "willing to believe calls were made in good faith. Were on time. Kept to time "
 "limits for discussions, time-outs, between points, etc."
 msgstr ""
+"Se comunicaron objetivamente y sin usar lenguaje agresivo. Ellos estaban "
+"dispuestos a confiar que los llamados fueron hechos de buena fe. Estuvieron "
+"a tiempo. Mantuvieron los límites de tiempo para las discusiones, para los "
+"tiempos fuera y entre puntos."
 
 #: /controllers/components/spirit_modified_wfdf.php:19;40;61;82;103;124;145;166
 msgid "Below Average"
-msgstr ""
+msgstr "Debajo del promedio"
 
 #: /controllers/components/spirit_modified_wfdf.php:28;49;70;91;112;133;154;175
 msgid "Above Average"
-msgstr ""
+msgstr "Encima del promedio"
 
 #: /controllers/components/spirit_modified_wfdf.php:36
 msgid ""
@@ -19587,10 +19598,14 @@ msgid ""
 "calls. In an important situation they admitted that the opponent was "
 "probably right. Avoided frequently calling non-obvious travels and picks."
 msgstr ""
+"Los jugadores señalaron sus propios fouls. Corrigieron a sus propios "
+"compañeros en sus llamados. En alguna situación importante admitieron que "
+"probablemente estaban en lo correcto. Evitaron llamar frecuentemente travel "
+"y picks que no eran obvios."
 
 #: /controllers/components/spirit_modified_wfdf.php:56
 msgid "Positive Attitude"
-msgstr ""
+msgstr "Actitud Positiva"
 
 #: /controllers/components/spirit_modified_wfdf.php:57
 msgid ""
@@ -19598,24 +19613,27 @@ msgid ""
 "for good plays.  Left a positive impression in an after-the-game Spirit "
 "Circle, etc."
 msgstr ""
+"Se presentaron con el rival. Felicitaron a los oponentes por buenas jugadas. "
+"Dejaron un impresión positiva en el Círculo de Espíritu después del partido."
 
 #: /controllers/components/spirit_modified_wfdf.php:76;77
 msgid "Emotional Management"
-msgstr ""
+msgstr "Control emocional"
 
 #: /controllers/components/spirit_modified_wfdf.php:78
 msgid ""
 "Their reaction towards disagreements, successes, and mistakes was "
 "appropriately mature."
 msgstr ""
+"Su reacción a los desacuerdos, aciertos y errores fue apropiadamente madura."
 
 #: /controllers/components/spirit_modified_wfdf.php:97
 msgid "Body Contact"
-msgstr ""
+msgstr "Contacto físico"
 
 #: /controllers/components/spirit_modified_wfdf.php:98
 msgid "Avoiding Body Contact"
-msgstr ""
+msgstr "Evitando el contacto físico"
 
 #: /controllers/components/spirit_modified_wfdf.php:99
 msgid ""
