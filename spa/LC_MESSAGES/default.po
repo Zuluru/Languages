@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zuluru\n"
 "POT-Creation-Date: 2015-04-09 15:35-0400\n"
-"PO-Revision-Date: 2015-09-29 11:49-0400\n"
+"PO-Revision-Date: 2015-09-30 22:29-0400\n"
 "Last-Translator: Luis Arturo Ramos Zapata <luisarturoramos@gmail.com>\n"
 "Language-Team: spa (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/spa/>\n"
@@ -19640,10 +19640,12 @@ msgid ""
 "They were aware of other players' body location and movement and avoided "
 "dangerous plays."
 msgstr ""
+"Estaban conciente de donde estaban ubicados los jugadores y evitaron hacer "
+"jugadas peligrosas."
 
 #: /controllers/components/spirit_modified_wfdf.php:119
 msgid "Avoiding Violations and Fouls"
-msgstr ""
+msgstr "Evitando Violaciones y Faltas"
 
 #: /controllers/components/spirit_modified_wfdf.php:120
 msgid ""
