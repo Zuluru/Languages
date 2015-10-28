@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zuluru\n"
 "POT-Creation-Date: 2015-04-09 15:35-0400\n"
-"PO-Revision-Date: 2015-09-30 22:29-0400\n"
+"PO-Revision-Date: 2015-10-28 15:12-0400\n"
 "Last-Translator: Luis Arturo Ramos Zapata <luisarturoramos@gmail.com>\n"
 "Language-Team: spa (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/spa/>\n"
@@ -953,18 +953,24 @@ msgid ""
 "Carbon flip > Head-to-head > Head-to-head plus-minus > Plus-minus > Goals "
 "for > Losses"
 msgstr ""
+"Carbon flip> Enfrentamiento Directo > Diferencia de goles en enfrentamientos "
+"directos > Diferencia de goles > Goles a favor> Derrotas"
 
 #: /config/options.php:122;146
 msgid ""
 "Head-to-head > Head-to-head plus-minus > Carbon flip > Plus-minus > Goals "
 "for > Losses"
 msgstr ""
+"Enfrentamiento directo> Diferencia de goles en enfrentamientos directos> "
+"Carbon flip> Goles a favor> Derrotas"
 
 #: /config/options.php:123;149
 msgid ""
 "Head-to-head > Head-to-head plus-minus > Plus-minus > Goals for > Carbon "
 "flip > Losses"
 msgstr ""
+"Enfrentamiento directo > Diferencia de goles en enfrentamiento directo > "
+"Diferencia de goles > Goles a favor> Carbon Flip> Derrotas"
 
 #: /config/options.php:125;155
 msgid "Carbon flip > Plus-minus > Head-to-head > Goals for > Losses"
@@ -1351,7 +1357,7 @@ msgstr ""
 
 #: /config/options.php:433
 msgid "Paypal"
-msgstr ""
+msgstr "Usar Paypal"
 
 #: /config/options.php:438
 msgid "Standard"
@@ -3112,9 +3118,8 @@ msgstr ""
 "que se haya aprobado."
 
 #: /controllers/people_controller.php:1357
-#, fuzzy
 msgid "Failed to link %s as relative."
-msgstr "No se ha podido vincular %s como relativo."
+msgstr "No se ha podido vincular %s como pariente."
 
 #: /controllers/people_controller.php:1380
 msgid "This person does not have an outstanding relative request for you."
