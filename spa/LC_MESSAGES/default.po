@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zuluru\n"
 "POT-Creation-Date: 2015-04-09 15:35-0400\n"
-"PO-Revision-Date: 2015-10-28 15:12-0400\n"
+"PO-Revision-Date: 2015-11-10 12:15-0400\n"
 "Last-Translator: Luis Arturo Ramos Zapata <luisarturoramos@gmail.com>\n"
 "Language-Team: spa (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/spa/>\n"
@@ -3395,9 +3395,8 @@ msgstr ""
 "ser borrado."
 
 #: /controllers/people_controller.php:2444
-#, fuzzy
 msgid "You cannot delete the only administrator."
-msgstr "No se puede eliminar el único administrador."
+msgstr "No se puede eliminar a el único administrador."
 
 #: /controllers/people_controller.php:2450;2452
 #: /views/leagues/participation.ctp:13 /views/registrations/credits.ctp:11
@@ -3429,15 +3428,14 @@ msgid "There is nobody else you can act as."
 msgstr "No puedes actuar como alguien más."
 
 #: /controllers/people_controller.php:2595
-#, fuzzy
 msgid ""
 "The syntax of the rule is valid, but it is not possible to build a query "
 "which will return the expected results. See the \"rules engine\" help for "
 "suggestions."
 msgstr ""
 "La sintaxis de la regla de la lista de envío es válida pero no es posible "
-"construir una consulta que devuelva los resultados esperados. Vea la Ayuda "
-"\"rules engine\" para obtener sugerencias."
+"construir una consulta que devuelva los resultados esperados. Vea la Ayuda \""
+"Buscador de Reglas\" para obtener sugerencias."
 
 #: /controllers/people_controller.php:2678
 #: /views/elements/people/search_results.ctp:5
@@ -3471,11 +3469,10 @@ msgid "Couldn't save new member information"
 msgstr "No se pudo guardar la informacion para este nuevo integrante"
 
 #: /controllers/people_controller.php:2990
-#, fuzzy
 msgid ""
 "You cannot delete the only parent of a child with history in the system."
 msgstr ""
-"No se puede eliminar el único padre de un niño con la historia en el sistema."
+"No se puede eliminar el único padre de un niño con historial en el sistema."
 
 #: /controllers/preregistrations_controller.php:84
 #, fuzzy
@@ -3523,9 +3520,8 @@ msgid "You cannot delete the only price point on an event."
 msgstr "No se puede eliminar el único punto de precio en un evento."
 
 #: /controllers/prices_controller.php:129;132
-#, fuzzy
 msgid "Price point"
-msgstr "punto"
+msgstr "Punto de precio"
 
 #: /controllers/questionnaires_controller.php:90;105;118;121;135;142;149;152;203
 #: /views/questionnaires/activate.ctp:9 /views/questionnaires/deactivate.ctp:9
@@ -3606,9 +3602,8 @@ msgid "Your registration for this event has been confirmed."
 msgstr "Tu registro para este evento ha sido confirmada."
 
 #: /controllers/registrations_controller.php:654
-#, fuzzy
 msgid "You have no available credits."
-msgstr "No tienes sedes habilitadas"
+msgstr "No tienes créditos habilitados."
 
 #: /controllers/registrations_controller.php:662;1071;1279;1286;1301;1313;1330;1334
 msgid "credit"
@@ -3655,22 +3650,21 @@ msgid "Deposit paid; balance must be paid off-line"
 msgstr "Depósito pagado; La cuenta debe ser pagada off-line"
 
 #: /controllers/registrations_controller.php:859
-#, fuzzy
 msgid "Registration for this is open, but payments are not being accepted yet"
-msgstr "El registro para este evento ha cerrado."
+msgstr ""
+"El registro para este evento está abierto, pero todavía no se aceptan pagos"
 
 #: /controllers/registrations_controller.php:894
 msgid "You have already paid for this! Contact the office to arrange a refund."
 msgstr "¡Ya pagaste esto! Contacta a la oficina para acordar un reembolso."
 
 #: /controllers/registrations_controller.php:898
-#, fuzzy
 msgid ""
 "This registration has already been cancelled. Cancelled records are kept on "
 "file for accounting purposes."
 msgstr ""
-"Ya recibiste un reembolso por esto. Los registros sobre los reembolsos son "
-"archivados con fines contables."
+"Tu registro ya ha sido cancelado. Los registros cancelados se mantienen "
+"archivados para propósitos de contabilidad."
 
 #: /controllers/registrations_controller.php:907
 msgid "You may only unregister from events that you have registered for!"
@@ -3732,9 +3726,8 @@ msgid "payment"
 msgstr "pago"
 
 #: /controllers/registrations_controller.php:1115;1214;1321
-#, fuzzy
 msgid "Failed to update payment status."
-msgstr "¡No pudo ser actualizado el estado de asistencia!"
+msgstr "No se pudo actualizar el estado del pago"
 
 #: /controllers/registrations_controller.php:1127;1392;1434;1449;1461;1505
 msgid "transfer"
@@ -3782,25 +3775,20 @@ msgstr ""
 "transferencia de pago."
 
 #: /controllers/registrations_controller.php:1468
-#, fuzzy
 msgid "Failed to mark the original registration as refunded."
-msgstr ""
-"No sea han podido realizar operaciones relacionadas con el registro "
-"adicionales."
+msgstr "No se ha podido marcar el registro original como reembolso."
 
 #: /controllers/registrations_controller.php:1485
-#, fuzzy
 msgid "Failed to update the payment status of the new registration."
-msgstr "¡No pudo ser actualizado el estado de asistencia!"
+msgstr "No se ha podido actualizar el estado del pago para el nuevo registro."
 
 #: /controllers/registrations_controller.php:1493
 msgid "Transferred $%0.2f"
 msgstr "$%0.2f transferido"
 
 #: /controllers/registrations_controller.php:1542
-#, fuzzy
 msgid "You cannot edit a registration once a payment has been made."
-msgstr "Tu registro para este evento ha sido confirmada."
+msgstr "No puedes editar un registro una vez que el pago fue hecho."
 
 #: /controllers/registrations_controller.php:1706
 msgid "There are no unpaid registrations."
@@ -3819,9 +3807,8 @@ msgid "There is nobody on the waiting list for this event."
 msgstr "No hay nadie en lista de espera para este evento."
 
 #: /controllers/registrations_controller.php:1915
-#, fuzzy
 msgid "Failed to update registration data."
-msgstr "No se ha podido actualizar el rating de este equipo"
+msgstr "No se ha podido actualizar los datos del registro."
 
 #: /controllers/schedules_controller.php:72
 msgid ""
@@ -3914,9 +3901,8 @@ msgstr ""
 "%s que han sido asignados antes de continuar."
 
 #: /controllers/schedules_controller.php:659
-#, fuzzy
 msgid "This division is already fully scheduled on the selected date."
-msgstr "La división no tiene juegos programados."
+msgstr "Esta división ya tiene el calendario lleno en las fechas seleccionadas."
 
 #: /controllers/schedules_controller.php:896
 msgid "Deleted games on the requested date."
@@ -4096,7 +4082,6 @@ msgid "numbers"
 msgstr "numeros"
 
 #: /controllers/teams_controller.php:1161
-#, fuzzy
 #| msgid ""
 #| "This system creates teams through the registration process. Team creation "
 #| "through Zuluru is disabled. If you need a team created for some other "
@@ -4107,9 +4092,9 @@ msgid ""
 "g. a touring team), please email %s with the details, or call the office."
 msgstr ""
 "Este sistema crea equipos a través de un proceso de registro. La opción para "
-"crear equipos a través de Zuluru no esta habilitada. Si necesitas crear un "
+"crear equipos a través de %s no esta habilitada. Si necesitas crear un "
 "equipo por cualquier razón (por ejemplo un equipo para ir de gira) por favor "
-"mandanos un correo electronico. "
+"mandanos un correo electrónico."
 
 #: /controllers/teams_controller.php:1447
 msgid "The following records reference this team, so it cannot be deleted."
@@ -4143,11 +4128,8 @@ msgid "This team has no games scheduled yet."
 msgstr "No hay juegos programados para este equipo."
 
 #: /controllers/teams_controller.php:1767
-#, fuzzy
 msgid "This division does not have a day of play selected."
-msgstr ""
-"Esta persona no tiene aún una cuenta en Drupal por lo que no puede ser "
-"editado."
+msgstr "Esta division no tiene un día de juego seleccionado."
 
 #: /controllers/teams_controller.php:1870;2555
 msgid "The roster deadline for this division has already passed."
@@ -4205,15 +4187,13 @@ msgid "Failed to change the player's position."
 msgstr "No se ha podido cambiar la posición del jugador/a."
 
 #: /controllers/teams_controller.php:2272
-#, fuzzy
 #| msgid "This player is already on this team."
 msgid "This person is already on this team."
-msgstr "Este jugador/a ya esta en este equipo."
+msgstr "Esta persona ya está en este equipo."
 
 #: /controllers/teams_controller.php:2289
-#, fuzzy
 msgid "You must select a role for this person."
-msgstr "Debes seleccionar una fotografía para cargar"
+msgstr "Debe seleccionar un rol para esta persona."
 
 #: /controllers/teams_controller.php:2317
 msgid "You are already on this team."
@@ -4224,19 +4204,17 @@ msgid "You are not allowed to request that role."
 msgstr "No tienes permitido solicitar ese rol."
 
 #: /controllers/teams_controller.php:2367;2449
-#, fuzzy
 #| msgid ""
 #| "This player has neither been invited nor requested to join this team."
 msgid "This person has neither been invited nor requested to join this team."
 msgstr ""
-"Este jugador/a no ha sido invitado a este equipo y tampoco ha solicitado "
+"Esta persona no ha sido invitado a este equipo y tampoco ha solicitado "
 "unirse a él."
 
 #: /controllers/teams_controller.php:2372;2454
-#, fuzzy
 #| msgid "This player has already been added to the roster."
 msgid "This person has already been added to the roster."
-msgstr "Este jugador/a ya ha sido añadido a este roster."
+msgstr "Esta persona ya ha sido añadido a este roster."
 
 #: /controllers/teams_controller.php:2395
 msgid "You are not allowed to accept this roster %s."
@@ -4284,6 +4262,8 @@ msgid ""
 "Your account is currently inactive. You must contact an administrator to "
 "reactivate it before you can be added to a team."
 msgstr ""
+"Tu cuenta está inactiva actualmente. Debes contratar al administrador para "
+"re-activarla antes de que puedas ser añadido en algún equipo."
 
 #: /controllers/teams_controller.php:2752
 msgid ""
@@ -4294,7 +4274,6 @@ msgstr ""
 "añadidos al equipo; esto normalmente sucede en un día hábil."
 
 #: /controllers/teams_controller.php:2755
-#, fuzzy
 #| msgid ""
 #| "This player has not yet completed their profile.  Please contact this "
 #| "player directly to have them complete their profile."
@@ -4302,7 +4281,7 @@ msgid ""
 "This person has not yet completed their profile.  Please contact them "
 "directly to have them complete their profile."
 msgstr ""
-"Este jugador no ha completado su perfil. Por favor ponte en contacto "
+"Esta persona no ha completado su perfil. Por favor ponte en contacto "
 "directamente con el jugador para que lo complete."
 
 #: /controllers/teams_controller.php:2797;2810
@@ -4312,8 +4291,8 @@ msgstr "No tienes la autorización para invitar a alguien para ese rol."
 #: /controllers/teams_controller.php:1991
 msgid "Invitation has"
 msgid_plural "Invitations have"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "La invitación fue"
+msgstr[1] "Las invitaciones fueron"
 
 #: /controllers/teams_controller.php:1995
 msgid "invitation"
@@ -4355,42 +4334,40 @@ msgstr "por crear una cuenta con %s."
 #: /controllers/users_controller.php:224
 msgid "However, you can log in and start exploring right away."
 msgstr ""
+"De cualquier manera, puedes iniciar sesión y empezar a explorar de forma "
+"inmediata."
 
 #: /controllers/users_controller.php:227
 msgid "Please proceed with entering your next child's details below."
-msgstr ""
+msgstr "Por favor, proceda a llenar los datos de su segundo hijo."
 
 #: /controllers/users_controller.php:293
-#, fuzzy
 msgid "You must select at least one affiliate."
-msgstr "¡Debes seleccionar al menos una casilla de partido!"
+msgstr "Debes seleccionar al menos un afiliado."
 
 #: /controllers/users_controller.php:297
-#, fuzzy
 msgid "You must select an affiliate."
-msgstr "¡Debes seleccionar una insignia!"
+msgstr "Debes seleccionar un afiliado."
 
 #: /controllers/users_controller.php:304
 msgid "Select how to handle fields with errors in them."
-msgstr ""
+msgstr "Selecciona cómo tratar cuando los campos tienen errores"
 
 #: /controllers/users_controller.php:308
 msgid "Select a status for imported accounts."
-msgstr ""
+msgstr "Selecciona el estatus para cuentas importadas."
 
 #: /controllers/users_controller.php:312
-#, fuzzy
 msgid "There was an error uploading the file."
-msgstr "Error inesperado al cargar el archivo"
+msgstr "Error al cargar el archivo."
 
 #: /controllers/users_controller.php:315
 msgid "Only import from CSV files is currently supported."
-msgstr ""
+msgstr "Por el momento solo se pueden importar archivos tipo CSV."
 
 #: /controllers/users_controller.php:330
-#, fuzzy
 msgid "No email column was found."
-msgstr "¡No se han encontrado cuentas que coincidan!"
+msgstr "La columna de correo electrónico no fue encontrada."
 
 #: /controllers/users_controller.php:536
 msgid "user"
@@ -4435,6 +4412,8 @@ msgid ""
 "This account has no email address associated with it. Please contact an "
 "administrator to assist you."
 msgstr ""
+"Esta cuenta no tiene ningún correo electrónico asociado a ella. Por favor "
+"contacta al administrador para que te ayude."
 
 #: /controllers/users_controller.php:639
 msgid "Your reset code has been emailed to you."
@@ -4595,6 +4574,9 @@ msgid ""
 "an administrator. This normally happens in less than one business day, and "
 "often in just a few minutes."
 msgstr ""
+"No te puedes registrar para este evento hasta que tu cuenta haya sido "
+"aprobada por el administrador. Esto normalmente sucede en un día laboral, y "
+"a veces en algunos minutos."
 
 #: /controllers/components/can_register.php:197
 msgid "This event is for the opposite gender only."
@@ -4613,14 +4595,12 @@ msgid "continue with registration"
 msgstr "continua con tu registro"
 
 #: /controllers/components/can_register.php:208
-#, fuzzy
 msgid "This event is already full."
-msgstr "Este pago ya ha sido completamente reembolsado."
+msgstr "Este evento ya está lleno."
 
 #: /controllers/components/can_register.php:228;302;313
-#, fuzzy
 msgid "this event"
-msgstr "evento de equipo"
+msgstr "este evento"
 
 #: /controllers/components/can_register.php:235
 #, fuzzy
@@ -4655,7 +4635,7 @@ msgstr "¡Error al actualizar la información de la insignia!"
 
 #: /controllers/components/event_type_individual.php:25
 msgid "Player Details"
-msgstr ""
+msgstr "Detalles del jugador"
 
 #: /controllers/components/event_type_individual.php:30
 #: /views/people/view.ctp:230
@@ -4768,19 +4748,16 @@ msgid "Failed to add the team captain!"
 msgstr "¡Error al agregar el capitán del equipo!"
 
 #: /controllers/components/event_type_team.php:291
-#, fuzzy
 msgid "Failed to create the franchise!"
-msgstr "¡Error al intentar la actualización!"
+msgstr "¡Error al crear la franquicia!"
 
 #: /controllers/components/event_type_team.php:306
-#, fuzzy
 msgid "Failed to add the team to the requested franchise!"
-msgstr "No se pudo agregar al equipo seleccionado a una franquicia"
+msgstr "¡No se pudo agregar al equipo seleccionado a una franquicia!"
 
 #: /controllers/components/event_type_team.php:327
-#, fuzzy
 msgid "Failed to create the team record!"
-msgstr "¡No se ha podido mover el equipo!"
+msgstr "¡No se ha podido crear récord para el equipo!"
 
 #: /controllers/components/event_type_team.php:367
 #, fuzzy
@@ -4788,9 +4765,8 @@ msgid "Failed to remove the team record!"
 msgstr "¡No se ha podido mover el equipo!"
 
 #: /controllers/components/league_type.php:782
-#, fuzzy
 msgid "crossover game"
-msgstr "Detalles para el cruzamiento"
+msgstr "Juego cruzado"
 
 #: /controllers/components/league_type.php:819
 #: /controllers/components/league_type_tournament.php:1003
@@ -4835,6 +4811,8 @@ msgid ""
 "set of blank unscheduled games for all teams in a division (%d teams, %d "
 "games, one day)"
 msgstr ""
+"conjunto de juegos sin programar de todos los equipos en una división (%d "
+"equipos, %d juegos, un día)"
 
 #: /controllers/components/league_type_competition.php:39
 #: /controllers/components/league_type_roundrobin.php:48
@@ -4842,10 +4820,12 @@ msgid ""
 "set of randomly scheduled games for all teams in a division (%d teams, %d "
 "games, one day)"
 msgstr ""
+"organiza un calendario aleatorio para todos los equipos en la división (%d "
+"equipos, %d juegos, un día)"
 
 #: /controllers/components/league_type_ratings_ladder.php:16
 msgid "Adjust ratings"
-msgstr ""
+msgstr "Ajustar clasificación"
 
 #: /controllers/components/league_type_ratings_ladder.php:40
 #: /views/leagues/summary.ctp:80
@@ -4870,6 +4850,8 @@ msgstr "espacio en blanco, juego no asignado (2 equipos, uno %s)"
 msgid ""
 "set of ratings-scheduled games for all teams (%d teams, %d games, one day)"
 msgstr ""
+"Grupo de juegos de calendario clasificatorios para todos los equipos (%d "
+"equipos, %D juegos, un día)"
 
 #: /controllers/components/league_type_ratings_ladder.php:114
 #: /controllers/components/league_type_roundrobin.php:131;157;179;239
@@ -4889,24 +4871,32 @@ msgstr "Nuevos partidos serán calendarizados para esta ronda automaticamente."
 #: /controllers/components/league_type_roundrobin.php:49
 msgid "full-division round-robin (%d teams, %d games over %d weeks)"
 msgstr ""
+"Round-robin de la division completa (%d equipos, %d juegos sobre %dsemanas"
 
 #: /controllers/components/league_type_roundrobin.php:50
 msgid ""
 "half-division round-robin (%d teams, %d games over %d weeks), with 2 pools "
 "(top, bottom) divided by team standings"
 msgstr ""
+"Round Robin a solo la mitad de partidos (%d Equipos, %d juegos sobre %s "
+"semanas), con dos grupos (superior, inferior) dividido por clasificación de "
+"equipos"
 
 #: /controllers/components/league_type_roundrobin.php:51
 msgid ""
 "half-division round-robin (%d teams, %d games over %d weeks), with 2 pools "
 "(top/bottom) divided by rating"
 msgstr ""
+"round robin de media division (%s equipos, %d juegos sobre %d semanas), con "
+"dos grupos (superior/inferior) dividido por rating"
 
 #: /controllers/components/league_type_roundrobin.php:52
 msgid ""
 "half-division round-robin (%d teams, %d games over %d weeks), with 2 even "
 "(interleaved) pools divided by team standings"
 msgstr ""
+"Round robin de division media (%d equipo, %d juegos sobre %d semanas), con "
+"grupos pares divididos por el lugar donde terminaron."
 
 #: /controllers/components/league_type_roundrobin.php:250
 msgid ""
