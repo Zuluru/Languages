@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zuluru\n"
 "POT-Creation-Date: 2015-04-09 15:35-0400\n"
-"PO-Revision-Date: 2015-11-10 12:15-0400\n"
+"PO-Revision-Date: 2015-11-30 12:38-0400\n"
 "Last-Translator: Luis Arturo Ramos Zapata <luisarturoramos@gmail.com>\n"
 "Language-Team: spa (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/spa/>\n"
@@ -1353,7 +1353,7 @@ msgstr "Chase Paymentech"
 
 #: /config/options.php:432
 msgid "Moneris"
-msgstr ""
+msgstr "Sistema Moneris"
 
 #: /config/options.php:433
 msgid "Paypal"
@@ -3047,9 +3047,8 @@ msgstr "Debes elegir una afiliación en la cual estés interesado."
 
 #: /controllers/people_controller.php:995
 #: /controllers/users_controller.php:153
-#, fuzzy
 msgid "You have selected an invalid group."
-msgstr "ha firmado la exención de responsabilidad"
+msgstr "Ha seleccionado un grupo no valido."
 
 #: /controllers/people_controller.php:1020
 msgid "Your profile has been saved"
@@ -3085,13 +3084,11 @@ msgstr "Tu cuenta ha sido creada."
 
 #: /controllers/people_controller.php:1284
 #: /controllers/users_controller.php:223
-#, fuzzy
 msgid ""
 "It must be approved by an administrator before you will have full access to "
 "the site."
 msgstr ""
-"Los nuevos jugadores deben ser aprobados por el administrador antes de ser "
-"añadidos al equipo; esto normalmente sucede en un día hábil."
+"Debes ser aprobado por el administrador antes de tener acceso total al sitio."
 
 #: /controllers/people_controller.php:1319
 #, fuzzy
@@ -3100,9 +3097,8 @@ msgid "You can't link yourself as a relative!"
 msgstr "¡No puedes agregarte a ti mismo como familiar!"
 
 #: /controllers/people_controller.php:1328
-#, fuzzy
 msgid "%s is already your relative."
-msgstr "%s es ya su pariente."
+msgstr "%s es ya tu pariente."
 
 #: /controllers/people_controller.php:1347;1425;1488
 #: /controllers/teams_controller.php:2839;2860;2879;2901;2920;2946;2964;2984;3016;3032;3060;3076
@@ -3348,10 +3344,9 @@ msgid "This badge must be earned, not granted."
 msgstr "Esta insignia debe ser ganada y no concedida."
 
 #: /controllers/people_controller.php:2219
-#, fuzzy
 #| msgid "This player already has this badge"
 msgid "This person already has this badge"
-msgstr "Este jugador/a ya tiene esta insignia"
+msgstr "Esta persona ya tiene esta insignia"
 
 #: /controllers/people_controller.php:2222
 #, fuzzy
@@ -3475,10 +3470,9 @@ msgstr ""
 "No se puede eliminar el único padre de un niño con historial en el sistema."
 
 #: /controllers/preregistrations_controller.php:84
-#, fuzzy
 #| msgid "This player already has a preregistration for this event"
 msgid "This person already has a preregistration for this event"
-msgstr "Este jugador/a ya esta pre registrado para este evento"
+msgstr "Esta persona ya está pre registrada para este evento"
 
 #: /controllers/preregistrations_controller.php:95
 msgid "The preregistration has been saved"
@@ -3508,11 +3502,10 @@ msgid "price point"
 msgstr "punto"
 
 #: /controllers/prices_controller.php:114
-#, fuzzy
 msgid "The following records reference this price, so it cannot be deleted."
 msgstr ""
-"El siguiente registro hace referencia a esta persona, por lo que no puede "
-"ser borrado."
+"El siguiente registro hace referencia a este precio, por lo que no puede ser "
+"borrado."
 
 #: /controllers/prices_controller.php:124
 #, fuzzy
@@ -4040,7 +4033,6 @@ msgid "That person does not have an attendance record for this event."
 msgstr "Esta persona no tiene un record de asistencia para este evento."
 
 #: /controllers/team_events_controller.php:400
-#, fuzzy
 #| msgid ""
 #| "That is not currently a valid attendance status for this player for this "
 #| "event."
@@ -4048,7 +4040,7 @@ msgid ""
 "That is not currently a valid attendance status for this person for this "
 "event."
 msgstr ""
-"Actualmente este no es un estado válido de asistencia de este jugador/a para "
+"Actualmente este no es un estado válido de asistencia de esta persona para "
 "este evento."
 
 #: /controllers/teams_controller.php:760
@@ -4136,9 +4128,8 @@ msgid "The roster deadline for this division has already passed."
 msgstr "El límite para enviar el roster para esta división ya ha pasado."
 
 #: /controllers/teams_controller.php:1991
-#, fuzzy
 msgid "%s been sent to"
-msgstr "%s sido enviado a"
+msgstr "%s ha sido enviado a"
 
 #: /controllers/teams_controller.php:1995
 #, fuzzy
@@ -4504,15 +4495,14 @@ msgid "You have already been added to the waiting list for this event."
 msgstr "Ya has sido agregado a la lista de espera de este evento."
 
 #: /controllers/components/can_register.php:145
-#, fuzzy
 msgid ""
 "Your payment was not received in time, so your registration has been "
 "removed. If you have any questions about this, please contact the head "
 "office."
 msgstr ""
-"Tu pago no fue recibido a tiempo, por lo tanto, tu registro ha sido movido a "
-"la lista de espera. Si tienes alguna pregunta por favor contacta a la "
-"oficina principal."
+"Tu pago no fue recibido a tiempo, por lo tanto, tu registro ha sido "
+"removido. Si tienes alguna pregunta por favor contacta a la oficina "
+"principal."
 
 #: /controllers/components/can_register.php:148
 msgid ""
@@ -4525,15 +4515,14 @@ msgstr ""
 "oficina principal."
 
 #: /controllers/components/can_register.php:155
-#, fuzzy
 msgid ""
 "Your payment was not received in time, so you will not be able to complete "
 "this registration. If you have any questions about this, please contact the "
 "head office."
 msgstr ""
-"Tu pago no fue recibido a tiempo, por lo tanto, tu registro ha sido movido a "
-"la lista de espera. Si tienes alguna pregunta por favor contacta a la "
-"oficina principal."
+"Tu pago no fue recibido a tiempo, por lo tanto, no podrás completar tu "
+"registro. Si tienes alguna pregunta por favor contacta a la oficina "
+"principal."
 
 #: /controllers/components/can_register.php:158
 msgid "You have already registered for this event, but not yet paid."
@@ -4723,7 +4712,6 @@ msgstr "Roster abierto"
 
 #: /controllers/components/event_type_team.php:115
 #: /views/divisions/add_teams.ctp:37 /views/teams/edit.ctp:140
-#, fuzzy
 #| msgid ""
 #| "If the team roster is open, others can request to join; otherwise, only "
 #| "the captain can add players."
@@ -4732,7 +4720,7 @@ msgid ""
 "coach or captain can add players."
 msgstr ""
 "Si el roster es abierto, otros jugadores podrían solicitar unirse a tu "
-"equipo; de otra forma el capitán es el que agrega los jugadores."
+"equipo; de otra forma el entrenador o capitán es el que agrega los jugadores."
 
 #: /controllers/components/event_type_team.php:123
 msgid "Attendance Tracking"
@@ -4760,9 +4748,8 @@ msgid "Failed to create the team record!"
 msgstr "¡No se ha podido crear récord para el equipo!"
 
 #: /controllers/components/event_type_team.php:367
-#, fuzzy
 msgid "Failed to remove the team record!"
-msgstr "¡No se ha podido mover el equipo!"
+msgstr "¡No se ha podido quitar el registro del equipo!"
 
 #: /controllers/components/league_type.php:782
 msgid "crossover game"
@@ -4896,14 +4883,14 @@ msgid ""
 "(interleaved) pools divided by team standings"
 msgstr ""
 "Round robin de division media (%d equipo, %d juegos sobre %d semanas), con "
-"grupos pares divididos por el lugar donde terminaron."
+"grupos pares divididos por el lugar donde terminaron"
 
 #: /controllers/components/league_type_roundrobin.php:250
 msgid ""
 "Need %s weeks of gameslots, yet only %s are available. Add more gameslots."
 msgstr ""
 "Semanas necesarias %s de ranuras de juego, solo %s están disponibles aún. "
-"Agrega mas ranuras de juego."
+"Agrega más ranuras de juego."
 
 #: /controllers/components/league_type_roundrobin.php:267
 msgid "Had to stop with %s sets left to schedule: could not assign %s"
@@ -4919,32 +4906,32 @@ msgstr ""
 
 #: /controllers/components/league_type_tournament.php:40
 msgid "single pool with all teams"
-msgstr ""
+msgstr "un solo grupo con todos los equipos"
 
 #: /controllers/components/league_type_tournament.php:42
 msgid "seeded split into %d pools"
-msgstr ""
+msgstr "dividir en %s grupos según el ranking"
 
 #: /controllers/components/league_type_tournament.php:58
 msgid "snake seeded split into %d pools of %d teams"
-msgstr ""
+msgstr "sembrado tipo serpiente dividido en %d grupos de %s equipos"
 
 #: /controllers/components/league_type_tournament.php:60
 msgid "snake seeded split into %d pools of %d and %d teams"
-msgstr ""
+msgstr "sembrado tipo serpiente dividido en %d grupos de %d y %d equipos"
 
 #: /controllers/components/league_type_tournament.php:62
 msgid "snake seeded split into %d pools (%d with %d teams and %d with %d)"
 msgstr ""
+"sembrado tipo serpiente dividido en %d grupos (%d con %d equipos y %d con %d)"
 
 #: /controllers/components/league_type_tournament.php:71
 msgid "%d re-seeded power pools"
-msgstr ""
+msgstr "%d re siembra grupo para campeonato"
 
 #: /controllers/components/league_type_tournament.php:73
-#, fuzzy
 msgid "group of crossover games"
-msgstr "Numero de cruces"
+msgstr "Número de cruces"
 
 #: /controllers/components/league_type_tournament.php:85
 #, fuzzy
@@ -4960,127 +4947,164 @@ msgid ""
 "set of blank unscheduled games for all but one team in the division (%d "
 "teams, %d games)"
 msgstr ""
+"grupo de juegos sin programar para todos los equipos menos uno (%d equipos, %"
+"d juegos)"
 
 #: /controllers/components/league_type_tournament.php:88
 msgid ""
 "set of blank unscheduled games for all teams in the division, one team will "
 "have a double-header (%d teams, %d games)"
 msgstr ""
+"grupo de juegos sin programar en blanco para todos los equipos en la "
+"división, un equipo tendrá un enfrentamiento doble (%d equipos, %d partidos)"
 
 #: /controllers/components/league_type_tournament.php:94
 msgid "round-robin with results from prior-stage matchups carried forward"
 msgstr ""
+"round-robin tomando en cuenta resultados de las rondas anteriores para "
+"avanzar los juegos"
 
 #: /controllers/components/league_type_tournament.php:101
 msgid "single game, winner take all"
-msgstr ""
+msgstr "un solo juego, el ganador se lleva todo"
 
 #: /controllers/components/league_type_tournament.php:102
 msgid "\"home and home\" series"
-msgstr ""
+msgstr "\"local y local\" serie"
 
 #: /controllers/components/league_type_tournament.php:106
 msgid "play-in game for 2nd and 3rd; 1st gets a bye to the finals"
-msgstr ""
+msgstr "juego por el segundo y tercero; primer lugar va directo a la final"
 
 #: /controllers/components/league_type_tournament.php:110
 msgid "bracket with semi-finals, finals and 3rd place"
-msgstr ""
+msgstr "bracket con semifinal, final y juego por el tercer lugar"
 
 #: /controllers/components/league_type_tournament.php:111
 msgid "bracket with semi-finals and finals, no 3rd place"
-msgstr ""
+msgstr "bracket con semifinal y final, sin juego por el tercero"
 
 #: /controllers/components/league_type_tournament.php:115
 msgid "bracket with semi-finals and finals, plus a 5th place play-in"
-msgstr ""
+msgstr "bracket con semifinal y final, ademas de ronda por el quinto lugar"
 
 #: /controllers/components/league_type_tournament.php:116
 msgid "1st gets a bye to the finals, 4th and 5th place play-in for the bronze"
 msgstr ""
+"1ero tiene una ronda libre a la final, 4to y 5to pueden jugar por el bronce"
 
 #: /controllers/components/league_type_tournament.php:120
 msgid "bracket with semi-finals and finals, plus 5th and 6th place play-ins"
-msgstr ""
+msgstr "bracket con semifinal y final, además juegos por quinto y sexto lugar"
 
 #: /controllers/components/league_type_tournament.php:121
 msgid ""
 "bracket with semi-finals and finals, 1st and 2nd place have double-"
 "elimination option, everyone gets 3 games"
 msgstr ""
+"bracket con semifinal y final, 1ero y 2do tienen la opción de doble "
+"eliminación, todos juegan tres partidos"
 
 #: /controllers/components/league_type_tournament.php:122
 msgid ""
 "bracket with semi-finals and finals, plus 5th and 6th place play-ins, "
 "everyone gets 3 games"
 msgstr ""
+"bracket con semifinal y final, además juegos por el 5to y 6to lugar, todos "
+"tienen 3 juegos"
 
 #: /controllers/components/league_type_tournament.php:123
 msgid ""
 "bracket with semi-finals and finals, 5th and 6th have consolation games, "
 "everyone gets 2 games"
 msgstr ""
+"bracket con semifinales y final, 5to y 6to tienen juego de consolación, "
+"todos tienen al menos 2 partidos"
 
 #: /controllers/components/league_type_tournament.php:127
 msgid ""
 "bracket with quarter-finals, semi-finals, finals, and all placement games, "
 "with a bye every round for whoever should be playing the missing 8th seed"
 msgstr ""
+"bracket con cuartos de final, semifinales, finales y juegos para acomodo, "
+"con un bye cada round para quien sea este jugando contra el 8vo faltante"
 
 #: /controllers/components/league_type_tournament.php:128
 msgid ""
 "bracket with play-in quarter-finals for all but the top seed, semi-finals, "
 "finals and 3rd place, and a round-robin for the losers of the quarters"
 msgstr ""
+"bracket con juegos de cuartos de final para todos menos el primer lugar, "
+"semifinales, finales y juego por el tercer lugar y round robin para los "
+"perdedores de cuartos de final"
 
 #: /controllers/components/league_type_tournament.php:132
 msgid ""
 "bracket with quarter-finals, semi-finals, finals, and all placement games"
 msgstr ""
+"bracket con cuartos de final, semifinales, final y todos los juegos para "
+"acomodar"
 
 #: /controllers/components/league_type_tournament.php:133
 msgid ""
 "bracket with quarter-finals, semi-finals, finals and 3rd place, but no "
 "consolation bracket"
 msgstr ""
+"bracket con cuartos de final, semifinal, finales y tercer lugar, pero sin "
+"juegos de consolación"
 
 #: /controllers/components/league_type_tournament.php:134
 msgid "bracket with quarter-finals, semi-finals and finals, no placement games"
 msgstr ""
+"bracket con cuartos de final, semifinales y final, sin juegos extras para el "
+"ranking"
 
 #: /controllers/components/league_type_tournament.php:138
 msgid ""
 "bracket with quarter-finals, semi-finals and finals, plus a 9th place play-in"
 msgstr ""
+"bracket con cuartos de final, semifinal y final, además de partidos por el "
+"9nvo lugar"
 
 #: /controllers/components/league_type_tournament.php:142
 msgid ""
 "bracket with quarter-finals, semi-finals and finals, plus 9th and 10th place "
 "play-ins"
 msgstr ""
+"bracket con cuartos de final, semifinal y final, además juego por 9no y 10mo "
+"lugar"
 
 #: /controllers/components/league_type_tournament.php:143
 msgid ""
 "bracket with pre-semi-finals, semi-finals and finals, everyone gets 3 games"
 msgstr ""
+"brackets con pre-semifinales, semifinales y finales, todos juegan al menos 3 "
+"partidos"
 
 #: /controllers/components/league_type_tournament.php:144
 msgid ""
 "bracket with quarter-finals, semi-finals and finals, bottom 6 get shuffled "
 "to minimize duplicates, everyone gets 3 games"
 msgstr ""
+"bracket con cuartos de final, semifinales y final, los 6 últimos se sortean "
+"para minimizar duplicados, todos juegan 3 partidos"
 
 #: /controllers/components/league_type_tournament.php:145
 msgid ""
 "bracket with quarter-finals, semi-finals and finals, plus 9th and 10th place "
 "play-ins, bottom 6 get shuffled to minimize duplicates, everyone gets 4 games"
 msgstr ""
+"bracket con cuartos de final, semifinal y final, además juegos por el 9no y "
+"10mo lugar, los últimos 6 se sortean para minimizar duplicados, todos juegan "
+"4 partidos"
 
 #: /controllers/components/league_type_tournament.php:149
 msgid ""
 "bracket with quarter-finals, semi-finals and finals, plus 9th, 10th and 11th "
 "place play-ins"
 msgstr ""
+"bracket con cuartos de final, semifinales y final, además juegos por el 9no, "
+"10mo y 11vo lugar"
 
 #: /controllers/components/league_type_tournament.php:276
 #: /views/games/edit.ctp:105 /views/games/view.ctp:96
@@ -5128,7 +5152,7 @@ msgstr ""
 
 #: /controllers/components/rule_and.php:17
 msgid "Components of AND rules must be separated by commas."
-msgstr ""
+msgstr "Componentes de Y reglas deben estar separados por comas."
 
 #: /controllers/components/rule_and.php:58
 msgid " AND "
@@ -5145,7 +5169,7 @@ msgstr "Error al analizar la parte izquierda de \"%s\": %s"
 
 #: /controllers/components/rule_compare.php:25
 msgid "Did not find a space in \"%s\""
-msgstr ""
+msgstr "No se encontró espacio en \"%s\""
 
 #: /controllers/components/rule_compare.php:30
 #, fuzzy
@@ -5187,25 +5211,23 @@ msgstr "NO "
 
 #: /controllers/components/rule_has_document.php:19
 msgid "Invalid argument count to HAS_DOCUMENT rule"
-msgstr ""
+msgstr "Argumento inválido contado como regla HAS_DOCUMENT"
 
 #: /controllers/components/rule_has_document.php:23
 #: /controllers/components/rule_member_type.php:16;26;35;39;44
 #: /controllers/components/rule_signed_waiver.php:19
 #: /controllers/components/rule_team_count.php:30;39;47;51;56
-#, fuzzy
 #| msgid "Invalid %s"
 msgid "Invalid date: %s"
-msgstr "%s invalido"
+msgstr "Fecha inválida: %s"
 
 #: /controllers/components/rule_has_document.php:36;46
-#, fuzzy
 msgid "have uploaded the %s"
-msgstr "tiene un %s"
+msgstr "has cargado el %s"
 
 #: /controllers/components/rule_has_document.php:49
 msgid "wait until your %s is approved"
-msgstr ""
+msgstr "espera hasta que tu %s sea aprobado"
 
 #: /controllers/components/rule_has_document.php:87
 msgid "have the document"
@@ -5218,7 +5240,7 @@ msgstr "tiene una cuenta de equipo"
 
 #: /controllers/components/rule_or.php:17
 msgid "Components of OR rules must be separated by commas."
-msgstr ""
+msgstr "Componentes de las reglas de O deben ser separados por comas."
 
 #: /controllers/components/rule_or.php:60
 msgid " OR "
@@ -5226,7 +5248,7 @@ msgstr " O "
 
 #: /controllers/components/rule_registered.php:20
 msgid "Cannot locate %d of the specified events"
-msgstr ""
+msgstr "No se puede encontrar %d de el evento especifico"
 
 #: /controllers/components/rule_registered.php:47
 msgid "have previously registered for the"
@@ -5244,7 +5266,7 @@ msgstr "Registrado"
 
 #: /controllers/components/rule_signed_waiver.php:28
 msgid "Invalid number of parameters to SIGNED_WAIVER rule"
-msgstr ""
+msgstr "Número inválido de parámetros para la regla SIGNED_WAIVER"
 
 #: /controllers/components/rule_signed_waiver.php:36;46
 #, fuzzy
@@ -5321,7 +5343,7 @@ msgstr "coincide con la regla TUC para límite de edad en finales"
 
 #: /controllers/components/spirit.php:55
 msgid "Spirit scores must be in the range 0-%s"
-msgstr ""
+msgstr "Las calificaciones de Espíritu deben estar en un rango de 0 -%s"
 
 #: /controllers/components/sport.php:22
 msgid "Game timer was already initialized."
@@ -5377,14 +5399,12 @@ msgid "Team %s was scheduled twice in the same time slot!"
 msgstr "¡Equipo %s fue colocado dos veces en el mismo horario!"
 
 #: /models/game.php:1202
-#, fuzzy
 msgid "Team %s was scheduled twice on the same day!"
-msgstr "¡Equipo %s fue colocado dos veces en el mismo horario!"
+msgstr "¡Equipo %s fue programado dos veces en el mismo día!"
 
 #: /models/game.php:1205
-#, fuzzy
 msgid "Team %s was scheduled on different days!"
-msgstr "¡Equipo %s fue colocado en diferentes sedes!"
+msgstr "¡Equipo %s fue programado en diferentes días!"
 
 #: /models/game.php:1211
 msgid "Team %s was scheduled in overlapping time slots!"
@@ -5399,9 +5419,8 @@ msgid "Team %s was selected more than once!"
 msgstr "¡Equipo %s fue seleccionado mas de una vez!"
 
 #: /models/game.php:1238
-#, fuzzy
 msgid "You cannot choose the \"---\" as the seed!"
-msgstr "¡No puedes seleccionar \"---\" como equipo!"
+msgstr "¡No puedes seleccionar \"---\" como la siembra!"
 
 #: /models/game.php:1255
 #, fuzzy
@@ -5419,24 +5438,20 @@ msgid "Seed %s was scheduled on %s at different facilities!"
 msgstr "¡Equipo %s fue colocado el %s en diferentes sedes!"
 
 #: /models/game.php:1303
-#, fuzzy
 msgid "You cannot choose the \"---\" as the dependency type!"
-msgstr "¡No puedes seleccionar \"---\" como equipo!"
+msgstr "¡No puedes seleccionar \"---\" como tipo de dependencia!"
 
 #: /models/game.php:1312;1335
-#, fuzzy
 msgid "You cannot choose the \"---\" as the game dependency!"
-msgstr "¡No puedes escoger \"---\" como hora/lugar del juego!"
+msgstr "¡No puedes escoger \"---\" como dependencia del juego!"
 
 #: /models/game.php:1324
-#, fuzzy
 msgid "Winner of game %s was selected more than once!"
-msgstr "¡Equipo %s fue seleccionado mas de una vez!"
+msgstr "¡El ganador del juego %s fue seleccionado mas de una vez!"
 
 #: /models/game.php:1347
-#, fuzzy
 msgid "Loser of game %s was selected more than once!"
-msgstr "¡Equipo %s fue seleccionado mas de una vez!"
+msgstr "¡Perdedor del juego %s fue seleccionado más de una vez!"
 
 #: /models/game.php:1388
 msgid ""
@@ -5455,9 +5470,8 @@ msgstr ""
 "disponible para ellos."
 
 #: /models/game.php:1448
-#, fuzzy
 msgid "Failed to update field preference stats!"
-msgstr "¡No pudo ser actualizado el estado de asistencia!"
+msgstr "¡No pudo ser actualizado las estadísticas de preferencia de campo!"
 
 #: /models/game.php:1465
 msgid "Saved schedule changes, but failed to clear unused slots!"
@@ -5466,32 +5480,30 @@ msgstr ""
 "limpiando las ranuras no usadas!"
 
 #: /models/price.php:153
-#, fuzzy
 msgid "day"
 msgid_plural "days"
-msgstr[0] "días"
+msgstr[0] "día"
 msgstr[1] "días"
 
 #: /models/price.php:159
-#, fuzzy
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] "horas"
+msgstr[0] "hora"
 msgstr[1] "horas"
 
 #: /models/price.php:163
 msgid "minute"
 msgid_plural "minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "minuto"
+msgstr[1] "minutos"
 
 #: /models/registration.php:88 /views/events/view.ctp:182;208
 msgid "Deposit"
-msgstr ""
+msgstr "Deposito"
 
 #: /models/registration.php:90
 msgid "Remaining balance"
-msgstr ""
+msgstr "Saldo restante"
 
 #: /plugins/install/controllers/install_controller.php:115
 msgid "Installation: Welcome"
@@ -5691,11 +5703,12 @@ msgid ""
 "Note that only people whose accounts are set as \"manager\" (or higher) can "
 "be made managers."
 msgstr ""
+"Nota que solo las personas que su cuenta está marcada como \"administrador\" "
+"(o mayor) puede ponerse como administrador."
 
 #: /views/affiliates/add_manager.ctp:29
-#, fuzzy
 msgid "Add as manager"
-msgstr "Y el administrador"
+msgstr "añadir como administridor"
 
 #: /views/affiliates/edit.ctp:4 /views/badges/edit.ctp:4
 #: /views/categories/edit.ctp:4 /views/contacts/edit.ctp:4
@@ -6148,7 +6161,7 @@ msgstr "Premio eliminado"
 
 #: /views/badges/index.ctp:7
 msgid "Deactivated Badges"
-msgstr ""
+msgstr "Desactivar insignias"
 
 #: /views/badges/index.ctp:11 /views/badges/view.ctp:44
 #: /views/contacts/index.ctp:14 /views/elements/people/search_results.ctp:18
@@ -6286,11 +6299,12 @@ msgid "Edit Badge"
 msgstr "Editar premio"
 
 #: /views/badges/view.ctp:137
-#, fuzzy
 msgid ""
 "If you want to add a comment to the badge holder about why the badge is "
 "being removed, do so here."
-msgstr "Si quieres agregar algún comentario para el jugador, hazlo aquí."
+msgstr ""
+"Si quieres agregar algún comentario para el jugador del porque se le está "
+"quitando la insignia, hazlo aquí."
 
 #: /views/categories/edit.ctp:39 /views/categories/view.ctp:76
 msgid "Delete Category"
@@ -6375,9 +6389,8 @@ msgid "To"
 msgstr "A"
 
 #: /views/contacts/message.ctp:31
-#, fuzzy
 msgid "Send a copy to your email address"
-msgstr "Enviar una copia a su correo electrónico"
+msgstr "Enviar una copia a tu correo electrónico"
 
 #: /views/divisions/add_coordinator.ctp:4 /views/divisions/add_teams.ctp:2
 #: /views/divisions/allstars.ctp:2 /views/divisions/approve_scores.ctp:2
@@ -6408,11 +6421,12 @@ msgid ""
 "Note that only people whose accounts are set as \"volunteer\" (or higher) "
 "can be made coordinators."
 msgstr ""
+"Nota que solo las personas que su cuenta ha sido designada como \""
+"voluntario\" (o mayor) pueden ser designados como coordinadores."
 
 #: /views/divisions/add_coordinator.ctp:29
-#, fuzzy
 msgid "Add as coordinator"
-msgstr "Agregar coordinador"
+msgstr "Agregar como coordinador"
 
 #: /views/divisions/add_teams.ctp:4
 #: /views/elements/divisions/actions.ctp:100;100
@@ -6450,7 +6464,6 @@ msgstr ""
 "-1 deshabilita los recordatorios."
 
 #: /views/divisions/add_teams.ctp:55
-#, fuzzy
 #| msgid ""
 #| "Attendance summary emails will be sent to captains this many days before "
 #| "the game. 0 means the day of the game, -1 will disable these summaries."
@@ -6459,12 +6472,11 @@ msgid ""
 "days before the game. 0 means the day of the game, -1 will disable these "
 "summaries."
 msgstr ""
-"El resumen de asistencia se enviará por correo a los capitanes, el número "
-"indicado de días antes del juego. 0 significa el mismo día del juego, -1 "
-"deshabilita el resumen."
+"El resumen de asistencia se enviará por correo a los capitanes y "
+"entrenadores, el número indicado de días antes del juego. 0 significa el "
+"mismo día del juego, -1 deshabilita el resumen."
 
 #: /views/divisions/add_teams.ctp:59
-#, fuzzy
 #| msgid ""
 #| "Emails notifying captains about changes in attendance status will be sent "
 #| "starting this many days before the game. 0 means the day of the game, -1 "
@@ -6476,7 +6488,7 @@ msgid ""
 "game, -1 will disable these notifications. You will never receive "
 "notifications about any changes that happen before this time."
 msgstr ""
-"Las notificaciones por correo, a cerca de los cambios en el estastus de "
+"Las notificaciones por correo, a cerca de los cambios en el estatus de "
 "asistencia serán enviadas estos días antes del juego. 0 significa el mismo "
 "día del juego, -1 deshabilita las notificaciones. Nunca recibirás "
 "notificaciones de ningún cambio antes de la fecha indicada."
@@ -6507,16 +6519,14 @@ msgid "Game Date"
 msgstr "Fecha del partido"
 
 #: /views/divisions/approve_scores.ctp:14
-#, fuzzy
 #| msgid "Home Team"
 msgid "Home Team Submission"
-msgstr "Equipo local"
+msgstr "Sumisión de equipo local"
 
 #: /views/divisions/approve_scores.ctp:15
-#, fuzzy
 #| msgid "Away Team"
 msgid "Away Team Submission"
-msgstr "Equipo que es visita"
+msgstr "Sumisión Equipo que es visita"
 
 #: /views/divisions/approve_scores.ctp:28;29;37;38
 #: /views/games/edit.ctp:170;171;175;176 /views/games/view.ctp:292;293;297;298
@@ -6680,7 +6690,6 @@ msgid "What type of ratings calculation to use."
 msgstr "Que tipo de calculadora de ratings se usará."
 
 #: /views/divisions/edit.ctp:194
-#, fuzzy
 #| msgid ""
 #| "Email captains who haven't scored games after this many hours, no "
 #| "reminder if 0."
@@ -6688,8 +6697,8 @@ msgid ""
 "Email coaches and captains who haven't scored games after this many hours, "
 "no reminder if 0."
 msgstr ""
-"Enviar correo al capitán que no haya registrado el resultado de su juego, "
-"despúes de estas horas, 0 si no se quiere agregar recordatorio."
+"Enviar correo al capitán y entrenadores que no haya registrado el resultado "
+"de su juego, después de estas horas, 0 si no se quiere agregar recordatorio."
 
 #: /views/divisions/edit.ctp:199 /views/leagues/edit.ctp:301
 msgid ""
@@ -6700,11 +6709,11 @@ msgstr ""
 "automáticamente despúes de estas horas, 0 si no se quiere finalizar."
 
 #: /views/divisions/edit.ctp:207
-#, fuzzy
 #| msgid "When to ask captains for allstar nominations."
 msgid "When to ask coaches and captains for allstar nominations."
 msgstr ""
-"Cuando preguntar a un capitán sobre sus nominaciones al juego de estrellas."
+"Cuando preguntar a un capitán y entrenadores sobre sus nominaciones al juego "
+"de estrellas."
 
 #: /views/divisions/edit.ctp:214 /views/leagues/edit.ctp:316
 msgid ""
@@ -6715,11 +6724,11 @@ msgstr ""
 "Ignorar si el campo de arriba es ajustado a \"never\"."
 
 #: /views/divisions/edit.ctp:223
-#, fuzzy
 msgid ""
 "When to ask coaches and captains for \"most spirited player\" nominations."
 msgstr ""
-"Cuando preguntar a un capitán sobre sus nominaciones al juego de estrellas."
+"Cuando preguntar a un capitán sobre sus nominaciones del \"jugador con más "
+"espíritu\"."
 
 #: /views/divisions/emails.ctp:3
 msgid "Emails"
@@ -6727,10 +6736,9 @@ msgstr "Correos electrónicos"
 
 #: /views/divisions/emails.ctp:8 /views/elements/divisions/actions.ctp:71;71
 #: /views/games/edit.ctp:122
-#, fuzzy
 #| msgid "Captain Emails"
 msgid "Coach/Captain Emails"
-msgstr "Correos electrónicos de capitanes"
+msgstr "Correos electrónicos de capitanes/entrenador"
 
 #: /views/divisions/fields.ctp:4;8 /views/elements/divisions/actions.ctp:94
 #: /views/elements/help/divisions/index.ctp:20
@@ -6801,6 +6809,11 @@ msgid ""
 "below. Multiple teams can have the same ratings, and likely will at the "
 "start of the season."
 msgstr ""
+"Usar en vinculo siguiente para ajustar las calificaciones para mejor o peor "
+"de un equipo. Alternativamente, puedes agregar una nueva calificación en el "
+"espacio a un lado de cada equipo. Los cambios son <strong>no</strong> se "
+"guarda hasta que das click en 'Save Changes'. Varios equipos pueden tener la "
+"misma calificación, y muy posiblemente sea así al inicio de la temporada."
 
 #: /views/divisions/ratings.ctp:11
 msgid ""
@@ -6810,6 +6823,12 @@ msgid ""
 "eventually, but this can speed the process if you belatedly realize that a "
 "team was grossly mis-rated to start the season."
 msgstr ""
+"Nota que esto ajusta las calificaciones <strong>inicial</strong> del equipo; "
+"su calificación <strong>actual</strong> será re-calculada. Estos ajustes "
+"normalmente no se necesitan a la mitad de la temporada, ya que el sistema de "
+"escalera se encarga de los equipos que no han sido sembrados, pero, esto "
+"puede apresurar el proceso si te das cuenta tardíamente que algún equipo fue "
+"muy mal sembrado al inicio de la temporada."
 
 #: /views/divisions/ratings.ctp:12
 msgid ""
@@ -6817,6 +6836,9 @@ msgid ""
 "<strong>BETTER</strong>, and a <strong>LOWER</strong> numbered rating is "
 "<strong>WORSE</strong>."
 msgstr ""
+"Para los valores, un numero de calificación <strong>MÁS ALTO</strong>  es "
+"<strong>MEJOR</strong>, y un calificación numerada <strong>MÁS BAJA</strong> "
+"es <strong>PEOR</strong>."
 
 #: /views/divisions/ratings.ctp:19 /views/divisions/seeds.ctp:19
 #: /views/elements/leagues/view/competition/heading.ctp:7
@@ -6903,12 +6925,17 @@ msgid ""
 "Scores are listed with the first score belonging the team whose name appears "
 "on the left."
 msgstr ""
+"Los marcadores están listados de una forma que el primer marcador le "
+"pertenece al equipo que su nombre está a la izquierda."
 
 #: /views/divisions/scores.ctp:144
 msgid ""
 "Green backgrounds means row team is winning season series, red means column "
 "team is winning series. Defaulted games are not counted."
 msgstr ""
+"El fondo verde significa que el equipo de la hilera está ganando la serie en "
+"la temporada completa, rojo significa que el equipo de la columna está "
+"ganando la serie. Juegos por default no son contados."
 
 #: /views/divisions/seeds.ctp:4;8
 msgid "Adjust Initial Seeds"
@@ -6921,6 +6948,11 @@ msgid ""
 "team. Changes are <strong>not</strong> saved until you click 'Save Changes' "
 "below. Multiple teams cannot have the same seed."
 msgstr ""
+"Usa el vinculo siguiente para ajustar la siembra para 'mejor' o 'peor' del "
+"equipo. Alternativamente, puedes agregar una nueva siembra en el espacio a "
+"un lado de cada equipo. Los cambios <strong>no</strong> son guardados hasta "
+"que le des click a 'Save Changes' en la parte de abajo. Múltiples equipos no "
+"pueden tener la misma siembra."
 
 #: /views/divisions/seeds.ctp:11
 msgid ""
@@ -6929,6 +6961,11 @@ msgid ""
 "game results. Initial seeds are typically unimportant for standard leagues, "
 "but are required for non-playoff tournaments."
 msgstr ""
+"Nota que esto ajusta la siembra <strong>inicial</strong> de un equipo; su "
+"siembra <strong>actual</strong> no será afectada, ya que esta está "
+"determinada por sus resultados en los partidos. La siembra inicial "
+"normalmente no es importante para los estándares de la liga, pero se "
+"requieren para torneos sin playoffs."
 
 #: /views/divisions/seeds.ctp:12
 msgid ""
@@ -6936,6 +6973,9 @@ msgid ""
 "<strong>BETTER</strong>, and a <strong>HIGHER</strong> numbered seed is "
 "<strong>WORSE</strong>."
 msgstr ""
+"Para los valores de la siembra, un numero de siembra <strong>MÁS "
+"BAJO</strong> es <strong>MEJOR</strong>, y un número de siembra <strong>MÁS "
+"ALTO</strong> es <strong>PEOR</strong>."
 
 #: /views/divisions/seeds.ctp:20
 #: /views/elements/leagues/view/tournament/heading.ctp:3
@@ -6947,9 +6987,8 @@ msgid "New Initial Seed"
 msgstr "Nueva siembra inicial"
 
 #: /views/divisions/select.ctp:3
-#, fuzzy
 msgid "No divisions operate on the selected night."
-msgstr "La división no tiene juegos programados."
+msgstr "No hay una división que opere en la noche seleccionada."
 
 #: /views/divisions/slots.ctp:5;10
 msgid "Division %s Availability Report"
@@ -6958,6 +6997,8 @@ msgstr "Reporte del % de disponibilidad de la división"
 #: /views/divisions/slots.ctp:12 /views/leagues/slots.ctp:12
 msgid "Select a date below on which to view all available gameslots:"
 msgstr ""
+"Selecciona una fecha en la parte de abajo para ver todos los espacios de "
+"juego disponible:"
 
 #: /views/divisions/slots.ctp:35
 #: /views/elements/payments/invoices/invoice.ctp:89
@@ -6991,7 +7032,7 @@ msgstr "%s abierto"
 
 #: /views/divisions/slots.ctp:81 /views/leagues/slots.ctp:85
 msgid " (round&nbsp;%s)"
-msgstr ""
+msgstr " (round&nbsp;%s)"
 
 #: /views/divisions/slots.ctp:90;102
 #: /views/elements/leagues/schedule/game_view.ctp:23;35
@@ -7071,9 +7112,8 @@ msgstr "Asignado"
 
 #: /views/divisions/spirit.ctp:241 /views/divisions/csv/spirit.ctp:20
 #: /views/leagues/summary.ctp:88
-#, fuzzy
 msgid "Most Spirited"
-msgstr "Equipos con menos Espíritu"
+msgstr "Equipos con más Espíritu"
 
 #: /views/divisions/spirit.ctp:315 /views/teams/spirit.ctp:77
 msgid "Comment for entry above:"
@@ -7180,6 +7220,8 @@ msgstr "Espíritu calculado"
 #: /views/elements/emails.ctp:26
 msgid "You can copy and paste the emails below into your addressbook, or %s."
 msgstr ""
+"Puedes copiar y pegar los direcciones de correo de la parte de abajo a tu "
+"libreta de direcciones, o %s."
 
 #: /views/elements/emails.ctp:27
 msgid "send an email right away"
@@ -7191,6 +7233,9 @@ msgid ""
 "To line of the message that pops up in order for the addresses to be "
 "recognized."
 msgstr ""
+"Nota que estás usando Microsoft Outlook, tal vez necesitas dar click en la "
+"linea Para en el mensaje que aparece para que la dirección pueda  ser "
+"reconocida."
 
 #: /views/elements/notice.ctp:11
 msgid "Remind me later"
@@ -7383,9 +7428,8 @@ msgstr "Nominaciones para mejor jugador de"
 
 #: /views/elements/divisions/details.ctp:159
 #: /views/elements/spirit/view/basic.ctp:7
-#, fuzzy
 msgid "Most spirited player"
-msgstr "Equipos con menos Espíritu"
+msgstr "Equipos con más Espíritu"
 
 #: /views/elements/divisions/register.ctp:3
 msgid "Register to play in this division:"
@@ -7443,13 +7487,12 @@ msgstr "pagar por este registro"
 #: /views/elements/email/html/registration_waiting.ctp:9
 #: /views/elements/email/html/reservation_expired.ctp:15
 msgid "remove yourself from the waiting list"
-msgstr ""
+msgstr "removerse de la lista de espera"
 
 #: /views/elements/email/html/registration_removed.ctp:5
 #: /views/elements/email/html/reservation_expired.ctp:20
-#, fuzzy
 msgid "re-register for this"
-msgstr "Registro para"
+msgstr "re-registrate para esto"
 
 #: /views/elements/email/html/relative_link.ctp:7
 #: /views/elements/email/html/roster_request.ctp:14
@@ -7464,9 +7507,8 @@ msgid "Decline the request"
 msgstr "Rechazar solicitud"
 
 #: /views/elements/email/html/reservation_expired.ctp:6
-#, fuzzy
 msgid "check availability"
-msgstr "Reporte de disponibilidad de %s"
+msgstr "Checar disponibilidad"
 
 #: /views/elements/email/html/roster_invite.ctp:18
 #: /views/elements/email/html/roster_invite_reminder.ctp:14
@@ -7501,7 +7543,7 @@ msgstr "Registrarse Ahora"
 #: /views/elements/events/list.ctp:118 /views/events/index.ctp:145;252
 #: /views/events/view.ctp:176;230
 msgid "FREE"
-msgstr ""
+msgstr "GRATIS"
 
 #: /views/elements/events/not_logged_in.ctp:1
 msgid ""
@@ -7532,6 +7574,8 @@ msgid ""
 "Please respect the following rules for all %s. Note that some facilities "
 "also have additional restrictions listed that must also be followed."
 msgstr ""
+"Por favor respeta las siguientes reglas para todos los %s. Nota que algunos "
+"lugares también tienen restricciones adicionales que deben ser seguidas."
 
 #: /views/elements/fields/caution.ctp:7
 msgid ""
@@ -7539,6 +7583,10 @@ msgid ""
 "behind when you leave -- even if it isn't yours. Take extra care to remove "
 "any hazardous items (i.e.: bottlecaps, glass) to avoid injury to others."
 msgstr ""
+"Los contenedores de basura no existen en algunos lugares. NO dejes basura "
+"cuando abandones el lugar-- incluso si no es tuya. Toma más precausiones si "
+"encuentras algún articulo peligroso (por ejemplo, tapas de botellas, vidrio) "
+"para evitar que otros se puedan lastimar."
 
 #: /views/elements/fields/caution.ctp:9
 msgid ""
@@ -7546,22 +7594,29 @@ msgid ""
 "respect this. If dogs are permitted at a %s, you must clean up after your "
 "pet and take the waste away with you."
 msgstr ""
+"Si a los perros no les permite ingresar a un %s, <strong>debes</strong> "
+"respetar esto. Si se le permite el ingreso a los perros a %s, debe limpiar "
+"los desechos de tu mascota y llevarte estos desechos."
 
 #: /views/elements/fields/caution.ctp:11
 msgid ""
 "By law, alcohol is not permitted at any league %s, and can lose us our "
 "ability to play there."
 msgstr ""
+"Por ley, el alcohol no esta permitido en ninguna liga %s, y podemos perder "
+"la posibilidad de jugar ahí."
 
 #: /views/elements/fields/caution.ctp:13
 msgid ""
 "If %s are lost due to the actions of a particular player or team, they will "
 "be <strong>removed from the league</strong>."
 msgstr ""
+"Si %s se pierden debido a las acciones de algún jugador especifico, sera "
+"<strong>expulsado de la liga</strong>."
 
 #: /views/elements/game_slots/confirm.ctp:9
 msgid "dark"
-msgstr ""
+msgstr "oscuro"
 
 #: /views/elements/games/add_sub_div.ctp:2
 #: /views/elements/games/stats_entry.ctp:92
@@ -7582,10 +7637,10 @@ msgid "Attendance comment"
 msgstr "Comentario de Asistencia"
 
 #: /views/elements/games/attendance_div.ctp:12
-#, fuzzy
 #| msgid "If you want to add a comment for your captain, do so here."
 msgid "If you want to add a comment for your coaches or captains, do so here."
-msgstr "Si quieres añadir un comentario para tu capitán, hazlo aquí."
+msgstr ""
+"Si quieres añadir un comentario para tu capitán o entrenador, hazlo aquí."
 
 #: /views/elements/games/attendance_div.ctp:13
 msgid ""
@@ -7666,11 +7721,11 @@ msgstr "%s vs %s"
 
 #: /views/elements/games/ical.ctp:72
 msgid "Game %d: %s vs %s at %s on %s"
-msgstr ""
+msgstr "Partido %s: %s vs %s en %s en %s"
 
 #: /views/elements/games/score_box.ctp:10 /views/games/timeout.ctp:5
 msgid "%d taken"
-msgstr ""
+msgstr "%d tomado"
 
 #: /views/elements/games/score_box.ctp:24 /views/elements/people/rating.ctp:44
 #: /views/elements/questionnaires/edit.ctp:45
@@ -7742,7 +7797,7 @@ msgstr "Jugadores con límite de edad, no enlistados"
 
 #: /views/elements/games/stats_entry/baseball.ctp:1
 msgid "NOTE: Enter three innings plus two outs as \"3.2\" innings."
-msgstr ""
+msgstr "NOTA: Ingresa tres entradas más dos outs como \"3.2\" entradas."
 
 #: /views/elements/games/stats_entry/basketball.ctp:1
 #: /views/elements/games/stats_entry/hockey.ctp:1
@@ -7750,6 +7805,8 @@ msgid ""
 "NOTE: Separate minutes from seconds with a period rather than a colon during "
 "data entry."
 msgstr ""
+"NOTA: Sepra minutos de los segundos con un punto en vez de una coma cuando "
+"ingreses datos."
 
 #: /views/elements/help/index.ctp:6
 msgid "New Users"
@@ -7812,6 +7869,14 @@ msgid ""
 "rosters will be open or closed, as well as some attendance tracking details "
 "(see below)."
 msgstr ""
+"Si estás coordinando una división que tendrá uno o más equipos \"hat\" ("
+"equipos armados que con jugadores que se inscribieron individualmente), tal "
+"vez quieras usar la opción \"agregar equipo\". Esto creará hasta ocho "
+"equipos al momento, con los mismos ajustes. Anotas el nombre de los equipos "
+"que quieres crear, dejando el espacio de nombre extra vacío (debes quitar "
+"los valores predeterminados) si has creado menos que ocho. También debes "
+"indicar si el roster será abierto o cerrado, así como algunos detalles sobre "
+"la asistencia (ver abajo)."
 
 #: /views/elements/help/divisions/add_teams.ctp:3
 msgid ""
@@ -7819,18 +7884,25 @@ msgid ""
 "specified settings. Rosters will be blank, and shirt colours will be "
 "assigned based on a pre-set rotation of common colours (%s)."
 msgstr ""
+"Cuando le das click a \"inscribir\", el equipo solicitante será creado con "
+"los parametros especificos. El roster estará vacío y los colores de playera "
+"serán asignados basado en una rotación previa de colores comunes."
 
 #: /views/elements/help/divisions/add_teams.ctp:6
 msgid ""
 "You can change this list of colours by adjusting the \"automatic_team_colours"
 "\" setting through config/features_custom.php"
 msgstr ""
+"Puedes cambiar esta lista de colores si ajustas la configuración de \""
+"automatic_team_colours\" a través de config/features_custom.php"
 
 #: /views/elements/help/divisions/approve_scores.ctp:1
 msgid ""
 "The Approve Scores page shows coordinators a list of past games which have "
 "not yet been finalized and allows them to be edited."
 msgstr ""
+"La pagina de marcadores aprobados le muestra a los coordinadores una lista "
+"de partidos pasados que no han sido finalizados y les permite editarlos."
 
 #: /views/elements/help/divisions/approve_scores.ctp:2
 msgid ""
@@ -7840,6 +7912,12 @@ msgid ""
 "assistants from both teams; they can then edit their score submission, which "
 "will allow the game to be automatically finalized."
 msgstr ""
+"Esto se requiere normalmente cuando los entrenadores o capitanes ingresan "
+"marcadores que no concuerdan. En este caso, también hay un vinculo de \""
+"correo de capitanes\" en esta pagina el cual te permitirá fácilmente "
+"contactar a los entrenadores, capitanes y asistentes de ambos equipos; por "
+"lo que ellos pueden editar los marcadores que ingresaron, lo que permitirá "
+"que el partido finalice de manera automática."
 
 #: /views/elements/help/divisions/approve_scores.ctp:3
 msgid ""
@@ -7847,12 +7925,19 @@ msgid ""
 "finalized by the system after a set time; if this option is turned off, "
 "coordinators may need to use this page to finalize such games."
 msgstr ""
+"Partido en los que un marcador se ha ingresado normalmente finalizan después "
+"de que el tiempo de juego a transcurrido; si esta opción no es apagada, los "
+"coordinadores tal vez necesite usar esta página para finalizar estos "
+"partidos."
 
 #: /views/elements/help/divisions/edit.ctp:1
 msgid ""
 "The \"edit division\" page is used to update details of your division. Only "
 "coordinators have permission to edit division details."
 msgstr ""
+"La página \"editar división\" es usada para editar los detalles de la "
+"división. Solo los coordinadores tienen autorización para editar los "
+"detalles de la división."
 
 #: /views/elements/help/divisions/edit.ctp:2
 msgid ""
@@ -7862,6 +7947,11 @@ msgid ""
 "However, it's useful to understand the meanings of the various settings for "
 "your division."
 msgstr ""
+"Las divisiones inicialmente se configuran por el administrador de sistema, "
+"por lo que los coordinadores solo deben hacer cambios en casos muy "
+"especiales y deberán informar al administrador de estos cambios. Como sea, "
+"es importante que entiendas el significado de las diferentes "
+"especificaciones en tu división."
 
 #: /views/elements/help/divisions/edit.ctp:4
 msgid "The \"create division\" page is essentially identical to this page."
