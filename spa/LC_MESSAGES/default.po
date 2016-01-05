@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zuluru\n"
 "POT-Creation-Date: 2015-04-09 15:35-0400\n"
-"PO-Revision-Date: 2015-11-30 12:38-0400\n"
+"PO-Revision-Date: 2016-01-05 12:29-0400\n"
 "Last-Translator: Luis Arturo Ramos Zapata <luisarturoramos@gmail.com>\n"
 "Language-Team: spa (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/spa/>\n"
@@ -153,7 +153,6 @@ msgid "Waiver history"
 msgstr "Borrar historial"
 
 #: /app_controller.php:702 /views/people/search.ctp:26
-#, fuzzy
 msgid "Change password"
 msgstr "Cambiar contraseña"
 
@@ -508,10 +507,9 @@ msgstr "Opciones"
 
 #: /app_controller.php:923;945;960
 #: /views/elements/help/guide/administrator/registration.ctp:5
-#, fuzzy
 #| msgid "Feature"
 msgid "Features"
-msgstr "Caracteristicas"
+msgstr "Características"
 
 #: /app_controller.php:924;946;961 /views/contacts/index.ctp:20
 #: /views/people/edit.ctp:277 /views/people/index.ctp:31
@@ -548,7 +546,6 @@ msgstr "Usuario"
 
 #: /app_controller.php:927;949;965 /controllers/people_controller.php:2810
 #: /views/settings/profile.ctp:3
-#, fuzzy
 msgid "Profile"
 msgstr "Perfil"
 
@@ -3073,7 +3070,6 @@ msgid "profile"
 msgstr "perfil"
 
 #: /controllers/people_controller.php:1281
-#, fuzzy
 msgid "new profile"
 msgstr "nuevo perfil"
 
@@ -3091,7 +3087,6 @@ msgstr ""
 "Debes ser aprobado por el administrador antes de tener acceso total al sitio."
 
 #: /controllers/people_controller.php:1319
-#, fuzzy
 #| msgid "You can't add yourself as a relative!"
 msgid "You can't link yourself as a relative!"
 msgstr "¡No puedes agregarte a ti mismo como familiar!"
@@ -3165,7 +3160,6 @@ msgstr ""
 "¿Tiene más de una pestaña abierta?"
 
 #: /controllers/people_controller.php:1515
-#, fuzzy
 msgid ""
 "The oauth verifier is missing so we cannot continue. Did you deny the "
 "appliction access?"
@@ -3349,7 +3343,6 @@ msgid "This person already has this badge"
 msgstr "Esta persona ya tiene esta insignia"
 
 #: /controllers/people_controller.php:2222
-#, fuzzy
 #| msgid "This player has already been nominated for this badge"
 msgid "This person has already been nominated for this badge"
 msgstr "Este jugador/a ya fue nominado para esta insignia"
@@ -3408,13 +3401,11 @@ msgid "Managers cannot act as other managers"
 msgstr "Manejadores no pueden tomar el lugar de otros administradores"
 
 #: /controllers/people_controller.php:2467;2470
-#, fuzzy
 #| msgid "You are inviting"
 msgid "You are now acting as %s"
 msgstr "Usted ahora está actuando como %s"
 
 #: /controllers/people_controller.php:2467
-#, fuzzy
 msgid "yourself"
 msgstr "usted mismo"
 
@@ -3450,7 +3441,6 @@ msgid "Couldn't save new member activation"
 msgstr "No se pudo guardar la activación para el nuevo integrante"
 
 #: /controllers/people_controller.php:2813
-#, fuzzy
 #| msgid "account"
 msgid "Account"
 msgstr "Cuenta"
@@ -3497,7 +3487,6 @@ msgstr "Pre registro"
 
 #: /controllers/prices_controller.php:55;58;77;82;85;93;109
 #: /controllers/registrations_controller.php:519
-#, fuzzy
 msgid "price point"
 msgstr "punto"
 
@@ -3508,7 +3497,6 @@ msgstr ""
 "borrado."
 
 #: /controllers/prices_controller.php:124
-#, fuzzy
 msgid "You cannot delete the only price point on an event."
 msgstr "No se puede eliminar el único punto de precio en un evento."
 
@@ -3616,12 +3604,10 @@ msgid "The event has filled up since you registered."
 msgstr "El evento se ha llenado desde que te registraste."
 
 #: /controllers/registrations_controller.php:756
-#, fuzzy
 msgid "There was an error redeeming the credit."
 msgstr "Hubo un error al canjear el crédito."
 
 #: /controllers/registrations_controller.php:766
-#, fuzzy
 msgid "The credit has been applied to the chosen registration."
 msgstr "El crédito se ha aplicado para el registro elegido."
 
@@ -3634,7 +3620,6 @@ msgid "Filled up since you registered"
 msgstr "Lleno desde que se registró"
 
 #: /controllers/registrations_controller.php:845
-#, fuzzy
 msgid "In a different affiliate"
 msgstr "seleccionar un afiliado diferente"
 
@@ -4132,7 +4117,6 @@ msgid "%s been sent to"
 msgstr "%s ha sido enviado a"
 
 #: /controllers/teams_controller.php:1995
-#, fuzzy
 msgid "Failed to send %s to"
 msgstr "Error al enviar el %s a"
 
@@ -4141,7 +4125,6 @@ msgid "Failed to send invitation"
 msgstr "No se ha podido enviar la invitación"
 
 #: /controllers/teams_controller.php:2150;2226
-#, fuzzy
 #| msgid "That person is not on this team."
 msgid "This person is not on this team."
 msgstr "Esa persona no está en este equipo."
@@ -4428,7 +4411,6 @@ msgstr ""
 "tendras que especificar tu nombre de usuario."
 
 #: /controllers/waivers_controller.php:81;87;100;103;120;134;137;145;160;179;186;246;252
-#, fuzzy
 msgid "waiver"
 msgstr "Exención de responsabilidad"
 
@@ -4460,7 +4442,6 @@ msgid "You have already accepted this waiver"
 msgstr "Ya has aceptado esta exención de responsabilidad"
 
 #: /controllers/waivers_controller.php:220
-#, fuzzy
 msgid "You are not allowed to accept this waiver on behalf of another person."
 msgstr ""
 "Tu no tienes autorización para aceptar esta renuncia en nombre de otra "
@@ -4481,7 +4462,6 @@ msgstr ""
 "responsabilidad."
 
 #: /controllers/components/can_register.php:109
-#, fuzzy
 #| msgid ""
 msgid "Only players are allowed to register for this type of event."
 msgstr "Sólo los jugadores se les permite inscribirse en este tipo de evento."
@@ -4592,7 +4572,6 @@ msgid "this event"
 msgstr "este evento"
 
 #: /controllers/components/can_register.php:235
-#, fuzzy
 msgid "Registration for %s is not yet open."
 msgstr "El registro para %s todavía no está abierto."
 
@@ -4605,7 +4584,6 @@ msgid "You may register for %s."
 msgstr "Puedes registrarte para %s."
 
 #: /controllers/components/can_register.php:266;302;313
-#, fuzzy
 msgid "To register for %s, you must %s."
 msgstr "Para registrarse en %s debes %s."
 
@@ -4618,7 +4596,6 @@ msgid "Failed to unregister from this event!"
 msgstr "¡No hemos podido anular el registro para este evento!"
 
 #: /controllers/components/event_type.php:301;323
-#, fuzzy
 msgid "Failed to update badge information!"
 msgstr "¡Error al actualizar la información de la insignia!"
 
@@ -4731,7 +4708,6 @@ msgid "Would you like to enable attendance tracking for this team?"
 msgstr "¿Quieres habilitar el registro de asistencia para este equipo?"
 
 #: /controllers/components/event_type_team.php:271
-#, fuzzy
 msgid "Failed to add the team captain!"
 msgstr "¡Error al agregar el capitán del equipo!"
 
@@ -4934,7 +4910,6 @@ msgid "group of crossover games"
 msgstr "Número de cruces"
 
 #: /controllers/components/league_type_tournament.php:85
-#, fuzzy
 msgid ""
 "set of blank unscheduled games for all teams in the division (%d teams, %d "
 "games)"
@@ -5163,7 +5138,6 @@ msgid "have a %s"
 msgstr "tiene un %s"
 
 #: /controllers/components/rule_compare.php:16
-#, fuzzy
 msgid "Failed to parse left side of \"%s\": %s"
 msgstr "Error al analizar la parte izquierda de \"%s\": %s"
 
@@ -5172,12 +5146,10 @@ msgid "Did not find a space in \"%s\""
 msgstr "No se encontró espacio en \"%s\""
 
 #: /controllers/components/rule_compare.php:30
-#, fuzzy
 msgid "Did not find a valid comparison operator in \"%s\""
 msgstr "No ha encontrado un operador de comparación válido en \"%s\""
 
 #: /controllers/components/rule_compare.php:39
-#, fuzzy
 msgid "Failed to parse right side of \"%s\": %s"
 msgstr "Error al analizar la derecha de \"%s\": %s"
 
@@ -5269,7 +5241,6 @@ msgid "Invalid number of parameters to SIGNED_WAIVER rule"
 msgstr "Número inválido de parámetros para la regla SIGNED_WAIVER"
 
 #: /controllers/components/rule_signed_waiver.php:36;46
-#, fuzzy
 msgid "have signed the %s waiver"
 msgstr "ha firmado la exención de responsabilidad %s"
 
@@ -5362,7 +5333,6 @@ msgid "The same team shouldn't pull to start both halves."
 msgstr "El mismo equipo no puede hacer el saque en ambas mitades."
 
 #: /controllers/components/user_cache.php:68
-#, fuzzy
 msgid "You do not have permission to act as that person."
 msgstr "No tienes los permisos necesarios para actuar como esa persona."
 
@@ -5423,17 +5393,14 @@ msgid "You cannot choose the \"---\" as the seed!"
 msgstr "¡No puedes seleccionar \"---\" como la siembra!"
 
 #: /models/game.php:1255
-#, fuzzy
 msgid "Seed %s was scheduled twice in the same time slot!"
 msgstr "¡Equipo %s fue colocado dos veces en el mismo horario!"
 
 #: /models/game.php:1271
-#, fuzzy
 msgid "Seed %s was scheduled in overlapping time slots!"
 msgstr "¡Equipo %s fue colocado en horarios que se enciman!"
 
 #: /models/game.php:1274
-#, fuzzy
 msgid "Seed %s was scheduled on %s at different facilities!"
 msgstr "¡Equipo %s fue colocado el %s en diferentes sedes!"
 
@@ -6060,7 +6027,6 @@ msgid "reduce your affiliations"
 msgstr "eliminar tus afiliaciones"
 
 #: /views/all/splash.ctp:54;121
-#, fuzzy
 #| msgid "registration"
 #| msgid_plural "registration"
 msgid "registration"
@@ -6081,7 +6047,6 @@ msgstr "Desactivar"
 #: /views/answers/activate.ctp:9 /views/badges/activate.ctp:9
 #: /views/groups/activate.ctp:9 /views/questionnaires/activate.ctp:9
 #: /views/questions/activate.ctp:9
-#, fuzzy
 msgid "Failed to activate %s '%s'."
 msgstr "Error al activar %s '%s'."
 
@@ -6103,7 +6068,6 @@ msgstr "Activado"
 #: /views/answers/deactivate.ctp:9 /views/badges/deactivate.ctp:9
 #: /views/groups/deactivate.ctp:9 /views/questionnaires/deactivate.ctp:9
 #: /views/questions/deactivate.ctp:9
-#, fuzzy
 msgid "Failed to deactivate %s '%s'."
 msgstr "Error al desactivar %s '%s'."
 
@@ -6353,7 +6317,6 @@ msgid "List Contacts"
 msgstr "Lista de contactos"
 
 #: /views/contacts/index.ctp:9
-#, fuzzy
 msgid "There are no contacts in the system."
 msgstr "No hay contactos en el sistema."
 
@@ -6384,7 +6347,6 @@ msgid "Message Details"
 msgstr "Detalles del mensaje"
 
 #: /views/contacts/message.ctp:16
-#, fuzzy
 msgid "To"
 msgstr "A"
 
@@ -7003,7 +6965,6 @@ msgstr ""
 #: /views/divisions/slots.ctp:35
 #: /views/elements/payments/invoices/invoice.ctp:89
 #: /views/leagues/slots.ctp:39
-#, fuzzy
 msgid "ID"
 msgstr "ID"
 
@@ -7022,7 +6983,6 @@ msgid "Pool"
 msgstr "Grupo"
 
 #: /views/divisions/slots.ctp:49 /views/leagues/slots.ctp:53
-#, fuzzy
 msgid "Home Pref"
 msgstr "Pref local"
 
@@ -7044,7 +7004,6 @@ msgid "Unassigned"
 msgstr "No asignado"
 
 #: /views/divisions/slots.ctp:127 /views/leagues/slots.ctp:131
-#, fuzzy
 msgid "There are %s %s available for use, currently %s of these are unused."
 msgstr ""
 "Hay %s %s disponibles para usar esta semana, actualmente %s de estos estan "
@@ -7124,7 +7083,6 @@ msgid "Highlight for entry above:"
 msgstr "Destacado de la entrada:"
 
 #: /views/divisions/spirit.ctp:330
-#, fuzzy
 msgid "Incident for entry above:"
 msgstr "Incidente sobre la entrada:"
 
@@ -7372,7 +7330,6 @@ msgstr "Abierto"
 
 #: /views/elements/divisions/details.ctp:37 /views/facilities/view.ctp:98
 #: /views/fields/view.ctp:71 /views/teams/view.ctp:76
-#, fuzzy
 msgid "Closed"
 msgstr "Cerrado"
 
@@ -7465,7 +7422,6 @@ msgstr "Revisión de detalles"
 #: /views/elements/email/text/attendance_reminder.ctp:10
 #: /views/elements/email/text/attendance_summary.ctp:7
 #: /views/elements/games/ical.ctp:80
-#, fuzzy
 msgid "they wear %s"
 msgstr "llevan %s"
 
@@ -7479,7 +7435,6 @@ msgstr "actualiza esto o revisa los detalles"
 
 #: /views/elements/email/html/registration_opening.ctp:8
 #: /views/elements/email/html/reservation_expired.ctp:9
-#, fuzzy
 msgid "pay for this registration"
 msgstr "pagar por este registro"
 
@@ -7729,12 +7684,10 @@ msgstr "%d tomado"
 
 #: /views/elements/games/score_box.ctp:24 /views/elements/people/rating.ctp:44
 #: /views/elements/questionnaires/edit.ctp:45
-#, fuzzy
 msgid "Cancel"
 msgstr "Cancelar"
 
 #: /views/elements/games/score_box.ctp:169
-#, fuzzy
 msgid "Other Details"
 msgstr "Otros Detalles"
 
@@ -7955,7 +7908,7 @@ msgstr ""
 
 #: /views/elements/help/divisions/edit.ctp:4
 msgid "The \"create division\" page is essentially identical to this page."
-msgstr ""
+msgstr "La página \"crear división\" en esencia es idéntica a esta página."
 
 #: /views/elements/help/divisions/emails.ctp:1
 msgid ""
@@ -7965,6 +7918,13 @@ msgid ""
 "as a \"mailto\" link. Note that, due to external limitations, the link may "
 "not work correctly in divisions with a large number of coaches and captains."
 msgstr ""
+"Para conveniencia de los coordinadores, hay una página que ofrece los "
+"correos electrónicos de todos los entrenadores y capitanes en la división. "
+"Esta página incluye los nombres y correos electrónicos en formato de texto, "
+"para poder hacer copiar-pegar de manera sencilla, y tambien como un vinculo "
+"\"mailto\". Nota que, debido a limitaciones externas, el vinculo puede no "
+"funcionar correctamente en una división con un numero amplio de capitanes y "
+"entrenadores."
 
 #: /views/elements/help/divisions/fields.ctp:2
 msgid ""
@@ -7974,6 +7934,11 @@ msgid ""
 "over others, and this report helps to ensure that everyone gets their fair "
 "share of these preferred options."
 msgstr ""
+"El Reporte de Distribución %s es usado por los coordinadores durante el "
+"transcurso de la temporada para asegurar que un %s y una casilla de hora se "
+"asignen a los equipos de una manera balanceada. Normalmente hay unas horas "
+"de juego que se prefieren sobre otras y este reporte ayuda a que todos "
+"tengan de una forma balanceada las opciones preferidas."
 
 #: /views/elements/help/divisions/fields.ctp:7
 msgid ""
@@ -7981,6 +7946,9 @@ msgid ""
 "league in question has games in more than one region, sub-totals are also "
 "provided for each region."
 msgstr ""
+"El reporte reúne todos los %s de un mismo lugar al mismo tiempo. Si la liga "
+"en cuestión tiene repartidos en más de una región, se brindan subtotales "
+"para cada región."
 
 #: /views/elements/help/divisions/fields.ctp:11
 msgid ""
@@ -7989,6 +7957,10 @@ msgid ""
 "currently being scheduled from the totals, so there is a link at the top of "
 "the report to include only published games."
 msgstr ""
+"Por default, el reporte incluye todos lo partidos, publicados o no, pero a "
+"veces durante el proceso de calendarización es útil el poder eliminar los "
+"partidos que ya están calendarizados del total, para que haya un vinculo "
+"arriba del reporte con solo incluya juegos publicados."
 
 #: /views/elements/help/divisions/roster_add.ctp:1
 msgid ""
@@ -7996,6 +7968,9 @@ msgid ""
 "Use of this for anything other than \"hat\" teams should be limited to "
 "special circumstances."
 msgstr ""
+"Los coordinadores tienen la posibilidad de administrar los roster de los "
+"equipos en su división. Usar esto para otra cosa que no sean equipos \"hat\" "
+"debe limitarse a circunstancias especiales."
 
 #: /views/elements/help/divisions/roster_add.ctp:2
 msgid ""
@@ -8003,6 +7978,9 @@ msgid ""
 "with teams that the coordinator themself is on the roster of. This is "
 "primarily to prevent accidental circumvention of normal rostering rules."
 msgstr ""
+"Nota que estos permisos extras <strong>no</strong> aplican cuando se trata "
+"de equipos en los que el coordinador está en el roster. Esto para evitar por "
+"accidente darle la vuelta a las reglas de roster."
 
 #: /views/elements/help/divisions/roster_add.ctp:5
 msgid ""
@@ -8014,9 +7992,16 @@ msgid ""
 "\"individuals for teams\" registrations, where people who signed up for hat "
 "teams can be quickly added to rosters."
 msgstr ""
+"Además del %s para administrar rosters, los coordinadores tienen un opción "
+"extra. La pagina de \"añadir jugador\" incluye una lista con los eventos "
+"para registrarse más recientes. Si seleccionas una de estas, se te dará una "
+"lista de todas las personas que se han registrado a este evento, menos "
+"aquellos que ya estén en el roster de algún otro equipo en esta liga. Se "
+"pretende que esto se use para registrar \"individuos con equipos\" en la "
+"liga, donde las personas que se registren para un equipo hat puede ser "
+"añadidas rápidamente a un roster."
 
 #: /views/elements/help/divisions/roster_add.ctp:6
-#, fuzzy
 msgid "standard methods"
 msgstr "métodos estándar"
 
@@ -8026,6 +8011,9 @@ msgid ""
 "season to assist in ensuring that premier %s and time slots are being fully "
 "utilized."
 msgstr ""
+"El Reporte de Disponibilidad %s es usado por los coordinadores durante el "
+"transcurso de la temporada para poder asegurar que los %d premier y los "
+"horarios se utilicen completamente."
 
 #: /views/elements/help/divisions/slots.ctp:7
 msgid ""
@@ -8033,6 +8021,10 @@ msgid ""
 "list of all game slots available to this division, and whether or not they "
 "are assigned. If assigned, it will show home and away teams%s."
 msgstr ""
+"Después de seleccionar una fecha de la que quieres ver un reporte, se "
+"mostrará una lista de todos los juegos disponibles para la división, y ver "
+"si han sido asignados. Si han sido asignados, mostrará los equipos%S visita "
+"y el local"
 
 #: /views/elements/help/divisions/slots.ctp:8
 msgid ", and the regional preference of the home team"
@@ -8043,6 +8035,8 @@ msgid ""
 "You can also access this report for a particular date through direct links "
 "on the division schedule."
 msgstr ""
+"También puedes acceder a este reporte para una fecha en particular a través "
+"de vinculo de la división en particular."
 
 #: /views/elements/help/divisions/spirit.ctp:1
 msgid ""
@@ -8050,6 +8044,10 @@ msgid ""
 "Coordinators should review this regularly, and take any necessary steps if "
 "trends are identified."
 msgstr ""
+"Este reporte de Espíritu de Juego es usado para rastrear calificaciones de "
+"Espíritu durante la temporada. Los coordinadores deben revisar estos "
+"reportes de manera regular, y tomar las medidas necesarias si encuentran "
+"alguna tendencia."
 
 #: /views/elements/help/divisions/spirit.ctp:2
 msgid ""
@@ -8059,6 +8057,12 @@ msgid ""
 "of all spirit reports received for all games, including any comments that "
 "may have been submitted by the coaches and captains."
 msgstr ""
+"Estos reportes están divididos en tres secciones. Primero hay un resumen de "
+"la temporada, mostrando las calificaciones que ha recibido el equipo durante "
+"la temporada. Segundo, hay una distribución mostrando cuantos equipos caen "
+"en los diferentes rangos de las calificaciones. Finalmente, hay una lista de "
+"todos los reportes de Espíritu recibido en todos los juegos, incluyendo cada "
+"comentario que los capitanes y entrenadores han hecho."
 
 #: /views/elements/help/divisions/edit/current_round.ctp:1
 msgid ""
@@ -8066,10 +8070,14 @@ msgid ""
 "round robin leagues that are small enough to allow every team to play every "
 "other team more than once."
 msgstr ""
+"Esto indica que partidos de grupo están sucediendo en este momento. Esto es "
+"para las ligas de round robin que son los suficientemente pequeñas para "
+"permitir que todos los equipos jueguen contra todos los equipos más de una "
+"vez."
 
 #: /views/elements/help/divisions/edit/current_round.ctp:2
 msgid "This setting is applicable only to round robin leagues."
-msgstr ""
+msgstr "Estas características solo son aplicables a ligas round robin."
 
 #: /views/elements/help/divisions/edit/double_booking.ctp:1
 msgid ""
@@ -8077,6 +8085,9 @@ msgid ""
 "option, when adding games or editing schedules, to put multiple games in the "
 "same game slot."
 msgstr ""
+"Si la bandera de \"doble programación\" esta para esta división, tendrás la "
+"opción, cuando programes juegos o edites el calendario, para poner más de un "
+"juego en el mismo espacio para juego."
 
 #: /views/elements/help/divisions/edit/double_booking.ctp:2
 msgid ""
@@ -8084,6 +8095,9 @@ msgid ""
 "the same time with each getting an individual result unrelated to the scores "
 "of the other teams, such as a race."
 msgstr ""
+"Más comúnmente, esto es usado por deportes donde múltiples equipos están "
+"compitiendo a la misma hora donde ambos tienen un resultado propio sin estar "
+"relacionados uno con el otro, como en una carrera."
 
 #: /views/elements/help/divisions/edit/double_booking.ctp:3
 msgid ""
@@ -8091,6 +8105,10 @@ msgid ""
 "to put as many games as you want on the same field at the same time, so you "
 "will need to double-check your schedules manually."
 msgstr ""
+"Nota que esto deshabilita los chequeos de sanidad de en el calendario, por "
+"lo tanto permitiendo la cantidad de juegos que tu quieras en un mismo campo "
+"al mismo tiempo, por lo que tendrás que revisar dos veces tu calendario "
+"manualmente."
 
 #: /views/elements/help/divisions/edit/double_booking.ctp:6;8
 #: /views/elements/help/divisions/edit/exclude_teams.ctp:5;7
@@ -8100,7 +8118,7 @@ msgstr "editar la división"
 #: /views/elements/help/divisions/edit/double_booking.ctp:10
 #: /views/elements/help/divisions/edit/exclude_teams.ctp:9
 msgid "If you never need this option, %s and turn it off."
-msgstr ""
+msgstr "Si nunca necesitaras esta opción, %s y apagala."
 
 #: /views/elements/help/divisions/edit/exclude_teams.ctp:1
 msgid ""
@@ -8108,12 +8126,17 @@ msgid ""
 "option, when adding games, to select teams that you don't want to include in "
 "the generated schedule."
 msgstr ""
+"Si la bandera de \"excluir equipos\" está puesta para esta división, tendrás "
+"la opción, cuando añadas partidos, de seleccionar equipos que no quieres que "
+"sean parte de el calendario que estás generando."
 
 #: /views/elements/help/divisions/edit/exclude_teams.ctp:2
 msgid ""
 "You may want to do this because you have an un-even number of teams in your "
 "division, or if some teams may have bye weeks."
 msgstr ""
+"Tal vez quieras hacer esto porque tienes un número impar de equipos en tu "
+"división, o si algunos equipos tengan semanas de descanso."
 
 #: /views/elements/help/divisions/edit/games_before_repeat.ctp:1
 msgid ""
@@ -8122,10 +8145,14 @@ msgid ""
 "played each other in game 1 would not be able to meet in games 2, 3, 4 or 5, "
 "but could have a rematch in game 6."
 msgstr ""
+"Esto indica cuántos partidos deben pasar antes que dos equipos se enfrenten "
+"entre ellos otra vez. Por ejemplo, si esto está puesto para 4, los equipos "
+"que se enfrenten en el primer juego no se podrán enfrentar en los juegos 2, "
+"3, 4 o 5, pero podrá haber una revancha en el juego 6."
 
 #: /views/elements/help/divisions/edit/games_before_repeat.ctp:2
 msgid "This setting is applicable only to ladder divisions."
-msgstr ""
+msgstr "Estos ajustes solo son aplicables en divisiones de escalera."
 
 #: /views/elements/help/divisions/edit/name.ctp:1
 msgid ""
@@ -8133,24 +8160,33 @@ msgid ""
 "within the same league. Common naming schemes include tier numbering or "
 "names based on the level of play."
 msgstr ""
+"El nombre de la división se usa para diferenciarla de otras divisiones "
+"dentro del mismo idioma. Algunas formas comunes de nombrarlas incluyen "
+"números o nombres según su nivel de juego."
 
 #: /views/elements/help/divisions/edit/name.ctp:2
 msgid ""
 "Do not include the league name in the division name, as it will be added "
 "automatically for you in the various displays."
 msgstr ""
+"No incluyas el nombre de la liga en el nombre de la división, ya que se "
+"añadirá de manera automática en los diferentes desplegados."
 
 #: /views/elements/help/divisions/edit/name.ctp:3
 msgid ""
 "If there is only one division in a league, common practice is to leave the "
 "division name blank."
 msgstr ""
+"Si solo existe una división en la liga, se acostumbra a dejar el nombre de "
+"la división en blanco."
 
 #: /views/elements/help/divisions/edit/rating_calculator.ctp:1
 msgid ""
 "The ratings calculator chosen for the division will affect how team ratings "
 "are calculated."
 msgstr ""
+"El calculador de ratings que elijas afectará como los rating de los equipos "
+"son calculados."
 
 #: /views/elements/help/divisions/edit/schedule_type.ctp:1
 msgid ""
@@ -8158,6 +8194,9 @@ msgid ""
 "when adding games to the schedule, and how standings are calculated as the "
 "season progresses."
 msgstr ""
+"El tipo de calendario escogido para la división afectará las opciones para "
+"añadir juegos al calendario, y la forma en que los puestos son calculados "
+"mientras la temporada progresa."
 
 #: /views/elements/help/divisions/edit/rating_calculator/krach.ctp:1
 msgid ""
@@ -8165,6 +8204,9 @@ msgid ""
 "to correct shortcomings in the RPI algorithm. It is commonly applied to NCAA "
 "hockey, and is the basis for the RRI system."
 msgstr ""
+"La calificación de Ken es un sistema creado por Ken Butler para El Hockey "
+"Colegial de los Estados Unidos para corregir el algoritmo de RPI. ES usado "
+"comúnmente en el hockey de la NCAA y es la base de sistema RRI."
 
 #: /views/elements/help/divisions/edit/rating_calculator/krach.ctp:2
 msgid ""
@@ -8174,6 +8216,11 @@ msgid ""
 "have been initially under-estimated, the penalty for that loss will be "
 "reduced as the season progresses."
 msgstr ""
+"Con el sistema KRACH, los rating son re-calculados diariamente, tomando en "
+"cuenta la dificultad del calendario de cada equipo. Por ejemplo , si pierdes "
+"en tu primer partido contra un equipo que tiene un ranking bajo que conforme "
+"avanza la temporada demuestran que fueron subestimados al inicio la "
+"penalidad por esa derrota se reducirá conforme avance la temporada."
 
 #: /views/elements/help/divisions/edit/rating_calculator/krach.ctp:4
 #: /views/elements/help/divisions/edit/rating_calculator/rpi.ctp:4
@@ -8184,21 +8231,21 @@ msgid ""
 "NOTE: For ratings to be re-calculated, you MUST have a daily cron job set up "
 "as described in the README file."
 msgstr ""
+"NOTA: Para que los rating sean recalculados, tu debes preparar diariamente "
+"un \"cron job\" como se describe en este archivo README."
 
 #: /views/elements/help/divisions/edit/rating_calculator/krach.ctp:6
 #: /views/elements/help/divisions/edit/rating_calculator/rri.ctp:6
-#, fuzzy
 msgid "Details are %s and %s."
 msgstr "Los detalles son %s y %s."
 
 #: /views/elements/help/divisions/edit/rating_calculator/manual.ctp:1
-#, fuzzy
 msgid ""
 "The manual calculator is intended for use solely with \"competition\" "
 "divisions."
 msgstr ""
-"La calculadora manual está diseñado para su uso únicamente con divisiones "
-"\"competencia\"."
+"La calculadora manual está diseñado para su uso únicamente con divisiones \""
+"competencia\"."
 
 #: /views/elements/help/divisions/edit/rating_calculator/manual.ctp:2
 msgid ""
@@ -8206,12 +8253,19 @@ msgid ""
 "for entry, comparison and ranking, so for now the game rating must be "
 "manually calculated and entered as the score."
 msgstr ""
+"No está claro al momento de escribir que opciones serán necesarias para "
+"respaldar esta entrada, comparaciones y rankings, por lo que en este momento "
+"los rating de los partidos deben ser calculados e ingresados manualmente así "
+"como el marcador."
 
 #: /views/elements/help/divisions/edit/rating_calculator/manual.ctp:3
 msgid ""
 "Note that low ratings are considered better; for example, enter \"1\" for "
 "the team that finished first, \"2\" for the team that finished second, etc."
 msgstr ""
+"Nota que a ratings menores se consideran mejores, por ejemplo, si ingresa \""
+"1\" para el equipo que quedó en primero, \"2\" para el equipo que quedó en "
+"segundo, etc."
 
 #: /views/elements/help/divisions/edit/rating_calculator/modified_elo.ctp:1
 msgid ""
@@ -8219,12 +8273,18 @@ msgid ""
 "backward compatibility. It has been found to have shortcomings when used for "
 "Ultimate. It is not recommended for use in new leagues."
 msgstr ""
+"El calculador Modificado Elo es una variación anterior, retenida "
+"principalmente para tener compatibilidad con versiones anteriores. Se ha "
+"mostrado que tiene algunas deficiencias cuando es usado para ultimate. No se "
+"recomienda usarlo para nuevos lenguajes."
 
 #: /views/elements/help/divisions/edit/rating_calculator/modified_elo.ctp:3
 msgid ""
 "This uses a modified Elo system, similar to the one used for %s, with "
 "several modifications:"
 msgstr ""
+"Esto usa un sistema Elo modificado, similar al que se usó para %s, con "
+"varias modificaciones:"
 
 #: /views/elements/help/divisions/edit/rating_calculator/modified_elo.ctp:4
 msgid "international soccer"
@@ -8232,13 +8292,15 @@ msgstr "fútbol internacional"
 
 #: /views/elements/help/divisions/edit/rating_calculator/modified_elo.ctp:8
 msgid "all games are equally weighted"
-msgstr ""
+msgstr "Todos los juegos tienen el mismo peso"
 
 #: /views/elements/help/divisions/edit/rating_calculator/modified_elo.ctp:9
 msgid ""
 "score differential bonus adjusted for Ultimate patterns (a 3 point win in "
 "soccer is a much bigger deal than in Ultimate)"
 msgstr ""
+"bonus de diferencia de marcador ajustado para patrones de Ultimate (una "
+"victoria por tres puntos en fútbol es mucho más llamativa que en Ultimate)"
 
 #: /views/elements/help/divisions/edit/rating_calculator/modified_elo.ctp:10
 msgid "no bonus given for home-%s advantage"
