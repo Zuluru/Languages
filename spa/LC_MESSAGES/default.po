@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zuluru\n"
 "POT-Creation-Date: 2015-04-09 15:35-0400\n"
-"PO-Revision-Date: 2016-01-05 12:29-0400\n"
+"PO-Revision-Date: 2016-02-07 17:06-0400\n"
 "Last-Translator: Luis Arturo Ramos Zapata <luisarturoramos@gmail.com>\n"
 "Language-Team: spa (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/spa/>\n"
@@ -8304,7 +8304,7 @@ msgstr ""
 
 #: /views/elements/help/divisions/edit/rating_calculator/modified_elo.ctp:10
 msgid "no bonus given for home-%s advantage"
-msgstr ""
+msgstr "no hay ninguna bonificación por la ventaja de la localía %s"
 
 #: /views/elements/help/divisions/edit/rating_calculator/none.ctp:1
 msgid ""
@@ -8312,6 +8312,9 @@ msgid ""
 "robin leagues where you have no interest in ratings, or for placeholders "
 "where you're not sure yet what type the division will be."
 msgstr ""
+"Usa estos ajustes para divisiones que no tiene partidos programados, para "
+"ligas de round robin donde no te interesan los ratings, o para equipos o "
+"ligas que aun no estas seguro que tipo de división será."
 
 #: /views/elements/help/divisions/edit/rating_calculator/rpi.ctp:1
 msgid ""
@@ -8320,17 +8323,22 @@ msgid ""
 "opponents' opponents' winning percentage. It is commonly applied to NCAA "
 "basketball and baseball."
 msgstr ""
+"El Rating Percentage Index es un sistema simple para rankear a los equipos "
+"basado en su porcentaje de victorias, el porcentaje de victorias de sus "
+"rivales y el porcentaje de victorias del rival de tu rival. Se aplica "
+"comúnmente en la NCAA para basquetbol y béisbol."
 
 #: /views/elements/help/divisions/edit/rating_calculator/rpi.ctp:2
 msgid ""
 "With the RPI system, ratings are re-calculated on a daily basis, taking into "
 "account the strength of each team's schedule."
 msgstr ""
+"Con el sistema RPI, los rating son recalculados de manera diaria, tomando en "
+"consideración la dificultad de calendario de cada equipo."
 
 #: /views/elements/help/divisions/edit/rating_calculator/rpi.ctp:6
 #: /views/elements/help/divisions/edit/rating_calculator/sagarin.ctp:6
 #: /views/elements/help/divisions/edit/rating_calculator/usau_college.ctp:6
-#, fuzzy
 msgid "Details are %s."
 msgstr "Los detalles son %s."
 
@@ -8340,6 +8348,9 @@ msgid ""
 "Ultimate (formerly the UPA) in their tournament score reporter. It is based "
 "on college hockey's KRACH algorithm."
 msgstr ""
+"El índice de para Ranking de Rodney fue desarrollado por Rodney Jacobson "
+"para uso de USA Ultimate (antes la UPA) en los reportes de resultados de sus "
+"torneos. Esta basado en el algoritmo de hockey KRACH."
 
 #: /views/elements/help/divisions/edit/rating_calculator/rri.ctp:2
 msgid ""
@@ -8349,6 +8360,11 @@ msgid ""
 "initially under-estimated, the penalty for that loss will be reduced as the "
 "season progresses."
 msgstr ""
+"Con el sistema RRI, los ratings son recalculados diariamente, tomando en "
+"cuenta la dificultad del calendario de cada equipo. Por ejemplo, si tu "
+"primer partido fue una derrota contra un equipo que estaba rankeado bajo y "
+"luego demuestra que fueron subestimados, la penalidad por esa derrota se "
+"reducirá conforme la temporada avanza."
 
 #: /views/elements/help/divisions/edit/rating_calculator/sagarin.ctp:1
 msgid ""
@@ -8356,6 +8372,9 @@ msgid ""
 "His exact algorithm is not published, but approximations have been "
 "determined. This implementation uses one such approximation."
 msgstr ""
+"Los ratings the Jeff Sagarin se usan comúnmente en la NCAA para fútbol "
+"americano y para basquetbol. Su algoritmo exacto no esta publicado, pero se "
+"han hecho aproximaciones. Este que usamos usa esa aproximación."
 
 #: /views/elements/help/divisions/edit/rating_calculator/sagarin.ctp:2
 msgid ""
@@ -8365,6 +8384,11 @@ msgid ""
 "to have been initially under-estimated, the penalty for that loss will be "
 "reduced as the season progresses."
 msgstr ""
+"Con un sistema tipo Sagarin, ratings se re calculan de manera diaria, "
+"tomando en cuenta la dificultad del calendario de cada equipo. Por ejemplo, "
+"si tu primer partido fue una derrota contra un equipo que estaba rankeado "
+"bajo y luego demuestra que fueron subestimados, la penalidad por esa derrota "
+"se reducirá conforme la temporada avanza."
 
 #: /views/elements/help/divisions/edit/rating_calculator/usau_college.ctp:1
 msgid ""
@@ -8372,6 +8396,9 @@ msgid ""
 "RRI system. It is not clear what weakness in RRI was being addressed with "
 "this change."
 msgstr ""
+"USA Ultimate ha desarrollado su forma de rankeo para nivel colegial y "
+"reemplazó el sistema RRI. No es claro que problema en el RRI se mejoró con "
+"este cambio."
 
 #: /views/elements/help/divisions/edit/rating_calculator/usau_college.ctp:2
 msgid ""
@@ -8381,10 +8408,15 @@ msgid ""
 "themselves to have been initially under-estimated, the penalty for that loss "
 "will be reduced as the season progresses."
 msgstr ""
+"Con el sistema Colegial de la USA Ultimate, los ratings son re calculados "
+"diariamente. Tomando en cuenta la dificultad del calendario de cada equipo. "
+"Por ejemplo, si tu primer partido fue una derrota contra un equipo que "
+"estaba rankeado bajo y luego demuestra que fueron subestimados, la penalidad "
+"por esa derrota se reducirá conforme la temporada avanza."
 
 #: /views/elements/help/divisions/edit/rating_calculator/wager.ctp:1
 msgid "The Wager ratings calculator is the current recommended choice."
-msgstr ""
+msgstr "El sistema Wager para calcular ratings es el recomendado actualmente."
 
 #: /views/elements/help/divisions/edit/rating_calculator/wager.ctp:2
 msgid ""
@@ -8393,6 +8425,10 @@ msgid ""
 "tweaked to produce the same ratings change for similar point differentials "
 "for higher/lower final scores."
 msgstr ""
+"Esto usa un sistema tipo wagering, donde el marcador final determina el "
+"total de lugares. Está basado en marcador meta de 15 puntos y ajustado para "
+"producir los mismos cambios de rating para diferencia de puntos similares "
+"para marcadores finales más altos/más bajos."
 
 #: /views/elements/help/divisions/edit/rating_calculator/wager.ctp:3
 msgid ""
@@ -8400,14 +8436,17 @@ msgid ""
 "to win. The losing team always takes away the same number of rating points "
 "as their game points, while the winning team takes away the remainder."
 msgstr ""
+"Cada equipo contribuye con un porcentaje en el general basado en sus chances "
+"de ganar. El equipo perdedor siempre toma el mismo número del total de "
+"puntos de ratings mientras que el ganador toma los puntos restantes."
 
 #: /views/elements/help/divisions/edit/rating_calculator/wager.ctp:4
 msgid "Thus, the point differential change amounts to:"
-msgstr ""
+msgstr "Entonces, la diferencia de puntos cambia el total a:"
 
 #: /views/elements/help/divisions/edit/rating_calculator/wager.ctp:5
 msgid "total_pot - loser_score - winner_wager"
-msgstr ""
+msgstr "total_grupo - perdedor_marcador - ganador_ganancia"
 
 #: /views/elements/help/divisions/edit/schedule_type/competition.ctp:1
 msgid ""
@@ -8417,6 +8456,11 @@ msgid ""
 "the team with the highest (or lowest) score. Examples include many track & "
 "field events, golf, etc."
 msgstr ""
+"El tipo calendario de la \"competición\" es usado para cualquier cosa donde "
+"los equipos se les da una calificación dependiendo de su desempeño, sin "
+"relación con lo que los otros equipos hagan. Los equipos pueden competir al "
+"mismo tiempo o no. Los ganadores son los equipos con la mayor (o menor) "
+"calificación. Lo ejemplo incluyen muchos eventos de Pista y Campo, Golf, etc."
 
 #: /views/elements/help/divisions/edit/schedule_type/competition.ctp:2
 msgid ""
@@ -8425,12 +8469,20 @@ msgid ""
 "experimental feature expected to change, but standings are unlikely to work "
 "correctly if any other calculator is selected."
 msgstr ""
+"La divisiones que usen calendario del tipo \"competición\" deben usar "
+"calculador de rating \"manual\". Esto no está obligatorio en el código, ya "
+"que es una función experimental que se espera que cambie, pero las "
+"posiciones no funcionaran de manera correcta si se utiliza cualquier otro "
+"calculador."
 
 #: /views/elements/help/divisions/edit/schedule_type/none.ctp:1
 msgid ""
 "Use this setting for divisions that will have no games scheduled, or for "
 "placeholders where you're not sure yet what type the division will be."
 msgstr ""
+"Usa estas características para divisiones que no tendrán calendario de "
+"juegos, o para guardar una lugar donde no estas seguro de cual tipo de "
+"división será."
 
 #: /views/elements/help/divisions/edit/schedule_type/ratings_ladder.ctp:1
 msgid ""
@@ -8439,6 +8491,10 @@ msgid ""
 "divisions where there are not enough games in the season for every team to "
 "play every other team."
 msgstr ""
+"Esta es la opción recomendada para divisiones grandes (con 16 equipos o más)"
+", divisiones donde hay un amplio margen entre niveles de juego o divisiones "
+"donde no hay suficientes partidos en una temporada para que todos jueguen "
+"contra todos."
 
 #: /views/elements/help/divisions/edit/schedule_type/ratings_ladder.ctp:2
 msgid ""
@@ -8446,12 +8502,18 @@ msgid ""
 "transferred from the loser of a game to the winner, or regularly "
 "recalculated based on all known results."
 msgstr ""
+"Los lugares en la división están basados en los ratings de los equipos, "
+"donde los puntos de los ratings son transferidos del equipo que pierde el "
+"partido al ganador, o se recalculan de manera regular basados en resultados "
+"conocidos por todos."
 
 #: /views/elements/help/divisions/edit/schedule_type/ratings_ladder.ctp:3
 msgid ""
 "NOTE: If you use this schedule type, be sure not to select the \"none\" "
 "rating calculator."
 msgstr ""
+"NOTA: si usas este tipo de calendario, asegurate de NO seleccionar \""
+"ninguno\" como calculador de rating."
 
 #: /views/elements/help/divisions/edit/schedule_type/roundrobin.ctp:1
 msgid ""
@@ -8462,10 +8524,17 @@ msgid ""
 "essentially splits the division in half, if there are only enough games for "
 "each team to play half of the other teams."
 msgstr ""
+"Esta es la opción recomendada para divisiones pequeñas (con 6 equipos o "
+"menos), o divisiones donde todos los equipos, teóricamente, tienen un nivel "
+"parecido, además que hay suficientes partidos en la temporada para que todos "
+"jueguen contra todos. Esta también es la opción para divisiones round-robin "
+"que, esencialmente, dividen la división por la mitad, si solo hay "
+"suficientes partidos para que todos los equipos jueguen solo contra la mitad "
+"de los equipos."
 
 #: /views/elements/help/divisions/edit/schedule_type/roundrobin.ctp:2
 msgid "Division standings are based on win/loss record."
-msgstr ""
+msgstr "Las posiciones están basadas en el record de ganados y perdidos."
 
 #: /views/elements/help/divisions/edit/schedule_type/tournament.ctp:1
 msgid ""
@@ -8473,6 +8542,9 @@ msgid ""
 "division. Scheduling options presented will be based on the number of teams "
 "in the tournament."
 msgstr ""
+"Esto es para torneos que no están relacionados a ninguna división de \""
+"temporada regular\". Las opciones de calendarización seran presentadas "
+"basadas en el número de equipos en el torneo."
 
 #: /views/elements/help/divisions/edit/schedule_type/tournament.ctp:2
 msgid ""
@@ -8480,12 +8552,18 @@ msgid ""
 "where teams might opt not to participate in the playoffs. This should not be "
 "used when playoffs are part of the normal division schedule."
 msgstr ""
+"También se puede usar para una calendarización de playoff tipo torneo para "
+"la división, donde un equipo puede elegir no participar en los playoff. Esto "
+"no debe utilizarse cuando los playoff son parte del calendario normal de la "
+"división."
 
 #: /views/elements/help/events/connections.ctp:1
 msgid ""
 "The \"manage connections\" page is used to define logical connections "
 "between your events."
 msgstr ""
+"La página de \"conexiones de administración\" es usada para definir "
+"conexiones lógicas entre los eventos."
 
 #: /views/elements/help/events/edit/alternate.ctp:1
 msgid ""
@@ -8494,18 +8572,27 @@ msgid ""
 "the \"You may alternately be interested in...\" area when viewing an event "
 "to register for."
 msgstr ""
+"Usa esto para definir eventos que deben ser considerados como alternativas a "
+"este evento. Cualquier evento listado como alternativa va a ser mostrado en "
+"la lista \"También puedes estar interesados en estos...\" cuando veas algún "
+"evento al que te hayas registrado."
 
 #: /views/elements/help/events/edit/alternate.ctp:2
 msgid ""
 "Alternates are always bi-directional, so adding event Y as an alternate to X "
 "will also add event X as an alternate to Y."
 msgstr ""
+"Las alternativas son siempre bidireccionales, por lo que añadiendo un evento "
+"Y como alternativa a X también añadirá X como alternativa para Y."
 
 #: /views/elements/help/events/edit/alternate.ctp:3
 msgid ""
 "Note that other events associated with the same division, if any, will "
 "automatically be included there and don't need to be included in this list."
 msgstr ""
+"Nota que los eventos asociados dentro de la misma división, si es que lo "
+"hay, seran automaticamente incluídos ahí y no necesitan ser incluídos en "
+"esta lista."
 
 #: /views/elements/help/events/edit/predecessor.ctp:1
 msgid ""
@@ -8514,6 +8601,10 @@ msgid ""
 "invitation emails, as well as for generation of the various retention "
 "reports."
 msgstr ""
+"Usa esto para definir la lista de eventos que pueden ser considerados como "
+"predecesores de este evento. Las conecciones para los predecesores se usan "
+"para enviar invitaciones de correo electrónico así como para la generación "
+"de varios reportes de retención."
 
 #: /views/elements/help/events/edit/predecessor.ctp:2
 #: /views/elements/help/events/edit/successorto.ctp:2
@@ -8522,6 +8613,9 @@ msgid ""
 "list of events that it is a successor to, but this is not always the case, "
 "so the two lists must be maintained separately."
 msgstr ""
+"Para cualquier evento, la lista de sus predecesores es típicamente la misma "
+"que la lista que aparecerá en el siguiente evento, pero no es siempre el "
+"caso, por lo que ambas listas deben mantenerse separadas."
 
 #: /views/elements/help/events/edit/predecessorto.ctp:1
 msgid ""
@@ -8529,6 +8623,10 @@ msgid ""
 "as a predecessor to. Predecessor connections are used for sending invitation "
 "emails, as well as for generation of the various retention reports."
 msgstr ""
+"Usa esto para definir un evento el cual este evento puede ser considerado un "
+"predecesor. Las conecciones de los predecesores son usados para mandar "
+"invitaciones vía correo electrónico y también para generar varios reportes "
+"de retención."
 
 #: /views/elements/help/events/edit/predecessorto.ctp:2
 #: /views/elements/help/events/edit/successor.ctp:2
@@ -8537,6 +8635,9 @@ msgid ""
 "list of events that it is a predecessor to, but this is not always the case, "
 "so the two lists must be maintained separately."
 msgstr ""
+"Para cualquier evento, la lista de sucesores es típicamente la misma que la "
+"lista de evento de su predecesor, pero no siempre es el caso, por lo que se "
+"tienen que mantener separadas."
 
 #: /views/elements/help/events/edit/successor.ctp:1
 msgid ""
@@ -8544,6 +8645,9 @@ msgid ""
 "successors to this event. Successor connections are used in generation of "
 "the various retention reports."
 msgstr ""
+"Usa esto para definir la lista de eventos que pueden ser considerados "
+"sucesores a este evento. Las conecciones de sucesores son usadas para "
+"generar diferentes reportes de retención."
 
 #: /views/elements/help/events/edit/successorto.ctp:1
 msgid ""
@@ -8551,15 +8655,22 @@ msgid ""
 "as a successor to. Successor connections are used in generation of the "
 "various retention reports."
 msgstr ""
+"Usa esto para definir la lista de eventos para los que este evento se le "
+"considera un sucesor. Las conecciones de sucesión se usan para generar "
+"distintos reportes de retención."
 
 #: /views/elements/help/facilities/edit.ctp:1
 msgid ""
 "The \"edit facility\" page is used to update details of your facilities."
 msgstr ""
+"La página de \"instalación de edición\" es usada para obtener "
+"actualizaciones de tus instalaciones."
 
 #: /views/elements/help/facilities/edit.ctp:2
 msgid "The \"create facility\" page is essentially identical to this page."
 msgstr ""
+"La página de \"instalación para crear\" es esencialmente idéntica a esta "
+"página."
 
 #: /views/elements/help/facilities/edit/biking_directions.ctp:1
 msgid ""
@@ -8567,6 +8678,10 @@ msgid ""
 "flatter route, which combine to make the optimal cycling route different "
 "from the optimal driving route. Enter any such details here."
 msgstr ""
+"Muchas veces hay detalles, como caminos para bicicletas, dedicados a rutas "
+"de bicicletas o caminos más planos, que se combinan para crear la ruta "
+"óptima para ciclistas que es diferente a la ruta óptima  para conductores. "
+"Ingresa esos detalles, aquí."
 
 #: /views/elements/help/facilities/edit/biking_directions.ctp:2
 #: /views/elements/help/facilities/edit/driving_directions.ctp:4
@@ -8579,7 +8694,7 @@ msgstr ""
 msgid ""
 "If you leave this field blank, it will not be shown on the facility view "
 "page."
-msgstr ""
+msgstr "Si dejas este espacio sin llenar, no se mostrará la página del lugar."
 
 #: /views/elements/help/facilities/edit/code.ctp:1
 msgid ""
@@ -8587,6 +8702,9 @@ msgid ""
 "facility in a more concise manner in many displays where using the full name "
 "results in hard-to-read formatting."
 msgstr ""
+"El código de las instalaciones es una abreviación de tres letras usada para "
+"referirse a la instalación de una forma más concisa en algunos desplegados "
+"donde si se usara el nombre completo sería difícil de leer."
 
 #: /views/elements/help/facilities/edit/driving_directions.ctp:1
 msgid ""
@@ -8594,6 +8712,9 @@ msgid ""
 "get to the neighbourhood (e.g. \"From the west, take Highway 99 and exit at "
 "Main St. N.\")."
 msgstr ""
+"En ciudades grandes, esto es usado típicamente para dar algunos tips o rutas "
+"para moverse en algunos vecindarios (por ejemplo \"desde el este, toma la "
+"autopista 90 y salte en la calle Main\")."
 
 #: /views/elements/help/facilities/edit/driving_directions.ctp:2
 msgid ""
@@ -8601,18 +8722,26 @@ msgid ""
 "neighbourhood quirks, such as one-way streets, which might not be obvious "
 "from a quick glance at the map."
 msgstr ""
+"En las ciudades más pequeñas, esto se usa de manera regular para mostrar "
+"peculiaridades de los vecindarios, como calles de un solo sentido, que no es "
+"obvio si se mira de manera rápida el mapa."
 
 #: /views/elements/help/facilities/edit/driving_directions.ctp:3
 msgid ""
 "Remember that people can get specific driving directions through the Google "
 "Maps interface on the \"view map\" page."
 msgstr ""
+"Recuerda que las personas pueden obtener direcciones de rutas específicas "
+"via Google Maps en la interface \"view map\"."
 
 #: /views/elements/help/facilities/edit/is_open.ctp:2
 msgid ""
 "A facility should be marked as \"open\" as long as any %s at the facility is "
 "potentially in use. Only close a facility when it is no longer available."
 msgstr ""
+"La instalación deberá aparecer como \"abierta\" mientras cualquier %s en la "
+"instalación este siendo usado potencialmente. Solo cierra una instalación "
+"cuando no esté disponible."
 
 #: /views/elements/help/facilities/edit/location_street.ctp:1
 msgid ""
@@ -8620,12 +8749,18 @@ msgid ""
 "driving directions from Google Maps, so it must be the street address, not "
 "the mailing address if they differ."
 msgstr ""
+"Proveer la dirección de la instalación. Esta dirección se usará para crear "
+"dirección de manejo desde Google Maps, por lo que debe se marcada con la "
+"dirección de calle y no la dirección de correo en caso de que sean "
+"diferentes."
 
 #: /views/elements/help/facilities/edit/name.ctp:2
 msgid ""
 "The name should be descriptive of the facility in general (e.g. the name of "
 "the school or complex where the %s are found)."
 msgstr ""
+"El nombre debe ser descrito en la instalación (por ejemplo el nombre de una "
+"escuela o complejo)."
 
 #: /views/elements/help/facilities/edit/parking_details.ctp:1
 msgid ""
@@ -8633,6 +8768,10 @@ msgid ""
 "handy spots to park, areas that the neighbourhood has requested not be used "
 "for street parking, or warnings about commonly-missed bylaws."
 msgstr ""
+"Menciona alguna peculiaridad sobre el estacionamiento aquí. Esto puede "
+"incluir sugerencias sobre dónde estacionarse, algunas áreas que el "
+"vecindario haya mencionado donde no se puede estacionar o advertencias sobre "
+"leyes o reglas de estacionamiento que comúnmente no se toman en cuenta."
 
 #: /views/elements/help/facilities/edit/public_instructions.ctp:2
 msgid ""
@@ -8640,6 +8779,9 @@ msgid ""
 "categories. Exmples might include %s setup notes, presence of playgrounds "
 "for those with children, etc."
 msgstr ""
+"Usa esta área para indicaciones generales que no se entran en otra "
+"categoría. Por ejemplo esto puede incluir notas de %s, áreas de recreo para "
+"las personas con hijos."
 
 #: /views/elements/help/facilities/edit/site_instructions.ctp:1
 msgid ""
@@ -8647,6 +8789,10 @@ msgid ""
 "any confidential information, such as emergency facility contact numbers, "
 "combinations for parking locks, etc. should go."
 msgstr ""
+"Las instrucciones del lugar solo son visibles las personas ingresan a %s. "
+"Aquí es donde cualquier información confidencial, como el número de contacto "
+"de emergencia de la instalación está, las claves para los candados del "
+"estacionamiento, etc deben ir."
 
 #: /views/elements/help/facilities/edit/sponsor.ctp:1
 msgid ""
@@ -8654,6 +8800,9 @@ msgid ""
 "generate a little extra revenue? You can \"sell\" sponsorship of facilities "
 "to local businesses, and put their ads here."
 msgstr ""
+"¿Buscas la manera de conseguir descuentos de equipo en restaurante local o "
+"general un poco de valor agregado? Puedes \"vender\" patrocinios a los "
+"negocios locales y poner sus anuncios aquí."
 
 #: /views/elements/help/facilities/edit/transit_directions.ctp:1
 msgid ""
@@ -8661,20 +8810,25 @@ msgid ""
 "This might include route numbers and timing, stop locations, or optimized "
 "route options."
 msgstr ""
+"Cuando sea posible, provee información pertinente para los usuarios de "
+"transporte público. Esto puede incluir números de las rutas y tiempos de "
+"traslado, lugares de paradas y rutas óptimas."
 
 #: /views/elements/help/facilities/edit/washrooms.ctp:1
 msgid ""
 "If the facility has washroom facilities, they can be detailed here. This can "
 "also be used to explicitly point out a lack of washroom facilities."
 msgstr ""
+"Si las instalaciones tienen baños, pueden detallarse aquí. Esto también "
+"puede ser usado también para denotar que no hay baños."
 
 #: /views/elements/help/fields/edit.ctp:2
 msgid "The \"edit %s\" page is used to update details of your %s."
-msgstr ""
+msgstr "La página \"editar %s\" es usada para actualizar los detalles de tu %s."
 
 #: /views/elements/help/fields/edit.ctp:7
 msgid "The \"create %s\" page is essentially identical to this page."
-msgstr ""
+msgstr "La página \"crear %s\" es esencialmente idéntica a esta página."
 
 #: /views/elements/help/fields/edit/is_open.ctp:2
 msgid ""
@@ -8683,6 +8837,11 @@ msgid ""
 "only display those facilities that players might need to travel to, making "
 "it easier for them to find relevant information."
 msgstr ""
+"Típicamente, un %s debe ser marcado como \"abierto\"si está siendo utilizado "
+"por la liga venidera. Al \"cerrar\" %s que no se está utilizando, la lista "
+"de %s sólo mostrará las instalaciones a las que los jugadores pueden "
+"necesitar viajar, por lo tanto haciendo que la información que se muestre "
+"sea relevante."
 
 #: /views/elements/help/fields/edit/num.ctp:2
 msgid ""
@@ -8691,6 +8850,10 @@ msgid ""
 "\", it might be \"East\" and \"West\", or (particularly at large multi-use "
 "facilities) it might be something more like \"Soccer 1 North\"."
 msgstr ""
+"Cuando hay multiples %s en una mismas instalaciones, las %s individuales se "
+"distinguen por \"número\". Esto puede ser simple como \"1\", \"2\" y \"3\", "
+"también puede ser \"este\" y \"oeste\", o (normalmente en las instalaciones "
+"que tienen multipropósito) puede ser algo como \"Fubol 1 Norte\"."
 
 #: /views/elements/help/fields/edit/num.ctp:7
 msgid ""
@@ -8700,6 +8863,12 @@ msgid ""
 "starting with the %s closest to the parking lot or entrance. Remember that "
 "players can always refer to the %s layout diagram if they are in doubt."
 msgstr ""
+"Como esto es usado en varios desplegados, se debe mantener lo más conciso "
+"posible, sin que se pierdan los específicos. Por ejemplo, \"Fubol1N\" puede "
+"ser suficiente, en lugar de \"Fútbol 1 Norte\". Algo que se utiliza "
+"normalmente es enumerar %s empezando con el %s más cercano al área a la "
+"entrada al estacionamiento. Recuerda que los jugadores siempre se pueden "
+"referir a el diagrama de %s si tienen dudas."
 
 #: /views/elements/help/games/date_time_format.ctp:7
 msgid ""
@@ -8707,6 +8876,10 @@ msgid ""
 "(depending on the context). %s to change these settings to something that "
 "suits you better (e.g. many people prefer 12 hour format to 24 hour)."
 msgstr ""
+"Por default, el sistema usa el formato 8PM como %s y \"hoy\" como %s o %s ("
+"dependiendo del contexto). %s para cambiar esta configuración a algo que se "
+"adapte más a ti (por ejemplo mucha gente prefiere el formato de 12 horas al "
+"formato de 24 horas)."
 
 #: /views/elements/help/games/date_time_format.ctp:8
 #: /views/elements/people/ical_links.ctp:16
@@ -8719,6 +8892,9 @@ msgid ""
 "order of and/or adding to the date_formats, day_formats and time_formats "
 "values in config/options.php."
 msgstr ""
+"Puedes cambiar las configuraciones del sistema y/o agregar nuevas opciones "
+"alterando el orden y/o añadiendo al formato_fecha, formato_día y al "
+"formato_tiempo valores en config/options.php."
 
 #: /views/elements/help/games/personal_feed.ctp:1
 msgid ""
@@ -8726,6 +8902,9 @@ msgid ""
 "applications. %s supports iCal output in a variety of ways, but perhaps the "
 "most useful is the \"Personal Feed\"."
 msgstr ""
+"iCal es una forma estandarizada para intercambiar información sobre "
+"calendarios entre aplicaciones. %s es compatible con iCal y se publica en "
+"varias formas, pero quizás la más usada es \"Información Personal\"."
 
 #: /views/elements/help/games/personal_feed.ctp:3
 msgid ""
@@ -8734,6 +8913,10 @@ msgid ""
 "season, and year to year, and keep you informed of all of your upcoming "
 "games."
 msgstr ""
+"Si tu %s para habilitar esto, podrás tener iCal, Google Calendar y otros "
+"podrán automáticamente jalar tu calendario, de semana a semana, temporada a "
+"temporada y año a año, y mantenerte informado de todos tus partidos "
+"venideros."
 
 #: /views/elements/help/games/personal_feed.ctp:4
 #: /views/elements/help/games/reminder_emails.ctp:3
