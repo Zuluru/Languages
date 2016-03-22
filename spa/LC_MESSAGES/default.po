@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zuluru\n"
 "POT-Creation-Date: 2015-04-09 15:35-0400\n"
-"PO-Revision-Date: 2016-02-07 17:06-0400\n"
-"Last-Translator: Luis Arturo Ramos Zapata <luisarturoramos@gmail.com>\n"
+"PO-Revision-Date: 2016-03-22 12:59-0400\n"
+"Last-Translator: Daniel Salcedo Peña <daniel.salcedo@ultimatemexico.org>\n"
 "Language-Team: spa (generated) "
 "<http://translate.zuluru.org/projects/zuluru/default/spa/>\n"
 "Language: spa\n"
@@ -8929,18 +8929,25 @@ msgid ""
 "bottom of the main %s page. Then, go to the Calendar menu in iCal, pick "
 "Subscribe, and paste in the link."
 msgstr ""
+"Para agregar tu feed personal a iCal, copia el link del logo de iCal del pie "
+"de la página principal del %s. Luego, ve al menú Calendario en iCal, "
+"selecciona Suscribir, y pega el link."
 
 #: /views/elements/help/games/personal_feed.ctp:7
 msgid ""
 "To add your personal feed to Google Calendar, just click the \"Add to Google "
 "Calendar\" link at the bottom of the main page."
 msgstr ""
+"Para agregar tu feed personal a Google Calendar, basta con hacer click en el "
+"link \"Agregar a Calendario de Google\" en el pie de la página principal."
 
 #: /views/elements/help/games/recent_and_upcoming.ctp:1
 msgid ""
 "The \"Recent and Upcoming Schedule\" section of the %s home page provides a "
 "timely snapshot of the most important events on your schedule."
 msgstr ""
+"La sección \"Eventos recientes y próximos\" de la página de inicio del %s "
+"provee una vista temporal de los más importantes eventos de tu agenda."
 
 #: /views/elements/help/games/recent_and_upcoming.ctp:2
 msgid ""
@@ -8966,7 +8973,7 @@ msgstr ""
 
 #: /views/elements/help/games/recent_and_upcoming.ctp:6
 msgid ", and any tasks assigned to you"
-msgstr ""
+msgstr ", y cualquier tarea asignada a ti"
 
 #: /views/elements/help/games/recent_and_upcoming.ctp:8
 msgid ""
@@ -8989,6 +8996,8 @@ msgid ""
 "If the \"Allow double-booking\" box is checked, you will be allowed to "
 "schedule multiple games in a single game slot."
 msgstr ""
+"Si está elegida la opción \"Permitir reservación doble\", podrás agendar "
+"multiples juegos en un solo espacio."
 
 #: /views/elements/help/games/edit/double_booking.ctp:2
 msgid ""
@@ -9046,10 +9055,9 @@ msgid ""
 msgstr ""
 
 #: /views/elements/help/guide/advanced.ctp:1
-#, fuzzy
 #| msgid "advanced users guide"
 msgid "Advanced User Guide"
-msgstr "guia de usuarios avanzados"
+msgstr "Guia de Usuarios Avanzados"
 
 #: /views/elements/help/guide/advanced.ctp:2
 msgid "Pop-ups"
@@ -9079,10 +9087,9 @@ msgid ""
 msgstr ""
 
 #: /views/elements/help/guide/captain.ctp:1
-#, fuzzy
 #| msgid "Captain Emails"
 msgid "Coach/Captain Guide"
-msgstr "Correos electrónicos de capitanes"
+msgstr "Guía de Entrenador/Capitán"
 
 #: /views/elements/help/guide/captain.ctp:2
 msgid ""
@@ -9119,10 +9126,9 @@ msgid " handling spirit issues,"
 msgstr ""
 
 #: /views/elements/help/guide/coordinator.ctp:1
-#, fuzzy
 #| msgid "Coordinator"
 msgid "Coordinator Guide"
-msgstr "Coordinador"
+msgstr "Guía de Coordinador"
 
 #: /views/elements/help/guide/coordinator.ctp:2
 msgid ""
@@ -9139,10 +9145,9 @@ msgid ""
 msgstr ""
 
 #: /views/elements/help/guide/new_user.ctp:1
-#, fuzzy
 #| msgid "New Users"
 msgid "New User Guide"
-msgstr "Nuevo usuario"
+msgstr "Guía para Nuevo usuario"
 
 #: /views/elements/help/guide/new_user.ctp:3
 msgid ""
@@ -9184,7 +9189,6 @@ msgid "If you don't already have an account, %s to get yourself set up."
 msgstr ""
 
 #: /views/elements/help/guide/new_user.ctp:21;25;38
-#, fuzzy
 msgid "follow these directions"
 msgstr "siga estas instrucciones"
 
@@ -9201,10 +9205,9 @@ msgid ""
 msgstr ""
 
 #: /views/elements/help/guide/new_user.ctp:37
-#, fuzzy
 #| msgid "complete your update"
 msgid "To complete your profile, %s"
-msgstr "completa tu actualización"
+msgstr "Para completar tu perfil, %s"
 
 #: /views/elements/help/guide/new_user.ctp:40
 msgid "and will not be until you have completed it"
@@ -9287,10 +9290,9 @@ msgid ""
 msgstr ""
 
 #: /views/elements/help/guide/administrator/fields.ctp:33
-#, fuzzy
 #| msgid "Layout"
 msgid "Layouts"
-msgstr "Trazado"
+msgstr "Trazados"
 
 #: /views/elements/help/guide/administrator/fields.ctp:35
 msgid ""
@@ -9303,10 +9305,9 @@ msgid ""
 msgstr ""
 
 #: /views/elements/help/guide/administrator/fields.ctp:39
-#, fuzzy
 #| msgid "Parking Details"
 msgid "Parking and Entrances"
-msgstr "Detalles del parque"
+msgstr "Estacionamientos y puertas de acceso"
 
 #: /views/elements/help/guide/administrator/fields.ctp:41
 msgid ""
@@ -9319,9 +9320,8 @@ msgid ""
 msgstr ""
 
 #: /views/elements/help/guide/administrator/fields.ctp:46
-#, fuzzy
 msgid "Open and Closed %s and Facilities"
-msgstr "Sedes"
+msgstr "%s y Sedes Abiertas y Cerradas"
 
 #: /views/elements/help/guide/administrator/fields.ctp:50
 msgid ""
@@ -9333,10 +9333,9 @@ msgid ""
 msgstr ""
 
 #: /views/elements/help/guide/administrator/fields.ctp:52
-#, fuzzy
 #| msgid "facility"
 msgid "facility list"
-msgstr "instalaciones"
+msgstr "lista de sedes"
 
 #: /views/elements/help/guide/administrator/fields.ctp:56
 msgid ""
@@ -9362,10 +9361,9 @@ msgid ""
 msgstr ""
 
 #: /views/elements/help/guide/administrator/leagues.ctp:1
-#, fuzzy
 #| msgid "League Management"
 msgid "Administrator Guide: League Management"
-msgstr "Administración de la liga"
+msgstr "Guía del administrador: Administración de la liga"
 
 #: /views/elements/help/guide/administrator/leagues.ctp:3
 msgid "Structure"
@@ -9397,10 +9395,9 @@ msgid ""
 msgstr ""
 
 #: /views/elements/help/guide/administrator/leagues.ctp:8
-#, fuzzy
 #| msgid "Season"
 msgid "Seasons"
-msgstr "Temporada"
+msgstr "Temporadas"
 
 #: /views/elements/help/guide/administrator/leagues.ctp:9
 msgid ""
@@ -9487,10 +9484,9 @@ msgid ""
 msgstr ""
 
 #: /views/elements/help/guide/administrator/leagues.ctp:30
-#, fuzzy
 #| msgid "Roster Rule"
 msgid "Roster Rules"
-msgstr "Regla para armar roster"
+msgstr "Reglas para armar roster"
 
 #: /views/elements/help/guide/administrator/leagues.ctp:31
 msgid ""
@@ -9523,16 +9519,14 @@ msgid "registration system"
 msgstr "sistema de registro"
 
 #: /views/elements/help/guide/administrator/players.ctp:1
-#, fuzzy
 #| msgid "Player Management"
 msgid "Administrator Guide: Player Management"
-msgstr "Administración de jugadores"
+msgstr "Guía del administrador: Administración de jugadores"
 
 #: /views/elements/help/guide/administrator/players.ctp:3
-#, fuzzy
 #| msgid "Players"
 msgid "New Players"
-msgstr "Jugadores"
+msgstr "Nuevos jugadores"
 
 #: /views/elements/help/guide/administrator/players.ctp:5
 msgid ""
@@ -9543,10 +9537,9 @@ msgid ""
 msgstr ""
 
 #: /views/elements/help/guide/administrator/players.ctp:6
-#, fuzzy
 #| msgid "settings"
 msgid "User Settings"
-msgstr "ajustes"
+msgstr "ajustes de usuario"
 
 #: /views/elements/help/guide/administrator/players.ctp:9
 msgid ""
@@ -9649,10 +9642,9 @@ msgid ""
 msgstr ""
 
 #: /views/elements/help/guide/administrator/players.ctp:29
-#, fuzzy
 #| msgid "Role"
 msgid "Roles"
-msgstr "Rol"
+msgstr "Roles de usuario"
 
 #: /views/elements/help/guide/administrator/players.ctp:30
 msgid ""
@@ -9719,9 +9711,8 @@ msgstr ""
 
 #: /views/elements/help/guide/administrator/players.ctp:43
 #: /views/settings/user.ctp:60
-#, fuzzy
 msgid "Photos"
-msgstr "Foto"
+msgstr "Fotos"
 
 #: /views/elements/help/guide/administrator/players.ctp:44
 msgid ""
@@ -9781,10 +9772,9 @@ msgid ""
 msgstr ""
 
 #: /views/elements/help/guide/administrator/registration.ctp:12
-#, fuzzy
 #| msgid "Rule"
 msgid "Rules"
-msgstr "Regla"
+msgstr "Reglas"
 
 #: /views/elements/help/guide/administrator/registration.ctp:13
 msgid ""
@@ -9848,10 +9838,9 @@ msgid ""
 msgstr ""
 
 #: /views/elements/help/guide/administrator/registration.ctp:27
-#, fuzzy
 #| msgid "view the event list"
 msgid "events list"
-msgstr "ver la lista del evento"
+msgstr "lista de eventos"
 
 #: /views/elements/help/guide/administrator/registration.ctp:29
 msgid ""
@@ -9914,10 +9903,9 @@ msgid ""
 msgstr ""
 
 #: /views/elements/help/guide/administrator/setup.ctp:1
-#, fuzzy
 #| msgid "Site Setup and Configuration"
 msgid "Administrator Guide: Site Setup and Configuration"
-msgstr "Ajuste y configuración"
+msgstr "Guía del administrador: Ajuste y configuración del sitio"
 
 #: /views/elements/help/guide/administrator/setup.ctp:2
 msgid ""
@@ -9969,10 +9957,9 @@ msgid ""
 msgstr ""
 
 #: /views/elements/help/guide/administrator/setup.ctp:10
-#, fuzzy
 #| msgid "Configuration"
 msgid "System Configuration"
-msgstr "Configuración"
+msgstr "Configuración del sistema"
 
 #: /views/elements/help/guide/administrator/setup.ctp:11
 msgid ""
@@ -10243,10 +10230,9 @@ msgstr ""
 
 #: /views/elements/help/registration/wizard.ctp:4
 #: /views/elements/help/teams/joining_teams.ctp:6
-#, fuzzy
 #| msgid "Registration Wizard"
 msgid "registration wizard"
-msgstr "Formato Wizard para registros"
+msgstr "Asistente para registros"
 
 #: /views/elements/help/registration_payments/edit/mark_refunded.ctp:1
 msgid ""
@@ -11944,14 +11930,12 @@ msgid "Response Code"
 msgstr "Codigo de respuesta"
 
 #: /views/elements/payments/invoices/invoice.ctp:58
-#, fuzzy
 msgid "Amount (%s)"
 msgstr "Cantidad (%s)"
 
 #: /views/elements/payments/invoices/invoice.ctp:60
-#, fuzzy
 msgid "Card #"
-msgstr "Tarjeta #"
+msgstr "# de Tarjeta"
 
 #: /views/elements/payments/invoices/invoice.ctp:71
 msgid "INTERAC&reg; Online Information"
@@ -11988,13 +11972,11 @@ msgid "Quantity"
 msgstr ""
 
 #: /views/elements/payments/invoices/invoice.ctp:92
-#, fuzzy
 #| msgid "Cost"
 msgid "Unit Cost"
-msgstr "Costo"
+msgstr "Precio unitario"
 
 #: /views/elements/payments/invoices/invoice.ctp:93
-#, fuzzy
 #| msgid "Sub total"
 msgid "Subtotal"
 msgstr "Sub total"
@@ -15515,15 +15497,13 @@ msgid "mobile"
 msgstr "celular"
 
 #: /views/people/view.ctp:33
-#, fuzzy
 msgid "Zuluru Id"
-msgstr "Zuluru Id"
+msgstr "Id de Zuluru"
 
 #: /views/people/view.ctp:40
-#, fuzzy
 #| msgid "Login"
 msgid "Last Login"
-msgstr "Iniciar sesión"
+msgstr "Último inicio de sesión"
 
 #: /views/people/view.ctp:46
 msgid "IP Address"
@@ -15534,14 +15514,12 @@ msgid "Email Address"
 msgstr "Correo Electrónico"
 
 #: /views/people/view.ctp:58;68;79;93;105;128;140;405;414;423;435;445
-#, fuzzy
 msgid "published"
-msgstr "Sin publicar"
+msgstr "Público"
 
 #: /views/people/view.ctp:58;68;79;93;105;128;140;405;414;423;435;445
-#, fuzzy
 msgid "private"
-msgstr "Activado"
+msgstr "Privado"
 
 #: /views/people/view.ctp:63;410
 msgid "Alternate Email Address"
@@ -15600,9 +15578,8 @@ msgid "Delete Player"
 msgstr "Borrar jugador"
 
 #: /views/people/view.ctp:367;367 /views/teams/view.ctp:226;226
-#, fuzzy
 msgid "Edit Note"
-msgstr "Editar marcador"
+msgstr "Editar nota"
 
 #: /views/people/view.ctp:375;375 /views/teams/view.ctp:234;234
 msgid "Delete Note"
@@ -15695,26 +15672,23 @@ msgid "Assigned Tasks"
 msgstr "Tarea asignada"
 
 #: /views/people/view.ctp:276
-#, fuzzy
 #| msgid "Account Class"
 msgid "Account Class"
 msgid_plural "Account Classes"
 msgstr[0] "Clase de cuenta"
-msgstr[1] "Clase de cuenta"
+msgstr[1] "Clases de cuenta"
 
 #: /views/people/waivers.ctp:4;8
 msgid "Waiver History"
 msgstr "Historial de exenciones de responsabilidad"
 
 #: /views/people/waivers.ctp:10
-#, fuzzy
 msgid "You have never signed a waiver."
-msgstr "ha firmado la exención de responsabilidad"
+msgstr "No has firmado la exención de responsabilidad."
 
 #: /views/people/waivers.ctp:10
-#, fuzzy
 msgid "This person has never signed a waiver."
-msgstr "ha firmado la exención de responsabilidad"
+msgstr "No ha firmado la exención de responsabilidad."
 
 #: /views/people/waivers.ctp:60
 msgid ""
